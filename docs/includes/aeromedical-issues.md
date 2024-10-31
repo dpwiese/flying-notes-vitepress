@@ -1,7 +1,7 @@
 # Hyperventilation
 
 * **Hyperventilation** is an increase in the rate and depth of breathing
-* ==Results in inssufficient CO2 in the blood stream==
+* ==Results in insufficient CO2 in the blood stream==
 * Can happen when anxious, scared, or nervous
 * Common symptoms of hyperventilation include:
   * Visual impairment
@@ -22,13 +22,43 @@
 
 # Spatial Disorientation
 
+* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
+  * Chapter 3: Human Factors
+    * Page 3-5: Illusions Leading to Spatial Disorientation
 * Vestibular System (inner ear/balance) + Somatosensory System (nerves/gravity) + Visual System
-* If sight or outside visual reference is lost, senses can be misleading
+* If sight is lost, senses can be misleading
 * Vestibular system = fluid in inner-ear makes contact with hairs, deflect
-* Illusions
-  * See [Vestibular and visual illusions](TODO@dpwiese)
-  * Posture considerations
-* ==If spatial disorientation occurs, rely on instruments==
+* Basically all illusions below are caused by a steady-state condition being reached in the inner ear that is not straight-and-level flight
+  * Return to straight-and-level flight from this condition then feels wrong causing the pilot to react incorrectly
+* Spatial illusions
+  * **The Leans**
+    * Enter bank too slowly to detect, abrupt change is made
+    * Or in a prolonged turn
+  * **Coriolis Illusion**
+    * Continuous turn, fluid stabilizes in a given direction
+    * If pilot head turns, feels like a turn
+    * Important to minimize head moments when scanning or reaching for a chart
+  * **Graveyard Spiral**
+    * Continuous turn, fluid stabilizes
+      * When returns to level, feels like opposite banked turn so returns to original banked position
+      * Pilot pulls back to compensate for loss of lift
+  * **Somatographic Illusion**
+    * Rapid acceleration feels like pitch up, deceleration, pitch down
+  * **Inversion Illusion**
+    * Kind of inverse of somatographic illusion
+    * Abrupt change from climb to S&L, feel like "tumbling backwards"
+  * **Elevator Illusion**
+    * Abrupt vertical movement, can feel like a climb
+* Visual Illusions
+  * False Horizon
+  * Autokinesis (stationary light appears to move)
+* Posture considerations
+* Optical Illusions
+  * Runway width = narrow => plane high, wide => plane low
+  * Runway slope = downward => plane low, upward => plane high (low appraoch)
+  * Haze = further away
+  * Fog = pitch up attitude
+* ==**The takeaway is to rely on flight instruments**==
 
 # Motion Sickness
 

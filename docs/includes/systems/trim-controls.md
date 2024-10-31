@@ -15,6 +15,4 @@
 
 ![Ground adjustable tab on the rudder of a Cessna. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-22.](/img/phak/phak-figure-6-22-ground-adjustable-tab.jpg){width=340}
 
-<!-- TODO@dpwiese - can find a diagram of e.g. Baron trim system for here? -->
-
 ![Baron rudder trim tab](/img/b55-baron/b55-baron-rudder.jpeg){width=360}

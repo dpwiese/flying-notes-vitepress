@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: CFI Notes
-      link: /cfi-notes/foi/human-behavior
+      link: /cfi/foi/human-behavior
     - theme: alt
       text: CFII Notes
-      link: /cfii-notes/tsa/flight-instruments
+      link: /cfii/tsa/flight-instruments
 
 features:
   - title: Feature A

@@ -8,3 +8,11 @@
 * Drug trafficking offense may result in pilot certificate being suspended or revoked
 * One drink can be detected up to 3 hours after consumption
 * Alcohol renders a pilot more susceptible to hypoxia
+* Alcohol
+  * "8-Hour Bottle to Throttle"
+  * Limit .04% (0% if under 21)
+  * Altitude will multiply effects of alcohol
+* Drugs
+  * "Do drugs or fly planes."
+  * If taking any prescription drugs, must consult with AME first
+  * OTC counts => when in doubt, don't fly.
