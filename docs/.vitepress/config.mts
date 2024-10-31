@@ -24,9 +24,23 @@ export default defineConfig({
               { text: 'Human Behavior', link: '/foi/human-behavior' },
               { text: 'Learning Process', link: '/foi/learning-process' },
               { text: 'Course Development', link: '/foi/course-development' },
-              { text: 'Student Evaluation', link: '/foi/student-evaluation' }
+              { text: 'Student Evaluation', link: '/foi/student-evaluation' },
+              { text: 'Effective Teaching', link: '/foi/effective-teaching' },
+              { text: 'Risk Management', link: '/foi/risk-management' },
+              { text: 'Appendix', link: '/foi/appendix' }
             ]
           },
+          {
+            text: 'Technical Subject Areas',
+            collapsed: false,
+            items: [
+              { text: 'Human Factors', link: '/tsa/human-factors' },
+              { text: 'Collision Avoidance', link: '/tsa/collision-avoidance' },
+              { text: 'Runway Incursion Avoidance', link: '/tsa/runway-incursions' },
+              { text: 'Principles of Flight', link: '/tsa/principles-of-flight' },
+              { text: 'Flight Controls and Systems', link: '/tsa/flight-controls-and-systems' }
+            ]
+          }
         ]
       },
       '/cfii-notes/': {

@@ -1,8 +1,10 @@
 # Course Development
 
+This page covers *Task C. Course Development, Lesson Plans, and Classroom Training Techniques* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
+
 ## Teaching
 
-1. Preparation of a lesson
+* Preparation of a lesson
     * Steps of teaching process (**PPAR**)
         * **Preparation**
         * **Presentation**
@@ -13,16 +15,31 @@
         * **Review/Evaluation/Assessment**
             * Should be an integral part of each lesson
             * Should be based on objectives and goals established in lesson plan
-2. Organization of material
-    * Instructors job is to help student learn, make associations and gain insight
-    * Lessons should be sequenced to help learner achieve desired outcome
-    * Show relationships between main points that will be presented in the lesson
-    * Parts of lesson introduction (**AMO**)
-        * **Attention** - about focusing learner on new subject
-        * **Motivation** - show need for new motivation
-        * **Overview** - what will be covered
-3. Training delivery methods (**LGD CDC**)
-    a. **Lecture method**
+* Problem based learning
+* Instruction aids and training technologies
+    * Instructional aids
+        * Devices to assist you and learner in the process
+        * Cover key points
+        * Support point in lesson and lesson objective
+
+## Course of Training
+
+## Preparation of a Less
+
+## Organization of Material
+
+* Instructors job is to help student learn, make associations and gain insight
+* Lessons should be sequenced to help learner achieve desired outcome
+* Show relationships between main points that will be presented in the lesson
+* Parts of lesson introduction (**AMO**)
+    * **Attention** - about focusing learner on new subject
+    * **Motivation** - show need for new motivation
+    * **Overview** - what will be covered
+
+## Training Delivery Methods
+
+* Training delivery methods (**LGD CDC**)
+    1. **Lecture method**
         * Most economical in terms of time
         * Effective at showing relationships between theory and practice
         * Teaching leacture - needs keen perception on part of instructor to determine of learner is actually learning the material
@@ -37,7 +54,7 @@
             * Has learner participation
             * Participation best encouraged with questions
             * Set tone with friendly and relaxed atmosphere so people feel comfortable to participate
-    b. **Guided discussion method**
+    2. **Guided discussion method**
         * Lead with leadoff overhead question (usually begin with how? or why?)
         * Learner level of topic knowledge
         * Learning is achieved through the skillful use of questions
@@ -57,7 +74,7 @@
                 * Rather than give a direct answer to the learner's query, the instructor returns the question to the same individual to provide the answer.
             * **Relay**
                 * Used in response to a learner's question, the question is redirected to another individual.
-    c. **Demonstration-performance method**
+    3. **Demonstration-performance method**
         * Students learn by trying under supervision
         * Include description of skill, conditions, and standards with which it needs to be complete
         * Five essential steps (**EDLIE**)
@@ -66,21 +83,38 @@
             * **Learner (or student) performance**
             * **Instructor supervision**
             * **Evaluation**
-    d. **Computer-assisted learning method**
+    4. **Computer-assisted learning method**
         * One advantage less time is spent on traditional ground school and can spend more time on integration and correlation of learning
         * It's self paced
         * Interactive and can respond to learner inputs
-    e. **Drill and practice method**
-    f. **Cooperative / Group Learning**
+    5. **Drill and practice method**
+    6. **Cooperative / Group Learning**
         * Heterogeneous groups
         * Greater interaction and achievement
         * Greater success of learners than if they learn alone
         * Instructor gives instructions and then lets learners interact
-4. Problem based learning
-5. Instruction aids and training technologies
-    * Instructional aids
-        * Devices to assist you and learner in the process
-        * Cover key points
-        * Support point in lesson and lesson objective
 
-## Course of Training
+## E-Learning
+
+* TBD
+
+## Instructional Aids
+
+* TBD
+
+## Integrated Flight Instruction
+
+* TBD
+
+## Problem-based Instruction
+
+* TBD
+
+## Planning Instructional Activity
+
+* TBD
+
+## References
+
+* [FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook)
+    * [Chapter 5: The Teaching Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/07_aih_chapter_5.pdf)

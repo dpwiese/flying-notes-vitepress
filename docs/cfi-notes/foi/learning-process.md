@@ -1,5 +1,7 @@
 # Learning Process
 
+This page covers *Task B. Learning Process* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
+
 ## Definitions of Learning
 
 * ==**Learning** is defined as the change in behavior that results from experience and practice.==
@@ -134,11 +136,11 @@
             * Imitation
             * Observation
 
-![[FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 3: The Learning Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/05_aih_chapter_3.pdf) Figure 3-8.](../../img/aih/aih-figure-3-8-learning-domains.jpg)
+![[FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 3: The Learning Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/05_aih_chapter_3.pdf) Figure 3-8.](/img/aih/aih-figure-3-8-learning-domains.jpg)
 
-![[FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 3: The Learning Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/05_aih_chapter_3.pdf) Figure 3-9.](../../img/aih/aih-figure-3-9-cognitive-domain.jpg)
+![[FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 3: The Learning Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/05_aih_chapter_3.pdf) Figure 3-9.](/img/aih/aih-figure-3-9-cognitive-domain.jpg)
 
-![[FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 3: The Learning Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/05_aih_chapter_3.pdf) Figure 3-13.](../../img/aih/aih-figure-3-13-learning-domains.jpg)
+![[FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 3: The Learning Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/05_aih_chapter_3.pdf) Figure 3-13.](/img/aih/aih-figure-3-13-learning-domains.jpg)
 
 ## Characteristics of learning
 
@@ -185,9 +187,15 @@
 
 ## Evaluation versus Critique
 
+* TBD
+
 ## Distractions and Interruptions
 
+* TBD
+
 ## Errors
+
+* TBD
 
 ## Memory
 
@@ -233,6 +241,8 @@
 
 ## Retention of learning
 
+* TBD
+
 ## Transfer of learning
 
 * When something learned in one place can be applied in another place
@@ -251,7 +261,7 @@
 ## References
 
 * [FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook)
-  * [Chapter 3: The Learning Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/05_aih_chapter_3.pdf)
+    * [Chapter 3: The Learning Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/05_aih_chapter_3.pdf)
 
 ## Appendix
 
@@ -269,7 +279,7 @@
     * ==**Corellation**==
         * Associating previous learning with a new situation
 
-![[FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 3: The Learning Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/05_aih_chapter_3.pdf) Figure 3-10.](../../img/aih/aih-figure-3-10-learning-levels.jpg){width=500}
+![[FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 3: The Learning Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/05_aih_chapter_3.pdf) Figure 3-10.](/img/aih/aih-figure-3-10-learning-levels.jpg){width=500}
 
 ### Physical Skills, Memory, and Transfer of Learning
 

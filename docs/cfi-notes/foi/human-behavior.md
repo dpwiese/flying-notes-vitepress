@@ -1,4 +1,6 @@
-# Effects of Human Behavior and Communication on the Learning Process
+# Human Behavior
+
+This page covers *Task A. Effects of Human Behavior and Communication on the Learning Process* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
 
 ## Elements of Human Behavior
 
@@ -114,11 +116,11 @@
 ## Learner Emotional Reactions
 
 * **Student emotional reactions** (**AIWA PNAF**) - obstacles to learning
-  * Anxiety
-  * Impatience
-  * Worry or lack of interest
-  * Apathy due to inadequate instruction
-  * Physical Discomfort, Illness, Fatigue, and Dehydration
+    * Anxiety
+    * Impatience
+    * Worry or lack of interest
+    * Apathy due to inadequate instruction
+    * Physical Discomfort, Illness, Fatigue, and Dehydration
 
 ### Anxiety and Stress
 
@@ -275,19 +277,16 @@
     * Responsible
     * Work ethic
     * Imaginative, creative
-
 * Best way to keep learner motivated is to tell them where they are going and remind of benefits
 * Clearly explain whys and rewards of lesson
 * Minimizes insecurity and anxiety
 * Approach learners as individuals
 * Give credit where and when due
-
 * Communication
     * Use a varied approach
     * Consider learners abilities, attitudes, and experiences
     * Effectiveness is measured by the similarity of the idea transmitted and the idea received
     * Barriers
-
 * Identifying blocks of learning
     * Four key topics
         1. Overall plan
@@ -296,21 +295,20 @@
             * Avoid adding extraneous things unrelated to objective
         3. Training syllabus
         4. Individual lesson plans
-
 * Training syllabus and lesson plans
     * Syllabus practical guide to do training in logical sequence should be guide to ensure all requirements are completed and documented
     * 7 parts (see Figure 1 of CT supplement)
-        a. Objectives
-        b. Content (Elements?)
-        c. Schedule
-        d. Equipment
-        e. Instructor's Actions
-        f. Learner's Actions
-        g. Completion standards
+        1. Objectives
+        2. Content (Elements?)
+        3. Schedule
+        4. Equipment
+        5. Instructor's Actions
+        6. Learner's Actions
+        7. Completion standards
     * New material should relate to previous material
 
 # References
 
 * [FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook)
-  * [Chapter 2: Human Behavior](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/04_aih_chapter_2.pdf)
-  * [Chapter 4: Effective Communication](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/06_aih_chapter_4.pdf)
+    * [Chapter 2: Human Behavior](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/04_aih_chapter_2.pdf)
+    * [Chapter 4: Effective Communication](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/06_aih_chapter_4.pdf)

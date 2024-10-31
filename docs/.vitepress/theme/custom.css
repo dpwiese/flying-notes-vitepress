@@ -18,3 +18,7 @@ html.dark mark {
   background-color: #cac543;
   color: #212121;
 }
+
+ol > li > ol > li {
+  list-style-type: lower-alpha;
+}
