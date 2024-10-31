@@ -1,0 +1,20 @@
+img {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+figcaption {
+  text-align: center;
+}
+
+mark {
+  background-color: #fff94b;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+html.dark mark {
+  background-color: #cac543;
+  color: #212121;
+}
