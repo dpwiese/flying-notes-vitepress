@@ -142,7 +142,7 @@ The airport environment has unique hazards that must be managed, including:
 ### Airport Hot Spots
 
 * Be sure to be familiar with airport hot spots and brief their location and precautionary action to be taken before taxiing.
-* See [Hot Spot Standardized Symbology](www.faa.gov/airports/runway_safety/hotspots/hotspots_list)
+* See [Hot Spot Standardized Symbology](https://www.faa.gov/newsroom/hot-spot-standardized-symbology)
 
 ![KHEF HS1 description. Note "flw" means "follow". [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-hot-spot-khef.png){width=440}
 
