@@ -28,7 +28,7 @@ This page covers *Task D. Logbook Entries Related to Instrument Instruction* fro
     * Simulated all the way down to minimums
   * **When can a** ***CFII*** **log an instrument approach?**
     * A flight instructor may log an IAP conducted by the student in actual IMC
-      * See FAA letter to Levy, 2008
+      * See [FAA letter to Levy, 2008](https://www.faa.gov/media/14926)
 
 ### Endorsements
 

@@ -128,7 +128,7 @@ Heirarchy:
 * Now the [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)
 * Updated every 56 days
 
-## Standard Instrument Departures/Terminal Arrivals {#departures-arrivals}
+## Standard Instrument Departures/Terminal Arrivals
 
 <!--@include: ./docs/includes/departure-procedures.md | shift:2-->
 

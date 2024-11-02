@@ -27,7 +27,7 @@ This page covers *Task C. Instrument Cockpit Check* from the [FAA-S-8081-9E Flig
 * No annunciators
 * GPS correctly shows location
   * Check databases
-    * See table in [AIM Table 1-1-6](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#ffAks301atcn)?
+    * See table in [AIM Table 1-1-6](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#ffAks301atcn)
     * ==Databases need not be current, but during enroute you must check each point in the aircraft GPS against a source that is current, e.g. Foreflight and make sure none of the points have changed==
     * ==Same with using GPS for approach - need to make sure approach hasn't changed or been amended since your database date, even if your database is out-of-date==
     * =="Verification of correctness"==
@@ -41,9 +41,6 @@ This page covers *Task C. Instrument Cockpit Check* from the [FAA-S-8081-9E Flig
 
 ## Magnetic Compass
 
-* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
-  * Chapter 5: Flight Instruments
-    * Page 5-10
 * Compass should
   * Float freely and turn freely in turns
   * Indicate correctly on known headings (e.g. when aligned with runway)
@@ -124,9 +121,6 @@ This page covers *Task C. Instrument Cockpit Check* from the [FAA-S-8081-9E Flig
 
 ## Terrain awareness/warning/alert system
 
-* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
-  * Chapter 5: Flight Instruments
-    * Page 5-34: Terrain Alerting Systems
 * Synthetic vision provides a realistic depiction of the aircraft in relation to terrain and flightpath
 * Terrain Awareness Warning System can be shown on MFD
 * Two types
@@ -136,12 +130,6 @@ This page covers *Task C. Instrument Cockpit Check* from the [FAA-S-8081-9E Flig
 
 ## Flight management system (FMS)
 
-* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
-  * Chapter 5: Flight Instruments
-    * Page 5-26
-* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
-  * Chapter 9: Navigation Systems
-    * Page 9-44
 * ==A Flight Management System (FMS) automates the tasks of managing the onboard navigation systems==
 * A FMS is not a navigation system in itself
 * Aggregates sources of position data to determine best actual position
@@ -157,3 +145,9 @@ This page covers *Task C. Instrument Cockpit Check* from the [FAA-S-8081-9E Flig
 
 * [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
   * Chapter 5: Flight Instruments
+    * Page 5-10
+    * Page 5-26
+    * Page 5-34: Terrain Alerting Systems
+* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
+  * Chapter 9: Navigation Systems
+    * Page 9-44

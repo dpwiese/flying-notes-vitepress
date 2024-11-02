@@ -11,7 +11,7 @@ This page covers *Task B: Compliance with Departure, En Route, and Arrival Proce
 
 ## Pilot and controller responsibilities with regard to DPs, En Route Low and High Altitude Charts, and STARs
 
-See [Standard Instrument Departures/Terminal Arrivals](#departures-arrivals)
+See [Standard Instrument Departures/Terminal Arrivals](/cfii/tsa/regulations-publications#standard-instrument-departures-terminal-arrivals)
 
 ## Selection and use of appropriate communications frequencies
 
