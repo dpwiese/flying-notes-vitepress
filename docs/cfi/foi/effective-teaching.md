@@ -6,27 +6,47 @@ This page covers *Task E. Elements of Effective Teaching in a Professional Envir
 
 * ==Aviation instructor responsibilities (**LISES**)==
     1. ==**L** - Helping students **learn**==
-        * Enhance and maintain motivation
-        * Point out pleasurable features of aviation
-        * Be salesperson
-        * Keep learner aware of objective of each lesson
-        * Help overconfident learners - make them perform according to standards
-            * Raise standards and make them work hard to reduce overconfidence
-        * Another CFI responsibility is assessment
-            * Criterion referenced
-        * Keep learner informed of progress
     2. ==**I** - Providing adequate **instruction**==
     3. ==**S** - Demand acceptable **standards** of performance==
     4. ==**E** - **Emphasize** the positive==
-        * ==Minimizing student frustrations (**MIICCCA**)==
-            * ==**M** - **Motivate** students==
-            * ==**I** - Keep students **informed**==
-            * ==**I** - Approach students as **individuals**==
-            * ==**C** - Give **credit** when due==
-            * ==**C** - **Criticize constructively**==
-            * ==**C** - Be **consistent**==
-            * ==**A** - **Admit errors**==
     5. ==**S** - **Safety**==
+
+![5 main responsibilities of instructors. [FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 8: Aviation Instructor Responsibilities and Professionalism](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/10_aih_chapter_8.pdf) Figure 8-1.](/img/aih/aih-figure-8-1-instructor-responsibilities.jpg){width=400}
+
+### Helping Learners Learn
+
+* Enhance and maintain motivation
+* Point out pleasurable features of aviation
+* Be salesperson
+* Keep learner aware of objective of each lesson
+* Help overconfident learners - make them perform according to standards
+    * Raise standards and make them work hard to reduce overconfidence
+* Another CFI responsibility is assessment
+    * Criterion referenced
+* Keep learner informed of progress
+
+### Providing Adequate Instruction
+
+* TBD
+
+### Training to Established Standards of Performance
+
+* TBD
+
+### Emphasizing the Positive
+
+* TBD
+
+### Minimizing Learner Frustrations
+
+* ==Minimizing student frustrations (**MIICCCA**)==
+    * ==**M** - **Motivate** students==
+    * ==**I** - Keep students **informed**==
+    * ==**I** - Approach students as **individuals**==
+    * ==**C** - Give **credit** when due==
+    * ==**C** - **Criticize constructively**==
+    * ==**C** - Be **consistent**==
+    * ==**A** - **Admit errors**==
 
 ## Flight Instructor Responsibilities
 
@@ -41,8 +61,6 @@ This page covers *Task E. Elements of Effective Teaching in a Professional Envir
 2. Ensuring student ability
     * Flight instructors ensure learner pilots develop the required skills and knowledge prior to solo flight.
     * The learner pilot needs to show consistency in the required solo tasks.
-
-![5 main responsibilities of instructors. [FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 8: Aviation Instructor Responsibilities and Professionalism](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/10_aih_chapter_8.pdf) Figure 8-1.](/img/aih/aih-figure-8-1-instructor-responsibilities.jpg){width=400}
 
 ![Guidelines for an aviation instructor. [FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 8: Aviation Instructor Responsibilities and Professionalism](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/10_aih_chapter_8.pdf) Figure 8-7.](/img/aih/aih-figure-8-7-instrucotr-dos-donts.jpg){width=400}
 
@@ -61,7 +79,11 @@ This page covers *Task E. Elements of Effective Teaching in a Professional Envir
 
 ## Professional Development
 
+* TBD
+
 ## Ethics and Conduct
+
+* TBD
 
 ## References
 

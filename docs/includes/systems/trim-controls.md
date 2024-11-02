@@ -1,4 +1,9 @@
-* ==Trim systems are used to relieve the pilot of the need to maintain constant pressure on the flight controls==
+# Trim Controls
+
+:::warning Trim Systems
+Used to relieve the pilot of the need to maintain constant pressure on the flight controls.
+:::
+
 * Trim systems usually consist of flight deck controls and small hinged devices attached to the trailing edge of one or more of the primary flight control surfaces.
 * Some trim and related systems
   * Trim tabs

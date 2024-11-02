@@ -36,7 +36,14 @@ This page covers *Task F. Elements of Effective Teaching that Include Risk Manag
 
         > The 5 Ps are used to evaluate the pilot's current situation at key decision points during the flight, or when an emergency arises. These decision points include preflight, pretakeoff, hourly or at the midpoint of the flight, predescent, and just prior to the final approach fix or for visual flight rules (VFR) operations, just prior to entering the traffic pattern.
 
-### Three models of a structured framework for decision-making
+## Risk Management Tools
+
+* Three models of a structured framework for decision-making
+    * 5 Ps
+    * 3P using PAVE, CARE, and TEAM
+    * DECIDE
+
+### PAVE
 
 #### 1. 5 Ps
 
@@ -92,17 +99,15 @@ PAEM sometimes used instead of PAVE where the M is for mission.
 * **E** - Evaluate
     * The effect
 
-### Key takeaways from ADM
+#### Key takeaways from ADM
 
 1. Decisions should be made proactively, not reactively (e.g. 5P's)
 2. Feedback should be used throughout the decision making process (e.g. DECIDE)
 3. All risk factors must be considered (e.g. PAVE)
 
-### Types of Risk
+#### Types of Risk
 
 ![Types of risk](/img/safety-of-flight-types-of-risk.png){width=340}
-
-## Risk Management Tools
 
 * **Aeronautical Decision Making (ADM)**
     * A systematic approach to risk assessment and stress management.
@@ -147,11 +152,25 @@ PAEM sometimes used instead of PAVE where the M is for mission.
     * Reduce stress in personal life first
     * At first sign of stress in cockpit just relax and think rationally
 
+### FRAT
+
+* TBD
+
 ## Introducing Risk Management
 
 * TBD
 
 ## Managing Risk During Instruction
+
+### Common Risks
+
+* TBD
+
+### Best Practices
+
+* TBD
+
+### Takeoffs and Landings
 
 * TBD
 

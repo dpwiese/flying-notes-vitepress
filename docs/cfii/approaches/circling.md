@@ -2,6 +2,10 @@
 
 This page covers *Task D. Circling Approach* from the [FAA-S-8081-9E Flight Instructor Instrument Practical Test Standards](https://www.faa.gov/training_testing/testing/acs/cfi_instrument_pts_9.pdf).
 
+* ==Approaches whose final approach segment is more than 30 degrees different from the landing runway alignment are always designated as circling approaches==
+* *==Circling approaches may also be designated when the descent gradient is greater than 400 ft/NM from the FAF to the threshold crossing height (TCH) or there is no runway clearly identified on the field==*
+* Unless a specific landing runway is specified in the approach clearance, the pilot may land on any runway
+
 ## Purpose
 
 When final approach course more than 30&#176; off runway alignment or steeper descent approach path

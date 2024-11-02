@@ -1,3 +1,7 @@
+# Alcohol and Drugs
+
+## Regulations
+
 * See [14 CFR &sect;91.17 - Alcohol or drugs](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.17)
 * 8 hours bottle-to-throttle
 * BAC of 0.04% limit
@@ -16,3 +20,7 @@
   * "Do drugs or fly planes."
   * If taking any prescription drugs, must consult with AME first
   * OTC counts => when in doubt, don't fly.
+
+## Effects
+
+* TBD

@@ -49,13 +49,28 @@ This page covers *Task D. Student Evaluation, Assessment, and Testing* from the 
 * Pretest
     * Criterion-referenced test constructed to measure the knowledge and skills necessary to begin the course
 
+## Authentic Assessments
+
+* Focuses on the learning process
+* Enhances the development of real-world skills
+* Encourages higher order thinking skills (HOTS)
+* Teaches learners to assess their own work and performance
+
+### Learner-centered assessment
+
+* TBD
+
+### Maneuver or procedure grades
+
+* TBD
+
+### Assessing risk management skills
+
+* TBD
+
 ## Choosing an Effective Assessment Method
 
-* **Authentic assessment**
-    * Focuses on the learning process
-    * Enhances the development of real-world skills
-    * Encourages higher order thinking skills (HOTS)
-    * Teaches learners to assess their own work and performance
+* TBD
 
 ## Purposes and Types of Critiques
 
@@ -105,11 +120,23 @@ This page covers *Task D. Student Evaluation, Assessment, and Testing* from the 
     * Direct (when, where)
     * Indirect (why, how of objective)
 
+### Characteristics of effective questions
+
+* TBD
+
+### Types of questions to avoid
+
+* TBD
+
+### Answering learner questions
+
+* TBD
+
 ## Assessment of Piloting Ability
 
 * Evaluation refers to judging a learner's ability to perform a maneuver or procedure.
-    * Evaluation of demonstrated ability during flight or maintenance instruction is based upon established standards of performance, suitably modified to apply to the learner's experience and stage of development as a pilot or mechanic.
-    * When evaluating learner demonstrations of ability, the aviation instructor should keep the learner informed of progress.
+* Evaluation of demonstrated ability during flight or maintenance instruction is based upon established standards of performance, suitably modified to apply to the learner's experience and stage of development as a pilot or mechanic.
+* When evaluating learner demonstrations of ability, the aviation instructor should keep the learner informed of progress.
 
 ## References
 

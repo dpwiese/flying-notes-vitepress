@@ -1,5 +1,7 @@
 # Flying Notes Vitepress
 
+This page contains the source code for my flying notes, which is hosted at [flying.danielwiese.com](https://flying.danielwiese.com).
+
 ## Quickstart
 
 ```sh

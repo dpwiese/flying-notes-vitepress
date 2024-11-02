@@ -23,12 +23,18 @@ This page covers *Task K. Endorsements and Logbook Entries* from the [FAA-S-ACS-
   * **Limited** - historic aircraft, or could be former military
   * **Primary** - simple, for personal use, e.g. kit planes
 * These are important to know when it comes to which aircraft a pilot can fly
-* ==**Generally best answer when it comes to questions about endorsements is to consult [FAA-AC-61-65H](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129).**==
+
+::: tip
+Generally best answer when it comes to questions about endorsements is to consult [FAA-AC-61-65H](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129).
+:::
 
 ## Required Logbook Entries for Instruction Given
 
+::: info NOTE
+Instructor must sign the logbook of each person they have given flight or ground training to.
+:::
+
 * [14 CFR &sect;61.189(a)](https://www.ecfr.gov/current/title-14/part-61/section-61.189#p-61.189(a))
-  * ==Instructor must sign the logbook of each person they have given flight or ground training to==
 * [14 CFR &sect;61.51 - Pilot logbooks](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.51)
   * This lists what the log entry must contain, all the standard items in logbook
     * Date
@@ -45,7 +51,6 @@ This page covers *Task K. Endorsements and Logbook Entries* from the [FAA-S-ACS-
   * This section was changed on 30-July-2024 to require a citizenship endorsement when previously it did not
   * The diff is [here](https://www.ecfr.gov/compare/2024-07-30/to/2024-07-29/title-49/subtitle-B/chapter-XII/subchapter-C/part-1552), with the previously relevant section [49 CFR &sect;1552.3(h) (2024-09-29)](https://www.ecfr.gov/on/2024-07-29/title-49/part-1552#p-1552.3(h))
 * ==To solo, a student pilot *technically* (as far as I can tell) only *needs* two endorsement: citizenship verification and the initial (and then recurring) 90 day solo endorsement==
-* ==[FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-65H.pdf) is the best resource to consult when it comes to giving an endorsement.==
   * It provides endorsements and language that ensures consistency with 14 CFR Part 61, and described below is the "standard" endorsements given, even if they do include more endorsements than strictly necessary.
 * In the section that follows, the endorsements required to solo are described as if all the endorsements mentioned above *are* required
 

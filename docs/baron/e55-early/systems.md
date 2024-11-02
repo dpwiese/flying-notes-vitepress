@@ -1,8 +1,8 @@
 # E55 Baron (Early) Systems
 
-This document describes the systems on Baron N3622A.
-
 ![E55 Baron (N3622A)](/img/e55-baron-n3622a/e55-baron-n3622a.jpeg){width=800}
+
+This document describes the systems on Baron N3622A.
 
 ## Overview
 

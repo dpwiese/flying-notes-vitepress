@@ -1,8 +1,8 @@
 # E55 Baron (Late) Systems
 
-This document describes the systems on Baron N322ET.
-
 ![E55 Baron (N322ET)](/img/e55-baron-n322et/e55-baron-n322et.jpeg){width=800}
+
+This document describes the systems on Baron N322ET.
 
 ## Overview
 

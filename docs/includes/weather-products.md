@@ -1,61 +1,10 @@
-* When obtaining weather information, start looking far in advance
-  * Use standard sources of weather information, such as apps and online
-  * [Prog Charts](https://www.aviationweather.gov/progchart/sfc) provides a forecast 7 days out
-* Start big picture and then zoom in
-  * Look at frontal activity, pressure systems
-
-# Sources of Weather Data
-
-* Four types of weather briefings
-  * **Outlook briefing**
-    * More than 6 hours in advance
-    * Will get mostly forecast information without bothering too much with current conditions
-  * **Standard briefing**
-    * Immediately before flight (within 6 hours of your departure time)
-  * **Abbreviated briefing**
-    * If you've already received an outlook briefing
-    * There is no standard format, need to tell the briefer what info you need
-  * **In flight briefing**
-
-## AWOS, ASOS, and ATIS Reports
-
-* **Automated Weather Observing System (AWOS)**
-  * Controlled and operated by the FAA
-  * Located solely at airports
-  * Provide near real-time reports
-  * Different types of equipment give different information
-* **Automated Surface Observing System (ASOS)**
-  * Controlled and operated by National Weather Service (NWS) and Department of Defense (DOD)
-  * Continuous observations of the weather
-  * Computer generated voice over phone or radio
-  * Observations also available textually via weather service
-  * Collects all information needed to generate a METAR
-  * Does not report density altitude (recall: density altitude is not part of a METAR report)
-  * Provides hourly reports
-  * Example: `KSBY` and `KOXB` have an ASOS
-  * All ASOS give the same information
-* **Automated Weather Sensor System (AWSS)**
-* **Automatic Terminal Information Service (ATIS)**
-  * Weather
-  * Runways in use
-  * NOTAMs
-  * Other pertinent information
-  * Usually recorded 10 minutes before the hour
-
-## PATWAS and TIBS
-
-* **Telephone Information Briefing Service (TIBS)**
-  * Provided by flight service includes continuous recording of meteorological and/or aeronautical information available by telephone.
-* **Pilots Automatic Telephone Weather Answering Service (PATWAS)**
-  * Seems to be discontinued, no information in any of the FAA handbooks
-
-## TWEB
-
-* **Transcribed Weather Broadcast (TWEB)**
-  * Alaska only
-  * A continuous automated broadcast of meteorological and aeronautical data over selected low or medium frequency (L/ MF) and very high frequency (VHF) omnidirectional range (VOR) NAVAID facilities.
-
 # Weather Products
+
+::: tip
+More importantly than memorizing all of the products below, which are constantly being changed, updated, and shut down, it is important to have a general understanding of what information is needed and how to retrieve it using the available products.
+:::
+
+## Overview
 
 * ==Aviation weather services are how we get information about the weather==
 * The output of these various services and products can be catagorized as either:
@@ -75,21 +24,21 @@
   * Also want to avoid adverse conditions for safety reasons, e.g. convective activity, icing.
   * Also from winds/temps aloft can get temp lapse rate, to give another indicator of stability.
 
-## Textual Products
+### Textual Products
 
 ![Textual products. Reference unknown.](/img/textual_products_glance.png){width=460}
 
 * *Note: only textual products used to have letter acronyms for them.*
   * This seems to have changed with the graphical area forecast (GFA)
 
-## Graphical Products
+### Graphical Products
 
 ![Graphical products. Reference unknown.](/img/graphical_products_glance.png){width=460}
 
 * *Note: most graphical products are observations.*
 * *Note: weather products are changing all the time, so the above overview may not be current, but should give a pretty good idea of what is available.*
 
-## Observations
+### Observations
 
 * See [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf)
 
@@ -144,7 +93,7 @@
 
 ![Chart Supplement. Upper air observing station and radar weather network (NE)](/img/chart-supplement-radar-and-upper-air-observations.png){width=460}
 
-## Forecasts
+### Forecasts
 
 * **Terminal Aerodrome Forecasts (TAF)**
   * ==5 nm Radius during 24-hour period==
@@ -193,7 +142,7 @@
 * **Convective Outlook**
   * Tornado, Hail 1"+, T-storms
 
-## Meteorological Terminal Aviation Routine Weather Report (METAR)
+## METAR
 
 * METAR
   * Meteorological Terminal Aviation Routine Weather Report
@@ -237,14 +186,17 @@
 
 ![[AIM Fig 7-1-22 Kev to Aerodrome Forecast (TAF) and Aviation Routine Weather Report (METAR) (Back)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html)](/img/aim/aim-figure-7-1-22.png){width=560}
 
-* Note: in RMK SLPXXX - 1 hPa = 1 mb, and
-  * 1013 mb = 29.92 inHg
-  * 1017 mb = 30.02 inHg
-* ==Ceiling is the lowest layer of clouds or obscuring phenomenon that is reported as "broken," "overcast," or "obscuration"==
+::: warning Ceiling
+Ceiling is the lowest layer of clouds or obscuring phenomenon that is reported as "broken," "overcast," or "obscuration"
+:::
+
 * From [AIM 7−1−14 Reporting of Cloud Heights](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html#$paragraph7-1-14):
 
 > a. Ceiling, by definition in the CFRs and as used in aviation weather reports and forecasts, is the height above ground (or water) level of the lowest layer of clouds or obscuring phenomenon that is reported as "broken," "overcast," or "obscuration,"
 
+* Note: in RMK SLPXXX - 1 hPa = 1 mb, and
+  * 1013 mb = 29.92 inHg
+  * 1017 mb = 30.02 inHg
 * From [https://www.aviationweather.ws/072_Obscured_or_Partially_Obscured_Sky.php](https://www.aviationweather.ws/072_Obscured_or_Partially_Obscured_Sky.php):
 
 > When the sky is totally hidden by the surface based phenomena, the ceiling is the vertical visibility from the ground upward into the obscuration.
@@ -264,9 +216,9 @@
 
 [http://meteocentre.com/doc/metar.html](http://meteocentre.com/doc/metar.html)
 
-## Pilot Report / PIREP (UA)
+## PIREP
 
-* **PIREP** - Pilot report of observed weather conditions.
+* **PIREP (UA)** - Pilot report of observed weather conditions.
 * Pilots are pretty good about reporting icing and turbulence
 * Good idea when checking in with a controller to state how the ride is
   * "Approach Cessna 12345 level 8,000 light chop"
@@ -344,8 +296,9 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 
 * See NOAA's National Weather Service Storm Prediction Center [Convective Outlook Chart](https://www.spc.noaa.gov/products/outlook/)
 
-## Terminal Aerodrome Forecast (TAF)
+## TAF
 
+* Terminal Aerodrome Forecast (TAF)
 * ==Covers five statute mile radius around an airport==
 * ==Each TAF is valid for a 24 or 30-hour time period and is updated four times a day at 0000Z, 0600Z, 1200Z, and 1800Z==
   * 30 hour TAFs are usually at airports that serve long-range aircraft, so they can get their TAFs in more advance before taking off
@@ -355,13 +308,12 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
   * `SLP` - Sea level pressure
   * `TEMPO` - Last for less than an hour and occur during less than half of the time period specified
 
-## Area Forecast (FA)
+## Area Forecast
 
+* Area Forecast (FA)
 * [aviationweather.gov](https://www.aviationweather.gov) has discontinued textual area forecasts, but it seems they are still on FAA exams
 * See
   * [https://www.aviationweather.gov/areafcst/help](https://www.aviationweather.gov/areafcst/help)
-  * [Aviation Weather Center Graphical Forecasts for Aviation - TAF](https://www.aviationweather.gov/gfa)
-  * [Graphical Forecast for Aviation (GFA)](#graphical-forecast-for-aviation) under graphical products.
 * The FA gives a picture of clouds, general weather conditions, and visual meteorological conditions (VMC) expected over a large area encompassing several states.
 * There are six areas for which area forecasts are published in the contiguous 48 states.
 * Area forecasts are issued three times a day and are valid for 18 hours.
@@ -372,9 +324,10 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 
   > THE TEXT AREA FORECAST FOR THE CONTIGUOUS UNITED STATES HAS BEEN DISCONTINUED. TO GET THE FORECAST FOR THESE AREAS CHECK THE GFA TOOL.
 
-## Graphical Forecast for Aviation (GFA) {#graphical-forecast-for-aviation}
+## Graphical Forecast for Aviation
 
-* See [Aviation Weather Center Graphical Forecast for Aviation - TAF](https://www.aviationweather.gov/gfa)
+* Graphical Forecast for Aviation (GFA)
+* See [Aviation Weather Center Graphical Forecast for Aviation](https://www.aviationweather.gov/gfa)
 * To replace the textual area forecast (FA)
 * Gives a brief summary of the location and movement of fronts, pressure systems, and circulation patterns
 * The *forecast* is valid for 12 hours with an additional 6 hours categorical *outlook*
@@ -395,13 +348,12 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 
 ![Graphical forecast for aviation [https://www.aviationweather.gov/gfa/plot](https://www.aviationweather.gov/gfa/plot)](/img/gfa_plot_clouds.jpg){width=560}
 
-## Graphical SIGMETS / AIRMETS
+## Winds and Temperatures Aloft
 
-See section on In-flight Weather Advisories.
+### Textual
 
-## Winds and Temperatures Aloft Forecast - Textual (FD) {#winds-temps-aloft-fd}
-
-* See also the graphical version [Winds and Temperatures Aloft Forecast - Graphical (FB)](#winds-temps-aloft-fb)
+* Winds and Temperatures Aloft Forecast - Textual (FD)
+* See also the graphical version Winds and Temperatures Aloft Forecast - Graphical (FB)
 * See Aviation Weather Center's [Winds/Temps Data](https://aviationweather.gov/windtemp)
 * Winds and temps aloft are *forecasts* based on observations made a few hours prior
 * Made twice a day based on the radiosonde upper air observations taken at 0000Z and 1200Z
@@ -416,10 +368,10 @@ See section on In-flight Weather Advisories.
 * For winds greater than 99 knots, add `50` to the `DD` and subtract 100 from the wind speed to get `SS` values
   * Example: `7545` means winds of 145 knots from 250
 
-## Winds and Temperatures Aloft Forecast - Graphical (FB) {#winds-temps-aloft-fb}
+### Graphical
 
-* See Aviation Weather Center [Winds/Temps Plots](https://aviationweather.gov/windtemp)
-* See also the textual version [Winds and Temperatures Aloft (FD)](#winds-temps-aloft-fd)
+* Winds and Temperatures Aloft Forecast - Graphical (FB)
+  * See Aviation Weather Center [Winds/Temps Plots](https://aviationweather.gov/windtemp)
 
 ## Surface Analysis Chart
 
@@ -467,7 +419,7 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 
 ## Prognostic Chart
 
-* See: [Prog Charts](https://www.aviationweather.gov/progchart/)
+* See: [Prog Charts](https://aviationweather.gov/gfa/#progchart)
 * Map displaying weather forecast.
 * Forecast - up to 7 days for surface
 * Surface charts show pressure systems and fronts.
@@ -509,8 +461,9 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 
 ![Convective Outlook Chart from testing supplement. Bottom panel indicates severe thunderstorm areas.](/img/test-supplement-convective-outlook-fig-15.jpeg){width=560}
 
-## Radar Weather Report (SD)
+## Radar Weather Report
 
+* Radar Weather Report (SD)
 * Doesn't seem to exist anymore
 * Gives the following for precipitation
   * Location
@@ -569,36 +522,26 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 * Look up [AIRMETs/SIGMETs](https://www.aviationweather.gov/sigmet) online
 * See also [Graphical AIRMETs](https://www.aviationweather.gov/gairmet)
 
-## Other
-
-* [Aviation Digital Data Service (ADDS)](https://www.aviationweather.gov/adds)
-
-# Appendix
+## Appendix
 
 * *All local barometric pressure readings are converted to a sea level pressure*.
   * At an airport at elevation with altimeter setting of 29.92 needs to cause altimeter to read field elevation, as does an airport at sea level with altimeter of 29.92. Thus in these two cases *the same altimeter setting corresponds to a different barometric pressure at the field*.
   * *To achieve this, each station converts its barometric pressure by adding approximately 1 inHg for every 1,000 feet of elevation.*
-
 * ==***Wind directions on weather observations based on true north.***==
-
 * Wind direction is reported by the direction *from which it originates*
-
-  > The general rule is:
-  >
-  > If you read it, it's true. If you hear it, it's magnetic.
-  >
-  > All charts and textual sources (METAR, TAF, winds aloft, surface analysis charts, etc) use true north as the reference.
-  >
-  > ATIS/AWOS/ASOS broadcasts, or any information a controller gives you over the radio, is magnetic.
-
+* All charts and textual sources (METAR, TAF, winds aloft, surface analysis charts, etc) use true north as the reference.
+* ATIS/AWOS/ASOS broadcasts, or any information a controller gives you over the radio, is magnetic.
 * From [AIM 7–1–10 Weather Observing Programs](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html#$paragraph7-1-10):
 
   > Wind direction broadcast over FAA radios is in reference to magnetic north.
 
+::: tip
+The general rule regarding weather reported winds are referenced to true or magnetic direction is: if you read it, it's true. If you hear it, it's magnetic.
+:::
+
 ![Weather station symbols. Reference unknown.](/img/symboles_meteo_en.gif){width=560}
 
 * *Note: In the above chart, to remember that the vertically aligned dots indicate "intermittent" precipitation, the vertical dots is like an "I", for intermittent.*
-
 * Basic definitions used across the different products
   * ==**LIFR**: Low IFR - ceiling less than 500ft and/or visibility less than 1 mile==
   * ==**IFR**: Ceiling 500 to less than 1,000ft and/or visibility 1 to less than 3 miles==
@@ -612,98 +555,3 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 * [http://www.wpc.ncep.noaa.gov/html/sfc2.shtml](http://www.wpc.ncep.noaa.gov/html/sfc2.shtml)
 
 ![Weather legend](/img/weather-legend.jpg){width=360}
-
-## More Weather
-
-### Pressure Systems
-
-* **Low Pressure System (Cyclone)**
-  * Air flows into a low-pressure area to replace rising air. This air usually brings increasing cloudiness and precipitation. *Thus, bad weather is commonly associated with areas of low pressure.*
-  * Warm air rises and cold air moves in to replace it.
-  * Summary
-    * Inward
-    * Upward
-    * Counter clockwise
-    * Brings bad weather
-* **High Low Pressure System (Anticyclone)**
-  * Generally areas of dry, descending air. Good weather is typically associated with high-pressure systems for this reason.
-    * The air is dry because at higher altitudes the air can support less moisture, and because moisture decreases density of the air, so the dense air implies low moisture.
-  * Summary
-    * Outward
-    * Downward
-    * Clockwise
-    * Brings good weather
-
-### Fog
-
-* ==All fog is a result of the temperature of air decreasing until it becomes completely saturated==
-
-1. **Radiation fog**
-    * Over land only
-    * Little to no wind present
-    * Ground cools (radiating its heat off into space) thus cooling the air above
-    * Forms most readily in warm moist air of low flatland inland areas on clear calm nights
-2. **Advection fog**
-    * Formed when warm moist air moves over colder ground or water
-    * Wind is required
-      * Fog deepens with wind up to 15 knots
-      * Beyond this the fog lifts into layer of low stratus clouds
-    * For example: air moving inland from the coast in winter
-    * Advection fog is more persistant than radiation fog
-3. **Upslope fog**
-    * Moist stable air moving up sloping terrain
-    * Wind is required
-4. **Precipitation-induced fog**
-    * Warm rain falls through cool air
-    * Cool air saturates and fog is formed
-    * Typically associated with a warm front
-5. **Steam fog**
-    * Cold dry air passes from land over warm ocean waters
-    * Water evaporates just like steam
-    * Do not fly through steam fog - is a particular icing hazard to aircraft
-6. **Ice fog**
-    * Occurs in cold weather when the temperature is much below freezing and water vapor forms directly into ice crystals
-    * Conditions are same as radiation fog except for cold temperature, usually –25 def. F or colder
-7. **Lake-effect fog**
-    * Leeward (downwind) side of lake
-    * Seems same as steam fog?
-
-### Icing
-
-* See [Recognizes Airframe Icing](#recognizes-airframe-icing)
-
-### Onboard Weather Systems
-
-* Onboard Weather Radar
-  * Most up-to-date weather information available
-  * May be used for "tactical" weather avoidance
-  * Good supplement to existing weather sources
-  * Has limitations like blind splot where distance stuff can be blocked by near stuff
-* XM lightning
-  * Lightning strikes sensed by ground stations
-  * Lightning can't hide from ground stations
-  * Broadcast to plane via satellite
-* NEXRAD
-  * Ground-based radar information broadcast to planes via satellite
-  * Information may be 15 minutes or more old
-  * NEXRAD and ADS-B weather both come from NWS
-* ADS-B
-  * Flight Information Services-Broadcast (FIS-B)
-  * Information sent directly to planes from ground stations
-  * Usually no more than 5 minutes old
-* Flight service
-  * Nationwide on 122.2
-  * Available over most VORs
-* Hazardous Inflight Weather Advisory Service (HIWAS)
-  * Continuous broadcast service over selected VORs of Inflight Weather Advisories; i.e. SIGMETs, CONVECTIVE SIGMETs, AIRMETs, Severe Weather Forecast Alerts (AWWs), and Center Weather Advisories (CWAs).
-  * Discontinued in 2020
-
-# References
-
-* [AIM 7-1-28 Key to Aerodrome Forecast (TAF) and Aviation Routine Weather Report (METAR)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html#$paragraph7-1-28)
-* [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
-    * [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf)
-    * Page 13-4: Transcribed Weather Broadcast (TWEB) (Alaska Only)
-* [FNL Pilots METAR Remarks](https://www.fnlpilots.org/blog/2018/10/metar-remarks/)
-* [FAA METAR Abbreviations](https://www.weather.gov/media/wrh/mesowest/metar_decode_key.pdf)
-* [http://meteocentre.com/doc/metar.html](http://meteocentre.com/doc/metar.html)

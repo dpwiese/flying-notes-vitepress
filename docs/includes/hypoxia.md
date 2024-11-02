@@ -1,4 +1,9 @@
-* ==Not enough oxygen==
+# Hypoxia
+
+::: warning Hypoxia
+Not enough oxygen.
+:::
+
 * The forms of hypoxia are based on their causes:
   * **Hypoxic hypoxia**
     * ==Insufficient oxygen available to the body as a whole==
@@ -33,5 +38,3 @@
   * Tunnel vision
 * Symptoms can take effect at 5,000 ft. at night
 * Immediately reduce altitude, use oxygen, avoid alcohol
-
-![Time of useful consciousness. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 17: Aeromedical Factors](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf) Figure 17-1](/img/phak/phak-figure-17-1-time-of-useful-consciousness.png){width=340}

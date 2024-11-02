@@ -1,6 +1,11 @@
 # Secondary Flight Controls
 
-* ==**Secondary flight control systems** and associated surfaces are those which are not considered primary,== and may consist of wing flaps, leading edge devices, spoilers, and trim systems.
+::: warning Secondary Flight Controls
+Those which are not considered primary and are used to change the aircraft's performance, or reduce the amount of control a pilot has to use.
+:::
+
+* **Secondary flight control systems**
+  * They may consist of wing flaps, leading edge devices, spoilers, and trim systems.
   * Flaps
     * **Plain Flaps**
     * **Split Flaps**
@@ -13,9 +18,13 @@
     * Located on the leading edge
     * Allows higher angles of attack by redirecting airflow from under the wing to the top delaying separation
 
-# Flaps, Slots, and Spoilers
+## Flaps, Slots, and Spoilers
 
-* ==At the most fundamental level, flaps change the shape of the wing with the primary goal of changing the relationship between lift and drag==
+::: info NOTE
+At the most fundamental level, flaps change the shape of the wing with the primary goal of changing the relationship between lift and drag.
+:::
+
+* Flaps
   * For example to permit a higher $C_{L}$ for a given $C_{D}$ thus permitting slower flight for takeoff and landing.
   * Alternatively flaps my permit a larger $C_{D}$ for a given $C_{L}$, enabling the aircraft to better slow down.
   * *Basically - flaps shift the drag bucket to obtain the desired $C_{D}$ at a given $C_{L}$*.

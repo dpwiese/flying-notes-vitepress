@@ -44,11 +44,10 @@ This page covers *Task P. One Engine Inoperative (OEI) Performance* from the [FA
 
 ### Critical Engine
 
-* ==The **critical engine** is the engine which if it fails *most adverserly* effects aircraft performance or handling==
-  * See [FAA-P-8740-66 Flying Light Twins Safely](https://www.faasafety.gov/files/notices/2015/Nov/FAA_P-8740-66.pdf)
-  * See [14 CFR &sect; 1.1](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Critical%20engine))
-* ==On most twins it's the *left engine*==
-  * Engines typically rotate clockwise as seen from the pilot's view
+::: warning Critical Engine 
+The engine which if it fails *most adverserly* effects aircraft performance and handling. [14 CFR &sect; 1.1](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Critical%20engine))
+:::
+
 * ==Determining critical engine (**PAST**)==
   * ==**P** - **P-factor**==
     * **Yaw** - due to larger lever arm from center of thrust on the right engine compared to the left
@@ -64,6 +63,10 @@ This page covers *Task P. One Engine Inoperative (OEI) Performance* from the [FA
   * Roll - towards the inoperative engine
   * Pitch - down
 
+::: info NOTE
+Conventional engines rotate clockwise when viewed from the pilot's position, therefore on most twins the *left engine* is the critical one.
+:::
+
 ![Aircraft turning forces. Reference unknown.](/img/turning-forces.jpg){width=400}
 
 ![Critical engine. ASA 2022 CFI test prep.](/img/asa-2022-cfi-test-prep-figure-3-7-critical-engine.png){width=400}
@@ -74,8 +77,11 @@ This page covers *Task P. One Engine Inoperative (OEI) Performance* from the [FA
 
 > VMC is the calibrated airspeed at which, when the critical engine is suddenly made inoperative, it is possible to maintain control of the airplane with that engine still inoperative, and thereafter maintain straight flight at the same speed with an angle of bank of not more than 5 degrees.
 
+::: warning Minimum Control Speed
+Speed below which we cannot maintain directional control if the *critical engine* quits *suddenly*.
+:::
+
 * **Minimum control speed ($V_{\text{MC}}$)**
-  * ==Speed below which we cannot maintain directional control if the *critical engine* quits *suddenly*==
   * ==Denoted by a *red line* on airspeed indicator==
   * See more below
 * [FAA-AC-23-8C](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1019676)
@@ -255,10 +261,13 @@ Static $V_{\text{MC}}$ demonstration, which is more like the $V_{\text{MC}}$ dem
 
 ### Single Engine Aerodynamics Overview
 
-* ==**Loss of an engine in a twin reduces thrust by 50%, but decreases climb performance by 80-90%**==
-  * Climb *rate* is dependent on *excess power* which is why when losing half the aircraft's thrust results in less than half the normal climb rate
-  * Climb *angle* is dependent on *excess thrust*
-  * Recall $P=TV$ where $P$ is power, $T$ is thrust, and $V$ is velocity
+::: info NOTE
+Loss of an engine in a twin reduces thrust by 50%, but decreases climb performance by 80-90%.
+:::
+
+* Climb *rate* is dependent on *excess power* which is why when losing half the aircraft's thrust results in less than half the normal climb rate
+* Climb *angle* is dependent on *excess thrust*
+* Recall $P=TV$ where $P$ is power, $T$ is thrust, and $V$ is velocity
 * Rolling tendency occurs when an engine fails due to lift distribution being higher on wing with operative engine
 * Can use more than 5&#176; bank to improve directional control
   * Greater bank angle = lower $V_{\text{MC}}$
@@ -408,4 +417,4 @@ Thus $V_{\text{Y}}$ is max excess power.
   * [Chapter 11: Aircraft Performance](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/13_phak_ch11.pdf)
 * [FAA-H-8083-3C Airplane Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook)
   * [Chapter 13: Transition to Multiengine Airplanes](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/14_afh_ch13.pdf)
-* POH
+* [FAA-P-8740-66 Flying Light Twins Safely](https://www.faasafety.gov/files/notices/2015/Nov/FAA_P-8740-66.pdf)

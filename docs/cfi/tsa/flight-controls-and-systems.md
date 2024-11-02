@@ -4,17 +4,9 @@ This page covers *Task E. Aircraft Flight Controls and Operation of Systems* fro
 
 ## Airplane Systems
 
-### Primary flight controls
-
-<!--@include: ./docs/includes/systems/primary-flight-controls.md-->
-
-### Secondary flight controls
-
-<!--@include: ./docs/includes/systems/secondary-flight-controls.md | shift:3-->
-
-#### Trim Controls
-
-<!--@include: ./docs/includes/systems/trim-controls.md-->
+<!--@include: ./docs/includes/systems/primary-flight-controls.md | shift:2-->
+<!--@include: ./docs/includes/systems/secondary-flight-controls.md | shift:2-->
+<!--@include: ./docs/includes/systems/trim-controls.md | shift:3-->
 
 ### Powerplant and propeller
 
@@ -40,17 +32,11 @@ This page covers *Task E. Aircraft Flight Controls and Operation of Systems* fro
 
 <!--@include: ./docs/includes/systems/pitot-static-vacuum-instruments.md | shift:3-->
 
-### Environmental
+<!--@include: ./docs/includes/systems/environmental-systems.md | shift:2-->
+<!--@include: ./docs/includes/systems/deicing-and-anti-icing.md | shift:2-->
+<!--@include: ./docs/includes/systems/oxygen-system.md | shift:2-->
 
-<!--@include: ./docs/includes/systems/environmental-systems.md-->
-
-### Deicing and anti-icing
-
-<!--@include: ./docs/includes/systems/deicing-and-anti-icing.md-->
-
-### Oxygen system
-
-<!--@include: ./docs/includes/systems/oxygen-system.md | shift:3-->
+<!--@include: ./docs/includes/systems/pressurization.md | shift:3-->
 
 ## System Abnormalities or Failures
 

@@ -1,7 +1,11 @@
-* ==Some of the diagrams and images in this section show a single engine aircraft, but many concepts and systems are shared between single and multiengine planes==
+# Primary flight controls
+
+::: warning Primary Flight Controls
+Control the surfaces to create the moments to rotate an aircraft about its three axes of rotation.
+:::
+
 * Airplanes are maneuvered by *changing the direction of lift*.
 * There are three axes about which moments are applied and the aircraft rotates.
-* **Primary flight control systems** and associated surfaces created the moments to cause rotations about each of these three axes.
   * Different primary flight control surfaces
     * Elevator
     * Aileron

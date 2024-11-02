@@ -58,49 +58,11 @@ This page covers *Task M. Night Operations* from the [FAA-S-ACS-25 Flight Instru
 
 ![Off-center viewing. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 17: Aeromedical Factors](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf) Figure 17-19.](/img/phak/phak-figure-17-19-off-center-viewing.png){width=540}
 
-## Disorientation and Illusions
+## Airport Lighting
 
-* Lights can be mistaken for stars
-* False horizon: Cloud layers or mountains can provide this illusion
-* Distractions from flickering lights
-* "Black Hole Approach" – when there is no visual references = use VASI/PAPI or NAV Aids
-* Bright runway and ALS can give the illusion of being too low
+<!--@include: ./docs/includes/airport-lighting.md-->
 
-### Disorientation
-
-* Vestibular System (inner ear/balance) + Somatosensory System (nerves/gravity) + Visual System
-* If sight is lost, senses can be misleading
-* Vestibular system = fluid in inner-ear makes contact with hairs, deflect
-* Illusions
-  * See [Vestibular and visual illusions](#vestibular-and-visual-illusions)
-  * Posture considerations
-* ==If spatial disorientation occurs, rely on instruments==
-* To prevent optical illusions
-  * Learn ahead about airport you will be landing at for information on runway slope, terrain, and lighting.
-  * Reference altimeter
-  * Overfly the field
-  * Use approach lighting (VASI or PAPI)
-  * Stay proficient at landing
-
-![Runway illusions. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 17: Aeromedical Factors](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf) Figure 17-7.](/img/phak/phak-figure-17-7-runway-illusions.jpg){width=540}
-
-## Interior Lights
-
-* Overhead light
-* Pedastal light
-* Instrument lights
-* Panel display
-* Flightdeck lighting should be kept as low as possible so that the light does not monopolize night vision.
-* After reaching the desired flight altitude, pilots should allow time to adjust to the flight conditions.
-* This includes readjustment of instrument lights and orientation to outside references.
-* During the adjustment period, night vision should continue to improve until optimum night adaptation is achieved.
-
-## Red Flashlight
-
-* This no longer seems to be the case according to PHAK
-* When it is necessary to read maps, charts, and checklists, use a dim white light flashlight and avoid shining it in your or any other crewmember's eyes.
-
-## Night Preflight
+## Equipment and Lighting Requirements
 
 * Flashlight: white light is used to preflight the aircraft; red light is used when performing cockpit operations, as it will not impair night vision as much.
 * When using a red light on an aeronautical chart, the red colors will wash out.
@@ -114,15 +76,50 @@ This page covers *Task M. Night Operations* from the [FAA-S-ACS-25 Flight Instru
   * **P** - Position lights
   * **S** - Source of power
 * IFR-required equipment does not hurt
+* Interior Lights
+  * Overhead light
+  * Pedastal light
+  * Instrument lights
+  * Panel display
+  * Flightdeck lighting should be kept as low as possible so that the light does not monopolize night vision.
+  * After reaching the desired flight altitude, pilots should allow time to adjust to the flight conditions.
+  * This includes readjustment of instrument lights and orientation to outside references.
+  * During the adjustment period, night vision should continue to improve until optimum night adaptation is achieved.
 
-## Engine Starting Procedures
+## Personal Equipment
 
-* Be sure the propeller area is clear.
-* Turn on position and anti-collision lights prior to start, and announce "Clear prop."
-* Keep all unnecessary electrical equipment off to avoid draining the battery.
+* Red flashlight
+  * This no longer seems to be the case according to PHAK
+  * When it is necessary to read maps, charts, and checklists, use a dim white light flashlight and avoid shining it in your or any other crewmember's eyes.
 
-## Taxiing and Airport Orientation
+## Night Orientation, Navigation, and Vision
 
+* Checkpoints - there are less of them, but it does not pose a problem.
+* Light patterns of towns are easily identified. Rotating beacons are useful. Highways make good checkpoints.
+* Easier to become disoriented in relation to location-continuously monitor position, time estimates, and fuel consumed.
+* Use NAVAIDS whenever possible.
+* Difficult to see clouds at night - exercise caution to avoid flying into MVFR/IFR weather conditions.
+* The first indication will be the gradual disappearance of the ground and glowing around lights.
+
+## Use of Instruments
+
+* Use instruments
+
+## Visual Illusions
+
+* See [Spatial Disorientation](/cfi/tsa/human-factors#spatial-disorientation)
+* Lights can be mistaken for stars
+* False horizon: Cloud layers or mountains can provide this illusion
+* Distractions from flickering lights
+* "Black Hole Approach" – when there is no visual references = use VASI/PAPI or NAV Aids
+* Bright runway and ALS can give the illusion of being too low
+
+## Taxiing Operations
+
+* Starting the engine
+  * Be sure the propeller area is clear.
+  * Turn on position and anti-collision lights prior to start, and announce "Clear prop."
+  * Keep all unnecessary electrical equipment off to avoid draining the battery.
 * Reduce taxi speeds because of restricted vision.
 * Do not taxi faster than a speed that will allow you to stop within the distance you can clearly see.
 * Use the landing/taxi lights as necessary-caution overheating (no airflow).
@@ -132,7 +129,16 @@ This page covers *Task M. Night Operations* from the [FAA-S-ACS-25 Flight Instru
 * Forward movement of the airplane may not be easy to detect.
 * Hold the brakes and be alert that the airplane could potentially creep forward without being noticed.
 
-## Takeoff and Climb-out
+## Determining Traffic Position and Direction
+
+* Use nav lights to orient other aircraft's direction in relation to your own.
+  * Red light on left wing
+  * Green light on right wing
+  * White light on tail
+
+## Appendix
+
+### Takeoff and Climb-out
 
 * Clear the area for approaching traffic on the final approach.
   * At non- towered airports, make a 360&#176; turn in the direction of air traffic, to clear the area.
@@ -147,24 +153,7 @@ This page covers *Task M. Night Operations* from the [FAA-S-ACS-25 Flight Instru
 * Make necessary adjustments by referencing the attitude and heading indicators.
 * Don't make any turns until reaching a safe maneuvering altitude.
 
-## In-flight Orientation
-
-* Checkpoints - there are less of them, but it does not pose a problem.
-* Light patterns of towns are easily identified. Rotating beacons are useful. Highways make good checkpoints.
-* Easier to become disoriented in relation to location-continuously monitor position, time estimates, and fuel consumed.
-* Use NAVAIDS whenever possible.
-* Difficult to see clouds at night - exercise caution to avoid flying into MVFR/IFR weather conditions.
-* The first indication will be the gradual disappearance of the ground and glowing around lights.
-* Use nav lights to orient other aircraft's direction in relation to your own.
-  * Red light on left wing
-  * Green light on right wing
-  * White light on tail
-
-## Attitude by Reference
-
-* Use instruments
-
-## Emergencies
+### Emergencies
 
 * Will be difficult to find a landing site, avoid lights since they will be houses or structures
 * Lack of lights will likely be lakes or forests – but who knows...
@@ -183,7 +172,7 @@ This page covers *Task M. Night Operations* from the [FAA-S-ACS-25 Flight Instru
   * Use the before landing checklist, and touch down at the lowest possible airspeed.
   * After landing, turn off all switches and evacuate as quickly as possible.
 
-## Traffic Patterns
+### Traffic Patterns
 
 * Consider overflying the field first to get a better look at the environment
 * Identify the runway/airport lights as soon as possible.
@@ -194,7 +183,7 @@ This page covers *Task M. Night Operations* from the [FAA-S-ACS-25 Flight Instru
 * Know the location of the runway/approach threshold lights at all times.
 * When entering the pattern, allow for plenty of time to complete the before landing checklist, and execute the approach in the same manner as during the day.
 
-## Landing without Landing Light
+### Landing without Landing Light
 
 * Make a stabilized approach, in the same manner as during the day.
 * Use flight instruments more often, especially altimeter/airspeed indicator, as distance may be deceptive.
@@ -206,7 +195,7 @@ This page covers *Task M. Night Operations* from the [FAA-S-ACS-25 Flight Instru
 * Impaired judgment of height, speed, and sink rate may create a tendency to round out too high.
 * Start the roundout when the landing light reflects on the tire marks on the runway, or when the runway lights at the far end appear to be rising higher than the airplane.
 
-## Go-around
+### Go-around
 
 * Restricted visibility makes a prompt decision even more necessary at night - be prepared in case the maneuver becomes necessary.
 
@@ -221,3 +210,4 @@ This page covers *Task M. Night Operations* from the [FAA-S-ACS-25 Flight Instru
   * [Chapter 8: Medical Facts for Pilots](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap_8.html)
     * [Section 1: Fitness for Flight](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html)
       * 8–1–6 Vision in Flight
+  * [AIM 2-1 Airport Lighting Aids](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html)

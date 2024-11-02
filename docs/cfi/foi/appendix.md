@@ -30,9 +30,6 @@
     * **D** - Displacement
     * **R** - Resignation
     * **F** - Fantasy
-    * A - Aggression
-    * R - Rationalization
-    * F - Flight
     * *Note: denial and repression are main defense mechanisms*
 * Characteristics of Learning (**PEMA**)
     * **P** - Purposeful

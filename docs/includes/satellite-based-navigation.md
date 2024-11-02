@@ -101,7 +101,10 @@
 
 # Wide-Area Augmentation System (WAAS)
 
-* ==WAAS is the US implementation of the capability called Satellite-Based Augmentation System (SBAS)==
+::: warning WAAS
+Wide-Area Augmentation System (WAAS) is the US implementation of the capability called Satellite-Based Augmentation System (SBAS).
+:::
+
 * SBAS augments basic GPS satellite constellation with additional ground stations/enhanced info transmitted from geostationary satellites.
 * ==Improves GPS signals for use in precision approaches.==
 * ==WAAS accuracy is at a minimum of approximately 25 ft 95% of the time.==

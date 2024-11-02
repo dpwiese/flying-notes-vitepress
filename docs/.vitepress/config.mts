@@ -10,11 +10,11 @@ export default defineConfig({
   description: "A compendium of my flying notes",
   themeConfig: {
     nav: [
-      { text: 'CFI', link: '/cfi/foi/human-behavior' },
-      { text: 'CFII', link: '/cfii/tsa/flight-instruments' },
-      { text: 'Baron', link: '/baron/e55-early/systems' },
-      { text: 'Twin Comanche', link: '/twin-comanche/systems' },
-      { text: 'Seminole', link: '/seminole/systems' }
+      { text: 'CFI', link: '/cfi', activeMatch: '^/cfi/' },
+      { text: 'CFII', link: '/cfii', activeMatch: '^/cfii/' },
+      { text: 'Baron', link: '/baron/e55-early/systems', activeMatch: '^/baron/' },
+      { text: 'Twin Comanche', link: '/twin-comanche/twin-comanche', activeMatch: '^/twin-comanche/' },
+      { text: 'Seminole', link: '/seminole/systems', activeMatch: '^/seminole/' }
     ],
     sidebar: {
       '/cfi/': [
@@ -92,7 +92,7 @@ export default defineConfig({
             { text: 'Short-Field Landing', link: '/cfi/takeoff-landing/short-field-landing' },
             { text: 'Slip to Landing', link: '/cfi/takeoff-landing/slip' },
             { text: 'Go-Around', link: '/cfi/takeoff-landing/go-around' },
-            { text: 'Power-Off 180&deg;', link: '/cfi/takeoff-landing/power-off-180' }
+            { text: 'Power-Off 180&#176;', link: '/cfi/takeoff-landing/power-off-180' }
           ]
         },
         {
@@ -173,6 +173,14 @@ export default defineConfig({
             { text: 'Circling Approach', link: '/cfii/approaches/circling' },
             { text: 'Landing from an Approach', link: '/cfii/approaches/landing' }
           ]
+        },
+        {
+          text: 'Emergency Operations',
+          collapsed: false,
+          items: [
+            { text: 'Loss of Communications', link: '/cfii/emergencies/lost-comms' },
+            { text: 'Partial Panel Approach', link: '/cfii/emergencies/partial-panel-approach' }
+          ]
         }
       ],
       '/baron/': [
@@ -206,7 +214,7 @@ export default defineConfig({
           text: 'Twin Comanche',
           collapsed: false,
           items: [
-            { text: 'Systems', link: '/twin-comanche/systems' }
+            { text: 'Twin Comanche', link: '/twin-comanche/twin-comanche' }
           ]
         }
       ],

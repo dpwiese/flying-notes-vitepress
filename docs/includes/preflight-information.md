@@ -1,4 +1,4 @@
-* ==Before a flight, PIC must become familiar with all available information concerning that flight which includes **(NW KRAFT)**==
+* ==Before a flight, PIC must become familiar with all available information concerning that flight which includes **(NWKRAFT)**==
   * ==**N** - **NOTAMs**==
   * ==**W** - **Weather**==
     * Reports and forecasts

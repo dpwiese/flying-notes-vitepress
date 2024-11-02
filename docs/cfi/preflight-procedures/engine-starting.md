@@ -24,7 +24,7 @@ This page covers *Task C. Engine Starting* from the [FAA-S-ACS-25 Flight Instruc
     * Alternate which engine is started first
 * Hot engine might have vapor lock
 
-![E55 Baron (N3622A) engine fire during start emergency procedures](/img/c55-baron-poh/c55-baron-poh-page-3-7-engine-fire-during-start.png){width=3.4in}
+![E55 Baron (N3622A) engine fire during start emergency procedures](/img/c55-baron-poh/c55-baron-poh-page-3-7-engine-fire-during-start.png){width=340}
 
 ## Starting the engine(s) by use of external power
 

@@ -4,18 +4,26 @@ This page covers *Task A. Effects of Human Behavior and Communication on the Lea
 
 ## Elements of Human Behavior
 
-### Definitions of human behavior
+### Definitions of Human Behavior
+
+::: warning Behavior
+The product of factors that cause people to act in predictable ways.
+:::
 
 * The study of human behavior is an attempt to explain how and why humans function the way they do.
-* ==**Behavior**==
-    * ==The product of factors that cause people to act in predictable ways.==
-    * It's also defined as the result of attempts to satisfy certain needs
+* Behavior is also defined as the result of attempts to satisfy certain needs
 * Another definition focuses on the typical life course of humans, emphasizing human development or the successive phases of growth in which human behavior is characterized by a distinct set of physical, physiological, and behavioral features.
 * *By observing human behavior, an instructor can gain the knowledge needed to better understand him or herself as an instructor as well as the learning needs of learners. Understanding human behavior leads to successful instruction.*
 
 ### Instructor and Learner Relationship
 
-* TBD
+* Everyone also has an individual style of learning
+* Personality type influence how one teaches and learns
+* Learners whose styles are compatible with the teaching styles of an instructor tend to retain information longer, apply it more effectively, learn more, and have a more positive attitude toward the course in general
+
+::: tip
+Instructors should understand the learning style of their student and attempt to match their teaching style.
+:::
 
 ### Motivation
 
@@ -40,6 +48,17 @@ This page covers *Task A. Effects of Human Behavior and Communication on the Lea
     * Fear and anxiety
     * Reproof and threats
     * May be useful for overconfidence and impulsiveness
+* Learner traits
+    * Committed to goals and motivated
+    * Self-direction and self-control
+    * Responsible
+    * Work ethic
+    * Imaginative, creative
+* Best way to keep learner motivated is to tell them where they are going and remind of benefits
+* Clearly explain whys and rewards of lesson
+* Minimizes insecurity and anxiety
+* Approach learners as individuals
+* Give credit where and when due
 
 ### Human Needs
 
@@ -59,12 +78,15 @@ This page covers *Task A. Effects of Human Behavior and Communication on the Lea
         * Realizing own potential (be all you can be)
     * Listed from the based of the pyramid on up
     * Lower levels need to be satisfied first
-    * Once a need is satisfied it no longer provide motivation
+    * Once a need is satisfied it no longer provides motivation
     * Then will try to fulfill a higher level need
 
 ### Defense mechanisms
 
-* Defense mechanisms are subconscious ego-protecting reactions to unpleasant situations.
+::: warning Defense Mechanisms
+Subconscious ego-protecting reactions to unpleasant situations.
+:::
+
 * Can be biological or psychological
 * Can involve self-deception and distortion of reality
 * Fight or flight response
@@ -72,7 +94,7 @@ This page covers *Task A. Effects of Human Behavior and Communication on the Lea
 * Defense mechanisms share two common properties:
     * They often appear unconsciously.
     * They tend to distort, transform, or otherwise falsify reality.
-* Denial and repression are two primary defense mechanisms, with others including but not limited to the following. (**DR CPR DR F** (ARF))
+* Denial and repression are two primary defense mechanisms, with others including but not limited to the following. (**DR CPR DR F**)
     * **Denial**
         * Refusal to accept external reality because it is too threatening
         * A form of repression
@@ -97,21 +119,12 @@ This page covers *Task A. Effects of Human Behavior and Communication on the Lea
         * Subconscious technique for justifying actions that otherwise would be unacceptable
         * Making excuses
         * Learner cannot accept real reasons for their behavior
+        * Might be the first defense mechanism we will see as CFI
         * =="I am a very safe pilot, it's the examiner's fault that he doesn't see that."==
-        * ==*Might be the first defense mechanism we will see as CFI*==
     * **Fantasy (Daydreaming)**
         * When a learner engages in daydreams about how things should be rather than doing anything about how things are
         * A mental escape from frustrating situations
         * For example dreaming of being a successful airline pilot rather than actually committing to the hard work required to reach that goal.
-    * These three aren't in AIH but were from King School or other resources
-        * Aggression
-            * Like displacement but direct?
-            * A defense mechanism used when the learner feels insecure
-        * Resignation
-            * Learner gives up
-            * This is hazardous attitude
-        * Flight
-            * Learner wants to escape
 
 ## Learner Emotional Reactions
 
@@ -124,24 +137,33 @@ This page covers *Task A. Effects of Human Behavior and Communication on the Lea
 
 ### Anxiety and Stress
 
-* **Anxiety**
-    * ==Anxiety is a feeling of worry, nervousness, or unease, often about something *that is going to happen*==
-    * Whether response to anxiety is normal or abnormal, it's important to deal with
-    * Can be countered by reinforcing the learners' enjoyment of flying and by teaching them to cope with their fears
-    * Can be minimized throughout training by emphasizing the benefits and pleasurable experiences that can be derived from flying, rather than by continuously citing the unhappy consequences of faulty performances
-    * Most significant psychological factor that affects flight instruction
-* **Stress**
-    * ==Stress is the body's response to demands placed upon it.==
-    * **Normal Reactions to Stress**
-        * Rational thinking
-        * Correct, rapid responses
-        * Extreme sensitivity to surroundings
-    * **Abnormal Reactions to Stress**
-        * Innapropriate laughter/singing
-        * Extreme overcooperation
-        * Inadequate or absent response
-        * Mood changes
-        * Aggression towards instructor
+#### Anxiety
+
+::: warning Anxiety
+Anxiety is a feeling of worry, nervousness, or unease, often about something *that is going to happen*.
+:::
+
+* Whether response to anxiety is normal or abnormal, it's important to deal with
+* Can be countered by reinforcing the learners' enjoyment of flying and by teaching them to cope with their fears
+* Can be minimized throughout training by emphasizing the benefits and pleasurable experiences that can be derived from flying, rather than by continuously citing the unhappy consequences of faulty performances
+* Most significant psychological factor that affects flight instruction
+
+#### Stress
+
+::: warning Stress
+Stress is the body's response to demands placed upon it.
+:::
+
+* **Normal Reactions to Stress**
+    * Rational thinking
+    * Correct, rapid responses
+    * Extreme sensitivity to surroundings
+* **Abnormal Reactions to Stress**
+    * Innapropriate laughter/singing
+    * Extreme overcooperation
+    * Inadequate or absent response
+    * Mood changes
+    * Aggression towards instructor
 
 ### Impatience
 
@@ -187,9 +209,27 @@ This page covers *Task A. Effects of Human Behavior and Communication on the Lea
 
 ## Teaching the Adult Learner
 
-* TBD
+* The average aviation learner age is 30 years old
+* Adults are autonomous and self-directed; they need to be independent and exercise control.
+* Adults have accumulated a foundation of life experiences and knowledge and draw upon this reservoir of experience for learning.
+* Adults are goal-oriented.
+* Adults are relevancy oriented.
+    * Their time perspective changes from one of postponed knowledge application to immediate application.
+* Adults are practical, focusing on the aspects of a lesson most useful to them in their work.
+* **Instructors should**
+    * Provide a training syllabus that is organized with clearly defined course objectives to show the learner how the training helps him or her attain specific goals
+    * Help learners integrate new ideas with what they already know to ensure they keep and use the new information.
+    * Assume responsibility only for his or her own expectations, not for those of learners. It is important to clarify and articulate all learner expectations early on.
+    * Recognize the learner’s need to control pace and start/stop time.
+    * Take advantage of the adult preference to self-direct and self-design learning projects by giving the learner frequent scenario based training (SBT) opportunities
+    * Refrain from "spoon-feeding" the learner.
 
 ## Effective Communication
+
+* Use a varied approach
+* Consider learners abilities, attitudes, and experiences
+* Effectiveness is measured by the similarity of the idea transmitted and the idea received
+* Barriers
 
 ### Basic Elements of Communication
 
@@ -258,7 +298,6 @@ This page covers *Task A. Effects of Human Behavior and Communication on the Lea
         * CFI should continue develop their skills well above the level of material they are teaching.
         * As an instructor: never stop learning
 
-
 * **Flight Instructor Actions Regarding Seriously Abnormal Learners**
     * If CFI thinks learner has disqualifying psychological abnormality, another CFI should do an evaluation flight
     * If action is justified, refrain from further instruction or endorsements
@@ -268,44 +307,6 @@ This page covers *Task A. Effects of Human Behavior and Communication on the Lea
 * Overlearning
     * May result in an undesirable automatic response
     * e.g. landing gear up even after gear down checklist was "completed"
-
-## King Schools Notes
-
-* Learner traits
-    * Committed to goals and motivated
-    * Self-direction and self-control
-    * Responsible
-    * Work ethic
-    * Imaginative, creative
-* Best way to keep learner motivated is to tell them where they are going and remind of benefits
-* Clearly explain whys and rewards of lesson
-* Minimizes insecurity and anxiety
-* Approach learners as individuals
-* Give credit where and when due
-* Communication
-    * Use a varied approach
-    * Consider learners abilities, attitudes, and experiences
-    * Effectiveness is measured by the similarity of the idea transmitted and the idea received
-    * Barriers
-* Identifying blocks of learning
-    * Four key topics
-        1. Overall plan
-        2. Blocks of learning
-            * Simple to complex
-            * Avoid adding extraneous things unrelated to objective
-        3. Training syllabus
-        4. Individual lesson plans
-* Training syllabus and lesson plans
-    * Syllabus practical guide to do training in logical sequence should be guide to ensure all requirements are completed and documented
-    * 7 parts (see Figure 1 of CT supplement)
-        1. Objectives
-        2. Content (Elements?)
-        3. Schedule
-        4. Equipment
-        5. Instructor's Actions
-        6. Learner's Actions
-        7. Completion standards
-    * New material should relate to previous material
 
 ## References
 

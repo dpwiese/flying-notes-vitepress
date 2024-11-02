@@ -4,6 +4,8 @@ This page covers *Task D. Principles of Flight* from the [FAA-S-ACS-25 Flight In
 
 ## Overview
 
+![The four forces. ASA 2022 Instructor Test Prep.](/img/asa-2022-instructor-test-prep-figure-2-4-four-forces.png){width=440}
+
 Aerodynamic theory was developed to answer important questions necessary for airplane design.
 For example, to calculate how much lift a wing might produce.
 This began with simple theories and models.
@@ -16,24 +18,37 @@ This began with simple theories and models.
   * Viscous vs. inviscid
   * Incompressible vs. compressibile
   * 2D (airfoils) vs. 3D (wings)
-
-static pressure + dynamic pressure = stagnation pressure (from Bernoulli's)
-
-Bernoulli's principle is a statement of conservation of energy, so is valid only for inviscid flows.
+* Static pressure + dynamic pressure = stagnation pressure (from Bernoulli's)
+* Bernoulli's principle is a statement of conservation of energy, so is valid only for inviscid flows.
 
 ### Lift
 
 * Lift: $L=\frac{1}{2}\rho v^{2}SC_{L}$ where $C_{L}(\alpha, Re, Ma)$
-* ==The **center of pressure** (CP) is a single point at which the lift and drag forces on an airfoil can be applied about which they exert zero moment.==
+
+::: warning Center of Pressure (CP)
+A single point at which the lift and drag forces on an airfoil can be applied about which they exert zero moment.
+:::
+
+* **Center of pressure**
   * The location of the center of pressure moves significantly with a change in angle of attack.
   * When angle of attack increases, CP moves forward.
   * When angle of attack decreases, CP moves rearward.
   * See [NASA Center of Pressure](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/center-of-pressure/)
   * The location of the center of pressure in a *symmetrical airfoil* remains relatively constant as the angle of attack changes, but in an asymmetrical airfoil, the center of pressure moves forward as the angle of attack increases and rearward as the angle of attack decreases.
-* ==The **aerodynamic center** is the point at which the pitching moment coefficient for the airfoil does not vary with angle of attack==
+
+::: warning Aerodynamic Center
+Point at which the pitching moment coefficient for the airfoil does not vary with angle of attack.
+:::
+
+* Aerodynamic center
   * Used to simplify calculations in aerodynamic analysis
   * Located roughly at quarter-chord.
-* ==The **stalling speed** is the speed at which a further increase in angle of attack results in a decrease in the lift coefficient.==
+
+::: warning Stall Speed
+the speed at which a further increase in angle of attack results in a decrease in the lift coefficient
+:::
+
+* Stall speed
   * The angle of attack for which the maximum lift coefficient occurs is called *critical angle of attack*.
   * Aerodynamic stall is *only a function of angle of attack*. However, in general aviation most aircraft are not equipped with an angle of attack indicator, so we try to understand at what *airspeed* an aircraft will stall at.
   * During steady-level flight at a fixed weight, CG location, and configuration, this relationship is fairly clear - looking at the lift equation above, as the aircraft slows down $C_{L}$ must increase (therefore $\alpha$ must increase). The minimum speed at which the aircraft can maintain level flight represents the actual stalling speed in this situation.
@@ -477,14 +492,17 @@ Aircraft axes system is below where
 
 ## Load Factors
 
-==The **load factor** $n$ is the ratio of an aircraft's lift to it's weight $n=\frac{L}{W}$== and is important for two reasons:
+::: warning Load Factor
+The ratio of an aircraft's lift to it's weight.
+:::
 
-1. It is possible for a pilot to impose a dangerous overload on the aircraft structures.
-2. An increased load factor increases the stalling speed and makes stalls possible at seemingly safe flight speeds.
+* The load factor $n$ is given by $n=\frac{L}{W}$== and is important for two reasons:
+  1. It is possible for a pilot to impose a dangerous overload on the aircraft structures.
+  2. An increased load factor increases the stalling speed and makes stalls possible at seemingly safe flight speeds.
 
-Load factor is a convenient value which to specify - it's what the occupants feel, and thus certification standards uses this value on which to set limits.
-But since the load factor is dependent on the aircraft weight, the load factors that aircraft are certified for need to meet the requirement at *maximum weight*.
-*==But this also means that if an aircraft is flown overweight, the same load factor results in greater aerodynamic load than the aircraft is designed to withstand.==*
+* Load factor is a convenient value which to specify - it's what the occupants feel, and thus certification standards uses this value on which to set limits.
+* But since the load factor is dependent on the aircraft weight, the load factors that aircraft are certified for need to meet the requirement at *maximum weight*.
+* *==But this also means that if an aircraft is flown overweight, the same load factor results in greater aerodynamic load than the aircraft is designed to withstand.==*
 
 [14 CFR &sect;23.321 General](https://www.ecfr.gov/on/2017-01-03/title-14/chapter-I/subchapter-C/part-23/subpart-C/subject-group-ECFR15834a1d934ead5/section-23.321) states:
 
@@ -561,10 +579,6 @@ See [14 CFR &sect;27.25(a)(1)(ii)](https://www.ecfr.gov/current/title-14/part-27
 ![Avoid wake turbulence. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-14.](/img/phak/phak-figure-5-14-avoid-wake-turbulence.jpg){width=540}
 
 ![Vortices near the ground. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-15.](/img/phak/phak-figure-5-15-vortices-near-ground.jpg){width=540}
-
-## Appendix
-
-![The four forces. ASA 2022 Instructor Test Prep.](/img/asa-2022-instructor-test-prep-figure-2-4-four-forces.png){width=300}
 
 ## References
 

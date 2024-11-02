@@ -1,27 +1,24 @@
 # Overview
 
-* Find Standard Instrument Approach Procedure Charts in the [Digital Terminal Procedures Publication](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dtpp/)
-  * Updated every 28 days
-* There are three types of instrument approach procedures (IAP)
-  * **Precision Approach (PA)**
+* There are three main types of instrument approach procedures (IAP)
+  * [**Non-Precision Approach (NPA)**](/cfii/approaches/nonprecision)
+    * No vertical guidance
+    * Examples: VOR, TACAN, LNAV, NDB, LOC, and ASR
+  * [**Precision Approach (PA)**](/cfii/approaches/precision)
     * Has vertical guidance meeting ICAO standards
     * Examples: PAR, ILS, and GLS
   * **Approach with Vertical Guidance (APV)**
     * Provides course and glidepath deviation information but not to ICAO standards (Annex 10)
     * Examples: Baro-VNAV, LDA with glidepath, LNAV/VNAV and LPV
-  * **Non-Precision Approach (NPA)**
-    * No vertical guidance
-    * Examples: VOR, TACAN, LNAV, NDB, LOC, and ASR
 * Additionally there are
-  * **Circling Approaches**
-    * ==Approaches whose final approach segment is more than 30 degrees different from the landing runway alignment are always designated as circling approaches==
-    * *==Circling approaches may also be designated when the descent gradient is greater than 400 ft/NM from the FAF to the threshold crossing height (TCH) or there is no runway clearly identified on the field==*
-    * Unless a specific landing runway is specified in the approach clearance, the pilot may land on any runway
+  * [**Circling Approaches**](/cfii/approaches/circling)
   * **Visual Approach**
     * Is not an instrument approach procedure (IAP)
   * **Contact Approach**
     * Similar to a visual approach, but with lower visibility minimums
 * Approaches that do not have straight-in landing minimums are identified by the type of approach followed by a letter.
+* Find Standard Instrument Approach Procedure Charts in the [Digital Terminal Procedures Publication](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dtpp/)
+  * Updated every 28 days
 * **Approach Gate**
   * The approach gate is an imaginary point used within ATC as a basis for vectoring aircraft to the final approach course.
   * The gate is established along the final approach course one mile from the FAF on the side away from the airport and is no closer than 5 NM from the landing threshold.
@@ -31,7 +28,7 @@
 * Approach categories are defined in [14 CFR &sect;97.3 Symbols and terms used in procedures](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-97/subpart-A/section-97.3)
 * Aircraft approach category means a grouping of aircraft based on a reference landing speed ($V_{\text{REF}}$), if specified, or if $V_{\text{REF}}$ is not specified, 1.3 $V_{\text{SO}}$ at the maximum certified landing weight.
 * ==Approach categories define the minima used for a given approach==
-* ==Aircraft category also impacts circling radius as shown in the figure below==
+* ==Aircraft category also impacts circling radius==
 * See the following category limits noting that the airspeeds depicted are indicated airspeeds (IAS):
   * Category A: Speed less than 91 knots.
   * Category B: Speed 91 knots or more but less than 121 knots.
