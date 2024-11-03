@@ -108,12 +108,11 @@ When air descends, the opposite is true.
 
 ![Structure of atmosphere. [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851)](/img/structure-of-atmosphere-2.jpg){width=400}
 
-**Lifted index** is the difference found by subtracting the temperature of a parcel of air theoretically lifted from the surface to 500 millibars and the existing temperature at 500 millibars.
-The lifted index is computed as if a parcel of air near the surface were lifted to 500 millibars.
-As the air is 'lifted,' it cools by expansion.
-The temperature the parcel would have at 500 millibars is then subtracted from the existing 500 millibar (mb) temperature.
-The difference is the lifted index; it may be positive, zero, or negative.
-
+* **Lifted index** is the difference found by subtracting the temperature of a parcel of air theoretically lifted from the surface to 500 millibars and the existing temperature at 500 millibars.
+  * The lifted index is computed as if a parcel of air near the surface were lifted to 500 millibars.
+  * As the air is 'lifted,' it cools by expansion.
+  * The temperature the parcel would have at 500 millibars is then subtracted from the existing 500 millibar (mb) temperature.
+  * The difference is the lifted index; it may be positive, zero, or negative.
 * **K-Index** is an indication of the probability of thunderstorms
 
 ### Pressure Systems

@@ -48,6 +48,8 @@ This page covers *Task E. Elements of Effective Teaching in a Professional Envir
     * ==**C** - Be **consistent**==
     * ==**A** - **Admit errors**==
 
+![Minimizing learner frustrations. [FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 8: Aviation Instructor Responsibilities and Professionalism](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/10_aih_chapter_8.pdf) Figure 8-4.](/img/aih/aih-figure-8-4-minimizing-frustrations.jpg){width=400}
+
 ## Flight Instructor Responsibilities
 
 1. Physiological obstacles for flight students

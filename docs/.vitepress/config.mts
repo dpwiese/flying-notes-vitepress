@@ -12,9 +12,10 @@ export default defineConfig({
     nav: [
       { text: 'CFI', link: '/cfi', activeMatch: '^/cfi/' },
       { text: 'CFII', link: '/cfii', activeMatch: '^/cfii/' },
-      { text: 'Baron', link: '/baron/e55-early/systems', activeMatch: '^/baron/' },
+      { text: 'Baron', link: '/baron', activeMatch: '^/baron/' },
       { text: 'Twin Comanche', link: '/twin-comanche/twin-comanche', activeMatch: '^/twin-comanche/' },
-      { text: 'Seminole', link: '/seminole/systems', activeMatch: '^/seminole/' }
+      { text: 'Seminole', link: '/seminole/systems', activeMatch: '^/seminole/' },
+      { text: 'Study Guides', link: '/study-guides', activeMatch: '^/study-guides/' }
     ],
     sidebar: {
       '/cfi/': [
@@ -226,10 +227,22 @@ export default defineConfig({
             { text: 'Systems', link: '/seminole/systems' }
           ]
         }
+      ],
+      '/study-guides/': [
+        {
+          text: 'Study Guides',
+          collapsed: false,
+          items: [
+            { text: 'Private', link: '/study-guides/ppl' },
+            { text: 'CFI', link: '/study-guides/cfi' },
+            { text: 'CFII', link: '/study-guides/cfii' },
+            { text: 'IPC', link: '/study-guides/ipc' }
+          ]
+        }
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/dpwiese' }
+      { icon: 'github', link: 'https://github.com/dpwiese/flying-notes-vitepress' }
     ],
     outline: [2, 3],
     search: {

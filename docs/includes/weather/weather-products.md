@@ -41,7 +41,6 @@ More importantly than memorizing all of the products below, which are constantly
 ### Observations
 
 * See [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf)
-
 * Surface observations
   * **METAR**
     * Provide local weather conditions and other relevant information for a specific airport
@@ -178,7 +177,7 @@ More importantly than memorizing all of the products below, which are constantly
 * `LTGCG`
   * Lightning cloud to ground
 
-![METAR descriptors. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf)](/img/phak/phak-figure-13-5-metar-descriptors.png){width=560}
+![METAR descriptors. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf)](/img/phak/phak-figure-13-5-metar-descriptors.png){width=800}
 
 ![Sky conditions. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf)](/img/phak/phak-figure-13-6-sky-conditions.png){width=360}
 
@@ -192,18 +191,18 @@ Ceiling is the lowest layer of clouds or obscuring phenomenon that is reported a
 
 * From [AIM 7−1−14 Reporting of Cloud Heights](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html#$paragraph7-1-14):
 
-> a. Ceiling, by definition in the CFRs and as used in aviation weather reports and forecasts, is the height above ground (or water) level of the lowest layer of clouds or obscuring phenomenon that is reported as "broken," "overcast," or "obscuration,"
+  > a. Ceiling, by definition in the CFRs and as used in aviation weather reports and forecasts, is the height above ground (or water) level of the lowest layer of clouds or obscuring phenomenon that is reported as "broken," "overcast," or "obscuration,"
 
 * Note: in RMK SLPXXX - 1 hPa = 1 mb, and
   * 1013 mb = 29.92 inHg
   * 1017 mb = 30.02 inHg
 * From [https://www.aviationweather.ws/072_Obscured_or_Partially_Obscured_Sky.php](https://www.aviationweather.ws/072_Obscured_or_Partially_Obscured_Sky.php):
 
-> When the sky is totally hidden by the surface based phenomena, the ceiling is the vertical visibility from the ground upward into the obscuration.
+  > When the sky is totally hidden by the surface based phenomena, the ceiling is the vertical visibility from the ground upward into the obscuration.
 
 * From [AIM 7-1-29 International Civil Aviation Organization (ICAO) Weather Formats](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html#$paragraph7-1-29):
 
-> Except for precipitation, phenomena located within 5 statute miles of the point of observation will be reported as at the station. Phenomena between 5 and 10 statute miles will be reported in the vicinity, "VC." Precipitation not occurring at the point of observation but within 10 statute miles is also reported as in the vicinity, "VC." Phenomena beyond 10 statute miles will be shown as distant, "DSNT." Distances are in statute miles except for automated lightning remarks which are in nautical miles.
+  > Except for precipitation, phenomena located within 5 statute miles of the point of observation will be reported as at the station. Phenomena between 5 and 10 statute miles will be reported in the vicinity, "VC." Precipitation not occurring at the point of observation but within 10 statute miles is also reported as in the vicinity, "VC." Phenomena beyond 10 statute miles will be shown as distant, "DSNT." Distances are in statute miles except for automated lightning remarks which are in nautical miles.
 
 * The descriptors `MI` (shallow), `BC` (patches) and `PR` (partial) are used only in combination with the letter abbreviation `FG` (fog), e.g. `MIFG`.
 * The descriptors `DR` (drifting) and `BL` (blowing) are used only in combination with `SN` (snow), `DU` (dust) and `SA` (sand).
@@ -213,8 +212,7 @@ Ceiling is the lowest layer of clouds or obscuring phenomenon that is reported a
 * `TS` (thunderstorm) is either reported alone or in combination with one or more of the precipitation types. The end of a thunderstorm is the time at which the last thunder was heard, followed by a 15-minute period with no further thunder.
 * (Note: `TS` and `SH` are not used together, since w'w' groups can have only one descriptor.)
 * `FZ` (freezing) is used only in combination with the weather types `DZ` (drizzle), `RA` (rain) and `FG` (fog).
-
-[http://meteocentre.com/doc/metar.html](http://meteocentre.com/doc/metar.html)
+* [http://meteocentre.com/doc/metar.html](http://meteocentre.com/doc/metar.html)
 
 ## PIREP
 

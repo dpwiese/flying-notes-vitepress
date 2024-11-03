@@ -10,4 +10,10 @@ nvm use
 
 # Run for development
 npm run docs:dev
+
+# Build locally
+npm run docs:build
+
+# Clean dist and cache
+npm run docs:clean
 ```

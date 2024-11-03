@@ -9,6 +9,10 @@ This document describes the systems on the Twin Comanche.
 * PA-30 and PA-39
     * PA-39 (`N24TE`) has counter-rotating props
     * PA-30 (`N2VQ`) has normally-rotating props
+* For Twin Comanche accelerate-stop and accelerate-go distances need not be published
+  * It is a normal category plane not weighing more than 6,000 lbs
+    * [14 CFR &sect;23.1585(f)(2) - Operating procedures (2017)](https://www.ecfr.gov/on/2017-08-29/title-14/chapter-I/subchapter-C/part-23/subpart-G/subject-group-ECFR4b4f22832845ca2/section-23.1585#p-23.1585(f)(2))
+    * [14 CFR &sect;23.1587(d) - Performance information (2017)](https://www.ecfr.gov/on/2017-08-29/title-14/chapter-I/subchapter-C/part-23/subpart-G/subject-group-ECFR4b4f22832845ca2/section-23.1587#p-23.1587(d))
 
 ## Systems
 
