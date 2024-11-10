@@ -1,9 +1,29 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, HeadConfig } from 'vitepress'
 import implicitFigures from 'markdown-it-implicit-figures'
 import headingShiftPlugin from './plugins/heading-shift'
 import markdownItHighlight from './plugins/highlight'
 
 const publicExclude = ['**/includes/**']
+const inProd = process.env.NODE_ENV === 'production'
+
+const baseHeaders: HeadConfig[] = [
+  ['link', { rel: 'icon', href: '/favicon.ico' }],
+  ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
+  ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+  ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }]
+]
+
+const umamiHeader: HeadConfig = [
+  'script',
+  {
+    async: 'true',
+    defer: 'true',
+    'data-website-id': 'b8623f54-cf19-4e90-94cb-3ca24c2ca32d',
+    src: 'https://cloud.umami.is/script.js'
+  }
+]
+
+const headers = inProd ? [...baseHeaders, umamiHeader] : baseHeaders
 
 export default defineConfig({
   title: "Flying Notes",
@@ -276,10 +296,5 @@ export default defineConfig({
       }
     }
   },
-  head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
-    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }]
-  ],
+  head: headers
 })
