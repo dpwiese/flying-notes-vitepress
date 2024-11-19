@@ -23,7 +23,6 @@ const umamiHeader: HeadConfig = [
   }
 ]
 
-const headers = inProd ? [...baseHeaders, umamiHeader] : baseHeaders
 const mathJaxHeaders: HeadConfig[] = [
   [
     'script',
