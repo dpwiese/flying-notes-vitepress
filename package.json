@@ -6,9 +6,13 @@
     "vitepress": "^1.4.2"
   },
   "scripts": {
-    "docs:dev": "vitepress dev docs",
+    "docs:dev": "COMMIT_HASH=$(git rev-parse HEAD) vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "docs:clean": "rm -rf docs/.vitepress/dist docs/.vitepress/cache"
+    "docs:clean": "rm -rf docs/.vitepress/dist docs/.vitepress/cache node_modules",
+    "postinstall": "cp -R ./node_modules/mathjax/es5 ./docs/public/mathjax"
+  },
+  "dependencies": {
+    "mathjax": "^3.2.2"
   }
 }

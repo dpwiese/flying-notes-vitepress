@@ -22,3 +22,14 @@ html.dark mark {
 ol > li > ol > li {
   list-style-type: lower-alpha;
 }
+
+figcaption {
+  font-size: 80%;
+  font-style: italic;
+  font-weight: 600;
+}
+
+figure {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

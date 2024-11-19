@@ -24,6 +24,46 @@ const umamiHeader: HeadConfig = [
 ]
 
 const headers = inProd ? [...baseHeaders, umamiHeader] : baseHeaders
+const mathJaxHeaders: HeadConfig[] = [
+  [
+    'script',
+    {},
+    `
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\\\(', '\\\\)']],
+        displayMath: [['$$', '$$'], ['\\\\[', '\\\\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        tags: 'ams',
+        tagSide: 'right',
+        tagIndent: '0em',
+        useLabelIds: true,
+      },
+      svg: {
+        fontCache: 'global'
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      }
+    };
+    `
+  ],
+  [
+    'script',
+    {
+      type: 'text/javascript',
+      id: 'MathJax-script',
+      async: 'true',
+      src: '/mathjax/tex-mml-chtml.js'
+    }
+  ]
+]
+
+const allHeaders: HeadConfig[] = [...baseHeaders, ...mathJaxHeaders]
+
+const headers = inProd ? [...allHeaders, umamiHeader] : allHeaders
+
 
 export default defineConfig({
   title: "Flying Notes",
@@ -271,6 +311,7 @@ export default defineConfig({
   },
   markdown: {
     math: true,
+    html: true,
     config: (md) => {
       md.use(implicitFigures, {
         figcaption: true,
@@ -278,6 +319,14 @@ export default defineConfig({
       });
       md.use(headingShiftPlugin());
       md.use(markdownItHighlight);
+      const defaultFence = md.renderer.rules.fence;
+      md.renderer.rules.fence = (tokens, idx, options, env, self) => {
+        const token = tokens [idx];
+        if (token.info.trim() === 'math') {
+          return `<div class="math display">\n${token.content}\n</div>`
+        }
+        return defaultFence(tokens, idx, options, env, self);
+      }
     }
   },
   cleanUrls: true,
@@ -294,6 +343,9 @@ export default defineConfig({
           additionalData: '@import "./custom.css";'
         }
       }
+    },
+    define: {
+      __COMMIT_HASH__: JSON.stringify(process.env.COMMIT_HASH || '')
     }
   },
   head: headers

@@ -1,5 +1,10 @@
 # Holding Overview
 
+::: warning Hold Procedure
+A predetermined maneuver which keeps aircraft within a specified airspace while awaiting further clearance from air traffic control.
+:::
+
+* See [FAA Pilot/Controller Glossary: Hold Procedure](https://www.faa.gov/air_traffic/publications/atpubs/pcg_html/glossary-h.html#$HOLD%20PROCEDURE)
 * The following are some of the reasons for holds
   * Await further clearance
     * Upon reaching the clearance limit (C in CRAFT) before further clearance has been received
@@ -14,15 +19,15 @@
   * Providing more time when handling abnormal situations and emergencies
   * As part of a missed approach procedure as next steps are determined
 
-# Basic Structure of a Hold
+# Structure of a Hold
 
 ![Holding pattern descriptive terms. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-3.](/img/aim/aim-figure-5-3-3-holding-pattern-structure.png){width=600}
 
-* The figure above shows the basic structure of a hold
-  * ==Holding fix==
-  * ==Radial==
-  * ==Size==
-  * ==Direction of turns==
+* The figure above shows the basic structure of a hold, defined by four things
+  1. Holding fix
+  2. Inbound leg
+  3. Size
+  4. Direction of turns
 * The holding fix can be defined by
   * The location of a VOR
   * The intersection of VOR radials
@@ -46,19 +51,13 @@
   * Use 15&#176; bank which is approximately standard rate
 * When given a hold ATC should give EFC time, but if they don't it's a good idea to ask for it so in case comms are lost, we know when to leave the holding fix
 * Can hold at a GPS fix using OBS mode
-  * OBS suspends GPS from progressing to next waypoint and allows us to dial in a radial
+  * OBS suspends GPS from sequencing to the next waypoint and allows us to dial in a radial
 * Note: the outbound leg could be greater or less than the 1 minute inbound leg due to wind
     * More on wind correction below
 
 # Example of a Hold on an Instrument Approach Plate
 
 ![Digital Terminal Procedures: KHEF ILS 16R IAP. Note the holding pattern at Casanova for the missed approach. Default 1 minute inbound leg.](/img/tpp/dtpp-khef-ils-16r-iap.jpg){width=600}
-
-![Distance hold with inbound leg toward the navaid. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-5.](/img/aim/aim-figure-5-3-5-distance-hold-toward-navaid.png){width=600}
-
-![Distance hold with inbound leg away from the navaid. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-6.](/img/aim/aim-figure-5-3-6-distance-hold-away-navaid.png){width=600}
-
-![Examples of holding. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-2.](/img/aim/aim-figure-5-3-2-hold-examples.jpg){width=440}
 
 # Holding Entry
 
@@ -73,77 +72,141 @@
   * **Parallel Entry**
     * Use 45&#176; intercept angle
     * Note: Parallel hold entry does **not** fly the inbound leg outbound, it *parallels* it only
-      * In fact the AIM expressly says to fly over the holding fix then turn to a *heading* that is parallel the inbound course
-      * However, it's acceptable to cheat and use the pink diamond to *track* the outbound course, but again it will be parallel
-      * Also the closer we are to flying the inbound course outbound the harder the intercept is
+      * In fact the AIM expressly says to fly over the holding fix then turn to a *heading to parallel the holding course outbound on the nonholding side*
+      * This means after crossing the holding fix use the pink diamond to *track* the outbound course, but again it will be parallel
 * While we should always strive to execute the proper procedure to enter into the hold, ATC doesn't really care
   * ==The most important thing is to remain in the protected area==
   * In flight this means don't get bogged down with single degree precision determinations of hold entries, or re-determining your entry if your bearing relative to the fix changes slightly
   * Rather, make a reasonable calculation of the hold entry and the necessary heading after crossing the fix, and execute this entry
-* *It's good practice to determine the hold entry while on the ground if able, or as early as practicable when expecting to hold*
+
+::: tip
+Determine the hold entry as early as practicable when expecting to hold.
+For example when briefing an approach you can determine and brief the expected entry to the hold on the missed approach procedure.
+:::
 
 # Compensating for Wind
 
-![Drift correction in holding pattern. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 10: IFR Flight Figure 10-5.](/img/ifh/ifh-figure-10-5-holding-wind.jpg){width=340}
-
+* When flying a holding pattern, the effects of wind need to be compensated for to ensure the hold is flown within the airspace protected for that hold
 * In timed holds, both *crosswind corrections* and *timing corrections* must be made
 * In distance holds, only crosswind corrections need to be made
-* **Timing corrections**
-  * **==Adjust outbound to achieve 1 minute inbound legs==**
-  * Time the outbound leg when over/abeam the fix
-    * ==Abeam the fix is most accurately determined by flag flip==
-    * If the abeam position cannot be determined, start timing when turn to outbound is completed
-  * If you fly an initial outbound leg of 1 minute and that gives an inbound leg of 50 seconds, then
-    * Take this deficit of 10 seconds
-    * Multiply it by 1.5 and apply it to the next outbound leg
-    * This would give an outbound leg of 1:15
-  * If you have a wind vector in the cockpit, *==fly an extra second outbound per knot of headwind on the outbound leg==*
-    * Some rules-of-thumb propose flying an extra half second outbound per knot of headwind on the outbound leg
-  * *Note: when flying, don't overthink these rules-of-thumb - come up with a reasonable adjustment to the outbound and fly it, don't get fixated on perfecting mental math*
-  * *Note: it is better to go out a bit further and give more time on the inbound than cutting the inbound too tight*
-* **Crosswind corrections**
-  * ==**To compensate for crosswind, *triple* the inbound wind correction angle on the outbound leg**==
-    * So if heading 10&#176; right of the inbound course is required to stay on course, on the outbound leg use a 30&#176; wind correction to the left
-  * Do not compensate for wind when turning - just fly standard rate turns (15&#176; bank angle)
 * The most important thing is to *stay within the protected airspace for the hold*
 
-# Compensating for Wind Using Track Diamond
+![Drift correction in holding pattern. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 10: IFR Flight Figure 10-5.](/img/ifh/ifh-figure-10-5-holding-wind.jpg){width=340}
 
-* In the following images we are holding inbound on the R-180 from the Armel VOR over Washington Dulles
+::: tip
+When executing a hold, don't overthink the rules-of-thumb below.
+Instead, come up with a reasonable adjustment to the outbound and fly it, don't get fixated on perfecting mental math.
+It's OK to round off a degree of heading or second of time.
+:::
+
+## Timing corrections
+
+* **==Adjust outbound to achieve 1 minute inbound legs==**
+* Time the outbound leg when abeam the fix
+  * ==Abeam the fix is most accurately determined by flag flip==
+    * This is consistent with guidance in [AIM 5-3-8(g)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8)
+  * If the abeam position cannot be determined, start timing when turn to outbound is completed
+* If you fly an initial outbound leg of 1 minute and that gives an inbound leg of 50 seconds, then
+  * Take this deficit of 10 seconds
+  * Multiply it by 1.5 and apply it to the next outbound leg
+  * This would give an outbound leg of 1:15
+* If you have a wind vector in the cockpit, *==fly an extra second outbound per knot of headwind on the outbound leg==*
+  * Some rules-of-thumb propose flying an extra half second outbound per knot of headwind on the outbound leg
+* No timing corrections are to be made on the *initial* outbound
+  * See [AIM 5-3-8(j)(4)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8)
+* *Note: it is better to go out a bit further and give more time on the inbound than cutting the inbound too tight*
+
+## Crosswind corrections
+
+* ==**To compensate for crosswind, *triple* the inbound wind correction angle on the outbound leg**==
+  * So if heading 10&#176; right of the inbound course is required to stay on course, on the outbound leg use a 30&#176; wind correction to the left
+* Do not compensate for wind when turning - just fly standard rate turns (15&#176; bank angle)
+
+## Using Track Diamond
+
+::: info NOTE
+In aircraft equipped with track information displayed on the HSI, the application of proper crosswind corrections is made easier.
+:::
+
+* Consider the following hold: *"Hold south of the AML VOR on the 180 radial, left turns"*
+* This means our inbound `CRS` is 360
 * There is a 20 knot wind from the East
+
+### Note Inbound Crosswind Correction
+
+* To make proper crosswind corrections throughout the hold, first note the required crosswind correction when established inbound
+* Once established inbound on a `TRK` is 360, and `HDG` is 010, giving a 10&#176; crosswind correction to the right
 
 ![Crosswind correction on inbound leg. The inbound *course* is 360&#176;, and to track this course a *heading* of 010&#176; must be flown -- a crosswind correction of 10&#176; to the *right*. The track diamond shows the *track* of 360&#176; as desired.](/img/xplane-holding-inbound.jpg){width=340}
 
+### Incorrect Outbound Crosswind Correction
+
+* This shows what the hold would look like if we made the ***incorrect*** crosswind corrections on the outbound, using the same crosswind correction as the inbound
+
 ![This shows the *wrong* crosswind correction on outbound leg -- using the same crosswind correction as on the inbound leg of 10&#176; (only here the crosswind correction is to the left) for a heading of 170&#176;. This results in a *track* of 180&#176;, which is parallel to the inbound. This might seem like a reasonable approach, but it means when the outbound leg is completed that the turn inbound, turning through a headwind, can not simply be a continuous standard rate to intercept the inbound course. Rather, the aircraft will either roll out significantly left of the inbound course, or require rolling out for a period as shown here.](/img/xplane-holding-outbound-1x-crosswind-correction-with-track.jpg){width=800}
+
+### Correct Outbound Crosswind Correction
+
+* This shows the ***correct*** crosswind corrections on the outbound, multiplying the inbound crosswind correction by 3
+* This gives us an outbound ***heading*** of 150
 
 ![This shows the *correct* crosswind correction on the outbound leg. The no-wind outbound course is 180&#176; but the 10&#176; crosswind correction (to the right) on the inbound leg is *tripled* on the outbound leg. That means in this case a crosswind correction of 30&#176; (to the left on the outbound) Given the no-wind track of 180&#176; on the outbound, this correction gives a *heading* to fly of 150&#176;. This gives a *track* of 160&#176; and brings the plane a bit closer to the inbound course. When completing the outbound leg, this ensures a standard-rate turn will bring the aircraft right back onto the inbound course when the turn is completed.](/img/xplane-holding-outbound-3x-crosswind-correction-with-track.jpg){width=800}
 
-# Holding Procedures
+# Unpublished Holds
 
-* Approaching the holding fix
-  * Determine the hold from the chart or ATC instructions
-  * Determine hold entry
-  * ==**Draw the hold** on the chart to help with situational awareness and ensure the hold is as cleared==
+* Holds can be published or unpublished
+* When the hold is not published an ATC clearance will specify
+    1. Location of the inbound leg relative to the fix (in terms of N, SE, etc.)
+    2. Holding fix
+    3. Radial, course, bearing, airway, or route on which the aircraft is to hold
+    4. Leg length in miles if DME or RNAV is to be used
+    5. Direction of turn, if left turns are to be made
+    6. Time to expect-further-clearance (EFC) and any pertinent additional delay information
+* Note how DME holds are defined in the image below
+
+![Distance holds. [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook) [Chapter 3: Arrivals](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_3.pdf)](/img/iph/iph-figure-3-18-distance-holds.jpg){width=800}
+
+![Distance hold with inbound leg toward the navaid. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-5.](/img/aim/aim-figure-5-3-5-distance-hold-toward-navaid.png){width=600}
+
+![Distance hold with inbound leg away from the navaid. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-6.](/img/aim/aim-figure-5-3-6-distance-hold-away-navaid.png){width=600}
+
+![Examples of holding. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-2.](/img/aim/aim-figure-5-3-2-hold-examples.jpg){width=440}
+
+# Flying a Hold
+
+## Determine Entry, CRS, and TRK
+
+* Determine the hold from the chart or ATC instructions
+  * ==**Draw the hold** on the chart to help with situational awareness and ensure the hold is flown as cleared==
+* Determine inbound course (`CRS`)
+  * This may or may not be the same as the *radial that defines* the inbound leg
+* Determine hold entry
+* Determine the initial outbound track (`TRK`)
+  * Alternatively heading in aircraft not equipped to provide track information
+
+## Prior to Entry
+
 * Prior to entering the hold
-  * ==Start slowdown 3 minutes before reaching holding fix==
+  * Start slowdown 3 minutes before reaching holding fix
     * Remember it's a good idea to ask ATC to slow down as soon as you are expecting to hold
   * Power 2100 RPM
   * Use a little left rudder
   * 2 slow turns of nose-up trim
   * Airspeed should be about 90-95 KIAS
+
+## Initial Outbound
+
 * Crossing the holding fix run **T + 5 T's**
   * **Toggle**
-    * Switch to OBS/SUSP as necessary
-      * SUSP prevents the GPS from sequencing
-    * OBS also suspends GPS from progressing to next waypoint and allows us to dial in a radial
+    * Switch to `OBS`/`SUSP` as necessary
+    * `SUSP` prevents the GPS from sequencing
+      * For example, if we are holding in a HILPT and need to remain in the hold instead of sequencing on the the rest of the approach
+    * `OBS` also suspends GPS from progressing to next waypoint and allows us to dial in a radial
+      * For example, if we've been given an unpublished hold
   * **Turn**
-    * Turn to the outbound heading determined by the entry procedure
+    * Turn to the outbound track (or heading) determined by the entry procedure
   * **Time**
-    * ==Start the timer when wings are level==
-    * Don't rush to start the timer, having a bit more time is better than being rushed
-    * This is in case there is a tailwind on the inbound leg
-    * Especially on parallel entry that has a tighter turn
-    * Better to go out a bit further and give more time on the inbound than cutting the inbound too tight
+    * Start the timer when wings are level
   * **Twist**
     * Twist OBS to inbound course
     * Twist heading bug to outbound heading
@@ -190,7 +253,7 @@
   * **Talk**
     * Talk to ATC as needed or requested
 * When completing the turn and heading outbound
-  * ==Time the outbound leg when over/abeam the fix==
+  * ==Time the outbound leg when abeam the fix==
   * **==Abeam the fix is most accurately determined by flag flip==**
   * If the abeam position cannot be determined, start timing when turn to outbound is completed
 * Repeat this process for each turn in the hold
@@ -211,26 +274,12 @@
     * ==Wings level==
     * ==Course centered==
 * When **completing the turn and heading outbound**
-  * ==Time the outbound leg when over/abeam the fix==
+  * ==Time the outbound leg when abeam the fix==
   * **==Abeam the fix is most accurately determined by flag flip==**
   * If the abeam position cannot be determined, start timing when turn to outbound is completed as indicated by wings level
     * See the example below
 
 ![Consider the hold on the published missed approach at PADDR. The completion of the outbound turn cannot be determined using the VORs, so the outbound turn is considered complete when wings are level.](/img/vor-30-klgb.jpg){width=600}
-
-# Unpublished Holds
-
-* Holds can be published or unpublished
-* When the hold is not published an ATC clearance will specify
-    1. Location of the inbound leg relative to the fix (in terms of N, SE, etc.)
-    2. Holding fix
-    3. Radial, course, bearing, airway, or route on which the aircraft is to hold
-    4. Leg length in miles if DME or RNAV is to be used
-    5. Direction of turn, if left turns are to be made
-    6. Time to expect-further-clearance (EFC) and any pertinent additional delay information
-* Note how DME holds are defined in the image below
-
-![Distance holds. [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook) [Chapter 3: Arrivals](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_3.pdf)](/img/iph/iph-figure-3-18-distance-holds.jpg){width=800}
 
 # Holding Speed Limits
 
