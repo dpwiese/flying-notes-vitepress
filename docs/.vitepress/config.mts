@@ -2,11 +2,12 @@ import { defineConfig, HeadConfig } from 'vitepress'
 import implicitFigures from 'markdown-it-implicit-figures'
 import headingShiftPlugin from './plugins/heading-shift'
 import markdownItHighlight from './plugins/highlight'
+import FullReload from 'vite-plugin-full-reload'
 
 const publicExclude = ['**/includes/**']
 const inProd = process.env.NODE_ENV === 'production'
 
-const baseHeaders: HeadConfig[] = [
+const iconHeaders: HeadConfig[] = [
   ['link', { rel: 'icon', href: '/favicon.ico' }],
   ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
   ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
@@ -59,10 +60,9 @@ const mathJaxHeaders: HeadConfig[] = [
   ]
 ]
 
-const allHeaders: HeadConfig[] = [...baseHeaders, ...mathJaxHeaders]
+const baseHeaders: HeadConfig[] = [...iconHeaders, ...mathJaxHeaders]
 
-const headers = inProd ? [...allHeaders, umamiHeader] : allHeaders
-
+const headers = inProd ? [...baseHeaders, umamiHeader] : baseHeaders
 
 export default defineConfig({
   title: "Flying Notes",
@@ -343,6 +343,9 @@ export default defineConfig({
         }
       }
     },
+    plugins: [
+      FullReload(['docs/**/*.md'])
+    ],
     define: {
       __COMMIT_HASH__: JSON.stringify(process.env.COMMIT_HASH || '')
     }
