@@ -50,7 +50,7 @@ This page covers *Task A. Nonprecision Instrument Approach (NPA)* from the [FAA-
   * 3&#176; is about 300'/nm descent so that can be used to calculate VDP if it is not on approach plate
   * Should always predetermine a VDP if not published
 * GPS can be used instead of the VOR receiver for a VOR approach *if the underlying NAVAID is monitored for course guidance*
-  * See [Using GPS for Non-GPS Approaches](http://localhost:5173/cfi/tsa/nav-systems-radar-services#using-gps-for-non-gps-approaches)
+  * See [Using GPS for Non-GPS Approaches](/cfi/tsa/nav-systems-radar-services#using-gps-for-non-gps-approaches)
 
 ## Completion Standards
 
