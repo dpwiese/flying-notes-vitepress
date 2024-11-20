@@ -34,6 +34,18 @@ figure {
   margin-bottom: 30px;
 }
 
+/* Prevent scrolling of displayMath equations */
 mjx-container {
   overflow-x: visible;
+}
+
+/* Set font size of inline (SVG) math */
+mjx-container[jax="SVG"] {
+  font-size: 90%;
+}
+
+/* Fix li spacing dependent on use of newlines between bullets in markdown */
+li p {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
 }

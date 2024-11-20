@@ -16,9 +16,9 @@ This page covers *Task E. Aircraft Flight Controls and Operation of Systems* fro
 
 <!--@include: ./docs/includes/systems/landing-gear.md-->
 
-### Fuel, oil, and hydraulic
-
-<!--@include: ./docs/includes/systems/fuel-oil-hydraulic-system.md | shift:3-->
+<!--@include: ./docs/includes/systems/fuel.md | shift:2-->
+<!--@include: ./docs/includes/systems/oil.md | shift:2-->
+<!--@include: ./docs/includes/systems/hydraulic.md | shift:2-->
 
 ### Electrical
 
@@ -56,3 +56,4 @@ This page covers *Task E. Aircraft Flight Controls and Operation of Systems* fro
     * Page 2-1 – 2-6
   * [Chapter 13: Transition to Multiengine Airplanes](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/14_afh_ch13.pdf)
     * Page 13-2
+* [FAA-H-8083-31B Aviation Maintenance Technician Handbook - Airframe](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)

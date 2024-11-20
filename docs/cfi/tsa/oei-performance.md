@@ -173,7 +173,6 @@ Speed below which we cannot maintain directional control if the *critical engine
   * ==**S** - Standard day==
   * ==**1** - 150 lb rudder force max==
 * The later [14 CFR &sect;23.149 (2017)](https://www.ecfr.gov/on/2017-08-29/title-14/chapter-I/subchapter-C/part-23/subpart-B/subject-group-ECFR7916c8bb933daf9/section-23.149) specifies out of ground effect, but CAR3 does not seem to
-
 * [FAA-H-8083-3C Airplane Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook) [Chapter 13: Transition to Multiengine Airplanes](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/14_afh_ch13.pdf) says the following
 
   > A knowledgeable and competent multiengine pilot understands that $V_{\text{MC}}$ is not a fixed airspeed under all conditions. $V_{\text{MC}}$ is a fixed airspeed only for the very specific set of circumstances under which it was determined during aircraft certification. In reality, $V_{\text{MC}}$ varies with a variety of factors as outlined below. The $V_{\text{MC}}$ noted in practice and demonstration, or in actual OEI operation, could be less or even greater than the published value, depending on conditions and pilot technique.
@@ -332,15 +331,51 @@ Loss of an engine in a twin reduces thrust by 50%, but decreases climb performan
 
 ### Derivation of $V_{\text{X}}$ and $V_{\text{Y}}$
 
-x-dir: $T-D-W\sin(\gamma)=0$  
-y-dir: $L-W\cos(\gamma)=0$  
-y-dir: $\dot{h}=V\sin(\gamma)$  
+The following are in the aircraft body axes frame.
 
-from 1: $\sin(\gamma)=(T-D)/W \Rightarrow \gamma_{\text{max}}=(T-D)_{\text{max}}/W$  
-Thus $V_{\text{X}}$ is at max excess thrust.
+```math
+\begin{align}
+\text{x-dir:} & \; & T-D-W\sin(\gamma) &= 0\label{eq.xdir} \\
+\text{y-dir:} & \; & L-W\cos(\gamma) &= 0 \\
+\text{y-dir:} & \; & \dot{h} &= V\sin(\gamma)\label{eq.ydir}
+\end{align}
+```
 
-from 1 and 3: $\dot{h}=(T-D)V/W = (P_{\text{avail}}-P_{\text{req}})/W \Rightarrow \dot{h}_{\text{max}}=(P_{\text{avail}}-P_{\text{req}})_{\text{max}}/W$  
-Thus $V_{\text{Y}}$ is max excess power.
+From \eqref{eq.xdir}:
+
+```math
+\begin{equation*}
+\sin(\gamma)=(T-D)/W
+\end{equation*}
+```
+
+The maximum flight path angle is therefore given by the following
+
+```math
+\begin{equation*}
+\gamma_{\text{max}}=(T-D)_{\text{max}}/W
+\end{equation*}
+```
+
+Thus $V_{\text{X}}$, the airspeed which gives the steepest flight path angle, is at max excess thrust.
+From \eqref{eq.xdir} and \eqref{eq.ydir}:
+
+```math
+\begin{align*}
+\dot{h} &= (T-D)V/W \\
+        &= (P_{\text{avail}}-P_{\text{req}})/W
+\end{align*}
+```
+
+Maximizing $\dot{h}$ gives
+
+```math
+\begin{equation*}
+\dot{h}_{\text{max}}=(P_{\text{avail}}-P_{\text{req}})_{\text{max}}/W
+\end{equation*}
+```
+
+Thus $V_{Y}$, the airspeed that gives the maximum rate of climb, is at max excess power.
 
 ### Comparing Best Angle and Rate of Climb AEO vs. OEI
 
@@ -396,7 +431,7 @@ Thus $V_{\text{Y}}$ is max excess power.
   * Environmental effects also must factor into the engine failure plan
   * General recommendation from AFH page 13-16 is raise the gear no later than after reaching $V_{\text{YSE}}$ airspeed on takeoff
 
-## Relationship Between VMC and Stall Speed with Altitude
+## Relationship Between $V_{MC}$ and Stall Speed with Altitude
 
 * As the aircraft is slowing during a VMC demonstration, it is approaching one of two possible things happening
   * Stall

@@ -6,6 +6,8 @@
     * Better braking
     * Better forward visibility during taxi, takeoff, landing
     * Better stability during ground operations (CG in front of main wheels)
+* Struts
+  * Air/oil, spring steel
 * Brakes
 
 ![Retractable landing gear. Reference Unknown.](/img/rectractable-gear.jpg){width=400}

@@ -29,10 +29,13 @@ Any occurrence in the airport runway environment involving an aircraft, vehicle,
 
 ![Four categories of runway incursion severity. [FAA Runway Incursions](https://www.faa.gov/airports/runway_safety/resources/runway_incursions/)](/img/runway-incursion-four-categories.jpg){width=500}
 
-* ==*In this task, we'll focus on how to reduce and eliminate pilot deviations that result in runway incursions.*==
-  * We'll also cover ways we can ==be vigilent to avoid operational incidents==
-    * Example: Las Vegas tower controller who became incapacitated (stroke?) while at work and was issuing bad clearances to taxi and cross runways
-    * [VASAviation YouTube Las Vegas controller IMPAIRED / INCAPACITATED while on duty](https://www.youtube.com/watch?v=Jv1kmuFOhWk)
+::: danger SAFETY
+In this task, we'll focus on how to reduce and eliminate pilot deviations that result in runway incursions.
+:::
+
+* We'll also cover ways we can ***be vigilent to avoid operational incidents***
+  * Example: Las Vegas tower controller who became incapacitated (stroke?) while at work and was issuing bad clearances to taxi and cross runways
+  * [VASAviation YouTube Las Vegas controller IMPAIRED / INCAPACITATED while on duty](https://www.youtube.com/watch?v=Jv1kmuFOhWk)
 
 ## Taxi Instructions / Clearances
 

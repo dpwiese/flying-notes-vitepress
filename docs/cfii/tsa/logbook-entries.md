@@ -41,7 +41,7 @@ This page covers *Task D. Logbook Entries Related to Instrument Instruction* fro
 ## Preparation of a Recommendation for an Instrument Rating Practical Test
 
 * Requirements under Part 61 are in [14 CFR &sect;61.65 Instrument rating requirements](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-B/section-61.65)
-* [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129) gives the two required endorsements
+* [FAA-AC-61-65J Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1043278) gives the two required endorsements
   * One says the pilot has received the required training and is ready to take the test
   * The other says the pilot has received the required training within 2 months of the practical test, and that we have reviewed deficiencies on knowledge test
 * Requirements under 141
@@ -50,7 +50,7 @@ This page covers *Task D. Logbook Entries Related to Instrument Instruction* fro
 
 ## Required Logbook Endorsement for Satisfactory Completion of an IPC {#ipc-required-logbook-endorsement}
 
-* [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129) gives the required endorsement upon satisfactory completion of an IPC
+* [FAA-AC-61-65J Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1043278) gives the required endorsement upon satisfactory completion of an IPC
   * No logbook entry reflecting unsatisfactory performance is required - just log it as dual given
   * [FAA-AC-61-98D Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/1033391)
   * See also Instrument ACS for IPC requirements

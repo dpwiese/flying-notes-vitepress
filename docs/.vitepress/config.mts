@@ -40,6 +40,9 @@ const mathJaxHeaders: HeadConfig[] = [
         tagIndent: '0em',
         useLabelIds: true,
       },
+      chtml: {
+        scale: 0.9
+      },
       svg: {
         fontCache: 'global'
       },

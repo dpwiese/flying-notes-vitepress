@@ -23,54 +23,66 @@ This began with simple theories and models.
 
 ### Lift
 
-* Lift: $L=\frac{1}{2}\rho v^{2}SC_{L}$ where $C_{L}(\alpha, Re, Ma)$
+Lift is given by the following equation
 
-::: warning Center of Pressure (CP)
-A single point at which the lift and drag forces on an airfoil can be applied about which they exert zero moment.
+```math
+\begin{equation}\label{eq.lift}
+L=\frac{1}{2}\rho v^{2}SC_{L}
+\end{equation}
+```
+
+Where $\rho$ is the density, $v$ is the velocity, $S$ is a reference area (such as the wing area) and $C_{L}(\alpha, Re, Ma)$ is the lift coefficient.
+$\alpha$ is the angle of attack, $Re$ is the Reynolds number, and $Ma$ is the Mach number.
+For the purposes of aerodynamics for pilots, we can consider $C_{L}$ as dependent only on angle of attack.
+
+::: warning Angle of Attack
+The angle between the chord line of the wing and the relative airflow.
 :::
 
-* **Center of pressure**
-  * The location of the center of pressure moves significantly with a change in angle of attack.
-  * When angle of attack increases, CP moves forward.
-  * When angle of attack decreases, CP moves rearward.
-  * See [NASA Center of Pressure](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/center-of-pressure/)
-  * The location of the center of pressure in a *symmetrical airfoil* remains relatively constant as the angle of attack changes, but in an asymmetrical airfoil, the center of pressure moves forward as the angle of attack increases and rearward as the angle of attack decreases.
+For small angles of attack, $C_{L}$ varies linearly with $\alpha$ as shown in the figure below.
 
-::: warning Aerodynamic Center
-Point at which the pitching moment coefficient for the airfoil does not vary with angle of attack.
+![Lift and drag versus angle of attack. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-5.](/img/phak/phak-figure-5-5-lift-drag-versus-angle-of-attack.png){width=800}
+
+When the angle of attack becomes sufficiently large, there comes a point where it no longer results in an increase in $C_{L}$.
+This is called the *critical angle of attack*.
+
+::: warning Critical Angle of Attack
+The angle of attack which results in the maximum lift coefficient.
 :::
 
-* Aerodynamic center
-  * Used to simplify calculations in aerodynamic analysis
-  * Located roughly at quarter-chord.
+Any increase in the angle of attack beyond the critical angle of attack results in a decrease in the lift coefficient.
+Exceedence of the critical angle of attack is known as an aerodynamic *stall*.
+
+::: info NOTE
+Stall is a function only of angle of attack.
+When the critical angle of attack is exceeded, the airfoil will stall, regardless of velocity.
+:::
+
+However, most general aviation aircraft are not equipped with an angle of attack indicator, so we try to understand for various flight conditions and configurations what *airspeed* an aircraft will stall at.
+This is generally done assuming steady level flight or a steady turn.
+During steady-level flight at a fixed weight, CG location, and configuration, the relationship beween airspeed and stall is fairly clear - looking at the lift equation \eqref{eq.lift}, as the aircraft slows down $C_{L}$ must increase (therefore $\alpha$ must increase).
+The minimum speed at which the aircraft can maintain level flight represents the actual stalling speed in this situation.
 
 ::: warning Stall Speed
-the speed at which a further increase in angle of attack results in a decrease in the lift coefficient
+The speed below which, for a specified aircraft configuration, an aircraft will stall.
 :::
 
-* Stall speed
-  * The angle of attack for which the maximum lift coefficient occurs is called *critical angle of attack*.
-  * Aerodynamic stall is *only a function of angle of attack*. However, in general aviation most aircraft are not equipped with an angle of attack indicator, so we try to understand at what *airspeed* an aircraft will stall at.
-  * During steady-level flight at a fixed weight, CG location, and configuration, this relationship is fairly clear - looking at the lift equation above, as the aircraft slows down $C_{L}$ must increase (therefore $\alpha$ must increase). The minimum speed at which the aircraft can maintain level flight represents the actual stalling speed in this situation.
-  * When aircraft manufacturers publish stall speeds, these variables (weight, CG location, and configuration) must be selected to then provide the stall speed. Furthermore, the flight condition must be selected (level flight or turning).
-  * For example $V_{\text{SO}}$ is stalling speed in *landing configuration* with *most forward CG* during *level flight* at *maximum landing weight* with *power idle*.
-    * See: [14 CFR &sect;1.2 Abbreviations and symbols](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-A/part-1/section-1.2) for definitions, although this just says for $V_{\text{SO}}$ that it is the stalling speed or the minimum steady flight speed in the landing configuration.
-    * Part 25 of the CFRs defines airworthiness standards for transport category aircraft. [14 CFR &sect;25.103 Stall speed](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-25/subpart-B/subject-group-ECFR14f0e2fcc647a42/section-25.103) defines the conditions under which stall speed is to be determined, and includes requirements, for example, that power is idle and CG is in most forward position.
-    * Part 23 of the CFRs defines airworthiness standards for normal category aicraft. [14 CFR &sect;23.2110 Stall speed](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-23/subpart-B/subject-group-ECFR0f27e01839859ea/section-23.2110) says that the stall speed determination must account for the most adverse conditions for each flight configuration.
-  * So in practice the actual stall speed may be different than the published value.
-    * Also, $V_{\text{SO}}$, at least in the C172SP seems to be given in KCAS. In this example it is 48 KCAS, which corresponds to 40 KIAS.
-  * The stalling speed increases in proportion to the square root of the load factor.
-    * Looking at the stall speed at the critical angle of attack: $L=\frac{1}{2}\rho v^{2}SC_{L\text{max}}$ we can see that $v\propto\sqrt{L}$
-  * The stalling speed increase as CG moves forward and decreases as it moves rearward.
-    * This is because as the CG moves forward, there is an increase in downward force produced by the horizontal stabilizer to balance out the moments. But to balance out this increase in downward force, more lift must be produced by the wings. Therefore at a given flight condition, the aircraft with the forward CG will require more lift than that with a rearward CG, meaning a higher minimum speed to maintain the flight condition.
+* When aircraft manufacturers publish stall speeds, these variables (weight, CG location, and configuration) must be selected to then provide the stall speed. Furthermore, the flight condition must be selected (level flight or turning).
+* For example $V_{\text{SO}}$ is stalling speed in *landing configuration* with *most forward CG* during *level flight* at *maximum landing weight* with *power idle*.
+  * See: [14 CFR &sect;1.2 Abbreviations and symbols](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-A/part-1/section-1.2) for definitions, although this just says for $V_{\text{SO}}$ that it is the stalling speed or the minimum steady flight speed in the landing configuration.
+  * Part 25 of the CFRs defines airworthiness standards for transport category aircraft. [14 CFR &sect;25.103 Stall speed](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-25/subpart-B/subject-group-ECFR14f0e2fcc647a42/section-25.103) defines the conditions under which stall speed is to be determined, and includes requirements, for example, that power is idle and CG is in most forward position.
+  * Part 23 of the CFRs defines airworthiness standards for normal category aicraft. [14 CFR &sect;23.2110 Stall speed](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-23/subpart-B/subject-group-ECFR0f27e01839859ea/section-23.2110) says that the stall speed determination must account for the most adverse conditions for each flight configuration.
+* In practice the actual stall speed may be different than the published value.
+  * Also, $V_{\text{SO}}$, at least in the C172SP seems to be given in KCAS. In this example it is 48 KCAS, which corresponds to 40 KIAS.
+* The stall speed increases in proportion to the square root of the load factor.
+  * Looking at the stall speed at the critical angle of attack: $L=\frac{1}{2}\rho v^{2}SC_{L\text{max}}$ we can see that $v\propto\sqrt{L}$
+  * See [Load Factors](/cfi/tsa/principles-of-flight#load-factors) below
+* The stalling speed increase as CG moves forward and decreases as it moves rearward.
+  * This is because as the CG moves forward, there is an increase in downward force produced by the horizontal stabilizer to balance out the moments. But to balance out this increase in downward force, more lift must be produced by the wings. Therefore at a given flight condition, the aircraft with the forward CG will require more lift than that with a rearward CG, meaning a higher minimum speed to maintain the flight condition.
 
-![Airfoil pressure distribution. [Mark Drela, Flight Vehicle Aerodynamics](https://books.google.com/books?vid=ISBN0262526441)](/img/drela-figure-5-2.png){width=800}
+![Stall speeds. Reference: Cessna 172R Information Manual.](/img/stall-speeds-c-172.png){width=400}
 
-![Airfoil pressure distribution. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593)](/img/bernard-philpott-figure-3-8.png){width=400}
-
-![Stall speeds. Reference: Cessna 172R Information Manual.](/img/stall-speeds-c-172.png){width=300}
-
-![Performance. Reference: Cessna 172R Information Manual.](/img/performance-c-172.png){width=300}
+![Performance. Reference: Cessna 172R Information Manual.](/img/performance-c-172.png){width=400}
 
 ### Drag
 
@@ -106,7 +118,7 @@ the speed at which a further increase in angle of attack results in a decrease i
   * Thus, is a type of pressure drag.
   * Induced drag is present when analyzing inviscid, incompressible flow.
   * See: [NASA Induced Drag Coefficient](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/induced-drag-coefficient/)
-  * *Induced drag coefficient* $C_{d_{i}}$ is given by the following where $e =$ oswald efficiency
+  * *Induced drag coefficient* $C_{d_{i}}$ is given by the following where $e$ is the Oswald efficiency
   * $C_{d_{i}} = \frac{C_{l}^{2}}{\pi\text{AR}e}$
   * Lifting line theory shows that the optimum (lowest) induced drag occurs for an elliptic distribution of lift from tip to tip.
     * The efficiency factor $e$ is equal to 1.0 for an elliptic distribution and is some value less than 1.0 for any other lift distribution.
@@ -131,59 +143,53 @@ When leaving ground effect, can experience a nose-up pitching moment as downwash
 
 ### Total Drag
 
-Note: generally lower case letters are used to denote *profile* values whereas capital letters are used to denote *wing* or *aircraft* values.
-For example, $C_{l}$ refers to an airfoil lift coefficient, and $C_{L}$ refers to an aircraft lift coefficient.
+Generally lower case letters are used to denote *profile* values whereas capital letters are used to denote *wing* or *aircraft* values.
+For example, $C_{l}$ refers to an *airfoil* lift coefficient, and $C_{L}$ refers to an *aircraft* lift coefficient.
+Drag $D$ is given by the following.
 
-$D = D_{0} + D_{i}$
+```math
+\begin{align*} 
+D &= D_{0} + D_{i} \\
+  &= \frac{1}{2}\rho v^{2}SC_{D_{0}} + \frac{1}{2}\rho v^{2}S\frac{C_{L}^{2}}{\pi\text{AR}e}
+\end{align*}
+```
 
-$D = \frac{1}{2}\rho v^{2}SC_{D_{0}} + \frac{1}{2}\rho v^{2}S\frac{C_{L}^{2}}{\pi\text{AR}e}$
+$D_{0}$ is the parasitic drag term, and $D_{i}$ is the induced drag term.
+Recalling lift is given by $L=\frac{1}{2}\rho v^{2}SC_{L}$ and setting $L=W$ for the steady flight condition, the $C_{L}^{2}$ term is given by:
 
-Recalling lift is given by $L=\frac{1}{2}\rho v^{2}SC_{L}$ and setting $L=W$ for the steady flight condition, $C_{L}$ is given by:
-
-$C_{L}^{2}=\frac{W^{2}}{(\frac{1}{2}\rho v^{2}S)^{2}}$
+```math
+\begin{equation*}
+C_{L}^{2}=\frac{W^{2}}{(\frac{1}{2}\rho v^{2}S)^{2}}
+\end{equation*}
+```
 
 Substituting this in we get $D$ as a function of $v$:
 
-$D = \frac{1}{2}\rho v^{2}SC_{D_{0}} + \frac{W^{2}}{\frac{1}{2}\rho v^{2}S\pi\text{AR}e}$
+```math
+\begin{equation*}
+D = \frac{1}{2}\rho v^{2}SC_{D_{0}} + \frac{W^{2}}{\frac{1}{2}\rho v^{2}S\pi\text{AR}e}
+\end{equation*}
+```
 
 * The takeaway
   * ==Total drag is composed of a sum of a $v^{2}$ term (parasitic drag) and a $\frac{1}{v^{2}}$ term (induced drag)==
   * ==At low airspeeds induced drag dominates and at high airspeeds parasitic drag dominates==
 
-![Total drag as a function of airspeed. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593)](/img/philpott-drag-figure-5-10.png){width=400}
+![Total drag as a function of airspeed. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593)](/img/philpott-drag-figure-5-10.png){width=500}
 
 ![Drag versus airspeed. ASA 2022 Instructor Test Prep Figure 2-9.](/img/asa-2022-instructor-test-prep-figure-2-9-drag-vs-airspeed.png){width=320}
 
 ### Coordinated Flight
 
-In coordinated turn there is no lateral acceleration. Uncoordinated flight is flying with the wrong turn rate for a given bank angle.
-Figure 5-35 in [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) is wrong - for a fixed lift vector, weight vector, and bank angle, you can't just draw in different centrifugal forces.
-The reality is the direction of the lift vector changes in uncoordinated flight so as to not be strictly in the $z$ direction.
+In a coordinated turn there is no lateral acceleration.
+Uncoordinated flight is flying with the wrong turn rate for a given bank angle.
+Figure 5-35 in [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) is not helpful.
+The reality is the direction of the net lift vector changes in uncoordinated flight so as to not be strictly in the $z$ direction.
+Alternatively, the aerodynamic contributions due to other surfaces (e.g. vertical stabilizer) need to be considered.
 
-### Turn Rate
+#### Slipping and Skidding Turns
 
-Consider an aircraft with roll angle $\phi$.
-Centripetal acceleration $a_{r}$ is given by $a_{r}=V^{2}/R$ where $V$ is the aircraft velocity and $R$ is the turn radius.
-
-$L\cos(\phi)=W$  
-$L\sin(\phi)=ma_{r}=\frac{mV^{2}}{R}=\frac{W}{g}\frac{V^{2}}{R}$  
-
-Putting this together we get
-
-$R=\frac{V^{2}}{g\tan\phi}$  
-
-From this we can see that there is a unique solution for $\phi$ and $R$.
-The time to complete one turn is given by
-
-$t=\frac{2\pi R}{V}=\frac{2\pi V}{g\tan\phi}$  
-
-therefore the rate of turn is given by
-
-$\dot{\psi}=\frac{2\pi}{t}=\frac{g\tan\phi}{V}$
-
-### Slipping and Skidding Turns
-
-* Figure 9 demonstrates the difference between a coordinated turn with
+* The figure below demonstrates the difference between a coordinated turn with
   * (A) appropriate rudder
   * (B) not enough rudder, called slipping
   * (C) too much rudder, called skidding
@@ -197,9 +203,54 @@ $\dot{\psi}=\frac{2\pi}{t}=\frac{g\tan\phi}{V}$
 
 ![[FAA-CT-8080-5H Instructor Knowledge Test Supplement](https://www.faa.gov/training_testing/testing/supplements/media/flight_ground_instructor_akts.pdf)](/img/cfi-test-supplement-figure-22-turning-force-vectors.png){width=340}
 
-![Closest diagram I can find to actual free body diagram of turning forces. [Aviation Stackexchange: What is missing from these diagrams of the forces in slips and skids?](https://aviation.stackexchange.com/questions/77528/what-is-missing-from-these-diagrams-of-the-forces-in-slips-and-skids)](/img/turning-forces-non-normal-lift-vector.png){width=340}
+![Closest diagram I can find to actual free body diagram of turning forces. [Aviation Stackexchange: What is missing from these diagrams of the forces in slips and skids?](https://aviation.stackexchange.com/questions/77528/what-is-missing-from-these-diagrams-of-the-forces-in-slips-and-skids)](/img/turning-forces-non-normal-lift-vector.png){width=800}
 
-### Aside: Distance Lost in Gliding 360
+### Turn Rate
+
+Consider an aircraft with roll angle $\phi$.
+Centripetal acceleration $a_{r}$ is given by $a_{r}=V^{2}/R$ where $V$ is the aircraft velocity and $R$ is the turn radius.
+
+```math
+\begin{equation*}
+L\cos(\phi)=W
+\end{equation*}
+```
+
+```math
+\begin{equation*}
+L\sin(\phi)=ma_{r}=\frac{mV^{2}}{R}=\frac{W}{g}\frac{V^{2}}{R}
+\end{equation*}
+```
+
+Putting this together we get
+
+```math
+\begin{equation*}
+R=\frac{V^{2}}{g\tan\phi}
+\end{equation*}
+```
+
+From this we can see that there is a unique solution for $\phi$ and $R$.
+The time to complete one turn is given by
+
+```math
+\begin{equation*}
+t=\frac{2\pi R}{V}=\frac{2\pi V}{g\tan\phi}
+\end{equation*}
+```
+
+therefore the rate of turn is given by
+
+```math
+\begin{equation*}
+\dot{\psi}=\frac{2\pi}{t}=\frac{g\tan\phi}{V}
+\end{equation*}
+```
+
+This relationship is helpful to see as it indicates an increase in bank angle results in a faster turn rate, as does a decrease in airspeed.
+The latter might seem somewhat counter-intuitive but is important to know as it comes into play in many maneuvers which we fly, such as lazy-eights.
+
+#### Distance Lost in Gliding 360
 
 * Knowing how much altitude is lost in a gliding 360 degree turn can be helpful to know for the purposes of planning engine-out landings
 * The following uses numbers from a C172S to help understand what might be a reasonable value to expect
@@ -213,7 +264,7 @@ $\dot{\psi}=\frac{g\tan\phi}{V}$
 
 * This gives a turn rate of a little bit more than 9 degrees per second, or 40 seconds to complete a 360.
 * At 68 knots in 40 seconds would travel about 0.76 nm
-  * We didn't take into account the extra induced drag due to higher load factor, which in a 30 degree banked turn is only 1/cos(30) = 1.15
+  * We didn't take into account the extra induced drag due to higher load factor, which in a 30 degree banked turn is only $1/\cos(30) = 1.15$
   * So in 0.76 nm would lose about 500 ft going straight, which we can increase 15% or so
 * ==So a good number to assume for C172: about 600 ft lost in 360 gliding turn.==
 
@@ -228,6 +279,31 @@ $\dot{\psi}=\frac{g\tan\phi}{V}$
 * *Winglets*
   * Changes lift distribution
   * Increases wingtip bending moments
+
+### More Aerodynamic Theory
+
+![Airfoil pressure distribution. [Mark Drela, Flight Vehicle Aerodynamics](https://books.google.com/books?vid=ISBN0262526441)](/img/drela-figure-5-2.png){width=800}
+
+![Airfoil pressure distribution. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593)](/img/bernard-philpott-figure-3-8.png){width=400}
+
+::: warning Center of Pressure (CP)
+A single point at which the lift and drag forces on an airfoil can be applied about which they exert zero moment.
+:::
+
+* **Center of pressure**
+  * The location of the center of pressure moves significantly with a change in angle of attack.
+  * When angle of attack increases, CP moves forward.
+  * When angle of attack decreases, CP moves rearward.
+  * See [NASA Center of Pressure](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/center-of-pressure/)
+  * The location of the center of pressure in a *symmetrical airfoil* remains relatively constant as the angle of attack changes, but in an asymmetrical airfoil, the center of pressure moves forward as the angle of attack increases and rearward as the angle of attack decreases.
+
+::: warning Aerodynamic Center
+Point at which the pitching moment coefficient for the airfoil does not vary with angle of attack.
+:::
+
+* Aerodynamic center
+  * Used to simplify calculations in aerodynamic analysis
+  * Located roughly at quarter-chord.
 
 ## Airfoil Design Characteristics
 
@@ -271,8 +347,6 @@ $\dot{\psi}=\frac{g\tan\phi}{V}$
 ![Variations in lift curve with flaps. Fundamentals of Aerodynamics. John D Anderson. Figure 1.62.](/img/anderson-figure-1-62-cl-alpha-flaps.png){width=300}
 
 ![Effect of FLaps. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593) Figure 3.33.](/img/philpott-flaps-effect-figure-3-33.png){width=400}
-
-![Lift and drag versus angle of attack. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-5.](/img/phak/phak-figure-5-5-lift-drag-versus-angle-of-attack.png){width=540}
 
 ### Some Notes on Wings
 
@@ -496,7 +570,7 @@ Aircraft axes system is below where
 The ratio of an aircraft's lift to it's weight.
 :::
 
-* The load factor $n$ is given by $n=\frac{L}{W}$== and is important for two reasons:
+* The load factor $n$ is given by $n=\frac{L}{W}$ and is important for two reasons:
   1. It is possible for a pilot to impose a dangerous overload on the aircraft structures.
   2. An increased load factor increases the stalling speed and makes stalls possible at seemingly safe flight speeds.
 
@@ -523,13 +597,31 @@ The new CFRs for normal category aircraft has changed, but basically says the sa
 
 To see how load factor varies with roll angle $\phi$:
 
-$W=L\cos(\phi)$  
-$L=\frac{W}{\cos(\phi)}$  
-$n=\frac{L}{W}$  
-$n=\frac{1}{\cos(\phi)}$  
+```math
+\begin{equation*}
+W=L\cos(\phi)
+\end{equation*}
+```
+
+```math
+\begin{equation*}
+L=\frac{W}{\cos(\phi)}
+\end{equation*}
+```
+
+```math
+\begin{equation*}
+n=\frac{L}{W}
+\end{equation*}
+```
+
+```math
+\begin{equation*}
+n=\frac{1}{\cos(\phi)}
+\end{equation*}
+```
 
 So figure 5-53 in PHAK is just a plot of $\frac{1}{\cos(\phi)}$.
-
 Load factor varies with roll angle $\phi$ as $n=\frac{1}{\cos(\phi)}$.
 
 ![Load factor as a function of bank angle. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-53.](/img/phak/phak-figure-5-53-load-factor-vs-bank-angle.png){width=340}

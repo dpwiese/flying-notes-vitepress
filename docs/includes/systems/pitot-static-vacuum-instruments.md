@@ -37,11 +37,19 @@ For an incompressible fluid the **hydrostatic pressure** is given by the followi
 
 TODO@dpwiese - insert picture here so sign of $z$ direction is clear
 
-$p=p_{0}+\rho g (z_{0}-z)$  
+```math
+\begin{equation*}
+p=p_{0}+\rho g (z_{0}-z)
+\end{equation*}
+```
 
 Using a reference pressure $p_{0}$ at ground level (the altimeter setting) the pressure $p$ at a point $h$ *above* this reference point, it can be written
 
-$p=p_{0}-\rho g h$  
+```math
+\begin{equation*}
+p=p_{0}-\rho g h
+\end{equation*}
+```
 
 We can differentiate to get the gradient but basically we can see that at a given height $h$, when atmospheric density $\rho$ is less, the pressure decreases more slowly with altitude, and so the pressure at a given height $h$ is higher, therefore the altitude indicates lower.
 Similarly, for two different pressure gradients at the same pressure $p$ the one in colder atmosphere will be lower than in warmer atmosphere.
@@ -71,7 +79,7 @@ TODO@dpwiese - insert picture showing these pressure gradients
 
 # Gyroscopic Instruments
 
-* See CFI TSA document for an aside on gyroscopic precession
+* See [Gyroscopic Precession](/cfi/tsa/principles-of-flight#aside-gyroscopic-precession)
 * Principles
   * Rigidity in space
   * Precession

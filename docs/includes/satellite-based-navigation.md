@@ -167,17 +167,21 @@ Wide-Area Augmentation System (WAAS) is the US implementation of SBAS.
 
 ## Determining GPS Receiver Capabilities
 
-* From [Aviation StackExchange How can I tell if a G430 or G1000 has WAAS or not?](https://aviation.stackexchange.com/questions/14407/how-can-i-tell-if-a-g430-or-g1000-has-waas-or-not)
+* Check AFM/POH
+  * See, for example on a Cessna 172S G1000, the POH Section 2 - G1000 LIMITATIONS - GPS-WAAS for more info.
+  * In the Garmin G1000 NXi Pilot's Guide for the PA-28-181 Archer see the System Overview section
+* Check aircraft receiver
+* In the Garmin G1000 NXi Pilot's Guide for the PA-28-181 Archer it describes the PRN (pseudo-random noise, the unique ID identifying the satellite) and signal strength bars
 
-    > If the G1000 supports WAAS, it'll display that under the 'SBAS Selection' header and you'll see satellites at the bottom numbered in the 100s - 124, 126, 129, etc - all the 100-series satellites are the WAAS augmentation satellites. The satellites augmented by WAAS will also have a "D" at the bottom of the signal strength column.
+    > As the GPS receiver locks onto satellites, a signal strength bar is displayed for each satellite in view, with the appropriate satellite PRN number (01-32 or 120-138 for WAAS) below each bar.
 
-    > Note that just because a particular receiver has WAAS capability, it does NOT mean that the entire system/installation is certified to use it. The only way to know that is to look at the AFM and see what it is approved for.
+* The signal strength bars are described on page 20, but a solid green bar means the satellite is being used
 
-* See, for example on a Cessna 172S G1000, the POH Section 2 - G1000 LIMITATIONS - GPS-WAAS for more info.
-
-![Checking WAAS on G1000. Reference unknown.](/img/g1000_sbas02.jpg){width=440}
+![G1000 GPS Status Page. Garmin G1000 NXi Pilot's Guide for the PA-28-181 Archer.](/img/g1000-pilots-guide-figure-1-7.jpg){width=800}
 
 ![Cessna 172S WAAS Limitations.](/img/c172s-poh-waas-limitation.jpg){width=440}
+
+* WAAS satellite PRN 138 was decommissioned in May 2022 and replaced by PRN 135
 
 # Using GPS During IFR Operations
 

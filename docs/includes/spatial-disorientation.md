@@ -4,7 +4,12 @@
 Defines our natural ability to maintain our body orientation and/or posture in relation to the surrounding environment.
 :::
 
-* Sensory mismatch can cause illusions leading to spatial *disorientation*.
+* Vestibular System (inner ear/balance) + Somatosensory System (nerves/gravity) + Visual System
+* Sensory mismatch can cause illusions leading to *spatial disorientation*.
+* Vestibular system = fluid in inner-ear makes contact with hairs, deflect
+* Basically all vestibular illusions below are caused by a steady-state condition being reached in the inner ear that is not straight-and-level flight
+  * Return to straight-and-level flight from this condition then feels wrong causing the pilot to react incorrectly
+* Posture considerations
 
 ## Vestibular Illusions
 
@@ -77,15 +82,3 @@ When experiencing spatial disorientation make sure to rely on flight instruments
 * Use approach lighting (VASI or PAPI)
 
 ![Runway illusions. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 17: Aeromedical Factors](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf) Figure 17-7.](/img/phak/phak-figure-17-7-runway-illusions.jpg){width=540}
-
-* Vestibular System (inner ear/balance) + Somatosensory System (nerves/gravity) + Visual System
-* If sight is lost, senses can be misleading
-* Vestibular system = fluid in inner-ear makes contact with hairs, deflect
-* Basically all illusions below are caused by a steady-state condition being reached in the inner ear that is not straight-and-level flight
-  * Return to straight-and-level flight from this condition then feels wrong causing the pilot to react incorrectly
-* Posture considerations
-* Optical Illusions
-  * Runway width = narrow => plane high, wide => plane low
-  * Runway slope = downward => plane low, upward => plane high (low appraoch)
-  * Haze = further away
-  * Fog = pitch up attitude

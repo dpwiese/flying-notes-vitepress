@@ -25,7 +25,7 @@ This page covers *Task K. Endorsements and Logbook Entries* from the [FAA-S-ACS-
 * These are important to know when it comes to which aircraft a pilot can fly
 
 ::: tip
-Generally best answer when it comes to questions about endorsements is to consult [FAA-AC-61-65H](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129).
+Generally best answer when it comes to questions about endorsements is to consult [FAA-AC-61-65J](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1043278).
 :::
 
 ## Required Logbook Entries for Instruction Given
@@ -44,7 +44,7 @@ Instructor must sign the logbook of each person they have given flight or ground
 
 ## Required Student Pilot Endorsements and Logbook Entries
 
-* [FAA-AC-61-65H](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)
+* [FAA-AC-61-65J](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1043278)
   * This acknowledges that the endorsements it provides are *recommended*, and although it provides recommended or "sample" endorsements beyond the two above (pre-solo knowledge test and pre-solo flight training, as well as citizenship verification) it also seems to make fairly clear that only the 90 day endorsement is required, and the pre-solo knowledge test and flight training are requirements (but that need not bring an endorsement)
 * [49 CFR &sect;1552.15(c)(2)](https://www.ecfr.gov/current/title-49/part-1552#p-1552.15(c)(2))
   * Describes the required citizenship verification endorsement
@@ -59,7 +59,7 @@ Instructor must sign the logbook of each person they have given flight or ground
 * ==**Citizenship verification (A.14)**==
   * Flight school must verify citizenship before flight training begins
     * [49 CFR &sect;1552.7(a)](https://www.ecfr.gov/current/title-49/part-1552#p-1552.7(a))
-    * The wording of the CFR has changed, but previously it had said the *flight school* must verify citizenship, but the endorsement sample in [FAA-AC-61-65H](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129) says the ==*flight instructor* needs to make the endorsement and keep a copy of the documents proving citizenship for 5 years.==
+    * The wording of the CFR has changed, but previously it had said the *flight school* must verify citizenship, but the endorsement sample in [FAA-AC-61-65J](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1043278) says the ==*flight instructor* needs to make the endorsement and keep a copy of the documents proving citizenship for 5 years.==
     * As a flight instructor, it's best to keep your own records of this, even if not strictly required.
   * Can do flight training as non-US citizen, but need TSA approval
     * [Flight Training Security Program (FTSP)](https://www.fts.tsa.dhs.gov/home)
@@ -223,7 +223,7 @@ Instructor must sign the logbook of each person they have given flight or ground
   * Have instructor logbook endorsement
     * Review of deficiencies identified on airman knowledge test: [14 CFR &sect;61.39(a)(6)(iii)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.39#p-61.39(a)(6)(iii))
   * Completed and signed application
-  * See [FAA-AC-61-65H](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129) for examples of endorsements for instrument and commercial
+  * See [FAA-AC-61-65J](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1043278) for examples of endorsements for instrument and commercial
 
 ### Multi-Engine Endorsements (Added Class)
 

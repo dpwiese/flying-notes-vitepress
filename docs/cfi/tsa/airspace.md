@@ -14,45 +14,30 @@ This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Fligh
 
 ### Two-Way Radio Communication
 
-* Two-way radio communication requirement is met when ATC uses your aircraft ID (tail number or callsign).
+* ***Two-way radio communication requirement is met when ATC uses your aircraft ID (tail number or callsign).***
 * For example, if ATC says "aircraft calling standby" this does *not* constitute two-way communication.
 * If ATC says "N12345 standby" that does.
+* [14 CFR &sect;91.129(c)(1)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.129#p-91.129(c)(1)) says:
 
-Who to talk to when *transiting* D airspace?
+    > Each person must establish two-way radio communications with the ATC facility (including foreign ATC in the case of foreign airspace designated in the United States) providing air traffic services prior to entering that airspace and thereafter maintain those communications while within that airspace.
 
-[14 CFR &sect;91.129(c)(1)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.129#p-91.129(c)(1)) says:
+* Communication with TRACON or Center on flight following does not satisfy the requirement to fly through Class D, as neither of these is the Class D tower, which is the facility controlling that airspace.
+* However [JO 7110.65AA 2−1−16(b)](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap2_section_1.html#C8I3b6JACK) says:
 
-> Each person must establish two-way radio communications with the ATC facility (including foreign ATC in the case of foreign airspace designated in the United States) providing air traffic services prior to entering that airspace and thereafter maintain those communications while within that airspace.
+    > Coordinate with the appropriate control tower for transit authorization when you are providing radar traffic advisory service to an aircraft that will enter another facility's airspace.
 
-It's not 100 percent clear from the above which ATC facility is providing air traffic services.
-So the question is, for a D airport, which ATC facility is providing air traffic services?
-And so do we need to talk to *tower* to transit D airspace?
-Or just any ATC facility?
+    > NOTE - The pilot is not expected to obtain his/her own authorization through each area when in contact with a radar facility.
 
-Well, not any, for example wouldn't make sense if we were talking to tower at a nearby airport.
+* [AIM 3-2-1(d)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-1) says:
 
-[Boldmethod Youtube: How To Use VFR Flight Following](https://www.youtube.com/watch?v=AJs5LLKmvZc)
+    > VFR Requirements. It is the responsibility of the pilot to ensure that ATC clearance or radio communication requirements are met prior to entry into Class B, Class C, or Class D airspace. The pilot retains this responsibility when receiving ATC radar advisories. (See 14 CFR Part 91.)
 
-Seems any ATC (e.g. approach) that is giving a clearance (e.g. vectors) is sufficient.
-See [JO 7110.65W 2−1−16](https://www.faa.gov/documentlibrary/media/order/atc.pdf) that is a document that prescribes procedures to ATC, and says that approach control will coordinate with tower before issuing a clearance.
-That document seems like the AIM for ATC.
-Also: [7110.65](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/)
-
-But on flight following, for example, a clearance isn't issued, so does this count?
-Is there anywhere where it says explicitly which facility is providing services for which airspace?
-
-It seems flight following does not satisfy the requirement of talking to the facility that is providing air traffic services to enter D airspace.
-So be sure to ask ATC when on flight following if you are cleared before entering D airspace - it is responsibility of pilot in command to follow [14 CFR &sect;91.129 - Operations in Class D airspace](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.129).
-
-See [Granby 2006 Legal Interpretation](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2006/Granby_2006_Legal_Interpretation.pdf)
-
-*Note: can find a list of FAA Legal interpretation letters at the [FAA Regulations Division Legal Interpretations & Chief Counsel's Opinions](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/) page*
-
-Who to first talk to when *entering* D airspace *for landing*?
-
-[Aviation StackExchange Is it required to contact approach when flying VFR into a Class D airfield?](https://aviation.stackexchange.com/questions/328/is-it-required-to-contact-approach-when-flying-vfr-into-a-class-d-airfield)
-
-> For instance, while you won't find it on the charts, A/FD or NOTAMs, the ATIS at KADS always says "contact Regional Approach on 124.3 and advise you have information [letter]" rather than the usual "advise on initial contact you have information [letter]". If you try calling Tower directly, they will tell you to remain clear and contact Approach.
+* Therefore, there is some ambiguity about whose responsibility it is
+* This was clarified in the [Air Traffic Procedures Bulletin October 2017](https://www.faa.gov/air_traffic/publications/media/atpb_october_2017.pdf)
+* This bulletin provides guidance to controllers as to how they can help coordinate
+* The [Granby 2006 Legal Interpretation](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2006/Granby_2006_Legal_Interpretation.pdf) additionally states that, with respect to C airspace, TRACON is *the* controlling agency
+  * *Note: can find a list of FAA Legal interpretation letters at the [FAA Regulations Division Legal Interpretations & Chief Counsel's Opinions](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/) page*
+* ***Ultimately, it is the pilot's job to check when on flight following whether a switchover to tower is required before flying through C or D airspace, or whether ATC has already coordinated.***
 
 ### Special VFR
 
