@@ -70,13 +70,14 @@ const headers = inProd ? [...baseHeaders, umamiHeader] : baseHeaders
 export default defineConfig({
   title: "Flying Notes",
   description: "A compendium of my flying notes",
+  rewrites: {
+    'src/:slug*': ':slug*'
+  },
   themeConfig: {
     nav: [
       { text: 'CFI', link: '/cfi', activeMatch: '^/cfi/' },
       { text: 'CFII', link: '/cfii', activeMatch: '^/cfii/' },
-      { text: 'Baron', link: '/baron', activeMatch: '^/baron/' },
-      { text: 'Twin Comanche', link: '/twin-comanche/twin-comanche', activeMatch: '^/twin-comanche/' },
-      { text: 'Seminole', link: '/seminole/systems', activeMatch: '^/seminole/' },
+      { text: 'Aircraft', link: '/aircraft', activeMatch: '^/aircraft/' },
       { text: 'Study Guides', link: '/study-guides', activeMatch: '^/study-guides/' }
     ],
     sidebar: {
@@ -246,47 +247,50 @@ export default defineConfig({
           ]
         }
       ],
-      '/baron/': [
+      '/aircraft/': [
         {
           text: 'E55 Baron (Early)',
           collapsed: false,
           items: [
-            { text: 'Systems', link: '/baron/e55-early/systems' },
-            { text: 'V-Speeds', link: '/baron/e55-early/v-speeds' },
-            { text: 'Weight and Balance', link: '/baron/e55-early/weight-and-balance' },
-            { text: 'Performance', link: '/baron/e55-early/performance' },
-            { text: 'Maneuvers', link: '/baron/e55-early/maneuvers' },
-            { text: 'Appendix', link: '/baron/e55-early/appendix' }
+            { text: 'Systems', link: '/aircraft/baron/e55-early/systems' },
+            { text: 'V-Speeds', link: '/aircraft/baron/e55-early/v-speeds' },
+            { text: 'Weight and Balance', link: '/aircraft/baron/e55-early/weight-and-balance' },
+            { text: 'Performance', link: '/aircraft/baron/e55-early/performance' },
+            { text: 'Maneuvers', link: '/aircraft/baron/e55-early/maneuvers' },
+            { text: 'Appendix', link: '/aircraft/baron/e55-early/appendix' }
           ]
         },
         {
           text: 'E55 Baron (Late)',
           collapsed: false,
           items: [
-            { text: 'Systems', link: '/baron/e55-late/systems' },
-            { text: 'V-Speeds', link: '/baron/e55-late/v-speeds' },
-            { text: 'Weight and Balance', link: '/baron/e55-late/weight-and-balance' },
-            { text: 'Performance', link: '/baron/e55-late/performance' },
-            { text: 'Maneuvers', link: '/baron/e55-late/maneuvers' },
-            { text: 'Appendix', link: '/baron/e55-late/appendix' }
+            { text: 'Systems', link: '/aircraft/baron/e55-late/systems' },
+            { text: 'V-Speeds', link: '/aircraft/baron/e55-late/v-speeds' },
+            { text: 'Weight and Balance', link: '/aircraft/baron/e55-late/weight-and-balance' },
+            { text: 'Performance', link: '/aircraft/baron/e55-late/performance' },
+            { text: 'Maneuvers', link: '/aircraft/baron/e55-late/maneuvers' },
+            { text: 'Appendix', link: '/aircraft/baron/e55-late/appendix' }
           ]
-        }
-      ],
-      '/twin-comanche/': [
+        },
         {
           text: 'Twin Comanche',
           collapsed: false,
           items: [
-            { text: 'Twin Comanche', link: '/twin-comanche/twin-comanche' }
+            { text: 'Twin Comanche', link: '/aircraft/twin-comanche/twin-comanche' }
           ]
-        }
-      ],
-      '/seminole/': [
+        },
         {
           text: 'Seminole',
           collapsed: false,
           items: [
-            { text: 'Systems', link: '/seminole/systems' }
+            { text: 'Systems', link: '/aircraft/seminole/systems' }
+          ]
+        },
+        {
+          text: 'Archer III NXi',
+          collapsed: false,
+          items: [
+            { text: 'Systems', link: 'aircraft/archer-nxi/systems' }
           ]
         }
       ],
