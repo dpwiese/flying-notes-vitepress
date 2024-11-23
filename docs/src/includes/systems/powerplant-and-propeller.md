@@ -37,7 +37,19 @@
 
 ![Four stroke cycle. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-5](/img/phak/phak-figure-7-5-four-stroke-cycle.jpg){width=340}
 
-![Lycoming IO-360. Reference unknown.](/img/lycoming-io-360.png){width=400}
+![Lycoming 360 series engine. [Lycoming](https://www.lycoming.com/engines/8844)](/img/lycoming-io-360.png){width=400}
+
+## Magnetos
+
+* In most general aviation aircraft, ignition timing is fixed to provide maximum power at readline
+* This is somewhere around 20 degrees before top dead center (BTDC)
+* In order to change the ignition timing to enable starting an impulse coupling is used
+* The impulse coupling mounts between the engine and magnetos and contains some springloaded flyweights and an internal spring
+* At low RPM it engages, delays rotation of the magnetos and winds up the spring, releasing somewhere past TDC to initiate the spark
+
+::: danger SAFETY
+When turning the prop by hand, always rotate it opposite the direction it normally spins to prevent engaging the impulse coupling and potentially trigger ignition of the magneto p-lead is damaged.
+:::
 
 # Turbine Engines
 
