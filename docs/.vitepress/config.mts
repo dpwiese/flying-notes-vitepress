@@ -71,7 +71,8 @@ export default defineConfig({
   title: "Flying Notes",
   description: "A compendium of my flying notes",
   rewrites: {
-    'src/:slug*': ':slug*'
+    'src/:slug*': ':slug*',
+    'src/': ''
   },
   themeConfig: {
     nav: [
