@@ -2,6 +2,10 @@
 
 This page covers *Task N. High Altitude Operations - Supplemental Oxygen* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
 
+* [14 CFR &sect;61.31(g)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.31#p-61.31(g)) says that to act as pilot in command of a *pressurized aircraft* (an aircraft that has a service ceiling or maximum operating altitude, whichever is lower, above 25,000 feet MSL) the pilot needs an endorsement.
+* Unpressurized planes that fly at high altitudes don't need endorsement
+* Pressurized plane with a max operating altitude or service ceiling 25k MSL or below don't need endorsement
+
 ## Regulatory Requirements for Supplemental Oxygen
 
 <!--@include: ./docs/src/includes/oxygen-requirements.md-->

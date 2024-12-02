@@ -4,119 +4,35 @@ This page covers *Task A. Pilot Qualifications* from the [FAA-S-ACS-25 Flight In
 
 ## Certification, Currency, and Recordkeeping Requirements
 
-### Currency Requirements
+* There are several requirements to obtain various levels of pilot certificates described in [14 CFR Part 61](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61?toc=1)
+  * **Eligibility requirements**
+    * e.g. age, knowledge test requirements, endorsements
+  * **Aeronautical knowledge areas**
+  * **Flight proficiency**
+    * Maneuvers the pilot should be able to perform
+  * **Aeronautical experience**
+    * The number of hourse spent on various flight training activities
+* These are broken down by the level of pilot certificate below
+* Also included in the below are the privileges and limitations of each level of pilot certificate
 
-* [14 CFR &sect;61.56 - Flight Review](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.56)
-* [14 CFR &sect;61.57 - Recent flight experience: Pilot in command](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.57)
-* To act as PIC
-  * Flight review within previous 24 calendar months
-    * 1 hour flight and 1 hour ground training
-      * Review of Part 91
-      * Demonstrate safe exercise of pilot certificate
-* To carry passengers
-  * 3 takeoffs/landings within the preceding 90 days
-    * Same category, class, and type
-    * Full stop if in tailwheel
-* To carry passengers at night (1 hour after sunset and ending 1 hour before sunrise)
-  * 3 takeoffs/landings within the preceding 90 days
-    * Same category, class, and type
-    * Full stop
-* To act as PIC under IFR or less than VFR weather minimums
-  * ==Use **66 HIT** to remember instrument currency requirements==
-    * **==6 Approaches==** within
-    * **==6 months==** including
-    * **==Holding==**
-      * Procedures and tasks
-    * **==Intercepting==**
-    * **==Tracking==**
-      * Courses through the use of navigational electronic systems
-    * [14 CFR &sect;61.57(c) Instrument experience](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.57#p-61.57(c))
-    * Per aircraft ***category***
-    * e.g. airplane, helicopter
-  * After instrument currency lapses there is a 6 month "grace period" during which you are not instrument current, but can still complete the above to become curent.
-    * After that need to complete an IPC
-    * [14 CFR &sect;61.57(d) Instrument proficiency check](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.57#p-61.57(d))
-  * *Note: can file IFR flight plan, but cannot accept the clearance and go IFR even if weather is VMC*
-  * If instrument currency lapses, need IPC
+## Student Pilot
 
-## Privileges and limitations of pilot certificates and ratings
+* [Part 61 Subpart C - Student Pilots](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C?toc=1)
+
+### Eligibility Requirements
+
+* [14 CFR &sect;61.83](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C/section-61.83)
+* 16 years old
+  * Except 14 years old for glider or balloon
+* Read, speak, write, and understand English
 
 ### Aeronautical Experience
 
-#### Student Pilot Aeronautical Experience
+* No aeronautical experience required to be a student pilot
 
-* [Part 61 Subpart C - Student Pilots](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C?toc=1)
-* No aeronautical experience required to be a student pilot.
-* Just need to meet the age requirements in [14 CFR &sect;61.83](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C/section-61.83) and be able to read/write English.
-  * 14 years old for glider or balloon
-  * ==16 years old for everything else==
-* Student pilot certificates never expire
-* Have student pilot apply for student pilot certificate via IACRA right away
-  * Student pilot certificate is physical plastic card just like any other pilot certificate
+### Privileges and Limitations
 
-#### Recreational Pilot Aeronautical Experience
-
-* [Part 61 Subpart D - Recreational Pilots](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-D?toc=1)
-  * [14 CFR &sect;61.99 - Aeronautical experience](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-D/section-61.99)
-* 30 hours total flight time
-  * 15 hours flight training (on Recreational Pilot areas of operation in [14 CFR &sect;61.98(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-D/section-61.98#p-61.98(b)))
-    * 2 hours to an airport at least 25 nm from home airport, with 3 takeoffs/landings at this airport
-    * 3 hours within 2 months of practical test
-  * 3 hours solo flight (in the aircraft for the rating sought)
-* Need to be 17 years old
-
-#### Private Pilot Aeronautical Experience
-
-* [Part 61 Subpart E - Private Pilots](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E?toc=1)
-  * [14 CFR &sect;61.109 - Aeronautical experience](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.109)
-* 40 hours total flight time
-  * 20 hours flight training (on Private Pilot areas of operation in [14 CFR &sect;61.107(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.107#p-61.107(b)))
-    * 3 hours cross country
-    * 3 hours night
-      * One cross country flight of over 100 nm total distance
-      * 10 T/O's and 10 landings to a full stop with each involving a flight in the traffic pattern at an airport
-    * 3 hours by reference to instruments in a single engine airplane
-    * 3 hours in a single engine airplane within 2 calendar months prior to the practical test
-  * 10 hours solo flight (in a single engine airplane)
-    * 5 hours of solo cross country flying
-    * One solo cross country flight of at least 150 nm total distance with full stop landings at 3 points and one segment of at least 50 nm between T/O and landings
-    * 3 T/O's and landings to a full stop at an airport with an operating control tower
-* 16 years old for glider or balloon
-* ==17 years old for everything else==
-
-#### Commercial Pilot Aeronautical Experience
-
-* [Part 61 Subpart F - Commercial Pilots](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F?toc=1)
-  * [14 CFR &sect;61.129 - Aeronautical experience](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.129)
-* 250 hours total flight time
-  * 100 Hours in powered aircraft, of which 50 hours must be in airplanes
-  * 100 hours of a pilot-in-command flight time which includes
-    * 50 hours in airplanes
-    * 50 hours in cross-country flight of which at least 10 hours must be in airplanes
-  * 20 hours flight training (on Commercial Pilot areas of operation in [14 CFR &sect;61.127(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.127#p-61.127(b)))
-    * 10 Hours of instrument training (5 hours must be in a single-engine airplane)
-    * 10 hours of training in a complex airplane
-    * One 100 nm 2-hour day cross-country
-    * One 100 nm 2-hour night cross-country
-    * 3 hours of check ride preparation in a single-engine airplane within 2 calendar months of the checkride
-  * 10 hours solo flight (in a single engine airplane)
-    * One 300nm cross-country flight
-      * One leg straight-line distance of at least 250 nm from point of departure with 3 points of landing
-    * 5 hours in night VFR conditions with 10 takeoffs and landings at an airport with an operating control tower
-* ==Need to be 18 years old==
-* Only need 3rd class medical to get certificate (even though 2nd class to exercise privileges)
-* 250 hours required
-  * Only 200 in aircraft, 50 can be in approved ground trainer
-* 100 hours PIC
-* 50 hours cross country
-
-### Privileges & Limitation
-
-#### Student Pilot Privileges & Limitation
-
-* [Part 61 Subpart C - Student Pilots](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C?toc=1)
-  * [14 CFR &sect;61.89 - General Limitations](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C/section-61.89)
-
+* [14 CFR &sect;61.89](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C/section-61.89)
 * A student pilot may not act as pilot in command of an aircraft
   * That is carrying a passenger
   * That is carrying property for compensation or hire
@@ -131,20 +47,43 @@ This page covers *Task A. Pilot Qualifications* from the [FAA-S-ACS-25 Flight In
 * CFI endorses the student logbook for the specific make and model for the aircraft to be flown, good for 90 days.
 * With proper documentations, as mentioned above, solo PIC flight can be completed to specific destinations or areas by the student pilot.
 * Can use BasicMed
-* Student pilots are the only ones required to carry logbook
-  * Private, commercial, ATP not required – only required to have on them or readily accessible in the plane (PPM):
-    * **P** - Pilot certificate
-    * **P** - Photo ID
-    * **M** - Medical certificate
+* Student pilots are required to carry their logbook on solo cross-country flights
+  * [14 CFR &sect;61.51(i)(2)](https://www.ecfr.gov/current/title-14/part-61/section-61.51#p-61.51(i)(2))
+  * Subparagraph (i) of [14 CFR &sect;61.1(b) Cross-country time](https://www.ecfr.gov/current/title-14/part-61/section-61.1#p-61.1(b)(Cross-country%20time)) states the following
 
-* [14 CFR &sect;61.3 - Requirement for certificates, ratings, and authorizations](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.3)
-  * For PPM? PPM is also not specific to student pilots
+    > includes a landing at a point other than the point of departure
 
-#### Recreational Pilot Privileges & Limitation
+  * Subparagraph (ii) say that for the purposes of meeting aeronautical experience requirements for a private pilot certificate the cross-country flight must include a point of landing more than 50 nm from the point of departure
+  * This seems to mean that student pilots must carry their logbook on any flight that involves a landing at a point other than the point of departure, even if such a flight cannot count towards aeronautical experience requirements for a private pilot certificate
+  * *It is probably best for student pilots to just get in the habit of keeping their logbook in their flight bag so it is always with them when they fly.*
+
+### Notes
+
+* Student pilot certificates never expire
+* Have student pilot apply for student pilot certificate via IACRA right away
+* Student pilot certificate is physical plastic card just like any other pilot certificate
+
+## Recreational Pilot
 
 * [Part 61 Subpart D - Recreational Pilots](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-D?toc=1)
-  * [14 CFR &sect;61.101 - Recreational pilot privileges and limitations](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-D/section-61.101)
 
+### Eligibility
+
+* [14 CFR &sect;61.96](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-D/section-61.96)
+* Need to be 17 years old
+
+### Aeronautical Experience
+
+* [14 CFR &sect;61.99](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-D/section-61.99)
+* 30 hours total flight time
+  * 15 hours flight training (on Recreational Pilot areas of operation in [14 CFR &sect;61.98(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-D/section-61.98#p-61.98(b)))
+    * 2 hours to an airport at least 25 nm from home airport, with 3 takeoffs/landings at this airport
+    * 3 hours within 2 months of practical test
+  * 3 hours solo flight (in the aircraft for the rating sought)
+
+### Privileges and Limitations
+
+* [14 CFR &sect;61.101](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-D/section-61.101)
 * Can carry only 1 passenger
 * Need to pay pro rata share for flight operating expenses
 * Need logbook endorsement both for flights within 50 nm and those that exceed 50 nm from departure airport
@@ -176,12 +115,38 @@ This page covers *Task A. Pilot Qualifications* from the [FAA-S-ACS-25 Flight In
   * Exception: if a recreational pilot is working on a private pilot certificate, then they can but must carry logbook with endorsement
 * If less than 400 hours, cannot act as PIC unless have logged PIC time in past 180 days
 
-#### Private Pilot Privileges & Limitation
+## Private Pilot
 
 * [Part 61 Subpart E - Private Pilots](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E?toc=1)
-  * [14 CFR &sect;61.113 - Private pilot privileges and limitations: Pilot in command](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.113)
-  * [14 CFR &sect;61.117 - Private pilot privileges and limitations: Second in command of aircraft requiring more than one pilot](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.117)
 
+### Eligibility
+
+* [14 CFR &sect;61.103](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.103)
+* 17 years old
+  * Except 16 years old for glider or balloon
+* Read, speak, write, and understand English
+* Receive training, endorsements, meet experience requirements, etc.
+
+### Aeronautical Experience
+
+* [14 CFR &sect;61.109](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.109)
+* 40 hours total flight time
+  * 20 hours flight training (on Private Pilot areas of operation in [14 CFR &sect;61.107(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.107#p-61.107(b)))
+    * 3 hours cross country
+    * 3 hours night
+      * One cross country flight of over 100 nm total distance
+      * 10 T/O's and 10 landings to a full stop with each involving a flight in the traffic pattern at an airport
+    * 3 hours by reference to instruments in a single engine airplane
+    * 3 hours in a single engine airplane within 2 calendar months prior to the practical test
+  * 10 hours solo flight (in a single engine airplane)
+    * 5 hours of solo cross country flying
+    * One solo cross country flight of at least 150 nm total distance with full stop landings at 3 points and one segment of at least 50 nm between T/O and landings
+    * 3 T/O's and landings to a full stop at an airport with an operating control tower
+
+### Privileges and Limitations
+
+* [14 CFR &sect;61.113 - Private pilot privileges and limitations: Pilot in command](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.113)
+* [14 CFR &sect;61.117 - Private pilot privileges and limitations: Second in command of aircraft requiring more than one pilot](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.117)
 * No person who holds a private certificate may act as a PIC of an aircraft carrying passengers or property for hire, or as PIC of an aircraft for hire/compensation.
 * Only if the aircraft is in connection to any business and is only incidental to that business or employment, and the aircraft does not carry passengers of property for compensation or hire.
 * Must pay at least their pro rata share of flight operating expenses
@@ -192,10 +157,42 @@ This page covers *Task A. Pilot Qualifications* from the [FAA-S-ACS-25 Flight In
 * Private pilot cannot be SIC on aircraft carrying passengers or property for compensation or hire
 * Can use BasicMed
 
-#### Commercial Pilot Privileges & Limitation
+## Commercial Pilot
 
 * [Part 61 Subpart F - Commercial Pilots](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F?toc=1)
-  * [14 CFR &sect;61.133 - Commercial pilot privileges and limitations](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.133)
+
+### Eligibility
+
+* [14 CFR &sect;61.123](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.123)
+* Need to be 18 years old
+
+### Aeronautical Experience
+
+* [14 CFR &sect;61.129](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.129)
+* 250 hours total flight time
+  * 100 Hours in powered aircraft, of which 50 hours must be in airplanes
+  * 100 hours of a pilot-in-command flight time which includes
+    * 50 hours in airplanes
+    * 50 hours in cross-country flight of which at least 10 hours must be in airplanes
+  * 20 hours flight training (on Commercial Pilot areas of operation in [14 CFR &sect;61.127(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.127#p-61.127(b)))
+    * 10 Hours of instrument training (5 hours must be in a single-engine airplane)
+    * 10 hours of training in a complex airplane
+    * One 100 nm 2-hour day cross-country
+    * One 100 nm 2-hour night cross-country
+    * 3 hours of check ride preparation in a single-engine airplane within 2 calendar months of the checkride
+  * 10 hours solo flight (in a single engine airplane)
+    * One 300nm cross-country flight
+      * One leg straight-line distance of at least 250 nm from point of departure with 3 points of landing
+    * 5 hours in night VFR conditions with 10 takeoffs and landings at an airport with an operating control tower
+* Only need 3rd class medical to get certificate (even though 2nd class to exercise privileges)
+* 250 hours required
+  * Only 200 in aircraft, 50 can be in approved ground trainer
+* 100 hours PIC
+* 50 hours cross country
+
+### Privileges and Limitations
+
+* [14 CFR &sect;61.133 - Commercial pilot privileges and limitations](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.133)
 * [FAA-AC-120-12A - Private carriage versus common carriage of persons or property](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22647)
 
 * The Commercial pilot may act as PIC of an aircraft carrying persons/property for hire or as PIC of an aircraft for hire. (As long as the pilot is qualified under 14 CFR part 61.)
@@ -207,23 +204,123 @@ This page covers *Task A. Pilot Qualifications* from the [FAA-S-ACS-25 Flight In
     * Student instruction, non-stop air tours, ferry/training flights, crop dusting, banner towing, aerial photography, firefighting, pipeline patrol, skydivers (within 25nm of departure airport)
   * Common Carriage = "Holding out | to take pax or cargo | from place to place | for compensation"
 
+### Flying for Hire
+
+#### Summary
+
+A commercial pilot's license does not mean you can just start charging money to fly people around.
+Rather it's quite restrictive.
+First, you will be considered a *common carrier* if you are willing to take payment from anyone to transport people or proerty from place to place as described in [FAA-AC-120-12A Private Carriage Versus Common Carriage Of Persons or Property](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22647).
+If you are a common carrier, you need an air carrier certificate.
+Likely you do not and never will have your own air carrier certificate, so this is off the table.
+
+If you don't satisfy those criteria, for example you are not willing to take money from anyone but rather have a few exclusive contracts to fly certain people around, you can be considered a *private carrier*.
+If you are a private carrier though, you still can't just buy your own plane and charge your exclusive passengers to fly them around without an air carrier certificate - there is a narrow list of things in [14 CFR &sect;91.501(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-F/section-91.501#p-91.501(b)) that can be done without an air carrier certificate, but basically carrying of passengers only if you don't own the plane.
+In these cases you can charge for your time.
+
+Basically, there isn't practically anything an owner of a small plane can do to charge to carry passengers.
+Rather, you'll get a job with a company / operator of a plane that will need to take care of the air carrier certificate if needed.
+And really the takeaway here is that if, as a commercial pilot, you are faced with an opportunity where there is any uncertainty as to whether it is legal or not, go check out 14 CFR.
+
+#### Definitions
+
+* **[Operate (14 CFR &sect;1.1)](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Operate))** with respect to aircraft, means use, cause to use, or authorize to use aircraft.
+* **[Operational control (14 CFR &sect;1.1)](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Operational%20control))** with respect to a flight, means the exercise of authority over initiating, conducting, or terminating a flight.
+* **[Commercial operator (14 CFR &sect;1.1)](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Commercial%20operator))** means a person who, for compensation or hire, engages in the carriage by aircraft in air commerce of persons or property, other than as an air carrier or foreign air carrier or under the authority of Part 375 of this title. Where it is doubtful that an operation is for "compensation or hire", the test applied is whether the carriage by air is merely incidental to the person's other business or is, in itself, a major enterprise for profit.
+* **Common carriage:** A carrier becomes a common carrier when it "holds itself out" to the public, or to a segment of the public as willing to furnish transportation within the limits of its facilities to any person who wants it.
+  * There are four elements in defining a common carrier:
+      1. A holding out of a willingness to
+      2. Transport persons or property
+      3. From place to place
+      4. For compensation
+  * [FAA-AC-120-12A](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22647)
+* **Private carriage:** Carriage for hire which does not involve "holding out" is private carriage.
+  * [FAA-AC-120-12A](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22647)
+
+#### Overview
+
+* Operations that constitute common carriage are required to be conducted under [14 CFR &sect;121](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-121?toc=1) or [14 CFR &sect;135](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-135?toc=1).
+* Private carriage may be conducted under [14 CFR &sect;125](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-125?toc=1) or [14 CFR &sect;91](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91?toc=1).
+* [14 CFR &sect;119](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119?toc=1) applies to each person operating or intending to operate a civil aircraft:
+    1. As an air carrier or commercial operator or
+    2. When common carriage is not involved (but the plane is big, 20+ seats, 6000+ lb payload)
+* Stuff can do for hire?
+  * [14 CFR &sect;91.146](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.146)
+  * [14 CFR &sect;91.147](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.147)
+* Operations that constitute common carriage are required to be conducted under Federal Aviation Regulations 14 CFR Parts 121 or 135.
+  * [FAA-AC-120-12A](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22647)
+* Private carriage may be conducted under 14 CFR Parts 125 or 91, Subpart D.
+* Operations conducted under [14 CFR &sect;91.501(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-F/section-91.501#p-91.501(b)), which permits certain charges to be made, may also be subject to these guidelines, particularly the "time sharing" provisions of [14 CFR &sect;91.501(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-F/section-91.501#p-91.501(b)).
+* It should also be noted that lease agreements entered into under CFRs are subject to [14 CFR &sect;91.23](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.23): "Truth in leasing clause requirement in leases and conditional sales contracts."
+
+[14 CFR &sect;135.1](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-135/subpart-A/section-135.1) This part prescribes rules governing operations of each person who holds or is required to hold an Air Carrier Certificate under part 119 of this chapter.
+
+Decision tree
+
+1. Acting as commercial operator?
+    * If YES: then subject to 119
+    * If NO: then ...
+2. Is common carriage?
+    * YES?
+    * NO?
+
+#### Discussion Flying for Hire
+
+* Under [14 CFR &sect;61.133 (a)(1)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.133) a commercial pilot can carry passengers for compensation or hire.
+* When do I become the operator? If I provide the plane?
+* What is common carriage and why does it matter?
+
+[Aviation StackExchange What do the terms 'holding out' and 'common carriage' mean?](https://www.grc.nasa.gov/www/k-12/airplane/induced.html)
+
+Why "private carriage" does NOT relieve you of getting an air carrier certificate.
+Even if you are found to be private carriage [14 CFR &sect;119.23(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119/subpart-B/section-119.23) clearly states:
+
+> (b) Each person who conducts noncommon carriage (except as provided in [14 CFR &sect;91.501(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-F/section-91.501#p-91.501(b)) of this chapter) or private carriage operations for compensation or hire with airplanes having a passenger-seat configuration of less than 20 seats, excluding each crewmember seat, and a payload capacity of less than 6,000 pounds shall-
+>
+> (1) Comply with the certification and operations specifications requirements in subpart C of this part;
+>
+> (2) Conduct those operations in accordance with the requirements of part 135 of this chapter, except for those requirements applicable only to commuter operations; and
+>
+> (3) Be issued operations specifications in accordance with those requirements.
+
+Guess what Subpart C of 119 is going to say. See [14 CFR &sect;119.33](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119/subpart-C/section-119.33):
+
+> (a) A person may not operate as a direct air carrier unless that person--
+>
+> (1) Is a citizen of the United States;
+>
+> (2) Obtains an Air Carrier Certificate; and etc..
+
+Comments:
+
+> The problem is you said YOU are going to buy the plane. (Even if you rent from someone else than THEY would have to have an air carrier certificate). You cannot charge money for a flight and not fall under Part 119. Remember there are only a few exceptions defined under Part 119 that allow you to operate Part 91 instead 135 or 121 or whatever. Now if you are flying for someone else who owns their own plane and the flight itself is NOT for hire (family / friends) than you could charge for your time as a pilot and there would be no need for the air carrier certificate.
+
+### Notes
+
+* On counting time received during training for instrument rating towards experience requirements above
+  * [Oord 2018](https://www.faa.gov/media/11141)
+  * [Hartzell 2010](https://www.faa.gov/media/14131)
+  * [Theriault 2010](https://www.faa.gov/media/14351)
+  * [Theriault 2011](https://www.faa.gov/media/13891)
+
 ## Medical Certificates: Class, Expiration, Privileges
 
 * And temporary disqualifications, and operations under BasicMed.
+* [14 CFR &sect;61.23](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.23)
 
 ### Classes of Medical Certificate
 
 * **First Class**
   * Required to PIC with an ATP
   * Required to be required pilot flightcrew member if 60 years old
+  * ==40 and older: 6 months==
   * ==Under 40: 12 months==
-  * ==40 or older: 6 months==
 * **Second Class**
   * Required for commercial PIC privilages
   * ==12 Months at any age==
 * **Third Class**
   * Sufficient for the sport, recreational, student, private, and flight instructor ratings
-  * ==Over 40: 24 months==
+  * ==40 and older: 24 months==
   * ==Under 40: 60 months==
 * **Basic Med**
   * For Private Pilot only [14 CFR &sect;61.113(i)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.113#p-61.113(i))
@@ -271,6 +368,41 @@ This page covers *Task A. Pilot Qualifications* from the [FAA-S-ACS-25 Flight In
     * [14 CFR &sect;61.51(h) - Logging training time](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.51#p-61.51(h))
 
 ![Example LOE after having completed both Operational Color Vision Test (OCVT) and Medical Flight Test (MFT). Statement of Demonstrated Ability (SODA) no longer required.](/img/loe.jpg){width=500}
+
+## Currency Requirements
+
+* [14 CFR &sect;61.56 - Flight Review](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.56)
+* [14 CFR &sect;61.57 - Recent flight experience: Pilot in command](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.57)
+* To act as PIC
+  * Flight review within previous 24 calendar months
+    * 1 hour flight and 1 hour ground training
+      * Review of Part 91
+      * Demonstrate safe exercise of pilot certificate
+* To carry passengers
+  * 3 takeoffs/landings within the preceding 90 days
+    * Same category, class, and type
+    * Full stop if in tailwheel
+* To carry passengers at night (1 hour after sunset and ending 1 hour before sunrise)
+  * 3 takeoffs/landings within the preceding 90 days
+    * Same category, class, and type
+    * Full stop
+* To act as PIC under IFR or less than VFR weather minimums
+  * ==Use **66 HIT** to remember instrument currency requirements==
+    * **==6 Approaches==** within
+    * **==6 months==** including
+    * **==Holding==**
+      * Procedures and tasks
+    * **==Intercepting==**
+    * **==Tracking==**
+      * Courses through the use of navigational electronic systems
+    * [14 CFR &sect;61.57(c) Instrument experience](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.57#p-61.57(c))
+    * Per aircraft ***category***
+    * e.g. airplane, helicopter
+  * After instrument currency lapses there is a 6 month "grace period" during which you are not instrument current, but can still complete the above to become curent.
+    * After that need to complete an IPC
+    * [14 CFR &sect;61.57(d) Instrument proficiency check](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.57#p-61.57(d))
+  * *Note: can file IFR flight plan, but cannot accept the clearance and go IFR even if weather is VMC*
+  * If instrument currency lapses, need IPC
 
 ## Documents Pilots Must Possess
 

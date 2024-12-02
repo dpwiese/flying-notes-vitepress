@@ -28,23 +28,35 @@
   * A rising parcel of air that is less than 100% relative humidity cools at the dry adiabatic lapse rate.
   * When the parcel of air becomes saturated (100% relative humidity) some of the energy loss comes from condensing moisture, so $\Delta T$ is less than dry parcel.
   * This is why the moist adiabatic lapse rate is less than the dry adiabatic lapse rate.
-* ==**Atmospheric stability** is the tendency of a parcel of air perturbed from its equilibrium to return back to its initial equilibrium or not.==
-  * Basically all about how the temperature of a parcel of air changes relative to the environment.
+
+::: warning Atmospheric stability
+The tendency of a parcel of air perturbed from its equilibrium to return back to its initial equilibrium or not
+:::
+
+* Atmospheric stability is basically all about how the temperature of a parcel of air changes relative to the environment.
   * Compare the actual, ambient lapse rate with the standard lapse rate
   * In order to figure out if the air parcel is unstable or not we must know the temperature of both the rising air and the environment at different altitudes.
     * ==*The higher the environmental lapse rate relative to the air parcel, the less stable the atmosphere*.==
       * This is because a (let's say) rising parcel of air will not cool as quickly as the environment, and thus will continue to rise.
     * Similarly, because moisture reduces the lapse rate of a parcel of air, *moisture leads to instability.*
   * See: [https://www.spc.noaa.gov/exper/mesoanalysis/help/help_lllr.html](https://www.spc.noaa.gov/exper/mesoanalysis/help/help_lllr.html)
-* **Temperature inversion** is a layer where temperature *increases* with altitude
-  * Can be a *surface-based inversion* or *inversion aloft*
-  * ==Temperature inversions create stability because an air parcel, as it rises and cools, will remain relatively cooler than the air temperature through the inversion. So the rising parcel will become cooler than the ambient air, and tend to settle back down.==
+
+::: warning Temperature inversion
+A layer where temperature *increases* with altitude
+:::
+
+* Temperature inversions can be a *surface-based inversion* or *inversion aloft*
   * Most frequently caused by terrestrial radiation on a clear relatively still night
     * If it were cloudy the clouds would trap the rising heat, and wind would mix up the air and prevent the inversion from forming
   * If there is a surface-based inversion and high relative humidity can expect
     * Fog, haze, or low clouds
     * Smooth air
     * Poor visibility
+
+::: info NOTE
+Temperature inversions create stability because an air parcel, as it rises and cools, will remain relatively cooler than the air temperature through the inversion. So the rising parcel will become cooler than the ambient air, and tend to settle back down.
+:::
+
 * Differences in air density caused by changes in temperature result in a change in pressure.
 
 ![Stability types. [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851)](/img/faa-ac-00-6b-figure-12-5-stability-types.jpg){width=340}
@@ -74,7 +86,6 @@
   * Polar / Tropical
   * Maritime / Continental
 * Air masses are generally identified as polar or tropical based on temperature characteristics and maritime or continental based on moisture content.
-
 * Because moist air is less dense than dry air it tends to rise
 * Moist air cools at a slower rate than dry air
   * Thus it is generally less stable than dry air since the moist air must rise higher before its temperature cools to that of the surrounding air
@@ -88,8 +99,18 @@ When air descends, the opposite is true.
 
 ## The Atmosphere
 
+![Temperature and pressure distribution in US Standard Atmosphere. From [U.S. Standard Atmosphere, 1976, Government Printing Office, Washington, DC, 1976](https://www.ngdc.noaa.gov/stp/space-weather/online-publications/miscellaneous/us-standard-atmosphere-1976/us-standard-atmosphere_st76-1562_noaa.pdf) and reprinted in [Frank M. White Fluid Mechanics 4th Edition](https://books.google.com/books?vid=ISBN0071168486)](/img/white-fluid-mechanics-5ed-atmosphere.png){width=600}
+
+![Structure of atmosphere (unknown reference)](/img/structure-of-atmosphere-1.jpg){width=340}
+
+::: warning Standard atmosphere
+At sea level 59 &#176;F (15 &#176;C), pressure 29.92 inHg (or 1013.2 mb) and no moisture.
+:::
+
 * Standard atmosphere and lapse rates
-  * See [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 4: Principles of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/06_phak_ch4.pdf)
+  * See [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
+    * [Chapter 4: Principles of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/06_phak_ch4.pdf)
+    * [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/14_phak_ch12.pdf)
 * The **standard atmosphere** at sea level is:
   * 59 &#176;F or 15 &#176;C
   * Pressure of 29.92 inHg (or 1013.2 mb)
@@ -99,6 +120,7 @@ When air descends, the opposite is true.
   * Above this point, the temperature is considered constant up to 80,000 feet
 * ==The **standard pressure lapse rate** is 1 inHg per 1,000 ft up to 10,000 feet==
 * ==The **dry adiabatic lapse** rate is  5.4 &#176;F (3.0 &#176;C) per 1,000 feet.==
+  * This is the rate at which the temperature of a dry parcel of air decreases as it rises in the atmosphere
 * ==The **wet adiabatic lapse** rate is 3 &#176;F (1.67 &#176;C) per 1,000 feet==
   * It varies between 2 to 5 &#176;F (1.1 to 2.8 &#176;C)
 * ==In dry air, **dewpoint lapse rate** is 1 &#176;F (0.61 &#176;C) per 1,000 feet==
@@ -133,7 +155,6 @@ When air descends, the opposite is true.
     * Downward
     * Clockwise
     * Brings good weather
-
 * Knowing location of pressure systems, along with rotation of air around them, can help plan a faster route cross country by leveraging the tail winds.
   * *Example: When flying East to West fly just south of high pressure system should help provide good weather and a tailwind.*
 * Knowing location of pressure systems can also help a pilot avoid bad weather.
@@ -174,15 +195,12 @@ The CAT is strongest on the cold air side of the jet, next to and just under the
     * Bases from 6,500 to 23,000 ft.
   * **High clouds**
   * **Clouds with vertical development**
-
 * Nimbo - Rain
 * Stratus - Layers
 * Cumulo - Heap or pile (Latin)
-
 * Nimbostratus
   * Type of middle cloud
   * Poses serious icing problem due to all the moisture
-
 * Cumulonimbus Mammatus
   * Violent turbulence
   * Tend to produce funnel clouds (tornados that have not yet touched the ground)
@@ -328,13 +346,19 @@ The CAT is strongest on the cold air side of the jet, next to and just under the
 
 ### Stationary Front
 
-* **Stationary front** is when two fronts come together, and when the forces of two air masses are relatively equal, the boundary or front that separates them remains stationary and influences the local weather for days.
-  * Front is moving less than 5 knots
+::: warning Stationary front
+When two fronts come together, and when the forces of two air masses are relatively equal, the boundary or front that separates them remains stationary and influences the local weather for days.
+:::
+
+* Front is moving less than 5 knots
 * The weather associated with a stationary front is typically a mixture that can be found in both warm and cold fronts.
 
 ### Occluded Front
 
-* **Occluded front** occurs when a fast-moving cold front catches up with a slow-moving warm front.
+::: warning Occluded front
+Occurs when a fast-moving cold front catches up with a slow-moving warm front.
+:::
+
 * As the occluded front approaches, warm front weather prevails but is immediately followed by cold front weather.
 * A wide variety of weather can be found along an occluded front, with thunderstorms possible, but usually their passage is associated with a drying of the air mass.
 * Warm air is lifted (occluded) from the ground
@@ -375,7 +399,10 @@ From [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa
 
 #### Squall line
 
-* A squall line is a narrow band of active thunderstorms
+::: warning Squall line
+A narrow band of active thunderstorms.
+:::
+
 * Often associated with a fast-moving cold front
 * Very likely to spawn tornados
 
@@ -386,7 +413,7 @@ From [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa
 * Non-frontal
 * Often develop ahead of a cold front
 
-### Thunderstorn Stages
+### Thunderstorm Stages
 
 1. **Cumulus stage**
     * Continuous updrafts

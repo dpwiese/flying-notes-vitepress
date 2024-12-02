@@ -13,9 +13,9 @@ Any occurrence in the airport runway environment involving an aircraft, vehicle,
     * Example: Tenerife - KLM 747 took off while Pan Am 747 was on runway killing 583 people - deadliest in history
   * General Aviation responsible for the majority of runway incursions (81%)
 * Three types or classifications of runway incursion
-  * **A Pilot Deviation (PD)** - ==action of a pilot that violates any Federal Aviation Regulation.==
+  * **A Pilot Deviation (PD)** - action of a pilot that violates any Federal Aviation Regulation.
   * **Vehicle/Pedestrian Deviations (V/PDs)** - pedestrians, vehicles or other objects interfering with aircraft operations by entering or moving on the runway movement area without authorization from air traffic control.
-  * **Operational Incident** - ==action of an Air Traffic Controller== that results in
+  * **Operational Incident** - action of an Air Traffic Controller that results in
     * Less than required minimum separation
       * Two or more aircraft
       * An aircraft and obstacles (vehicles, equipment, personnel on runways)
@@ -244,9 +244,9 @@ The airport environment has unique hazards that must be managed, including:
   * At airports with an operating control tower, pilots should not stop or reverse course on the runway without first obtaining ATC approval
   * Taxi clear of the runway unless otherwise directed by ATC
     * An aircraft is considered clear of the runway when all parts of the aircraft are past the runway edge and there are no restrictions to its continued movement beyond the runway holding position markings.
-  * In the absence of ATC instructions, the pilot is expected to taxi clear of the landing runway by taxiing beyond the runway holding position markings associated with the landing runway
-    * ==Even if that requires the aircraft to protrude into or cross another taxiway or ramp area==
-    * ==Most important thing is to get clear of runway==
+  * ***In the absence of ATC instructions, the pilot is expected to taxi clear of the landing runway by taxiing beyond the runway holding position markings associated with the landing runway***
+    * Even if that requires the aircraft to protrude into or cross another taxiway or ramp area
+    * ***Most important thing is to get clear of runway***
     * See [AIM 4-3-20 Exiting the Runway After Landing](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html#$paragraph4-3-20)
   * Once all parts of the aircraft have crossed the runway holding position markings, the pilot must hold unless further instructions have been issued by ATC.
 

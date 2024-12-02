@@ -90,8 +90,8 @@ The speed below which, for a specified aircraft configuration, an aircraft will 
   * **Pressure drag** is due to normal forces
   * **Skin friction drag** is due to shear forces
 * Another catagorization is
-  * ==**Parasitic drag** a pure "unproductive" loss==
-  * ==**Induced drag** a necessary consequence of creating lift==
+  * **Parasitic drag** a pure "unproductive" loss
+  * **Induced drag** a necessary consequence of creating lift
 * For the purposes of these notes, we'll focus on the latter catagorization.
 * However, the former catagorization is useful to help understand which type of drag is dominant for various bodies.
 * A *blunt body* is defined as one where pressure drag is dominant, and a *streamlined body* is one where skin friction drag is dominant.
@@ -141,7 +141,7 @@ For example, when doing a soft-field takeoff want to get off the ground soon but
 Also when taking off, don't retract landing gear before a positive rate is established, or the plane can sink if leaving ground effect prematurely.
 When leaving ground effect, can experience a nose-up pitching moment as downwash on the horizontal tail increases.
 
-### Total Drag
+#### Total Drag
 
 Generally lower case letters are used to denote *profile* values whereas capital letters are used to denote *wing* or *aircraft* values.
 For example, $C_{l}$ refers to an *airfoil* lift coefficient, and $C_{L}$ refers to an *aircraft* lift coefficient.
@@ -171,9 +171,8 @@ D = \frac{1}{2}\rho v^{2}SC_{D_{0}} + \frac{W^{2}}{\frac{1}{2}\rho v^{2}S\pi\tex
 \end{equation*}
 ```
 
-* The takeaway
-  * ==Total drag is composed of a sum of a $v^{2}$ term (parasitic drag) and a $\frac{1}{v^{2}}$ term (induced drag)==
-  * ==At low airspeeds induced drag dominates and at high airspeeds parasitic drag dominates==
+* ***Total drag is composed of a sum of a $v^{2}$ term (parasitic drag) and a $\frac{1}{v^{2}}$ term (induced drag)***
+* ***At low airspeeds induced drag dominates and at high airspeeds parasitic drag dominates***
 
 ![Total drag as a function of airspeed. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593)](/img/philpott-drag-figure-5-10.png){width=500}
 
@@ -268,18 +267,6 @@ $\dot{\psi}=\frac{g\tan\phi}{V}$
   * So in 0.76 nm would lose about 500 ft going straight, which we can increase 15% or so
 * ==So a good number to assume for C172: about 600 ft lost in 360 gliding turn.==
 
-### More Stuff
-
-* *Equal transit time* - myth that incorrectly assumes that the parcels of air that divide at the leading edge of an airfoil must rejoin at the trailing edge, forcing the air traveling along the longer upper surface to go faster. <a href="https://en.wikipedia.org/wiki/Lift_(force)#False_explanation_based_on_equal_transit-time">wikipedia</a>
-* *"The Step"* - It was a myth that I had heard somewhere before, where a pilot had said by climbing slightly through their desired level-off altitude and descending into it, allowed them to then cruise at a higher airspeed than would have been possible if they had just leveled off upon reaching the target altitude without overshoot.
-  * This is BS - see the drag vs velocity curve. For a given velocity, there is one drag value. So for a given power setting (as long as not "behind the power curve") there cannot be two different airspeeds/AOA, while lift and drag are the same.
-  * Now, lift could stay the same if for a lower airspeed and larger AOA these effects balanced out. But $C_{L}$ changes pretty much linearly with AOA, and quadratically with velocity. So for lift to remain the same, these would have to balance exactly, which is impossible.
-  * Basically for fixed power setting there is one equilibrium level flight condition.
-  * [Mysteries Of Flight: On The Step](https://www.planeandpilotmag.com/article/mysteries-of-flight-on-the-step/)
-* *Winglets*
-  * Changes lift distribution
-  * Increases wingtip bending moments
-
 ### More Aerodynamic Theory
 
 ![Airfoil pressure distribution. [Mark Drela, Flight Vehicle Aerodynamics](https://books.google.com/books?vid=ISBN0262526441)](/img/drela-figure-5-2.png){width=800}
@@ -304,6 +291,18 @@ Point at which the pitching moment coefficient for the airfoil does not vary wit
 * Aerodynamic center
   * Used to simplify calculations in aerodynamic analysis
   * Located roughly at quarter-chord.
+
+#### Aside
+
+* *Equal transit time* - myth that incorrectly assumes that the parcels of air that divide at the leading edge of an airfoil must rejoin at the trailing edge, forcing the air traveling along the longer upper surface to go faster. [wikipedia](https://en.wikipedia.org/wiki/Lift_(force)#False_explanation_based_on_equal_transit-time)
+* *"The Step"* - It was a myth that I had heard somewhere before, where a pilot had said by climbing slightly through their desired level-off altitude and descending into it, allowed them to then cruise at a higher airspeed than would have been possible if they had just leveled off upon reaching the target altitude without overshoot.
+  * This is not true - see the drag vs velocity curve. For a given velocity, there is one drag value. So for a given power setting (as long as not "behind the power curve") there cannot be two different airspeeds/AOA, while lift and drag are the same.
+  * Now, lift could stay the same if for a lower airspeed and larger AOA these effects balanced out. But $C_{L}$ changes pretty much linearly with AOA, and quadratically with velocity. So for lift to remain the same, these would have to balance exactly, which is impossible.
+  * Basically for fixed power setting there is one equilibrium level flight condition.
+  * [Mysteries Of Flight: On The Step](https://www.planeandpilotmag.com/article/mysteries-of-flight-on-the-step/)
+* *Winglets*
+  * Changes lift distribution
+  * Increases wingtip bending moments
 
 ## Airfoil Design Characteristics
 

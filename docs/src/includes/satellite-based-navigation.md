@@ -111,6 +111,9 @@ Receiver autonomous integrity monitoring (RAIM) is a technology for a GPS unit t
   > RAIM requires a minimum of 5 satellites, or 4 satellites and barometric altimeter input (baro-aiding), to detect an integrity anomaly. Baro-aiding is a method of augmenting the GPS integrity solution by using a non-satellite input source in lieu of the fifth satellite. Some GPS receivers also have a RAIM capability, called fault detection and exclusion (FDE), that excludes a failed satellite from the position solution; GPS receivers capable of FDE require 6 satellites or 5 satellites with baro-aiding.
 
 * See also [FAA-AC-90-100A U.S Terminal and En Route Area Navigation (RNAV) Operations](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/73482)
+* Regarding RAIM failure during a GPS approach [AIM 1-1-17(b)(5)(g)(6)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#aim0101.html.28):
+
+    > If a RAIM failure/status annunciation occurs prior to the final approach waypoint (FAWP), the approach should not be completed since GPS no longer provides the required integrity. The receiver performs a RAIM prediction by 2 NM prior to the FAWP to ensure that RAIM is available as a condition for entering the approach mode. The pilot should ensure the receiver has sequenced from “Armed” to “Approach” prior to the FAWP (normally occurs 2 NM prior). Failure to sequence may be an indication of the detection of a satellite anomaly, failure to arm the receiver (if required), or other problems which preclude flying the approach.
 
 ### Checking RAIM
 

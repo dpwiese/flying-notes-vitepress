@@ -220,7 +220,7 @@ Stress is the body's response to demands placed upon it.
     * Provide a training syllabus that is organized with clearly defined course objectives to show the learner how the training helps him or her attain specific goals
     * Help learners integrate new ideas with what they already know to ensure they keep and use the new information.
     * Assume responsibility only for his or her own expectations, not for those of learners. It is important to clarify and articulate all learner expectations early on.
-    * Recognize the learner’s need to control pace and start/stop time.
+    * Recognize the learner's need to control pace and start/stop time.
     * Take advantage of the adult preference to self-direct and self-design learning projects by giving the learner frequent scenario based training (SBT) opportunities
     * Refrain from "spoon-feeding" the learner.
 

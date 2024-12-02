@@ -4,7 +4,7 @@
   * Most up-to-date weather information available
   * May be used for "tactical" weather avoidance
   * Good supplement to existing weather sources
-  * Has limitations like blind splot where distance stuff can be blocked by near stuff
+  * Has limitations like blind splot where distant weather can be blocked by near weather
 * **XM lightning**
   * Lightning strikes sensed by ground stations
   * Lightning can't hide from ground stations

@@ -242,6 +242,7 @@ Instructor must sign the logbook of each person they have given flight or ground
   * [14 CFR &sect;61.31(e)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.31#p-61.31(e))
 * **To act as pilot in command in a high-performance airplane (A.69)**
   * [14 CFR &sect;61.31(f)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.31#p-61.31(f))
+  * An airplane with *an engine* of *more than* 200 horsepower
 * **To act as pilot in command in a pressurized aircraft capable of high-altitude operations (A.70)**
   * [14 CFR &sect;61.31(g)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.31#p-61.31(g))
 * **To act as pilot in command in a tailwheel airplane (A.71)**

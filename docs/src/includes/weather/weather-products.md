@@ -110,6 +110,7 @@ More importantly than memorizing all of the products below, which are constantly
   * Replacing textual Area Forecast (FA)
 * Inflight Weather Advisories
   * HIWAS
+    * Discontinued in 2020
   * AIRMET
   * SIGMET
   * Convective SIGMET
@@ -406,14 +407,14 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 * Observation
 * Every 3 hours
 
-![Weather depiction chart. The chart is no longer available at this link: [https://www.aviationweather.gov/briefing](https://www.aviationweather.gov/briefing)](/img/weather_depiction_2.gif){width=540}
+![Weather depiction chart. The chart is no longer available at this link: [https://www.aviationweather.gov/briefing](https://www.aviationweather.gov/briefing)](/img/weather_depiction_2.gif){width=800}
 
 * *Note: a smooth line that is not shaded in encloses an area of MVFR*
 * *Note: a smooth line that is shaded inside encloses an area of IFR*
 
 ![Weather depiction chart legend.](/img/weather_depiction_legend.jpg){width=360}
 
-![Weather depiction chart. From FIA Supplement Figure 12.](/img/weather-depection-chart-supplement-fig-12.jpg){width=360}
+![Weather depiction chart. From FIA Supplement Figure 12.](/img/weather-depection-chart-supplement-fig-12.jpg){width=800}
 
 ## Prognostic Chart
 
@@ -447,9 +448,9 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
   * This can be figured out roughly by remembering the standard sea level pressure corresponding to 29.92 inHg is 1013.2 mb and using the resulting lapse rate of 33.9 mb per 1000 ft. to get about 700 mb
 * It is for "flight levels" because it is at constant pressure levels rather than constant altitude?
 
-![Constant pressure analysis chart. [https://www.aviationweather.gov/briefing](https://www.aviationweather.gov/briefing)](/img/700mb_constant_pressure_chart.gif){width=400}
+![Constant pressure analysis chart. [https://www.aviationweather.gov/briefing](https://www.aviationweather.gov/briefing)](/img/700mb_constant_pressure_chart.gif){width=800}
 
-![Sky cover symbols. Reference unknown.](/img/sky_cover_symbols.gif){width=300}
+![Sky cover symbols. Reference unknown.](/img/sky_cover_symbols.gif){width=240}
 
 ## Convective Outlook
 
@@ -471,7 +472,7 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 
 ## Radar Summary Chart
 
-![Radar summary chart. [https://www.aviationweather.gov/briefing](https://www.aviationweather.gov/briefing)](/img/radar_summary_2.gif){width=400}
+![Radar summary chart. [https://www.aviationweather.gov/briefing](https://www.aviationweather.gov/briefing)](/img/radar_summary_2.gif){width=800}
 
 ## Inflight Weather Advisories
 

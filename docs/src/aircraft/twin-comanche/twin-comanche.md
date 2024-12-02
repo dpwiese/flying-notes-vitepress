@@ -65,7 +65,7 @@ This document describes the systems on the Twin Comanche.
   * Fowler flaps (electrically actuated by motor underneath back seat). Deflect 27&#176;
     * Locking mechanism holds flap up on right
     * Second lock prevents the flap from going fully down if the up lock is not fully engaged
-  * Antiservo tab on stabilator’s trailing edge, increasing control stability
+  * Antiservo tab on stabilator's trailing edge, increasing control stability
   * Stabilator trim operated by an overhead crank, controlling a rotating drum in the tail section
   * Rudder trim knob controls a bungee mechanism extending to the nose gear steering arm
   * Ground adjustable tab on left aileron
@@ -157,7 +157,7 @@ The below speeds are all in MPH.
 * **$V_{\text{LE}}$**: 150 (140 AVAD)
 * **$V_{\text{NO}}$**: 200
 * **$V_{\text{NE}}$**: 230
-* **Abeam #’s**: 115
+* **Abeam #'s**: 115
 * **Base**: 110
 * **Final**: 105
 * **Max Demonstrated Crosswind Component**: 20

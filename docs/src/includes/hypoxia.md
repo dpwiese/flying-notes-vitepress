@@ -38,3 +38,5 @@ Not enough oxygen.
   * Tunnel vision
 * Symptoms can take effect at 5,000 ft. at night
 * Immediately reduce altitude, use oxygen, avoid alcohol
+
+![Hypoxia types. [FAA-AC-61-107B Aircraft Operations at Altitudes Above 25,000 Feet Mean Sea Level or Mach Numbers Greater Than .75](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/1020859) Table 2-4](/img/faa-ac-61-107b-table-2-4-hypoxia-types.jpg){width=800}

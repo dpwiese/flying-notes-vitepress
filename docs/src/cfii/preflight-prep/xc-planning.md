@@ -157,6 +157,7 @@ This page covers *Task B. Cross Country Flight Planning* from the [FAA-S-8081-9E
     * Uses hot bleed air from turbine compressor, for example
   * Weeping wing
     * Deicing fluid (e.g. TKS fluid, like antifreeze) comes out of small holes in leading edge
+    * TKS (Tecalemit-Kilfrost-Sheepbridge Stokes) was the name of a British aerospace company during WWII that developed the original weeping wing technology
 * **Prop**
   * Heated
   * Deicing fluid

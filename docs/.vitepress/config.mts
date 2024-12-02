@@ -303,7 +303,8 @@ export default defineConfig({
             { text: 'Private', link: '/study-guides/ppl' },
             { text: 'CFI', link: '/study-guides/cfi' },
             { text: 'CFII', link: '/study-guides/cfii' },
-            { text: 'IPC', link: '/study-guides/ipc' }
+            { text: 'IPC', link: '/study-guides/ipc' },
+            { text: 'High Altitude', link: '/study-guides/high-altitude' }
           ]
         }
       ]

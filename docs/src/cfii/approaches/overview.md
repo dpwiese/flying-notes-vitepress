@@ -42,6 +42,7 @@ A series of predetermined maneuvers for the orderly transfer of an aircraft oper
   * RAIM failure before FAWP (FAF)
     * Must go missed
     * May not descend to MDA
+    * See [AIM 1-1-17(b)(5)(g)(6)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#aim0101.html.28) and more in RAIM section below
   * RAIM failure after FAWP (FAF)
     * Go missed immediately
 * GPS will give you the lowest minimums it is capable of giving you
@@ -141,6 +142,16 @@ Know how to read an instrument approach chart, review charts before flight, and 
 ![Digital Terminal Procedures: IAP legend](/img/tpp/dtpp-iap-legend-2.png){width=600}
 
 ![Digital Terminal Procedures: IAP legend](/img/tpp/dtpp-iap-legend-3.jpg){width=600}
+
+### MSA and TAA
+
+* [AIM 5-4-5(c)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html#$paragraph5-4-5)
+
+    > The Minimum Safe Altitudes (MSA) is published for emergency use on IAP or departure procedure (DP) graphic charts. MSAs provide 1,000 feet of clearance over all obstacles, but do not necessarily assure acceptable navigation signal coverage.
+
+* [AIM 5-4-5(d)(5)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html#$paragraph5-4-5)
+
+    > Altitudes published within the TAA replace the MSA altitude. However, unlike MSA altitudes the TAA altitudes are operationally usable altitudes. These altitudes provide at least 1,000 feet of obstacle clearance, more in mountainous areas.
 
 ## Canceling IFR
 

@@ -86,6 +86,12 @@ This page covers *Task M. Night Operations* from the [FAA-S-ACS-25 Flight Instru
   * This includes readjustment of instrument lights and orientation to outside references.
   * During the adjustment period, night vision should continue to improve until optimum night adaptation is achieved.
 
+The official source of information on sun set/rise, civil twighlight, is the Air Almanac, published by the US Naval Observatory, and found here: [http://aa.usno.navy.mil/publications/docs/aira.php](http://aa.usno.navy.mil/publications/docs/aira.php)
+
+The Air Almanac, and tables for sun set/rise can be found online here:
+[http://aa.usno.navy.mil/data/docs/RS_OneYear.php](http://aa.usno.navy.mil/data/docs/RS_OneYear.php)
+*Note the times here are in standard local time, and so need to be converted to daylight time when applicable.*
+
 ## Personal Equipment
 
 * Red flashlight

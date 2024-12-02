@@ -2,9 +2,52 @@
 
 This page covers *Task P. One Engine Inoperative (OEI) Performance* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
 
+The transition to multi-engine aircraft requires a change in thinking from single-engine aircraft.
+
+* Different mindset - speed is king
+* Assume always one engine
+* More about maintaiing speed than altitude
+* Sacrifice altitude for speed
+* Shallower climbout
+* Multi considered safer due to redundancy of power and some systems
+* Loss of an engine results in 50% loss in power and 80-90% loss of performance
+* Also descend shallower too
+* More to manage
+* For example, starting to descend to KHEF from 2000 feet 8 miles out is reasonable
+* Throttle quadrant
+  * Increase into the knee
+  * Decrease out of the knee
+
 ## Performance Charts
 
-* TBD
+* Light twin have no required single-engine performance
+  * The manufacturer just must publish the value, whether it be a climb or a descent
+  * This is true for twins 6000 lbs or less max weight and $V_{S_{0}}$ 61 kts or less (PA30 is 60) the single engine rate of climb at 5000' MSL must simply be determined
+    * See [14 CFR &sect;23.67(a)(2) - Climb: One engine inoperative. (2017)](https://www.ecfr.gov/on/2017-08-29/title-14/part-23/section-23.67#p-23.67(a)(2))
+  * This is *not* true for the Baron, which has $V_{S_{0}}$ 69 KIAS (see page 2-4 of the POH)
+* Starting considerations - which engine to start first
+  * Engine that starts more easily
+  * Distance from battery
+    * Start the engine closer to battery first
+  * Better being able to hear the second engine start
+    * Start the engine on pilot side second
+  * Engine start relative to onboarding passengers
+    * Start the engine further from onboarding passengers first
+* More power in *upwind* engine when taxiing
+* Running both engines up at the same time allows the comparison of the response of each engine
+  * Be careful on slick surface - may not be able to run up both engines without slipping
+* For Twin Comanche accelerate-stop and accelerate-go distances need not be published
+  * It is a normal category plane not weighing more than 6,000 lbs
+    * [14 CFR &sect;23.1585(f)(2) - Operating procedures (2017)](https://www.ecfr.gov/on/2017-08-29/title-14/chapter-I/subchapter-C/part-23/subpart-G/subject-group-ECFR4b4f22832845ca2/section-23.1585#p-23.1585(f)(2))
+    * [14 CFR &sect;23.1587(d) - Performance information (2017)](https://www.ecfr.gov/on/2017-08-29/title-14/chapter-I/subchapter-C/part-23/subpart-G/subject-group-ECFR4b4f22832845ca2/section-23.1587#p-23.1587(d))
+  * *Note: the Twin Comanche was certified under CAR Part 3, so it is those regulations that should be cited*
+* On takeoff to counteract left turning tendencies can lead with left engine power
+* Can also lead with more throttle on the upwind engine in a crosswind
+* In no phase of liftoff or takeoff should fly at less than $V_{\text{MC}}$
+  * Generally: short-field takeoff at $V_{\text{MC}}$ plus 5 knots
+  * In PA-30 short-field takeoff exactly at $V_{\text{MC}}$ (90 mph)
+
+![PA-30 POH Single Engine Rate of Climb](/img/twin-comanche/pa-30-poh-page-5-14-figure-5-10-single-engine-rate-of-climb.png){width=460}
 
 ## Effects of Exceeding Limitations
 

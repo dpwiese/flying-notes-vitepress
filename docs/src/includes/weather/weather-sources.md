@@ -35,6 +35,8 @@
   * NOTAMs
   * Other pertinent information
   * Usually recorded 10 minutes before the hour
+  * Updated on the receipt of any official weather, regardless of content change or reported values
+  * Default ceiling and visibility if not stated on ATIS is at least 5,000 ft and 5 sm
 
 ## PATWAS and TIBS
 
