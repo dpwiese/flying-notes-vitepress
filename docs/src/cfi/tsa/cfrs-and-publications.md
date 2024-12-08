@@ -82,11 +82,17 @@ This page covers *Task J. 14 CFR and Publications* from the [FAA-S-ACS-25 Flight
 
 ### INFOs
 
-* TBD
+* Information for Operators
+* [InFO 06001 - Introducing InFOs](https://www.faa.gov/sites/faa.gov/files/airports/runway_safety/controllers/resources/inFO06001.pdf)
+
+    > Much like SAFOs, which contain critical safety information, an InFO message contains valuable information for operators that should help them meet certain administrative, regulatory, or operational requirements with relatively low urgency or impact on safety. InFOs contain information or a combination of information and recommended action to be taken by the respective operators identified in each individual InFO.
 
 ### SAFOs
 
-* TBD
+* Safety Alerts for Operators
+* [SAFO 05001 - Introducing SAFOs](https://www.faa.gov/sites/faa.gov/files/other_visit/aviation_industry/airline_operators/airline_safety/SAFO_05001.pdf)
+
+    > The SAFO process re-establishes a communication channel between Flight Standards and operators. This channel permits a policy-making division such as AFS-200 to convey important safety information concurrently to FAA field offices and to operators in a timely manner, without undue delays caused by coordination among government offices. SAFOs frequently contain recommended action to be accomplished by operators.
 
 ## ACS and PTS
 
@@ -119,15 +125,15 @@ This page covers *Task J. 14 CFR and Publications* from the [FAA-S-ACS-25 Flight
 * The POH is a document developed by the aircraft manufacturer and contains FAA-approved AFM information. If "POH" is used in the main title, a statement must be included on the title page indicating that sections of the document are FAA approved as the AFM.
 
 * The POH for most light aircraft built after 1975 is also designated as the FAA-approved flight manual. The typical AFM/POH contains the following nine sections
-  * 1. General
-  * 2. Limitations
-  * 3. Emergency Procedures
-  * 4. Normal Procedures
-  * 5. Performance
-  * 6. Weight and Balance/Equipment List
-  * 7. Systems Description
-  * 8. Handling, Service, and Maintenance
-  * 9. Supplements
+    1. General
+    2. Limitations
+    3. Emergency Procedures
+    4. Normal Procedures
+    5. Performance
+    6. Weight and Balance/Equipment List
+    7. Systems Description
+    8. Handling, Service, and Maintenance
+    9. Supplements
 * Manufacturers also have the option of including additional sections, such as one on Safety and Operational Tips or an alphabetical index at the end of the POH.
 
 ### AFM vs POH
@@ -143,9 +149,9 @@ This page covers *Task J. 14 CFR and Publications* from the [FAA-S-ACS-25 Flight
   * POH is standardized by the General Aviation Manufacturer's Association
     * [GAMA Specification 1, rev 1996](https://gama.aero/documents/gama-specification-1-specification-for-pilots-operating-handbook-version-2-0/)
 
-> The title [of the document shall be] "Pilot's Operating Handbook and FAA Approved Airplane Flight Manual" for all airplanes except those for which the airplane manufacturer elected to provide a separate FAA Approved Airplane Flight Manual. In the latter case, the title shall be "Pilot's Operating Handbook".
+    > The title [of the document shall be] "Pilot's Operating Handbook and FAA Approved Airplane Flight Manual" for all airplanes except those for which the airplane manufacturer elected to provide a separate FAA Approved Airplane Flight Manual. In the latter case, the title shall be "Pilot's Operating Handbook".
 
-> Note: After the effective date of this revision, Pilot's Operating Handbooks for newly manufactured airplanes must be FAA Approved Airplane Flight Manuals.
+    > Note: After the effective date of this revision, Pilot's Operating Handbooks for newly manufactured airplanes must be FAA Approved Airplane Flight Manuals.
 
 ## Aeronautical Information Manual
 
@@ -157,28 +163,3 @@ This page covers *Task J. 14 CFR and Publications* from the [FAA-S-ACS-25 Flight
 * [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
   * [Chapter 1: Introduction to Flying](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/03_phak_ch1.pdf)
   * [Chapter 9: Flight Manuals and Other Documents](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/11_phak_ch9.pdf)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

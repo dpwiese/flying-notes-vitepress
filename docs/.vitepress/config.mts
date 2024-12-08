@@ -112,8 +112,7 @@ export default defineConfig({
             { text: '14 CFR and Publications', link: '/cfi/tsa/cfrs-and-publications' },
             { text: 'Endorsements and Logbook Entries', link: '/cfi/tsa/endorsements-and-logbooks' },
             { text: 'Night Operations', link: '/cfi/tsa/night-operations' },
-            { text: 'High Altitude Operations - Supplemental Oxygen', link: '/cfi/tsa/high-altitude-ops-oxygen' },
-            { text: 'High Altitude Operations - Pressurization', link: '/cfi/tsa/high-altitude-ops-pressurization' },
+            { text: 'High Altitude Operations', link: '/cfi/tsa/high-altitude-ops' },
             { text: 'OEI Performance', link: '/cfi/tsa/oei-performance' }
           ]
         },

@@ -44,7 +44,7 @@ Be able to still fly an approach and land in IMC even primary flight instruments
 
 ## Completion Standards
 
-![[FAA-S-ACS-8C Instrument Rating Airplane Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/instrument_rating_airplane_acs_8.pdf)](/img/faa-s-acs-8c/faa-s-acs-8c-vii-d-partial-panel-approach.png){width=640}
+![[FAA-S-ACS-8C Instrument Rating Airplane Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/instrument_rating_airplane_acs_8.pdf)](/img/faa-s-acs-8c/faa-s-acs-8c-vii-d-partial-panel-approach.png){width=800}
 
 ## References
 

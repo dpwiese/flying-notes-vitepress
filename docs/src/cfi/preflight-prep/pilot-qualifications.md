@@ -322,17 +322,18 @@ Comments:
   * Sufficient for the sport, recreational, student, private, and flight instructor ratings
   * ==40 and older: 24 months==
   * ==Under 40: 60 months==
-* **Basic Med**
+* **BasicMed**
   * For Private Pilot only [14 CFR &sect;61.113(i)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.113#p-61.113(i))
   * Have held a medical at some point after 14-July-2006
   * Completed medical education course in previous 24 calendar months
   * Received physical exam in previous 48 calendar months
   * Restrictions
-    * Airplane authorized to carry *not more than 6 people* or with *max takeoff weight not more than 6000 lb*
-    * Carry *no more than 5 passengers*
+    * Airplane authorized to carry *not more than 7 people* or with *max takeoff weight not more than 12,500 lb*
+    * Carry *no more than 6 passengers*
     * Fly *no higher than 18,000 ft*
     * Fly *no faster than 250 KIAS*
     * Cannot fly for compensation or hire
+  * The above restrictions were updated in November 2024
   * Bring BasicMed checklist to any licensed physician
     * Complete online medical course
 
@@ -407,3 +408,8 @@ Comments:
 ## Documents Pilots Must Possess
 
 <!--@include: ./docs/src/includes/required-documents-ppm.md | shift:2-->
+
+## References
+
+* [FAA BasicMed](https://www.faa.gov/licenses_certificates/airmen_certification/basic_med)
+* [FAA Updates BasicMed Program](https://www.faa.gov/newsroom/faa-updates-basicmed-program)
