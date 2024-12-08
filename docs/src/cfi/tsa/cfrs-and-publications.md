@@ -42,11 +42,20 @@ This page covers *Task J. 14 CFR and Publications* from the [FAA-S-ACS-25 Flight
 
 ## 14 CFR Parts 1, 61, and 91
 
-* TBD
+* [14 CFR &sect;91.3 - Responsibility and authority of the pilot in command](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.3)
+* [14 CFR &sect;91.13 - Careless or reckless operation](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.13)
 
 ## 49 CFR Part 830
 
-* TBD
+* [49 CFR: Transportation](https://www.ecfr.gov/current/title-49)
+  * [Subtitle B: Other Regulations Relating to Transportation](https://www.ecfr.gov/current/title-49/subtitle-B)
+    * [Chapter VIII: National Transportation Safety Board](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-VIII)
+      * [Part 830 - Notification and Reporting of Aircraft Accidents or Incidents and Overdue Aircraft, and Preservation of Aircraft Wreckage, Mail, Cargo, and Records](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-VIII/part-830?toc=1)
+* **IAW NTSB Part 830, who is responsible for submitting the initial report of an accident or incident?**
+    * [49 CFR &sect;830.5 - Immediate notification](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-VIII/part-830/subpart-B/section-830.5)
+    * ==Aircraft operator==
+        * Only definition of "operate" in [14 CFR &sect;1.1](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-A/part-1/section-1.1)
+        * Seems for GA the operator is the pilot in command "cause to use or authorize to use aircraft, for the purpose of air navigation including the piloting of aircraft"
 
 ## Advisory Circulars, INFOs, and SAFOs
 

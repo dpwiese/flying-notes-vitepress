@@ -17,6 +17,9 @@ When final approach course more than 30&#176; off runway alignment or steeper de
 * No more than 30&#176; bank
 * Circling approach radii are from *any paved runway* on airport
 * Circling only approach when final approach course more than 30&#176; off runway alignment or steeper descent approach path
+* From [AIM 5-4-20(f)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html#$paragraph5-4-20)
+
+    > Pilots should remain at or above the circling altitude until the aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers.
 
 ![Circling approach. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 10: IFR Flight Figure 10-13.](/img/ifh/ifh-figure-10-13-circling-approaches.jpg){width=800}
 
@@ -71,3 +74,4 @@ When final approach course more than 30&#176; off runway alignment or steeper de
 * [Krug 2014](https://www.faa.gov/media/12381)
 * [Gossman 2011](https://www.faa.gov/media/13671)
 * [14 CFR &sect; 91.126](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.126)
+* [AIM 5-4-20](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html#$paragraph5-4-20)
