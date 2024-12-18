@@ -206,17 +206,12 @@ This page covers *Task A. Pilot Qualifications* from the [FAA-S-ACS-25 Flight In
 
 ### Flying for Hire
 
-#### Summary
+#### Introduction
 
-A commercial pilot's license does not mean you can just start charging money to fly people around.
+A commercial pilot's license does not mean you can just buy a plane and start charging money to fly people around.
 Rather it's quite restrictive.
-First, you will be considered a *common carrier* if you are willing to take payment from anyone to transport people or proerty from place to place as described in [FAA-AC-120-12A Private Carriage Versus Common Carriage Of Persons or Property](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22647).
-If you are a common carrier, you need an air carrier certificate.
-Likely you do not and never will have your own air carrier certificate, so this is off the table.
-
-If you don't satisfy those criteria, for example you are not willing to take money from anyone but rather have a few exclusive contracts to fly certain people around, you can be considered a *private carrier*.
-If you are a private carrier though, you still can't just buy your own plane and charge your exclusive passengers to fly them around without an air carrier certificate - there is a narrow list of things in [14 CFR &sect;91.501(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-F/section-91.501#p-91.501(b)) that can be done without an air carrier certificate, but basically carrying of passengers only if you don't own the plane.
-In these cases you can charge for your time.
+First, you will be considered a *carrier* if you are willing to take payment to transport people or proerty from place to place as described in [FAA-AC-120-12A Private Carriage Versus Common Carriage Of Persons or Property](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22647), with a few exceptions.
+The carriage of passengers may fall under *common carriage* or *private carriage*, which are discussed below, but in either case an air carrier certificate is required.
 
 Basically, there isn't practically anything an owner of a small plane can do to charge to carry passengers.
 Rather, you'll get a job with a company / operator of a plane that will need to take care of the air carrier certificate if needed.
@@ -224,76 +219,90 @@ And really the takeaway here is that if, as a commercial pilot, you are faced wi
 
 #### Definitions
 
-* **[Operate (14 CFR &sect;1.1)](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Operate))** with respect to aircraft, means use, cause to use, or authorize to use aircraft.
-* **[Operational control (14 CFR &sect;1.1)](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Operational%20control))** with respect to a flight, means the exercise of authority over initiating, conducting, or terminating a flight.
-* **[Commercial operator (14 CFR &sect;1.1)](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Commercial%20operator))** means a person who, for compensation or hire, engages in the carriage by aircraft in air commerce of persons or property, other than as an air carrier or foreign air carrier or under the authority of Part 375 of this title. Where it is doubtful that an operation is for "compensation or hire", the test applied is whether the carriage by air is merely incidental to the person's other business or is, in itself, a major enterprise for profit.
-* **Common carriage:** A carrier becomes a common carrier when it "holds itself out" to the public, or to a segment of the public as willing to furnish transportation within the limits of its facilities to any person who wants it.
-  * There are four elements in defining a common carrier:
+* **[Operate (14 CFR &sect;1.1)](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Operate))**
+  * With respect to aircraft, means use, cause to use, or authorize to use aircraft.
+* **[Operational control (14 CFR &sect;1.1)](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Operational%20control))**
+  * With respect to a flight, means the exercise of authority over initiating, conducting, or terminating a flight.
+* **[Commercial operator (14 CFR &sect;1.1)](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Commercial%20operator))**
+  * Means a person who, for compensation or hire, engages in the carriage by aircraft in air commerce of persons or property, other than as an air carrier or foreign air carrier or under the authority of Part 375 of this title. Where it is doubtful that an operation is for "compensation or hire", the test applied is whether the carriage by air is merely incidental to the person's other business or is, in itself, a major enterprise for profit.
+* **Common carriage**
+  * A carrier becomes a common carrier when it "holds itself out" to the public, or to a segment of the public as willing to furnish transportation within the limits of its facilities to any person who wants it.
+  * There are four elements in defining common carriage:
       1. A holding out of a willingness to
       2. Transport persons or property
       3. From place to place
       4. For compensation
   * [FAA-AC-120-12A](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22647)
-* **Private carriage:** Carriage for hire which does not involve "holding out" is private carriage.
+* **Private carriage**
+  * Carriage for hire which does not involve "holding out" is private carriage.
   * [FAA-AC-120-12A](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22647)
 
 #### Overview
 
-* Operations that constitute common carriage are required to be conducted under [14 CFR &sect;121](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-121?toc=1) or [14 CFR &sect;135](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-135?toc=1).
-* Private carriage may be conducted under [14 CFR &sect;125](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-125?toc=1) or [14 CFR &sect;91](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91?toc=1).
-* [14 CFR &sect;119](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119?toc=1) applies to each person operating or intending to operate a civil aircraft:
-    1. As an air carrier or commercial operator or
-    2. When common carriage is not involved (but the plane is big, 20+ seats, 6000+ lb payload)
-* Stuff can do for hire?
-  * [14 CFR &sect;91.146](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.146)
+* A commercial pilot can carry passengers for compensation or hire
+  * [14 CFR &sect;61.133 (a)(1)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.133)
+* Operations that constitute common carriage are required to be conducted under
+  * [14 CFR &sect;121](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-121?toc=1)
+  * [14 CFR &sect;135](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-135?toc=1)
+* Private carriage may be conducted under
+  * [14 CFR &sect;125](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-125?toc=1)
+  * [14 CFR &sect;91](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91?toc=1)
+* **Air carriers and commercial operators are subject to certain rules**
+  * [14 CFR &sect;119](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119?toc=1)
+  * This applies to each person operating or intending to operate a civil aircraft:
+      1. As an air carrier or commercial operator or
+      2. When common carriage is not involved but the plane is big, 20+ seats, 6000+ lb payload
+  * There are exceptions to these requirements
+    * [14 CFR &sect;119.1(e)](https://www.ecfr.gov/current/title-14/part-119/section-119.1#p-119.1(e))
+    * Flight instruction
+    * Ferry or training flights
+    * Aerial photography
+    * Banner towing
+    * Skydive operations
+    * And some other
+* **There are certain operations that can be done under Part 91 when common carriage is not involved**
+  * [14 CFR &sect;91.501(b)](https://www.ecfr.gov/current/title-14/part-91/section-91.501#p-91.501(b))
+  * Ferry or training flights
+  * Aerial photography
+  * Pipeline patrol
+  * Flights conducted by the operator of an airplane for personal transportation or transportation of guests if no charge is made
+  * And some others
+  * In addition, this section describes certain things that *can* be charged for during certain specific operations
+    * [14 CFR &sect;91.501(d)](https://www.ecfr.gov/current/title-14/part-91/section-91.501#p-91.501(d))
+* **Under certain conditions, passengers can be carried for compensation or hire under Part 91 for sightseeing or skydiving**
   * [14 CFR &sect;91.147](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.147)
-* Operations that constitute common carriage are required to be conducted under Federal Aviation Regulations 14 CFR Parts 121 or 135.
-  * [FAA-AC-120-12A](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22647)
-* Private carriage may be conducted under 14 CFR Parts 125 or 91, Subpart D.
-* Operations conducted under [14 CFR &sect;91.501(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-F/section-91.501#p-91.501(b)), which permits certain charges to be made, may also be subject to these guidelines, particularly the "time sharing" provisions of [14 CFR &sect;91.501(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-F/section-91.501#p-91.501(b)).
-* It should also be noted that lease agreements entered into under CFRs are subject to [14 CFR &sect;91.23](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.23): "Truth in leasing clause requirement in leases and conditional sales contracts."
+  * Start and end at the same airport
+  * Remain within a 25 nm radius of the airport
+* **Under certain conditions, passengers can be carried for compensation or hire under Part 91 to benefit a charitable, community, or nonprofit event**
+  * [14 CFR &sect;91.146](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.146)
+  * Start and end at the same airport
+  * Remain within a 25 nm radius of the airport
+  * VFR day only
+  * Maximum of 30 seats for passengers
+  * And some others
+* Wet vs dry leasing
+  * [14 CFR &sect;110.2](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-110/section-110.2)
+  * Wet leasing means any leasing arrangement whereby a person agrees to provide an entire aircraft and at least one crewmember.
+  * See [FAA General Aviation Dry Leasing Guide](https://www.faa.gov/sites/faa.gov/files/2021-11/GADryLeasingGuide.pdf)
+* There are certain requirements when an aircraft is leased to someone else
+  * [14 CFR &sect;91.23](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.23)
 
-[14 CFR &sect;135.1](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-135/subpart-A/section-135.1) This part prescribes rules governing operations of each person who holds or is required to hold an Air Carrier Certificate under part 119 of this chapter.
+#### Common Scenarios
 
-Decision tree
+* You are hired by a skydive company to fly skydivers
+  * This is legal under [14 CFR &sect;91.147](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.147)
+* You want to rent a plane to fly somewhere with your friends and split the rental cost and fuel equally
+  * This is legal under [14 CFR &sect; 61.113(c)](https://www.ecfr.gov/current/title-14/part-61/section-61.113#p-61.113(c))
+* An aircraft owner wants to pay you to fly them somewhere in their plane
+  * This is legal under [14 CFR &sect;91.501(b)(4)](https://www.ecfr.gov/current/title-14/part-91/section-91.501#p-91.501(b)(4))
+* An aircraft owner wants to pay you to fly their friends and family members somehwhere in their plane
+  * This is legal under [14 CFR &sect;91.501(b)(4)](https://www.ecfr.gov/current/title-14/part-91/section-91.501#p-91.501(b)(4)) as long as the aircraft owner isn't charging his friends and family for the flight
 
-1. Acting as commercial operator?
-    * If YES: then subject to 119
-    * If NO: then ...
-2. Is common carriage?
-    * YES?
-    * NO?
+#### Resources
 
-#### Discussion Flying for Hire
-
-* Under [14 CFR &sect;61.133 (a)(1)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.133) a commercial pilot can carry passengers for compensation or hire.
-* When do I become the operator? If I provide the plane?
-* What is common carriage and why does it matter?
-
-[Aviation StackExchange What do the terms 'holding out' and 'common carriage' mean?](https://www.grc.nasa.gov/www/k-12/airplane/induced.html)
-
-Why "private carriage" does NOT relieve you of getting an air carrier certificate.
-Even if you are found to be private carriage [14 CFR &sect;119.23(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119/subpart-B/section-119.23) clearly states:
-
-> (b) Each person who conducts noncommon carriage (except as provided in [14 CFR &sect;91.501(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-F/section-91.501#p-91.501(b)) of this chapter) or private carriage operations for compensation or hire with airplanes having a passenger-seat configuration of less than 20 seats, excluding each crewmember seat, and a payload capacity of less than 6,000 pounds shall-
->
-> (1) Comply with the certification and operations specifications requirements in subpart C of this part;
->
-> (2) Conduct those operations in accordance with the requirements of part 135 of this chapter, except for those requirements applicable only to commuter operations; and
->
-> (3) Be issued operations specifications in accordance with those requirements.
-
-Guess what Subpart C of 119 is going to say. See [14 CFR &sect;119.33](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119/subpart-C/section-119.33):
-
-> (a) A person may not operate as a direct air carrier unless that person--
->
-> (1) Is a citizen of the United States;
->
-> (2) Obtains an Air Carrier Certificate; and etc..
-
-Comments:
-
-> The problem is you said YOU are going to buy the plane. (Even if you rent from someone else than THEY would have to have an air carrier certificate). You cannot charge money for a flight and not fall under Part 119. Remember there are only a few exceptions defined under Part 119 that allow you to operate Part 91 instead 135 or 121 or whatever. Now if you are flying for someone else who owns their own plane and the flight itself is NOT for hire (family / friends) than you could charge for your time as a pilot and there would be no need for the air carrier certificate.
+* [Aviation StackExchange What do the terms 'holding out' and 'common carriage' mean?](https://aviation.stackexchange.com/questions/1402/what-do-the-terms-holding-out-and-common-carriage-mean)
+* [Midlife Flight - What are my limitations as a commercial pilot?](http://midlifeflight.com/flyingfaq/) has a good overview
+* [FAA-AC-91-37B - Truth in Leasing](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-37B.pdf)
 
 ### Notes
 
@@ -322,28 +331,35 @@ Comments:
   * Sufficient for the sport, recreational, student, private, and flight instructor ratings
   * ==40 and older: 24 months==
   * ==Under 40: 60 months==
-* **BasicMed**
-  * For Private Pilot only [14 CFR &sect;61.113(i)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.113#p-61.113(i))
-  * Have held a medical at some point after 14-July-2006
-  * Completed medical education course in previous 24 calendar months
-  * Received physical exam in previous 48 calendar months
-  * Restrictions
-    * Airplane authorized to carry *not more than 7 people* or with *max takeoff weight not more than 12,500 lb*
-    * Carry *no more than 6 passengers*
-    * Fly *no higher than 18,000 ft*
-    * Fly *no faster than 250 KIAS*
-    * Cannot fly for compensation or hire
-  * The above restrictions were updated in November 2024
-  * Bring BasicMed checklist to any licensed physician
-    * Complete online medical course
 
 ### Medical Certificate Details
 
 * [14 CFR &sect;61.23 - Medical certificates: Requirement and duration](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.23)
-* [FAA-AC-68-1A BasicMed](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1031168)
 * Each of the classes of medical certificates "reverts" to the the lower class at expiration.
 
 ![Medical [14 CFR &sect;61.23(d)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.23#p-61.23(d))](/img/medical-certificate-requirements-table.png){width=500}
+
+### BasicMed
+
+* **Limitations**
+  * [14 CFR &sect;61.113(i)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.113#p-61.113(i))
+  * For Private Pilot only
+  * Airplane authorized to carry *not more than 7 people* or with *max takeoff weight not more than 12,500 lb*
+  * Carry *no more than 6 passengers*
+  * Fly *no higher than 18,000 ft*
+  * Fly *no faster than 250 KIAS*
+  * Cannot fly for compensation or hire
+  * *These limitations were updated in November 2024*
+* **Requirements**
+  * [14 CFR &sect;61.23(c)(3)](https://www.ecfr.gov/current/title-14/part-61/section-61.23#p-61.23(c)(3))
+  * Have held a medical at some point after 14-July-2006
+  * The most recent medical cannot have been suspended or revoked
+  * Completed medical education course in previous 24 calendar months
+  * Received physical exam in previous 48 calendar months
+  * Bring BasicMed checklist to any licensed physician
+  * Comply with any medical requirements or restrictions associated with their U.S. driver's license
+* [FAA-AC-68-1A BasicMed](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1031168)
+* [FAA Updates BasicMed Program](https://www.faa.gov/newsroom/faa-updates-basicmed-program)
 
 ### Medical Deficiencies
 

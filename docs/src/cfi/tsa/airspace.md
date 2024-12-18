@@ -4,13 +4,13 @@ This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Fligh
 
 ## Airspace Classes
 
-![VFR airspace entry requirements. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 15: Airspace](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/17_phak_ch15.pdf) Figure 15-9](/img/vfr-entry-requirements.png){width=540}
+![VFR airspace entry requirements. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 15: Airspace](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/17_phak_ch15.pdf) Figure 15-9](/img/vfr-entry-requirements.png){width=800}
 
-![Airspace classifications. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 1: The National Airspace System Figure 1-1.](/img/ifh/ifh-figure-1-1-airspace.png){width=540}
+![Airspace classifications. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 1: The National Airspace System Figure 1-1.](/img/ifh/ifh-figure-1-1-airspace.png){width=800}
 
 ### VFR Weather Minimums
 
-![VFR weather minimums. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 15: Airspace](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/17_phak_ch15.pdf) Figure 15-8](/img/vfr-weather-minimums.png){width=540}
+![VFR weather minimums. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 15: Airspace](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/17_phak_ch15.pdf) Figure 15-8](/img/vfr-weather-minimums.png){width=800}
 
 ### Two-Way Radio Communication
 
@@ -56,7 +56,7 @@ This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Fligh
     * Clear of clouds
   * At night, the pilot must be instrument rated and the aircraft must be IFR equipped.
 
-![Airspace communication requirements and weather minimums. Reference unknown.](/img/airspace-at-a-glance.jpg){width=540}
+![Airspace communication requirements and weather minimums. Reference unknown.](/img/airspace-at-a-glance.jpg){width=800}
 
 ### Controlled Airspace
 
@@ -119,15 +119,15 @@ This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Fligh
   * In certain designated areas class G extends up to 14,500 feet
     * This is on VFR charts, but easier to see on IFR charts
 
-![Class G airspace to 14,500 as depicted on IFR charts. [Aeronautical Chart Users' Guide - IFR Enroute Products Only Edition](https://aeronav.faa.gov/user_guide/20220714/cug-ifr-enroute-edition.pdf)](/img/ifr-chart-user-guide-class-g-to-14500.jpg){width=540}
+![Class G airspace to 14,500 as depicted on IFR charts. [Aeronautical Chart Users' Guide - IFR Enroute Products Only Edition](https://aeronav.faa.gov/user_guide/20220714/cug-ifr-enroute-edition.pdf)](/img/ifr-chart-user-guide-class-g-to-14500.jpg){width=800}
 
-![Example of class G airspace to 14,500 on VFR chart.](/img/class-g-to-14-500-vfr-chart.jpg){width=540}
+![Example of class G airspace to 14,500 on VFR chart.](/img/class-g-to-14-500-vfr-chart.jpg){width=800}
 
-![Example of class G airspace to 14,500 on IFR low chart.](/img/class-g-to-14-500-ifr-chart.jpg){width=540}
+![Example of class G airspace to 14,500 on IFR low chart.](/img/class-g-to-14-500-ifr-chart.jpg){width=800}
 
-![Example of class G airspace to 14,500 on VFR chart at the US border.](/img/class-g-to-14-500-vfr-chart-2.png){width=500}
+![Example of class G airspace to 14,500 on VFR chart at the US border.](/img/class-g-to-14-500-vfr-chart-2.png){width=800}
 
-![Example of class G airspace to 14,500 on IFR low chart at the US border.](/img/class-g-to-14-500-ifr-chart-2.png){width=500}
+![Example of class G airspace to 14,500 on IFR low chart at the US border.](/img/class-g-to-14-500-ifr-chart-2.png){width=800}
 
 ### Other Airspace
 
@@ -160,9 +160,9 @@ This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Fligh
 * Wildlife & Recreational Areas
   * Provide protection for wildlife
 
-![Parachute jumping areas. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-parachute-jumping-areas-1.png){width=500}
+![Parachute jumping areas. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-parachute-jumping-areas-1.png){width=640}
 
-![Parachute jumping areas. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-parachute-jumping-areas-2.png){width=500}
+![Parachute jumping areas. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-parachute-jumping-areas-2.png){width=640}
 
 ### Transponder and ADS-B Requirements
 
@@ -179,9 +179,7 @@ This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Fligh
 * [14 CFR &sect;91.155 - Basic VFR weather minimums](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFR4d5279ba676bedc/section-91.155)
   * The exception noted in the figure below in G airspace within 1200 AGL:
 
-  > Airplane, powered parachute, or weight-shift-control aircraft. If the visibility is less than 3 statute miles but not less than 1 statute mile during night hours and you are operating in an airport traffic pattern within 1⁄2 mile of the runway, you may operate an airplane, powered parachute, or weight-shift-control aircraft clear of clouds.
-
-  * *So does this mean if the visibility is more than 3 statute miles at night, you wouldn't not be allowed to operate clear of clouds while in the traffic pattern and within 1/2 mile? Seems so as written, but a bit not obvious as to why.*
+    > Airplane, powered parachute, or weight-shift-control aircraft. If the visibility is less than 3 statute miles but not less than 1 statute mile during night hours and you are operating in an airport traffic pattern within 1⁄2 mile of the runway, you may operate an airplane, powered parachute, or weight-shift-control aircraft clear of clouds.
 
 * [FAA Equip ADS-B](https://www.faa.gov/air_traffic/technology/equipadsb/)
 * [14 CFR &sect;91.225 - Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.225)
@@ -204,18 +202,25 @@ This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Fligh
 
 ### Airspace Speed Limits
 
-* The diagram below kind of sucks.
-* For C and D airspace, within 4 nm and within 2,500 AGL of the primary airport, the speed limit is 200 KIAS.
-* ==Speed limits are in knots *indicated airspeed*.==
+* Defined in [14 CFR &sect;91.117 - Aircraft speed](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.117)
+  * Below 10,000' MSL: 250 KIAS
+  * For C and D airspace, within 4 nm and within 2,500 AGL of the primary airport: 200 KIAS
+  * Under or through (VFR cooridor) B airspace: 200 KIAS
+  * These limits can be exceeded if safety requires it
+* Speed limits are in *indicated airspeed*
 
-![Airspace speed limits. [14 CFR &sect;91.117 - Aircraft speed](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.117) (unknown reference)](/img/airspace_speed_limits.jpg){width=540}
+![Airspace speed limits. (unknown reference)](/img/airspace_speed_limits.jpg){width=540}
 
 ### Overlapping Airspace
 
-* As an example, see some airspace around `KBFI`, `KRNT`, and `KSEA` -- there is D airspace that extends upwards into B.
+* As an example, see some airspace around `KBFI` and `KSEA` -- there is D airspace that extends upwards into B.
 * See [14 CFR &sect;71.9 - Overlapping airspace designations](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-E/part-71/section-71.9):
 
-> When overlapping airspace designations apply to the same airspace, the operating rules associated with the more restrictive airspace designation apply.
+  > When overlapping airspace designations apply to the same airspace, the operating rules associated with the more restrictive airspace designation apply.
+
+* See also [AIM 3-1-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_1.html#$paragraph3-1-3) which also clarifies what is meant by the relative level of "restrictiveness" of the airspace classes.
+
+![Overlapping D airspace of `KBFI` extending upwards into `KSEA` B airspace.](/img/overlapping-airspace-seattle-tac.jpg){width=800}
 
 ## Chart Symbols
 

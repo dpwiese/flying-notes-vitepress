@@ -29,7 +29,7 @@ Use ground-based navigation systems to perform en-route navigation, and perform 
 
 #### On 20&#176; Turns
 
-![DME Arcs radius limits. [FAA Order 8260.3G](https://www.faa.gov/documentLibrary/media/Order/Order_8260.3G.pdf)](/img/order-8260-3g-pg-66-dme-arcs.png){width=540}
+![DME Arcs radius limits. [FAA Order 8260.3G](https://www.faa.gov/documentLibrary/media/Order/Order_8260.3G.pdf)](/img/order-8260-3g-pg-66-dme-arcs.png){width=640}
 
 * Real DME arcs "in the wild" exist with radii between 7 and 30 nm, inclusive
 * Regardless of the specifics of the procedure, flying a DME arc involves a series of turns to fixed headings, "cutting the corners" of the arc

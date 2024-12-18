@@ -12,7 +12,13 @@ This page covers *Task B. Airworthiness Requirements* from the [FAA-S-ACS-25 Fli
 
 ### Airworthiness Directives
 
-* TBD
+* [14 CFR &sect;39](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-39) covers Airworthiness Directives
+* Need to find all applicable ones and make sure they are complied with
+* Can look up [FAA Airworthiness Directives (ADs)](https://www.faa.gov/regulations_policies/airworthiness_directives/)
+* There are third-party services that can provide and help ensure ongoing compliance with ADs by inputting information about a plane
+* Airworthiness directives are issued when
+  * An unsafe condition exists in the product and
+  * The condition is likely to exist or develop in other products of the same type design
 
 ### Special Flight Permit
 

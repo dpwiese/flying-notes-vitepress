@@ -128,6 +128,11 @@ Uses a navigation system that provides lateral *and vertical* course guidance.
   * An ADF receiver is an excellent aid to orient you during an ILS approach if there is a locator or NDB on the inbound course.
 * Chasing the CDI and glidepath needles, especially when you have not sufficiently studied the approach before the flight.
 
+### Adherance to Stepdowns Prior to FAF
+
+* If the glideslope is flown *prior to* the final approach fix, the pilot is still required to adhere to altitude restrictions imposed by the stepdowns
+* See [InFO 11009](https://www.faa.gov/sites/faa.gov/files/other_visit/aviation_industry/airline_operators/airline_safety/InFO11009.pdf)
+
 ## Completion Standards
 
 ![[FAA-S-ACS-8B Instrument Rating Airplane Airman Certification Standards Change 1](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/instrument_rating_acs_change_1.pdf)](/img/instrument-acs/instrument-acs-vi-b-precision-approach.png){width=540}
