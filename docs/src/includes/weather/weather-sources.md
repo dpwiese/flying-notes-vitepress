@@ -1,17 +1,14 @@
 # Sources of Weather Data
 
-* Four types of weather briefings
-  * **Outlook briefing**
-    * More than 6 hours in advance
-    * Will get mostly forecast information without bothering too much with current conditions
-  * **Standard briefing**
-    * Immediately before flight (within 6 hours of your departure time)
-  * **Abbreviated briefing**
-    * If you've already received an outlook briefing
-    * There is no standard format, need to tell the briefer what info you need
-  * **In flight briefing**
+* NOAA
+  * National Weather Service
+    * NWS is a NOAA agency, see [NOAA Organization](https://www.noaa.gov/about/organization)
+    * The [Aviation Weather Center](https://aviationweather.gov) is an NWS center
+* Flight Service
 
 ## AWOS, ASOS, and ATIS Reports
+
+* [AIM 7-1-10 Weather Observing Programs](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html#$paragraph7-1-10)
 
 * **Automated Weather Observing System (AWOS)**
   * Controlled and operated by the FAA

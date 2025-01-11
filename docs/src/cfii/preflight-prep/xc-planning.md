@@ -63,8 +63,10 @@ This page covers *Task B. Cross Country Flight Planning* from the [FAA-S-8081-9E
 * See the FAA document [Aeronautical Chart Users' Guide IFR Enroute Charts](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/aero_guide/) for descriptions of terms and symbols used on IFR enroute charts.
 * IFR low chart is used under 18,000 ft.
 * Victor airways - from 1200 AGL up to but not including FL 180
+* Airways are 4 miles each side of centerline
 * T-Routes - like victor airways but for GPS navigation on IFR low charts
   * On IFR high charts these are Q-Routes
+* See [GPS Routes](/cfi/tsa/nav-systems-radar-services#gps-routes)
 * Blue or green airports on IFR chart have instrument approach procedure (IAP) and/or radar minima, where this is related to ASR or PAR (radar) approaches
 
 ## Procurement and Interpretation of NOTAMS
@@ -85,7 +87,7 @@ This page covers *Task B. Cross Country Flight Planning* from the [FAA-S-8081-9E
   * Online
     * FAA
     * 1800wxbrief.com
-  * 1-800-WXBRIEF Briefing (see: [https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/systemops/fs/alaskan/alaska/fai/pfpwb/](https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/systemops/fs/alaskan/alaska/fai/pfpwb/))
+  * Calling 1-800-WX-BRIEF Briefing (see: [https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/systemops/fs/alaskan/alaska/fai/pfpwb/](https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/systemops/fs/alaskan/alaska/fai/pfpwb/))
   * *Q: I assume Foreflight gives all NOTAMs with briefing, not just short term NOTAMs?*
 
 ## Completes and Files IFR Flight Plan

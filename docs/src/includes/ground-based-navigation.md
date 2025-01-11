@@ -113,6 +113,14 @@
 * Can find VOT facilities in chart supplement
 * VOR accuracy requirements are given in [14 CFR &sect;91.171(b), (c)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.171)
 
+## VOT Check
+
+* A VOT is a facility located at certain airports that emits a signal that can be used to test a plane's VOR receiver
+* The VOT signals are generally designed to be used while on the ground, but some are designated as usable in air, with certain restrictions
+* This information can be found in the chart supplement
+
+![VOR test facilities in chart supplement (south central U.S.)](/img/chart-supplement-vot-facilities.png){width=600}
+
 # Nondirectional Radio Beacon (NDB)
 
 * [AIM 1-1-2 Nondirectional Radio Beacon (NDB)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#$paragraph1-1-2)

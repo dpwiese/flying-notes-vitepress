@@ -121,27 +121,6 @@ More importantly than memorizing all of the products below, which are constantly
   * Velocity = 99 => Velocity >200KTS
   * All temps above FL240 assumed negative
 
-## Weather Charts
-
-* **Surface Analysis Chart**
-  * US frontal systems, updated every 3hrs
-  * Valid time, bottom left
-  * Isobars 4mb apart
-    * ==Closer isobars means more wind==
-  * H, L, Trough, Ridges
-  * Good for: Pressure, fronts, cloud cover, temp, wind direction
-* **Weather Depiction Chart**
-  * Collection of radar weather reports, updated hourly
-  * Good for: Weather, precipitation, cell movement
-  * Intensity indicated by symbols located adjacent to precipitation areas
-  * Arrows denote cell movement
-* **Outlook (SIGWX) Prognostic Chart**
-  * Snapshot of weather expected at specific time
-  * Low = <FL240 | High = >FL240
-  * Turbulence, IFR/MVFR/VFR, Ground Feezing Level
-* **Convective Outlook**
-  * Tornado, Hail 1"+, T-storms
-
 ## METAR
 
 * METAR
@@ -155,6 +134,15 @@ More importantly than memorizing all of the products below, which are constantly
 * Type
   * Hourly routine
   * SPECI - special report that can be given at any time to update the METAR for rapidly changing weather conditions, aircraft mishaps, or other critical information
+* [Aviation Weather Center: METARs & TAFs](https://aviationweather.gov/data/metar/)
+
+### Example
+
+```
+KRBD 112153Z 18013G25KT 10SM CLR 12/M03 A2982 RMK AO2 PK WND 19026/2122
+SLP099 T01171028
+```
+
 * Vertical visibility constitutes a ceiling when there is obscuration
   * For example `VV600` on METAR would correspond to a ceiling of 600 feet
 * Fog (`FG`)can only be reported if visibility is less than 5/8 mile
@@ -194,9 +182,13 @@ Ceiling is the lowest layer of clouds or obscuring phenomenon that is reported a
 
   > a. Ceiling, by definition in the CFRs and as used in aviation weather reports and forecasts, is the height above ground (or water) level of the lowest layer of clouds or obscuring phenomenon that is reported as "broken," "overcast," or "obscuration,"
 
-* Note: in RMK SLPXXX - 1 hPa = 1 mb, and
+* Note: in `RMK` the group `SLPXXX` - 1 hPa = 1 mb, and
   * 1013 mb = 29.92 inHg
   * 1017 mb = 30.02 inHg
+  * Sea Level Pressure in mbar
+  * To get Sea Level Pressure from the `SLP` need to prepend a `9` or `10`, to get a value that is closest to 1000 mbar, with a decimal place inserted as `XX.X`
+  * For example, given `SLP099` this would give a pressure of 1009.9 mbar, which converts to 29.82 inHg
+
 * From [https://www.aviationweather.ws/072_Obscured_or_Partially_Obscured_Sky.php](https://www.aviationweather.ws/072_Obscured_or_Partially_Obscured_Sky.php):
 
   > When the sky is totally hidden by the surface based phenomena, the ceiling is the vertical visibility from the ground upward into the obscuration.
@@ -287,6 +279,10 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 
 ![Freezing level chart. Aviation Weather Center [Current Freezing Level Forecast](https://www.aviationweather.gov/icing/frzlvl)](/img/awc-freezing-level-chart.jpg){width=440}
 
+* The above seems to have been replaced by [Aviation Weather Center GFA Temperature](https://aviationweather.gov/gfa/#temps)
+
+![Temperature. [https://aviationweather.gov/gfa/#temps](https://aviationweather.gov/gfa/#temps)](/img/gfa-tool-temperature.jpg){width=800}
+
 ## Stability Charts
 
 * This used to be the lifted index chart which is no longer produced
@@ -311,17 +307,16 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 
 * Area Forecast (FA)
 * [aviationweather.gov](https://www.aviationweather.gov) has discontinued textual area forecasts, but it seems they are still on FAA exams
-* See
-  * [https://www.aviationweather.gov/areafcst/help](https://www.aviationweather.gov/areafcst/help)
+* From [https://www.aviationweather.gov/areafcst](https://www.aviationweather.gov/areafcst):
+
+  > THE TEXT AREA FORECAST FOR THE CONTIGUOUS UNITED STATES HAS BEEN DISCONTINUED. TO GET THE FORECAST FOR THESE AREAS CHECK THE GFA TOOL.
+
 * The FA gives a picture of clouds, general weather conditions, and visual meteorological conditions (VMC) expected over a large area encompassing several states.
 * There are six areas for which area forecasts are published in the contiguous 48 states.
 * Area forecasts are issued three times a day and are valid for 18 hours.
 * Note the difference in valid time of 12 hours for the *forecast* and an additional 6 for the categorical *outlook*
   * I'm not really sure exactly the difference between these two
   * On the FAA exam, they will try to trick based on these two things
-* From [https://www.aviationweather.gov/areafcst](https://www.aviationweather.gov/areafcst):
-
-  > THE TEXT AREA FORECAST FOR THE CONTIGUOUS UNITED STATES HAS BEEN DISCONTINUED. TO GET THE FORECAST FOR THESE AREAS CHECK THE GFA TOOL.
 
 ## Graphical Forecast for Aviation
 
@@ -330,6 +325,8 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 * To replace the textual area forecast (FA)
 * Gives a brief summary of the location and movement of fronts, pressure systems, and circulation patterns
 * The *forecast* is valid for 12 hours with an additional 6 hours categorical *outlook*
+* This tool seems to have replaced many other existing charts and combined them into this page
+* See the [help](https://aviationweather.gov/gfa/help/) page to learn more about the tool
 
 ![Graphical forecast for aviation. [https://www.aviationweather.gov/gfa](https://www.aviationweather.gov/gfa)](/img/gfa.jpg){width=560}
 
@@ -353,7 +350,7 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 
 * Winds and Temperatures Aloft Forecast - Textual (FD)
 * See also the graphical version Winds and Temperatures Aloft Forecast - Graphical (FB)
-* See Aviation Weather Center's [Winds/Temps Data](https://aviationweather.gov/windtemp)
+* See Aviation Weather Center's [Winds/Temps Data](https://aviationweather.gov/data/windtemp/)
 * Winds and temps aloft are *forecasts* based on observations made a few hours prior
 * Made twice a day based on the radiosonde upper air observations taken at 0000Z and 1200Z
 * Format `DDSSTT` where
@@ -361,7 +358,9 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
   * `S` is wind speed
   * `T` is temperature
 * Example `2321-04` is wind from 230 at 21 knots and temperature -21 &#176;C
-* ==No temp is given for 3,000 ft MSL or when 2,500 ft AGL==
+* No winds given below 1,000 ft AGL
+  * [NATIONAL WEATHER SERVICE INSTRUCTION 10-812](https://www.weather.gov/media/directives/010_pdfs/pd01008012curr.pdf)
+* No temp is given for 3,000 ft MSL or when 2,500 ft AGL
 * ==Above 24,000 feet all temperatures are negative so minus sign is dropped==
 * Wind `9900` means light and variable (less than 5 kts)
 * For winds greater than 99 knots, add `50` to the `DD` and subtract 100 from the wind speed to get `SS` values
@@ -370,16 +369,21 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 ### Graphical
 
 * Winds and Temperatures Aloft Forecast - Graphical (FB)
-  * See Aviation Weather Center [Winds/Temps Plots](https://aviationweather.gov/windtemp)
+  * See Aviation Weather Center [Aviation Weather Center GFA Winds Aloft](https://aviationweather.gov/gfa/#winds)
+
+![Winds aloft. [https://aviationweather.gov/gfa/#winds](https://aviationweather.gov/gfa/#winds)](/img/gfa-tool-winds-aloft.jpg){width=800}
 
 ## Surface Analysis Chart
 
-* See: [Surface analysis chart](https://www.wpc.ncep.noaa.gov/html/sfc2.shtml)
-* Is an *observation*
-* Updated every 3 hours.
+* See: [NOAA Surface analysis chart](https://www.wpc.ncep.noaa.gov/html/sfc2.shtml)
 * Shows pressure systems and fronts, with an overview of winds, temperatures, and dew point.
+* Is an *observation*
+* Updated every 3 hours
+* Valid time, bottom left
+* Isobars are spaced 4 mb apart and labeled
+  * ==Closer isobars means more wind==
+* H, L, Trough, Ridges
 * Note: there are many different display formats of the surface analysis chart, including with color or black-and-white, or interactive maps.
-* Isobars are spaced by 4 mb and labeled
 * Shows:
   * **Fronts**
   * **Pressure systems** (high - H, low - L) labeled in underline bold pressure in mb
@@ -406,6 +410,10 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 * Shows areas where conditions are reported above or below VFR weather minimums
 * Observation
 * Every 3 hours
+* Collection of radar weather reports, updated hourly
+* Good for: Weather, precipitation, cell movement
+* Intensity indicated by symbols located adjacent to precipitation areas
+* Arrows denote cell movement
 
 ![Weather depiction chart. The chart is no longer available at this link: [https://www.aviationweather.gov/briefing](https://www.aviationweather.gov/briefing)](/img/weather_depiction_2.gif){width=800}
 
@@ -429,6 +437,9 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 * One of the best uses of a low-level prognostic chart is determining areas to avoid
 * *Note: areas of continuous rain are hatched in but I can't find the legend for that anywhere.*
 * Example `**` means light snow (see GFA legend above)
+* Snapshot of weather expected at specific time
+* Low = <FL240 | High = >FL240
+* Turbulence, IFR/MVFR/VFR, Ground Feezing Level
 
 ![Prog chart: surface](/img/prog_chart_sfc.gif){width=560}
 
@@ -454,6 +465,7 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 
 ## Convective Outlook
 
+* Tornado, Hail 1"+, T-storms
 * See the National Weather Service Storm Prediction Center [Curent Convective Outlooks](https://www.spc.noaa.gov/products/outlook/)
 
 ![Convective Outlook Chart](/img/convective-outlook-chart.jpg){width=560}

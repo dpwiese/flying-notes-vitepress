@@ -43,3 +43,11 @@
 ![VOR ground checkpoint location indicated in Chart Supplement. Note the location of the ground checkpoint in Richmond.](/img/chart-supplement-vor-ground-checkpoint-kric.jpg){width=600}
 
 ![Aerial image of ground checkpoint at Richmond.](/img/kric-vor-ground-checkpoint.jpg){width=800}
+
+## VOT Check
+
+* A VOT is a facility located at certain airports that emits a signal that can be used to test a plane's VOR receiver
+* The VOT signals are generally designed to be used while on the ground, but some are designated as usable in air, with certain restrictions
+* This information can be found in the chart supplement
+
+![VOR test facilities in chart supplement (south central U.S.)](/img/chart-supplement-vot-facilities.png){width=600}

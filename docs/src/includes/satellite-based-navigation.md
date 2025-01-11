@@ -8,25 +8,8 @@ The generic term for satellite-based navigation systems used around the world.
 The particular GNSS system used in the United States.
 :::
 
-* GPS databases are updated every 28 days
-  * Usually every 4th Thursday of the month
-  * Pilots can update GPS database if they can do it from instrument panel without special tools or disassembly of the unit
-  * Take the SD card out and update it
-* Three GPS modes
-  * **Enroute**
-    * More than 30 miles from departure/destination
-    * 5 nm full-scale deflection
-  * **Terminal**
-    * Within 30 nm of departure/destination
-    * 1 nm full-scale deflection
-  * **Approach**
-    * 2 nm before final approach waypoint (FAWP) aka final approach fix (FAF)
-    * 0.3 nm full-scale deflection
-    * This approximates the sensativity of a VOR or Localizer approach if located on the field
-* GPS Routes
-  * Q Routes: from 1,200 up to *but not including* 18,000' MSL
-  * T Routes: from 18,000 up to FL450
-  * GPS MEA, e.g. `2900G`
+## Satellites
+
 * Number of visible GPS satellites
   * The GPS constellation currently consists of 31 active satellites
   * GPS is designed so that as long as 24 GPS satellites are working, at least 5 should be visible at any time
@@ -41,7 +24,46 @@ The particular GNSS system used in the United States.
 
 ![Garmin GNS430W GPS Specs.](/img/gns430w-gps-specs.png){width=300}
 
-![Garmin G1000 (GIA63) GPS Specs.](/img/g1000-gia63-gps-specs.png){width=300}
+![Garmin G1000 (GIA63) TSO-129 (non-WAAS) system GPS specifications. Garmin G1000 Pilot’s Guide for Cessna Nav III (190-00498-00 Rev. A)](/img/g1000-gia63-gps-specs.png){width=300}
+
+* GPS databases are updated every 28 days
+  * Usually every 4th Thursday of the month
+  * Pilots can update GPS database if they can do it from instrument panel without special tools or disassembly of the unit
+  * Take the SD card out and update it
+
+## GPS Sensitivity Modes
+
+* Three GPS modes
+  * **Enroute**
+    * More than 30 miles from departure/destination
+    * 5 nm full-scale deflection
+  * **Terminal**
+    * Within 30 nm of departure/destination
+    * 1 nm full-scale deflection
+  * **Approach**
+    * 2 nm before final approach waypoint (FAWP) aka final approach fix (FAF)
+    * 0.3 nm full-scale deflection
+    * This approximates the sensitivity of a VOR or Localizer approach if located on the field
+
+![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Automatic GPS CDI scaling.](/img/g1000nxi-pilots-guide/figure-2-24-cdi-scaling.png){width=800}
+
+![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Automatic GPS CDI scaling.](/img/g1000nxi-pilots-guide/table-2-2-cdi-scaling.png){width=600}
+
+![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Automatic GPS CDI scaling.](/img/g1000nxi-pilots-guide/figure-2-25-26-cdi-scaling.png){width=800}
+
+## GPS Routes
+
+* See [AIM 5-3-4](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-4)
+* Q Routes: from 1,200 up to *but not including* 18,000' MSL
+* T Routes: from 18,000 up to FL450
+* GPS MEA, e.g. `2900G`
+* Airway width is 4 nm on each side of centerline
+  * * [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook) [Chapter 2: En Route Operations](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_2.pdf)
+* Jet routes
+  * Start with letter J
+  * From 18,000 up to FL450
+  * Have no specified width
+    * [7400.2P 20-4-3](https://www.faa.gov/air_traffic/publications/atpubs/pham_html/chap20_section_4.html)
 
 ## Regulations
 
@@ -206,3 +228,10 @@ Wide-Area Augmentation System (WAAS) is the US implementation of SBAS.
 ::: tip
 To satisfy the requirement that the NAVAID underlying frequency be monitored on the final approach course, tune the VOR use the bearing pointers, and ensure they align with guidance provided by GPS.
 :::
+
+## GPS Failures
+
+* On the G1000, the GPS flight phase (e.g. `ENR`, `TERM`, `LPV`) is shown on the HSI to the right of the CDI
+* Normally this text is magenta
+* If cautionary conditions exist this text will be in *amber*
+* the `LOI` (Loss of Integrity Monitoring) indication appears to the right of the HSI when GPS integrity is insufficient for the current phase of flight

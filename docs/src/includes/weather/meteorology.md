@@ -1,5 +1,110 @@
 # Meteorology
 
+## The Atmosphere
+
+* Earth's atmosphere is divided into several layers
+* The troposphere, which extends up to 36,000 feet is where most flying occurs
+
+![Temperature and pressure distribution in US Standard Atmosphere. From [U.S. Standard Atmosphere, 1976, Government Printing Office, Washington, DC, 1976](https://www.ngdc.noaa.gov/stp/space-weather/online-publications/miscellaneous/us-standard-atmosphere-1976/us-standard-atmosphere_st76-1562_noaa.pdf) and reprinted in [Frank M. White Fluid Mechanics 4th Edition](https://books.google.com/books?vid=ISBN0071168486)](/img/white-fluid-mechanics-5ed-atmosphere.png){width=600}
+
+![Structure of atmosphere (unknown reference)](/img/structure-of-atmosphere-1.jpg){width=340}
+
+::: warning Standard atmosphere
+At sea level 59 &#176;F (15 &#176;C), pressure 29.92 inHg (or 1013.2 mb) and no moisture.
+:::
+
+* Standard atmosphere and lapse rates
+  * See [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
+    * [Chapter 4: Principles of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/06_phak_ch4.pdf)
+    * [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/14_phak_ch12.pdf)
+* ==The **standard temperature lapse** rate is 3.5 &#176;F (2.0 &#176;C) per 1,000 feet.==
+  * This is for 0 - 36,000 ft
+  * Above this point, the temperature is considered constant up to 80,000 feet
+* ==The **standard pressure lapse rate** is 1 inHg per 1,000 ft up to 10,000 feet.==
+* The **dry adiabatic lapse** rate is  5.4 &#176;F (3.0 &#176;C) per 1,000 feet.
+  * This is the rate at which the temperature of a dry parcel of air decreases as it rises in the atmosphere
+* The **wet adiabatic lapse** rate is 3 &#176;F (1.67 &#176;C) per 1,000 feet.
+  * It varies between 2 to 5 &#176;F (1.1 to 2.8 &#176;C)
+* In dry air, **dewpoint lapse rate** is 1 &#176;F (0.61 &#176;C) per 1,000 feet.
+* ==The **temperature and dewpoint converge** at about 4.4 &#176;F (2.5 &#176;C) per 1,000 feet.==
+  * Take the dry adiabatic lapse rate (5.4 &#176;F) and subtract dewpoint lapse rate (1 &#176;F)
+  * ==Using knowledge of the temperature and dewpoint (as reported on the surface) one can estimate the base of clouds by taking the difference (in &#176;F), dividing by 4.4, and multiplying by 1,000 ft.==
+
+![Structure of atmosphere. [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851)](/img/structure-of-atmosphere-2.jpg){width=400}
+
+* **Lifted index** is the difference found by subtracting the temperature of a parcel of air theoretically lifted from the surface to 500 millibars and the existing temperature at 500 millibars.
+  * The lifted index is computed as if a parcel of air near the surface were lifted to 500 millibars.
+  * As the air is 'lifted,' it cools by expansion.
+  * The temperature the parcel would have at 500 millibars is then subtracted from the existing 500 millibar (mb) temperature.
+  * The difference is the lifted index; it may be positive, zero, or negative.
+* **K-Index** is an indication of the probability of thunderstorms
+
+### Global Atmospheric Circulation
+
+* Due to the rotation and tilted axis of the Earth, the circulation pattern of the atmosphere is comprised of the Hadley, Ferrel, and Polar cells.
+
+![Earth circulation system. [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851)](/img/faa-ac-00-6b-figure-8-2-earth-circulation.jpg){width=600}
+
+### Pressure Systems
+
+* **Low Pressure System (Cyclone)**
+  * Air flows into a low-pressure area to replace rising air. This air usually brings increasing cloudiness and precipitation. *Thus, bad weather is commonly associated with areas of low pressure.*
+  * Warm air rises and cold air moves in to replace it.
+  * Summary
+    * Inward
+    * Upward
+    * Counter clockwise
+    * Brings bad weather
+* **High Low Pressure System (Anticyclone)**
+  * Generally areas of dry, descending air. Good weather is typically associated with high-pressure systems for this reason.
+    * The air is dry because at higher altitudes the air can support less moisture, and because moisture decreases density of the air, so the dense air implies low moisture.
+  * Summary
+    * Outward
+    * Downward
+    * Clockwise
+    * Brings good weather
+* Knowing location of pressure systems, along with rotation of air around them, can help plan a faster route cross country by leveraging the tail winds.
+  * *Example: When flying East to West fly just south of high pressure system should help provide good weather and a tailwind.*
+* Knowing location of pressure systems can also help a pilot avoid bad weather.
+  * *Example: low pressures usually have bad weather, so pilot can avoid low pressure systems.*
+* **Trough**: area of low pressure, rising air. Rising air means cloudiness, rain, and bad weather.
+* **Ridge**: area of high pressure. Opposite of trough. Good weather.
+* **Coriolis Force**
+  * Deflects wind to the right in the northern hemisphere
+  * Causes winds aloft to flow parallel to isobars
+Stability of the atmosphere determines the type and vertical extent of clouds.
+* **Virga** is precipitation trailing beneath clouds but evaporating before it reaches the ground
+  * Sometimes near virga get strong downdrafts and microbursts
+
+![Coriolis force. FAA-AC-00-6B Aviation Weather.](/img/faa-ac-00-6b-figure-7-4-coriolis.jpg){width=600}
+
+### Isobars
+
+* Lines of constant atmospheric pressure
+* Ordinarily would expect air to move from high to low pressure
+  * See: coriolis force and ground friction
+* Close to the ground the wind direction is modified by the friction and wind speed decreases and the wind moves from high to low pressure perpendicular to the isobars
+* At levels 2,000 to 3,000 feet above the surface, however, the speed is greater and the direction becomes more parallel to the isobars.
+* Generally, the wind 2,000 feet AGL is 20 to 40 degrees to the right of surface winds, and the wind speed is greater.
+
+### Jetstream {#weather-jetstream}
+
+* The jet stream is a band of wind near the upper part of the troposphere that blows from west to east.
+* Jetstream is stronger and further south in the winter.
+* Speeds up to 250 mph, but average speeds about 110 mph.
+* Location of the tropopause is important because it is commonly associated with the location of the jet stream and possible clear air turbulence.
+* Associated with jet streams is a phenomenon known as clear-air turbulence (CAT), caused by vertical and horizontal wind shear caused by jet streams.
+The CAT is strongest on the cold air side of the jet, next to and just under the axis of the jet.
+* [NOAA: The Jet Stream](https://www.noaa.gov/jetstream/global/jet-stream)
+
+![Global jet streams. [NOAA: The Jet Stream](https://www.noaa.gov/jetstream/global/jet-stream).](/img/global-jetstreams.png){width=400}
+
+![Jet stream visualized on 300 mb chart (altitude around 30,000 ft). [NOAA: Surface and Upper Air Maps](https://www.spc.noaa.gov/obswx/maps/).](/img/300mb-chart-jet-stream.gif){width=600}
+
+![Jetstream. Reference unknown.](/img/jetstream.jpg){width=400}
+
+![Jetstream. [Wikipedia](https://en.wikipedia.org/wiki/Jet_stream)](/img/jetstream_wiki.jpg){width=400}
+
 ## Air Masses
 
 ### Prerequisites
@@ -96,96 +201,6 @@ When air rises into an area of lower pressure, it expands to a larger volume.
 As the molecules of air expand, the temperature of the air lowers.
 As a result, when a parcel of air rises, pressure decreases, volume increases, and temperature decreases.
 When air descends, the opposite is true.
-
-## The Atmosphere
-
-![Temperature and pressure distribution in US Standard Atmosphere. From [U.S. Standard Atmosphere, 1976, Government Printing Office, Washington, DC, 1976](https://www.ngdc.noaa.gov/stp/space-weather/online-publications/miscellaneous/us-standard-atmosphere-1976/us-standard-atmosphere_st76-1562_noaa.pdf) and reprinted in [Frank M. White Fluid Mechanics 4th Edition](https://books.google.com/books?vid=ISBN0071168486)](/img/white-fluid-mechanics-5ed-atmosphere.png){width=600}
-
-![Structure of atmosphere (unknown reference)](/img/structure-of-atmosphere-1.jpg){width=340}
-
-::: warning Standard atmosphere
-At sea level 59 &#176;F (15 &#176;C), pressure 29.92 inHg (or 1013.2 mb) and no moisture.
-:::
-
-* Standard atmosphere and lapse rates
-  * See [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
-    * [Chapter 4: Principles of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/06_phak_ch4.pdf)
-    * [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/14_phak_ch12.pdf)
-* The **standard atmosphere** at sea level is:
-  * 59 &#176;F or 15 &#176;C
-  * Pressure of 29.92 inHg (or 1013.2 mb)
-  * The standard atmosphere contains no moisture
-* The **standard temperature lapse** rate is 3.5 &#176;F (2.0 &#176;C) per 1,000 feet.
-  * This is for 0 - 36,000 ft
-  * Above this point, the temperature is considered constant up to 80,000 feet
-* ==The **standard pressure lapse rate** is 1 inHg per 1,000 ft up to 10,000 feet==
-* ==The **dry adiabatic lapse** rate is  5.4 &#176;F (3.0 &#176;C) per 1,000 feet.==
-  * This is the rate at which the temperature of a dry parcel of air decreases as it rises in the atmosphere
-* ==The **wet adiabatic lapse** rate is 3 &#176;F (1.67 &#176;C) per 1,000 feet==
-  * It varies between 2 to 5 &#176;F (1.1 to 2.8 &#176;C)
-* ==In dry air, **dewpoint lapse rate** is 1 &#176;F (0.61 &#176;C) per 1,000 feet==
-* ==The **temperature and dewpoint converge** at about 4.4 &#176;F (2.5 &#176;C) per 1,000 feet.==
-  * Take the dry adiabatic lapse rate (5.4 &#176;F) and subtract dewpoint lapse rate (1 &#176;F)
-  * ==Using knowledge of the temperature and dewpoint (as reported on the surface) one can estimate the base of clouds by taking the difference (in &#176;F), dividing by 4.4, and multiplying by 1,000 ft.==
-
-![Structure of atmosphere. [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851)](/img/structure-of-atmosphere-2.jpg){width=400}
-
-* **Lifted index** is the difference found by subtracting the temperature of a parcel of air theoretically lifted from the surface to 500 millibars and the existing temperature at 500 millibars.
-  * The lifted index is computed as if a parcel of air near the surface were lifted to 500 millibars.
-  * As the air is 'lifted,' it cools by expansion.
-  * The temperature the parcel would have at 500 millibars is then subtracted from the existing 500 millibar (mb) temperature.
-  * The difference is the lifted index; it may be positive, zero, or negative.
-* **K-Index** is an indication of the probability of thunderstorms
-
-### Pressure Systems
-
-* **Low Pressure System (Cyclone)**
-  * Air flows into a low-pressure area to replace rising air. This air usually brings increasing cloudiness and precipitation. *Thus, bad weather is commonly associated with areas of low pressure.*
-  * Warm air rises and cold air moves in to replace it.
-  * Summary
-    * Inward
-    * Upward
-    * Counter clockwise
-    * Brings bad weather
-* **High Low Pressure System (Anticyclone)**
-  * Generally areas of dry, descending air. Good weather is typically associated with high-pressure systems for this reason.
-    * The air is dry because at higher altitudes the air can support less moisture, and because moisture decreases density of the air, so the dense air implies low moisture.
-  * Summary
-    * Outward
-    * Downward
-    * Clockwise
-    * Brings good weather
-* Knowing location of pressure systems, along with rotation of air around them, can help plan a faster route cross country by leveraging the tail winds.
-  * *Example: When flying East to West fly just south of high pressure system should help provide good weather and a tailwind.*
-* Knowing location of pressure systems can also help a pilot avoid bad weather.
-  * *Example: low pressures usually have bad weather, so pilot can avoid low pressure systems.*
-* **Trough**: area of low pressure, rising air. Rising air means cloudiness, rain, and bad weather.
-* **Ridge**: area of high pressure. Opposite of trough. Good weather.
-* **Coriolis Force**: (allows winds aloft to flow parallel to isobars)
-Stability of the atmosphere determines the type and vertical extent of clouds.
-* **Virga** is precipitation trailing beneath clouds but evaporating before it reaches the ground
-  * Sometimes near virga get strong downdrafts and microbursts
-
-### Isobars
-
-* Lines of constant atmospheric pressure
-* Ordinarily would expect air to move from high to low pressure
-  * See: coriolis force and ground friction
-* Close to the ground the wind direction is modified by the friction and wind speed decreases and the wind moves from high to low pressure perpendicular to the isobars
-* At levels 2,000 to 3,000 feet above the surface, however, the speed is greater and the direction becomes more parallel to the isobars.
-* Generally, the wind 2,000 feet AGL is 20 to 40 degrees to the right of surface winds, and the wind speed is greater.
-
-### Jetstream {#weather-jetstream}
-
-* Jetstream is stronger and further south in the winter.
-* Speeds up to 250 mph, but average speeds about 110 mph.
-* Location of the tropopause is important because it is commonly associated with the location of the jet stream and possible clear air turbulence.
-* Associated with jet streams is a phenomenon known as clear-air turbulence (CAT), caused by vertical and horizontal wind shear caused by jet streams.
-The CAT is strongest on the cold air side of the jet, next to and just under the axis of the jet.
-
-![Jetstream. Reference unknown.](/img/jetstream.jpg){width=400}
-
-![Jetstream. [Wikipedia](https://en.wikipedia.org/wiki/Jet_stream)](/img/jetstream_wiki.jpg){width=400}
 
 ## Clouds
 

@@ -2,11 +2,278 @@
 
 This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
 
-## Airspace Classes
+## Overview
+
+* Airspace is divided into two primary categories: controlled and uncontrolled
+* There are other airspace classifications which exist within either controlled or uncontrolled airspace
+* The primary objective when it comes to airspace is understand the conditions under which we can legally fly through a given airspace
+  * These conditions include visibility and cloud clearance requirements, equipment requirements, the use of a flight plan, and more
+* There are many different types of airspace, some of which are found in only certain parts of the country (e.g. Alaska, Washington D.C.)
+
+::: info NOTE
+It is important to remember and understand the rules which apply to the more commonly encountered types of airspace, and review charts, FAA publications, and other information when planning a flight into or through an airspace type you have not yet encountered.
+:::
+
+### Airspace Classes
 
 ![VFR airspace entry requirements. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 15: Airspace](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/17_phak_ch15.pdf) Figure 15-9](/img/vfr-entry-requirements.png){width=800}
 
 ![Airspace classifications. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 1: The National Airspace System Figure 1-1.](/img/ifh/ifh-figure-1-1-airspace.png){width=800}
+
+## Controlled Airspace
+
+### Class A
+
+* [AIM 3-2-2](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-2)
+* Above 18,000 feet, FL is used
+* FL180 – FL60
+* Active across entire NAS + 12 nm off the coast
+* Requirements: IFR Flight Plan
+* DME over FL240
+  * [14 CFR &sect;91.205](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.205)
+
+### Class B
+
+* [AIM 3-2-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-3)
+* SFC to 10,000 MSL
+* B = Busy
+* Upside down wedding cake
+* Must be cleared to enter
+* Solid blue line on VFR chart
+* VFR coordidors sometimes exist as small paths through B airspace
+
+### Class C
+* [AIM 3-2-4](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-4)
+* Less busy than B, but still high volume of large aircraft
+* SFC to 4,000 MSL
+* 5 nm core, 10 nm radius, where outer shelf starts at 1,200 ft
+* Two-way radio communication to enter (note tail number)
+* Solid magenta line on VFR chart
+* Spacing / separation: [7110.65 Section 8. Class C Service- Terminal 7-8-3](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html)
+
+### Class D
+* [AIM 3-2-5](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-5)
+* Operating control tower
+* SFC – 2,500 ft
+* 5 sm / 4.4 nm Radius
+* Two-way radio communication to enter
+* Dashed blue line on VFR chart
+* When a D airspace tower closes, the airspace becomes E to surface, unless weather/communication is not available at the surface, then it is E only down to 700.
+* [14 CFR &sect;91.129 - Operations in Class D airspace](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.129)
+
+### Class E
+* [AIM 3-2-6](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-6)
+* Any controlled airspace that is not A-D
+* Class E airspace below 14,500 feet MSL is charted on Sectional, Terminal, and IFR Enroute Low Altitude charts.
+* *So technically the default is G up to 14,500 unless otherwise charted*
+* ==However, with very few exceptions (see class G airspace below) class E is charted to start at either 700' or 1200' AGL==
+  * ==So basically the default is that E starts at 1200' AGL except where charted to start at 700' AGL, or where shown to *not* to start at 1200' AGL.==
+  * This can be seen along the US border, where it shows the start of E at 1,200'
+* 700/1200 ft AGL – 18,000 ft MSL (A), up to 12 nm off US coast
+* "1200 ft, except where the elephant steps"
+* VFR chart Colors
+  * To surface: dashed magenta
+  * 700 ft floor: ombre magenta
+  * 1200 ft floor: ombre blue
+    * Note: ombre is a French word meaning shaded, where one hue blends to another
+* Weather, Aircraft, Pilot Requirements
+
+## Uncontrolled Airspace
+
+### Class G
+
+* [AIM 3-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_3.html)
+* SFC – Base of class E
+* Even though there is no ATC, still minimum requirements to comply with FAA
+* In certain designated areas class G extends up to 14,500 feet
+  * This is on VFR charts, but easier to see on IFR charts
+
+![Class G airspace to 14,500 as depicted on IFR charts. [Aeronautical Chart Users' Guide - IFR Enroute Products Only Edition](https://aeronav.faa.gov/user_guide/20220714/cug-ifr-enroute-edition.pdf)](/img/ifr-chart-user-guide-class-g-to-14500.jpg){width=800}
+
+![Example of class G airspace to 14,500 on VFR chart.](/img/class-g-to-14-500-vfr-chart.jpg){width=800}
+
+![Example of class G airspace to 14,500 on IFR low chart.](/img/class-g-to-14-500-ifr-chart.jpg){width=800}
+
+![Example of class G airspace to 14,500 on VFR chart at the US border.](/img/class-g-to-14-500-vfr-chart-2.png){width=800}
+
+![Example of class G airspace to 14,500 on IFR low chart at the US border.](/img/class-g-to-14-500-ifr-chart-2.png){width=800}
+
+## Special Use Airspace (SUA)
+
+* See [AIM Chapter 5 Section 4 Special Use Airspace](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_4.html)
+
+### Prohibited Area
+* ==Think "Pentagon"==
+* Established for security reasons
+* ==Flight is not permitted==
+* *E.g. Camp David, White House*
+* Blue on VFR chart
+* [AIM 3-4-2](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_4.html#$paragraph3-4-2)
+
+### Restricted Area
+
+* ==Think "Rockets"==
+* Seperates civilian traffic from potentially hazardous military activities
+* ==Requires permission from ATC ("the controlling agency") to fly through (when active)==
+  * Who is the controlling agency?
+* When flying IFR, don't really need to worry about it. ATC will either allow you to operate in the restricted area without an explicit clearance, our route you around it. See [AIM 3-4-3(b)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_4.html#$paragraph3-4-3).
+* ATC can confirm if hot & can provide crossing
+* Blue on VFR chart
+* [AIM 3-4-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_4.html#$paragraph3-4-3)
+
+### Warning Area
+
+* ==Think "Water Rockets"==
+* Purpose is to warn aircraft of potential dangers
+* Similar to Restricted, but over water
+* Blue on VFR chart
+* Extends out from 3 miles off coast
+* Potentially hazardous activities
+* ==VFR flight is permitted but not recommended==
+* No clearance Required
+* No separation between civilian and military aircraft
+* [AIM 3-4-4](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_4.html#$paragraph3-4-4)
+
+### Military Operation Area (MOA)
+
+* Separate IFR aircraft from military ops
+* ==Allowed through, just exercise extreme caution==
+* Magenta on VFR chart
+* [AIM 3-4-5](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_4.html#$paragraph3-4-5)
+
+### Alert Area
+* Think "A lot of traffic"
+* Depicted with "A" followed by ID number
+* May contain a high volume of traffic, not suitable for training
+* Magenta on VFR chart
+* High volume of unusual aerial activity or pilot training
+* ==Can fly through alert Area==
+* Keep lookout for traffic
+* [AIM 3-4-6](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_4.html#$paragraph3-4-6)
+
+### Controlled Firing Areas (CFA)
+* Noted in the Aeronautical Chart User's guide as SUA
+* Not charted, do not cause aircraft to change path
+* If aircraft is spotted, firing must stop
+* [AIM 3-4-7](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_4.html#$paragraph3-4-7)
+
+### National Security Area (NSA)
+* Areas of increased safety/security for ground facilities (e.g. Pueblo Supply Depot)
+* Generally requested not to fly through / voluntarily avoid
+* Sometimes flight is prohibited via TFR/NOTAM
+* [AIM 3-4-8](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_4.html#$paragraph3-4-8)
+
+![Pueblo Supply Depot National Security Area (NSA). Denver sectional.](/img/vfr-sectional/vfr-sectional-denver-pueblo-nsa.jpg){width=600}
+
+## Other Airspace
+
+### Airport Advisory/Information Services
+
+* **Local Airport Advisory (LAA)**
+  * Provide service when tower is closed
+  * Available only in Alaska
+* **Remote Airport Information Service (RAIS)**
+* [AIM 3-5-1](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_5.html#$paragraph3-5-1)
+
+### Military Training Route (MTR)
+
+* Developed by Department of Defense and FAA
+* Established below 10,000 feet MSL for flying at speeds in excess of 250 kts
+* 3 or 4 digits starting with `VR` or `IR` on chart
+  * `IR` routes are flown under IFR
+  * `VR` routes are flown under VFR
+  * 4 digit number means it has no segmenent above 1,500 AGL
+  * 3 digit number means it has one or more segment above 1,500 AGL
+* [AIM 3-5-2](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_5.html#$paragraph3-5-2)
+  * Nonparticipating aircraft are not prohibited from flying within an MTR, but extreme vigilance should be exercised
+
+![Military Training Routes (MTR) in southern Alabama. New Orleans sectional.](/img/vfr-sectional/vfr-section-new-orleans-mtr.jpg){width=800}
+
+### Temporary Flight Restrictions (TFR)
+
+* FDC NOTAM issued
+* Name, effective time, location
+* Examples: VIP, disaster relief, space agency ops
+* Established to...
+  * Protect persons and property in the air or on the surface from an existing or imminent hazard
+  * Provide a safe environment for disaster relief aircraft operation
+  * Prevent an unsafe congestion of sightseeing aircraft above an incident/event which may generate a high degree of public interest
+  * Protect declared national disasters for humanitarian reasons in Hawaii
+  * Protect the President, VP, or other public figures
+  * Provide a safe environment for space agency operations
+  * FDC NOTAM issued to designate TFR. Begins with phrase "FLIGHT RESTRICTION" followed by location, effective time period, area defined in sm, and altitudes affected for temporary restriction.
+    * Includes FAA coordination facility and telephone number, reason for restriction, and other appropriate information.
+* [AIM 3-5-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_5.html#$paragraph3-5-3)
+
+### Parachute Jumping Areas
+
+* Published in A/FD
+* [AIM 3-5-4](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_5.html#$paragraph3-5-4)
+
+![Parachute jumping areas. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-parachute-jumping-areas-1.png){width=640}
+
+![Parachute jumping areas. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-parachute-jumping-areas-2.png){width=640}
+
+### Published VFR Routes
+
+* Used for transitioning through complex Class B
+* Example: NY VFR Corridor
+* [AIM 3-5-5](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_5.html#$paragraph3-5-5)
+
+### Terminal Radar Service Area (TRSA)
+
+* Areas where participating pilots can receive additional radar services
+* Provide separation between all IFR operations and participating VFR traffic
+* Voluntary but encouraged participation
+* Primary airport(s) within TRSA is Class D airspace
+* Provide additoinal radar services to participating aircraft
+* Optional, but encouraged to participate
+* Chart depiction: solid black line, altitudes for each segment.
+  * Depicted on VFR sectional charts and terminal area charts.
+  * Class D portion depicted with blue segmented line.
+* [AIM 3-5-6](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_5.html#$paragraph3-5-6)
+
+![Fort Smith Terminal Radar Service Area (TRSA). Memphis sectional.](/img/vfr-sectional/vfr-sectional-memphis-fort-smith-trsa.jpg){width=800}
+
+### Special Air Traffic Rules (SATR) and Special Flight Rules Area (SFRA)
+
+* [AIM 3-5-7](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_5.html#$paragraph3-5-7)
+
+### Washington, DC, Special Flight Rules Area (SFRA) including the Flight Restricted Zone (FRZ)
+
+* [AIM 3-5-8](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_5.html#$paragraph3-5-8)
+
+### Additional Airspace
+
+* **Mode C Required Airspace**
+  * Mode C veil
+  * From the surface to 10,000' MSL within a 30 NM radius of the primary airport(s) for which a Class B is designated
+  * Depicted by a solid magenta line.
+* **Air Defense Identification Zones (ADIZ)**
+  * Exists along coast
+  * Requires identification of aircraft in the interest of national security
+  * All aircraft entering must be on an IFR or Defense Visual Flight Rules (DVFR) flight plan
+  * Two-Way Communication
+  * Squawk discrete code
+  * If DVFR must file estimated crossing time, update if it changes more than 5 minutes
+  * There is no ADIZ between the U.S. and Canada.
+  * [AIM 5-6-4](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_6.html#$paragraph5-6-4)
+  * [14 CFR 99.3](https://www.ecfr.gov/current/title-14/part-99/section-99.3#p-99.3(Air%20defense%20identification%20zone))
+
+![Air Defense Identification Zones (ADIZ). AIM Figure 5-6-3.](/img/aim/aim-figure-5-6-3-dma-and-adiz.jpg){width=800}
+
+* **Defense Area**
+  * All U.S. airspace that is not part of the ADIZ
+
+* Wildlife & Recreational Areas
+  * Provide protection for wildlife
+* Special conservation area - 2000 ft min AGL
+* Grand canyon special flight rules
+* ATC and the NAS (Includes Weather Minimums, Operation Minimums, and Special VFR)
+* Purpose: Prevent collisions, expedite the flow of traffic
+* Ensure coordination between handoffs
+
+## Airspace Requirements
 
 ### VFR Weather Minimums
 
@@ -39,130 +306,7 @@ This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Fligh
   * *Note: can find a list of FAA Legal interpretation letters at the [FAA Regulations Division Legal Interpretations & Chief Counsel's Opinions](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/) page*
 * ***Ultimately, it is the pilot's job to check when on flight following whether a switchover to tower is required before flying through C or D airspace, or whether ATC has already coordinated.***
 
-### Special VFR
-
-* Provides IFR separation even though not doing IFR operation
-* Must be requested by pilot and approved by ATC
-* Need 1 SM visibility and clear of clouds
-* If at night, pilot and plane need to be instrument rated
-* Can do in controlled airspace up to 10,000 MSL (something about airspace to ground?)
-* If ground visibility not reported, just need 1 SM flight visibility
-* Some airports do not permit special VFR
-* *Q: Is there any real reason to ever do special VFR? It seems dumb.*
-* [14 CFR &sect;91.157 - Special VFR weather minimums](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFR4d5279ba676bedc/section-91.157)
-  * During the day, SVFR requires
-    * ATC clearance
-    * 1 SM visibility
-    * Clear of clouds
-  * At night, the pilot must be instrument rated and the aircraft must be IFR equipped.
-
 ![Airspace communication requirements and weather minimums. Reference unknown.](/img/airspace-at-a-glance.jpg){width=800}
-
-### Controlled Airspace
-
-* **Class A**
-  * [AIM 3-2-2](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-2)
-  * Above 18,000 feet, FL is used
-  * FL180 – FL60
-  * Active across entire NAS + 12 nm off the coast
-  * Requirements: IFR Flight Plan
-  * DME over FL240
-    * [14 CFR &sect;91.205](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.205)
-* **Class B**
-  * [AIM 3-2-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-3)
-  * SFC to 10,000 MSL
-  * B = Busy
-  * Upside down wedding cake
-  * Must be cleared to enter
-  * Solid blue line on VFR chart
-  * VFR coordidors sometimes exist as small paths through B airspace
-* **Class C**
-  * [AIM 3-2-4](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-4)
-  * Less busy than B, but still high volume of large aircraft
-  * SFC to 4,000 MSL
-  * 5 nm core, 10 nm radius, where outer shelf starts at 1,200 ft
-  * Two-way radio communication to enter (note tail number)
-  * Solid magenta line on VFR chart
-  * Spacing / separation: [7110.65 Section 8. Class C Service- Terminal 7-8-3](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html)
-* **Class D**
-  * [AIM 3-2-5](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-5)
-  * Operating control tower
-  * SFC – 2,500 ft
-  * 5 sm / 4.4 nm Radius
-  * Two-way radio communication to enter
-  * Dashed blue line on VFR chart
-  * When a D airspace tower closes, the airspace becomes E to surface, unless weather/communication is not available at the surface, then it is E only down to 700.
-  * [14 CFR &sect;91.129 - Operations in Class D airspace](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.129)
-* **Class E**
-  * [AIM 3-2-6](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-6)
-  * Any controlled airspace that is not A-D
-  * Class E airspace below 14,500 feet MSL is charted on Sectional, Terminal, and IFR Enroute Low Altitude charts.
-  * *So technically the default is G up to 14,500 unless otherwise charted*
-  * ==However, with very few exceptions (see class G airspace below) class E is charted to start at either 700' or 1200' AGL==
-    * ==So basically the default is that E starts at 1200' AGL except where charted to start at 700' AGL, or where shown to *not* to start at 1200' AGL.==
-    * This can be seen along the US border, where it shows the start of E at 1,200'
-  * 700/1200 ft AGL – 18,000 ft MSL (A), up to 12 nm off US coast
-  * "1200 ft, except where the elephant steps"
-  * VFR chart Colors
-    * To surface: dashed magenta
-    * 700 ft floor: ombre magenta
-    * 1200 ft floor: ombre blue
-      * Note: ombre is a French word meaning shaded, where one hue blends to another
-* Weather, Aircraft, Pilot Requirements
-
-### Uncontrolled Airspace
-
-* **Class G**
-  * [AIM 3-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_3.html)
-  * SFC – Base of class E
-  * Even though there is no ATC, still minimum requirements to comply with FAA
-  * In certain designated areas class G extends up to 14,500 feet
-    * This is on VFR charts, but easier to see on IFR charts
-
-![Class G airspace to 14,500 as depicted on IFR charts. [Aeronautical Chart Users' Guide - IFR Enroute Products Only Edition](https://aeronav.faa.gov/user_guide/20220714/cug-ifr-enroute-edition.pdf)](/img/ifr-chart-user-guide-class-g-to-14500.jpg){width=800}
-
-![Example of class G airspace to 14,500 on VFR chart.](/img/class-g-to-14-500-vfr-chart.jpg){width=800}
-
-![Example of class G airspace to 14,500 on IFR low chart.](/img/class-g-to-14-500-ifr-chart.jpg){width=800}
-
-![Example of class G airspace to 14,500 on VFR chart at the US border.](/img/class-g-to-14-500-vfr-chart-2.png){width=800}
-
-![Example of class G airspace to 14,500 on IFR low chart at the US border.](/img/class-g-to-14-500-ifr-chart-2.png){width=800}
-
-### Other Airspace
-
-* Local Airport Advisory (LAA)
-  * Provide service when tower is closed
-* Military Training Routes (MTR)
-  * Under 10,000ft, 250kts
-  * IR / VR
-    * 3 letter if above 1,500
-    * 4 letter if below 1,500
-* Parachute Jump Ops
-  * Published in A/FD
-* Published VFR Routes
-  * Used for transitioning through complex Class B
-  * Example: NY VFR Corridor
-* Terminal Radar Service Area (TRSA)
-  * Areas where participating pilots can receive additional radar services
-  * Provide separation between all IFR operations and participating VFR traffic
-  * Voluntary but encouraged participation
-  * Primary airport(s) within TRSA is Class D airspace
-  * Provide additoinal radar services to participating aircraft
-  * Optional, but encouraged to participate
-  * Chart depiction: solid black line, altitudes for each segment.
-    * Depicted on VFR sectional charts and terminal area charts.
-    * Class D portion depicted with blue segmented line.
-* National Security Area (NSA)
-  * Areas of increased safety/security for ground facilities (e.g. Pueblo Supply Depot)
-  * Asked to voluntarily avoid
-  * May become a TFR
-* Wildlife & Recreational Areas
-  * Provide protection for wildlife
-
-![Parachute jumping areas. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-parachute-jumping-areas-1.png){width=640}
-
-![Parachute jumping areas. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-parachute-jumping-areas-2.png){width=640}
 
 ### Transponder and ADS-B Requirements
 
@@ -226,94 +370,26 @@ This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Fligh
 
 * TBD
 
-### Special Use Airspace (SUA)
-
-* **Prohibited**
-  * ==Think "Pentagon"==
-  * Established for security reasons
-  * ==Flight is not permitted==
-  * *E.g. Camp David, White House*
-  * Blue on VFR chart
-* **Restricted**
-  * ==Think "Rockets"==
-  * Seperates civilian traffic from potentially hazardous military activities
-  * ==Requires permission from ATC ("the controlling agency") to fly through (when active)==
-    * Who is the controlling agency?
-  * When flying IFR, don't really need to worry about it. ATC will either allow you to operate in the restricted area without an explicit clearance, our route you around it. See [AIM 3-4-3(b)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_4.html#$paragraph3-4-3).
-  * ATC can confirm if hot & can provide crossing
-  * Blue on VFR chart
-* **Warning Areas**
-  * ==Think "Water Rockets"==
-  * Extends 12NM outward from coast
-  * Purpose is to warn aircraft of potential dangers
-  * Similar to Restricted, but over water
-  * Blue on VFR chart
-  * Extends out from 3 miles off coast
-  * Potentially hazardous activities
-  * ==VFR flight is permitted but not recommended==
-  * No clearance Required
-  * No separation between civilian and military aircraft
-* **Military Operation Areas (MOA)**
-  * Separate IFR aircraft from military ops
-  * ==Allowed through, just exercise extreme caution==
-  * Magenta on VFR chart
-* **Alert Areas**
-  * Think "A lot of traffic"
-  * Depicted with "A" followed by ID number
-  * May contain a high volume of traffic, not suitable for training
-  * Magenta on VFR chart
-  * High volume of unusual aerial activity or pilot training
-  * ==Can fly through alert Area==
-  * Keep lookout for traffic
-* **Controlled Firing Areas (CFA)**
-  * Not charted, do not cause aircraft to change path
-  * If aircraft is spotted, firing must stop
-* **Also**
-  * National Security Area (NSA)
-    * Security for ground facilities
-    * Generally requested not to fly through
-    * Sometimes flight is prohibited via NOTAM
-  * Military Training Route (MTR) \~200-300 AGL
-    * 3 or 4 digits starting with `VR` or `IR` on chart
-      * `IR` routes are flown under Air Traffic Control, while `VR` routes are not.
-    * 4 digit number means it's flown at or below 1,500 AGL
-    * 3 digit number means it's flown at any altitude
-  * Controlled Firing Area - not shown on charts
-  * ADIZ
-  * Special conservation area- 2000 ft min AGL
-  * Grand canyon special flight rules
-* ATC and the NAS (Includes Weather Minimums, Operation Minimums, and Special VFR)
-  * Purpose: Prevent collisions, expedite the flow of traffic
-  * Ensure coordination between handoffs
-* ADIZ (Air Defense Identification Zones)
-  * Exists along coast
-  * All aircraft entering must be on an IFR or DVFR flight plan
-  * Two-Way Communication
-  * Squawk discrete code
-  * If DVFR must file estimated crossing time, update if it changes more than 5 minutes
-
-### Temporary Flight Restrictions (TFR)
-
-* FDC NOTAM issued
-* Name, effective time, location
-* Examples: VIP, disaster relief, space agency ops
-* Established to...
-  * Protect persons and property in the air or on the surface from an existing or imminent hazard
-  * Provide a safe environment for disaster relief aircraft operation
-  * Prevent an unsafe congestion of sightseeing aircraft above an incident/event which may generate a high degree of public interest
-  * Protect declared national disasters for humanitarian reasons in Hawaii
-  * Protect the President, VP, or other public figures
-  * Provide a safe environment for space agency operations
-  * FDC NOTAM issued to designate TFR. Begins with phrase "FLIGHT RESTRICTION" followed by location, effective time period, area defined in sm, and altitudes affected for temporary restriction.
-    * Includes FAA coordination facility and telephone number, reason for restriction, and other appropriate information.
-
 ## Currency of Publications
 
 * TBD
 
 ## Special VFR Requirements
 
-* TBD
+* Provides IFR separation even though not doing IFR operation
+* Must be requested by pilot and approved by ATC
+* Need 1 SM visibility and clear of clouds
+* If at night, pilot and plane need to be instrument rated
+* Can do in controlled airspace up to 10,000 MSL (something about airspace to ground?)
+* If ground visibility not reported, just need 1 SM flight visibility
+* Some airports do not permit special VFR
+* *Q: Is there any real reason to ever do special VFR? It seems dumb.*
+* [14 CFR &sect;91.157 - Special VFR weather minimums](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFR4d5279ba676bedc/section-91.157)
+  * During the day, SVFR requires
+    * ATC clearance
+    * 1 SM visibility
+    * Clear of clouds
+  * At night, the pilot must be instrument rated and the aircraft must be IFR equipped.
 
 ## References
 

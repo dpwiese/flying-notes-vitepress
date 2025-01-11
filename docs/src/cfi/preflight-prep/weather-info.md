@@ -7,4 +7,5 @@ This page covers *Task C. Weather Information* from the [FAA-S-ACS-25 Flight Ins
 <!--@include: ./docs/src/includes/weather/weather-products.md | shift:1-->
 <!--@include: ./docs/src/includes/weather/meteorology.md | shift:1-->
 <!--@include: ./docs/src/includes/weather/weather-onboard.md | shift:1-->
+<!--@include: ./docs/src/includes/weather/weather-briefing.md | shift:1-->
 <!--@include: ./docs/src/includes/weather/weather-references.md | shift:1-->

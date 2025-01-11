@@ -19,9 +19,11 @@ Those which are not considered primary and are used to change the aircraft's per
 
 * Types
   * **Plain Flaps**
+    * Characterized by a hinging a rearward section of an airfoil about a point *within the airfoils contour*
   * **Split Flaps**
     * Creates least change in pitching moment
   * **Slotted Flaps**
+    * Flap is allowed to move rearward when deflected
   * **Fowler Flaps**
     * Produces greatest change in pitching moment
     * Greatest increase in lift with minimal changes in drag
@@ -58,8 +60,28 @@ In the following picture, can see how the drag bucket changes for the given airf
 
 ![Drag bucket with and without flaps. [Aviation StackExchange: Why and when to use flaps?](https://aviation.stackexchange.com/questions/5018/why-and-when-to-use-flaps/)](/img/drag_bucket_2.png){width=500}
 
+### Flap Definitions
+
+* The original 1921 patent by Harlan Davey Fowler was for a flap which would "maintain the general curvature and upper camber of the airfoil"
+* Both the definitions by Roskam, "Plain trailing edge flaps are formed by hinging the rear-most part of a wing section about a point within the contour" and Sagraey, "hinged at the wing trailing edge" imply that the point about which a plain flap pivots must be within the cross section of the airfoil.
+* Flaps such as those found on the Piper Archer or Cirrus SR22 whose pivot point is well outside of and below the airfoil cross section are therefor slotted flaps.
+
+![Fowler flap diagram. [H. D. Fowler Variable Area Wing US Patent 1,392,005](https://patents.google.com/patent/US1392005A/en)](/img/fowler-flap-1921-patent.png){width=600}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 57-50-00 Page 3 flap mechanism.](/img/archer-amm/archer-amm-57-50-00-page-3-flap-mechanism.png){width=300}
+
+* For more on flap definitions see
+  * [Jan Roskam - Airplane Aerodynamics and Performance](https://search.worldcat.org/title/247558516)
+  * [Mohammad H. Sadraey - Aircraft design : a systems engineering approach](https://search.worldcat.org/title/780415812)
+* [NASA The Wind and Beyond Volume II: Reinventing the Airplane](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4409-vol2.pdf?emrc=177b1a)
+
 ## Slots
 
+* A leading-edge slot is a fixed (non-closing) gap behind the wing's leading edge.
+
+## Slats
+
+* Like a slot, but can be retracted when not needed
 * Located on the leading edge
 * Delays airflow separation allowing higher angles of attack by redirecting airflow from under the wing to the top delaying separation
 

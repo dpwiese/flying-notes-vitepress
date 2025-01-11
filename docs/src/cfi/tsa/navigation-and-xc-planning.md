@@ -305,7 +305,7 @@ This page covers *Task I. Navigation and Cross-Country Flight Planning* from the
 ![Flight plan form. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 10: IFR Flight Figure 10-1.](/img/ifh/ifh-figure-10-1-flight-plan-form.png){width=500}
 
 * Flight Service Station (FSS)
-  * Call 1-800-wx-brief
+  * Calling 1-800-WX-BRIEF
   * [1800wxbrief.com](https://www.1800wxbrief.com/)
   * Provided by Leidos Flight Service
     * The FAA-contracted Flight Service provider/resource

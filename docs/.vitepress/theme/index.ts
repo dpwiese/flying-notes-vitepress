@@ -1,6 +1,6 @@
 import { Theme, useRoute, inBrowser } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import {watch, nextTick } from 'vue'
+import { watch, nextTick, onMounted } from 'vue'
 import './custom.css'
 
 declare const __COMMIT_HASH__: string
@@ -20,6 +20,33 @@ const theme: Theme = {
     if (inBrowser) {
       const route = useRoute();
 
+      // Function to modify outline titles to omit anything within parentheses
+      const modifyOutlineLinks = () => {
+        nextTick(() => {
+          const links = document.querySelectorAll('.outline-link');
+          if (links.length === 0) {
+            console.log('No outline links found yet.');
+          } else {
+            links.forEach((link) => {
+              const title = link.getAttribute('title');
+              if (title) {
+                // Remove parentheses and update the title
+                const newTitle = title.replace(/\s*\([^)]*\)/g, '');
+                link.setAttribute('title', newTitle);
+                link.textContent = newTitle;
+              }
+            });
+            console.log('Outline links modified');
+          }
+        });
+      };
+
+      // Run on initial load
+      onMounted(() => {
+        modifyOutlineLinks();
+      });
+
+      // Run on every route change
       watch(
         () => route.path,
         () => {
@@ -29,6 +56,7 @@ const theme: Theme = {
                 .catch((err) => console.error('MathJax typeset failed:', err))
             }
           });
+          modifyOutlineLinks();
         }
       );
 
