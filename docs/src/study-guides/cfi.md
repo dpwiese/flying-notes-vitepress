@@ -94,7 +94,7 @@
     * ==For example, would teach them to have a positive attitude towards safety, and develop good risk management skills.==
     * Also teach through the use of scenarios good aeronautical decision making.
 * **What is a learning plateau? How can you help your student overcome it?**
-    * ==A temporary decreased or stalled rate of learning==
+    * ==A temporarily decreased or stalled rate of learning==
     * Let learner know it's normal, only temporary, and not to get discouraged
     * ==Move to another portion of the curriculum==
     * ==Most likely to occur pre-solo==

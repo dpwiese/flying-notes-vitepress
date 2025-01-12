@@ -66,7 +66,7 @@ This page covers *Task A. Preflight Assessment* from the [FAA-S-ACS-25 Flight In
       * Check pressure of brakes before engine start
       * Look for oil leaking from props after cycling them during runup
 
-![Leaky sump on Piper Archer (before and after)](/img/leaky-sump-before-after.jpg){width=440}
+![Leaky sump on Piper Archer (before and after)](/img/leaky-sump-before-after.jpg){width=600}
 
 * **Inspection of the oxygen system, including supply and proper operation (if applicable).**
     * N3622A used for the MEI checkride does *not* have an oxygen system

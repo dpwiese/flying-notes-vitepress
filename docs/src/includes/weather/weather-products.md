@@ -1,127 +1,4 @@
-# Weather Products
-
-::: tip
-More importantly than memorizing all of the products below, which are constantly being changed, updated, and shut down, it is important to have a general understanding of what information is needed and how to retrieve it using the available products.
-:::
-
-## Overview
-
-* ==Aviation weather services are how we get information about the weather==
-* The output of these various services and products can be catagorized as either:
-  * ==Observation==
-  * ==Forecast== (and outlook)
-* Another catagorization of weather products is
-  * ==Textual==
-  * ==Graphical==
-* Yet another categorization is
-  * ==Surface==
-  * ==Upper-air==
-* We use weather products to get information about the following:
-  * Want to know pressures zones (e.g. High, Low), as good/bad weather associated with high/low pressure. Also H and L imply wind direction around them, can enable flight to be planned with tailwind, for example.
-  * Want to know more about pressures via isobars, as can further help indicate winds.
-  * Want to know areas of poor visibility/ceilings, for determining extent to which flight can be VFR/IFR, for example.
-  * Want to know freezing level, to avoid icing, for example.
-  * Also want to avoid adverse conditions for safety reasons, e.g. convective activity, icing.
-  * Also from winds/temps aloft can get temp lapse rate, to give another indicator of stability.
-
-### Textual Products
-
-![Textual products. Reference unknown.](/img/textual_products_glance.png){width=460}
-
-* *Note: only textual products used to have letter acronyms for them.*
-  * This seems to have changed with the graphical area forecast (GFA)
-
-### Graphical Products
-
-![Graphical products. Reference unknown.](/img/graphical_products_glance.png){width=460}
-
-* *Note: most graphical products are observations.*
-* *Note: weather products are changing all the time, so the above overview may not be current, but should give a pretty good idea of what is available.*
-
-### Observations
-
-* See [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf)
-* Surface observations
-  * **METAR**
-    * Provide local weather conditions and other relevant information for a specific airport
-    * Equipment
-    * **AWOS** - Automated Weather Observing System
-      * Controlled and operated by the FAA
-      * Located solely at airports
-      * Provide near real-time reports
-    * **ASOS** - Automated Surface Observing System
-      * Controlled and operated by National Weather Service (NWS) and Department of Defense (DOD)
-      * Continuous observations of the weather
-      * Computer generated voice over phone or radio
-      * Observations also available textually via weather service
-      * Collects all information needed to generate a METAR
-      * Does not report density altitude (recall: density altitude is not part of a METAR report)
-      * Provides hourly reports
-      * Example: `KSBY` and `KOXB` have an ASOS
-    * **AWSS** - Automated Weather Sensor System
-* Upper air observations
-  * **PIREP**
-    * Importance to other pilots (pay it forward)
-    * Report to FSS, Approach, Tower
-    * Walk through form (GLS)
-  * Weather balloons with radiosonde also used to gather upper air information
-  * The below are described in PHAK but essentially non-functional - they are not packaged into products that can be readily accessed by pilots
-    * Aircraft Meteorological Data Relay (AMDAR)
-      * Uses commercial aircraft to provide automated weather observations
-      * Captures wind, temperature, humidity/water vapor, turbulence, and icing data
-      * See [amdar.noaa.gov](https://amdar.noaa.gov/FAQ.html)
-    * Meteorological Data Collection and Reporting System (MDCRS)
-* Radar
-  * Provide information about precipitation and wind
-  * Four types
-    * WSR-88D NEXRAD (Doppler)
-      * Provides radar images in graphical products
-    * FAA terminal Doppler weather radar (TDWR)
-      * Installed at some major airports around the country
-      * Provides severe weather alerts and warnings to ATC
-      * Ensures pilots are aware of wind shear, gust fronts, and heavy precipitation
-    * Surveillance Radar
-      * Primarily to detect aircraft, but it also detects the location and intensity of precipitation
-    * Airborne Radar
-      * Installed onboard aircraft
-* Satellites
-* ATIS
-* AIRMET (Sierra, Tango, Zulu)
-* SIGMET (Severe icing, severe turbulence, CAT, dust storms, volcanic ash)
-* Convective SIGMET
-
-![Chart Supplement. Upper air observing station and radar weather network (NE)](/img/chart-supplement-radar-and-upper-air-observations.png){width=460}
-
-### Forecasts
-
-* **Terminal Aerodrome Forecasts (TAF)**
-  * ==5 nm Radius during 24-hour period==
-  * Slightly different formatting than METAR
-  * Date/Time of origin (111140Z) – 11th day of month at 11:40Z
-  * Date/Time of validity (111212) – 11th day of month from 12Z to 12Z following day
-  * LLWS (WS 3-digit height AGL & element – 020/35035KT)
-  * Indicators: FM (<1hr change), BECMG (<2 hrs beg/end times), TEMPO
-  * PROB40 (40% - 50%)
-* **Area Forecasts (FA)**
-  * ==Forecast of VMC, clouds, general weather conditions across multiple states==
-  * Previously established symbols
-  * Issued 3 times per day and valid for 18 hours
-* **Graphical Forecast for Aviation (GFA)**
-  * Replacing textual Area Forecast (FA)
-* Inflight Weather Advisories
-  * HIWAS
-    * Discontinued in 2020
-  * AIRMET
-  * SIGMET
-  * Convective SIGMET
-* Winds and Temperatures Aloft Forecast - Graphical (FB)
-  * Direction, speed, temps
-  * `DDVVTT` (`DD` Dir, `VV` Vel, `TT` Temp)
-  * 100-199Kts = -50 from DD, +100 to VV
-  * Velocity = 99 => Velocity >200KTS
-  * All temps above FL240 assumed negative
-
-## METAR
+# METAR
 
 * METAR
   * Meteorological Terminal Aviation Routine Weather Report
@@ -136,7 +13,7 @@ More importantly than memorizing all of the products below, which are constantly
   * SPECI - special report that can be given at any time to update the METAR for rapidly changing weather conditions, aircraft mishaps, or other critical information
 * [Aviation Weather Center: METARs & TAFs](https://aviationweather.gov/data/metar/)
 
-### Example
+## Example
 
 ```
 KRBD 112153Z 18013G25KT 10SM CLR 12/M03 A2982 RMK AO2 PK WND 19026/2122
@@ -207,9 +84,11 @@ Ceiling is the lowest layer of clouds or obscuring phenomenon that is reported a
 * `FZ` (freezing) is used only in combination with the weather types `DZ` (drizzle), `RA` (rain) and `FG` (fog).
 * [http://meteocentre.com/doc/metar.html](http://meteocentre.com/doc/metar.html)
 
-## PIREP
+# PIREP
 
-* **PIREP (UA)** - Pilot report of observed weather conditions.
+* **PIREP** - Pilot report of observed weather conditions.
+  * **UA** - Routine report
+  * **UUA** - Urgent repot
 * Pilots are pretty good about reporting icing and turbulence
 * Good idea when checking in with a controller to state how the ride is
   * "Approach Cessna 12345 level 8,000 light chop"
@@ -217,13 +96,13 @@ Ceiling is the lowest layer of clouds or obscuring phenomenon that is reported a
 * When reading a PIREP, each piece of information is within the forward slashes
 * Required info for PIREP: location, time, altitude MSL, type of aircraft, weather encountered.
 
-![Front chart symbols. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf) Figure 13-7.](/img/phak/phak-figure-13-7-decoding-pireps.png){width=540}
+![Front chart symbols. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf) Figure 13-7.](/img/phak/phak-figure-13-7-decoding-pireps.png){width=640}
 
 ![ASA Instrument Test Prep Figure 2-3: PIREP form](/img/asa-2022-instrument-test-prep-figure-2-3-pirep.png){width=660}
 
 ![Table 3-7 PIREP Weather Type and Symbols](/img/weather-information-systems-3-pirep-symbos.png){width=360}
 
-**PIREP icing reporting levels**
+## PIREP icing reporting levels
 
 See: [AIM 7-1-19 PIREPs Relating to Airframe Icing](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html#$paragraph7-1-19).
 
@@ -248,7 +127,7 @@ See: [AIM 7-1-19 PIREPs Relating to Airframe Icing](https://www.faa.gov/air_traf
     * By regulation, immediate exit is required
     * De/anti-icing insufficient to deal with hazard; need immediate diversion
 
-**PIREP turbulence reporting levels**
+## PIREP turbulence reporting levels
 
 See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html#$paragraph7-1-21).
 
@@ -270,7 +149,7 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 
 ![Turbulence intensities. [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1030235)](/img/turbulence_intensities_table.png){width=540}
 
-## Freezing Level Charts
+# Freezing Level Charts
 
 * See Aviation Weather Center [Current Freezing Level Forecast](https://www.aviationweather.gov/icing/frzlvl)
 * Shows forecast freezing level in 100s of feet MSL for a given forecast window
@@ -281,17 +160,17 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 
 * The above seems to have been replaced by [Aviation Weather Center GFA Temperature](https://aviationweather.gov/gfa/#temps)
 
-![Temperature. [https://aviationweather.gov/gfa/#temps](https://aviationweather.gov/gfa/#temps)](/img/gfa-tool-temperature.jpg){width=800}
+![GFA Tool: temperature. [https://aviationweather.gov/gfa/#temps](https://aviationweather.gov/gfa/#temps)](/img/gfa-tool-temperature.jpg){width=800}
 
-## Stability Charts
+# Stability Charts
 
 * This used to be the lifted index chart which is no longer produced
 
-## Severe Weather Outlook Charts
+# Severe Weather Outlook Charts
 
 * See NOAA's National Weather Service Storm Prediction Center [Convective Outlook Chart](https://www.spc.noaa.gov/products/outlook/)
 
-## TAF
+# TAF
 
 * Terminal Aerodrome Forecast (TAF)
 * ==Covers five statute mile radius around an airport==
@@ -303,7 +182,7 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
   * `SLP` - Sea level pressure
   * `TEMPO` - Last for less than an hour and occur during less than half of the time period specified
 
-## Area Forecast
+# Area Forecast
 
 * Area Forecast (FA)
 * [aviationweather.gov](https://www.aviationweather.gov) has discontinued textual area forecasts, but it seems they are still on FAA exams
@@ -318,15 +197,15 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
   * I'm not really sure exactly the difference between these two
   * On the FAA exam, they will try to trick based on these two things
 
-## Graphical Forecast for Aviation
+# Graphical Forecast for Aviation
+
+## Old GFA
 
 * Graphical Forecast for Aviation (GFA)
-* See [Aviation Weather Center Graphical Forecast for Aviation](https://www.aviationweather.gov/gfa)
 * To replace the textual area forecast (FA)
 * Gives a brief summary of the location and movement of fronts, pressure systems, and circulation patterns
 * The *forecast* is valid for 12 hours with an additional 6 hours categorical *outlook*
-* This tool seems to have replaced many other existing charts and combined them into this page
-* See the [help](https://aviationweather.gov/gfa/help/) page to learn more about the tool
+* The links below may have been changed or broken, and are left here as evidence of tools are easily deprecated and changed in favor of new ones
 
 ![Graphical forecast for aviation. [https://www.aviationweather.gov/gfa](https://www.aviationweather.gov/gfa)](/img/gfa.jpg){width=560}
 
@@ -344,9 +223,17 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 
 ![Graphical forecast for aviation [https://www.aviationweather.gov/gfa/plot](https://www.aviationweather.gov/gfa/plot)](/img/gfa_plot_clouds.jpg){width=560}
 
-## Winds and Temperatures Aloft
+## New GFA
 
-### Textual
+* Newer iterations of this tool seems to have replaced many other existing charts and combined them into this page
+* See [aviationweather.gov/gfa](https://aviationweather.gov/gfa)
+* See the [help](https://aviationweather.gov/gfa/help/) page to learn more about the tool
+
+![GFA Tool: Observations. [https://aviationweather.gov/gfa/#winds](https://aviationweather.gov/gfa/#winds)](/img/gfa-tool-observations.jpg){width=800}
+
+# Winds and Temperatures Aloft
+
+## Textual
 
 * Winds and Temperatures Aloft Forecast - Textual (FD)
 * See also the graphical version Winds and Temperatures Aloft Forecast - Graphical (FB)
@@ -366,14 +253,14 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 * For winds greater than 99 knots, add `50` to the `DD` and subtract 100 from the wind speed to get `SS` values
   * Example: `7545` means winds of 145 knots from 250
 
-### Graphical
+## Graphical
 
 * Winds and Temperatures Aloft Forecast - Graphical (FB)
   * See Aviation Weather Center [Aviation Weather Center GFA Winds Aloft](https://aviationweather.gov/gfa/#winds)
 
-![Winds aloft. [https://aviationweather.gov/gfa/#winds](https://aviationweather.gov/gfa/#winds)](/img/gfa-tool-winds-aloft.jpg){width=800}
+![GFA Tool: winds aloft. [https://aviationweather.gov/gfa/#winds](https://aviationweather.gov/gfa/#winds)](/img/gfa-tool-winds-aloft.jpg){width=800}
 
-## Surface Analysis Chart
+# Surface Analysis Chart
 
 * See: [NOAA Surface analysis chart](https://www.wpc.ncep.noaa.gov/html/sfc2.shtml)
 * Shows pressure systems and fronts, with an overview of winds, temperatures, and dew point.
@@ -399,7 +286,7 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 
 * *Note: frontolysis is the weakening or dissipation of a front and frontogenesis is the strengthening of the front*
 
-## Weather Depiction Chart
+# Weather Depiction Chart
 
 From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1030235):
 
@@ -424,7 +311,11 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 
 ![Weather depiction chart. From FIA Supplement Figure 12.](/img/weather-depection-chart-supplement-fig-12.jpg){width=800}
 
-## Prognostic Chart
+## Leidos Weather Depiction Chart
+
+* [1-800-WX-BRIEF: Current Wx Depiction](https://www.1800wxbrief.com/Website/weather/graphics/viewer?product=CURRENT_WX_DEPICTION_SYP)
+
+# Prognostic Chart
 
 * See: [Prog Charts](https://aviationweather.gov/gfa/#progchart)
 * Map displaying weather forecast.
@@ -449,7 +340,7 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 
 ![Prog chart symbols](/img/prognostic-chart-symbols-1.png){width=360}
 
-## Constant Pressure Analysis
+# Constant Pressure Analysis
 
 * Gives
   * Wind
@@ -463,7 +354,7 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 
 ![Sky cover symbols. Reference unknown.](/img/sky_cover_symbols.gif){width=240}
 
-## Convective Outlook
+# Convective Outlook
 
 * Tornado, Hail 1"+, T-storms
 * See the National Weather Service Storm Prediction Center [Curent Convective Outlooks](https://www.spc.noaa.gov/products/outlook/)
@@ -472,7 +363,7 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 
 ![Convective Outlook Chart from testing supplement. Bottom panel indicates severe thunderstorm areas.](/img/test-supplement-convective-outlook-fig-15.jpeg){width=560}
 
-## Radar Weather Report
+# Radar Weather Report
 
 * Radar Weather Report (SD)
 * Doesn't seem to exist anymore
@@ -482,18 +373,23 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
   * Intensity
   * Trend
 
-## Radar Summary Chart
+# Radar Summary Chart
+
+* The radar summary chart below does not exist at the previous URL
+* See [radar.weather.gov](https://radar.weather.gov/)
+
+![[radar.weather.gov](https://radar.weather.gov/)](/img/radar-weather-gov.jpg){width=800}
 
 ![Radar summary chart. [https://www.aviationweather.gov/briefing](https://www.aviationweather.gov/briefing)](/img/radar_summary_2.gif){width=800}
 
-## Inflight Weather Advisories
+# Inflight Weather Advisories
 
 * **Center Weather Advisory (CWA)**
   * Current conditions and/or short term forecast
   * Issued by ARTCCs
   * Valid for 2 hours
 
-## SIGMETS and AIRMETS
+# SIGMETS and AIRMETS
 
 * **AIRMET (WA)**:
   * Stands for Airmen's Meteorological Information
@@ -533,7 +429,7 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
 * Look up [AIRMETs/SIGMETs](https://www.aviationweather.gov/sigmet) online
 * See also [Graphical AIRMETs](https://www.aviationweather.gov/gairmet)
 
-## Appendix
+# Appendix
 
 * *All local barometric pressure readings are converted to a sea level pressure*.
   * At an airport at elevation with altimeter setting of 29.92 needs to cause altimeter to read field elevation, as does an airport at sea level with altimeter of 29.92. Thus in these two cases *the same altimeter setting corresponds to a different barometric pressure at the field*.
@@ -566,3 +462,7 @@ The general rule regarding weather reported winds are referenced to true or magn
 * [http://www.wpc.ncep.noaa.gov/html/sfc2.shtml](http://www.wpc.ncep.noaa.gov/html/sfc2.shtml)
 
 ![Weather legend](/img/weather-legend.jpg){width=360}
+
+## Other Tools
+
+* [Weather Prediction Center National Forecast Chart](https://www.wpc.ncep.noaa.gov/NationalForecastChart/map.php)

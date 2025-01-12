@@ -6,6 +6,10 @@ This page covers *Task K. Endorsements and Logbook Entries* from the [FAA-S-ACS-
   * **[Category](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Category))** - Broad classification (airplane, rotorcraft, glider, etc.)
   * **[Class](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Class))** - Classification within a category wish similar operating characteristics (single-engine land, multi-engine land, etc.)
   * **[Type](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Type))** - A specific make and basic model (C-152, B-737, etc.)
+    * A type rating is required by [14 CFR &sect;61.31(a)](https://www.ecfr.gov/current/title-14/part-61/section-61.31#p-61.31(a)) for
+      * [Large Aircraft](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Large%20aircraft)) - those with a maximum takeoff weight of more than 12,500 lb
+      * Turbojet powered airplanes
+      * Any others specified by the FAA
 * Additional distinctions are
   * **High Performance**
     * *An engine* of 200hp or more

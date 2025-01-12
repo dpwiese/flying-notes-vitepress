@@ -1,5 +1,3 @@
-# Meteorology
-
 ## The Atmosphere
 
 * Earth's atmosphere is divided into several layers
@@ -39,7 +37,7 @@ At sea level 59 &#176;F (15 &#176;C), pressure 29.92 inHg (or 1013.2 mb) and no 
   * The difference is the lifted index; it may be positive, zero, or negative.
 * **K-Index** is an indication of the probability of thunderstorms
 
-### Global Atmospheric Circulation
+### Atmospheric Circulation
 
 * Due to the rotation and tilted axis of the Earth, the circulation pattern of the atmosphere is comprised of the Hadley, Ferrel, and Polar cells.
 
@@ -220,7 +218,7 @@ When air descends, the opposite is true.
   * Violent turbulence
   * Tend to produce funnel clouds (tornados that have not yet touched the ground)
 
-![Basic cloud types. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-22.](/img/phak/phak-figure-12-22-basic-cloud-types.jpg){width=600}
+![Basic cloud types. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-22.](/img/phak/phak-figure-12-22-basic-cloud-types.jpg){width=640}
 
 ## Fog
 
@@ -438,7 +436,7 @@ From [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa
 3. **Dissipating stage**
     * Mainly downdrafts
 
-![Thunderstorm stages. PHAK.](/img/phak/phak-figure-12-28-thunderstorm-stages.jpg){width=600}
+![Thunderstorm stages. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-28.](/img/phak/phak-figure-12-28-thunderstorm-stages.jpg){width=600}
 
 ### More Thunderstorm Stuff
 

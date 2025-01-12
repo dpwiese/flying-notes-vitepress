@@ -222,7 +222,7 @@ Refers to an organized collection of ideas that forms a learner's understanding 
 ### Learning Plateaus
 
 ::: warning Learning Plateau
-A temporary decreased or stalled rate of learning.
+A temporarily decreased or stalled rate of learning.
 :::
 
 * Let learner know it's normal, only temporary, and not to get discouraged

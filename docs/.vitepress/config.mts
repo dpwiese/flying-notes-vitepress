@@ -122,7 +122,8 @@ export default defineConfig({
           items: [
             { text: 'Pilot Qualifications', link: '/cfi/preflight-prep/pilot-qualifications' },
             { text: 'Airworthiness Requirements', link: '/cfi/preflight-prep/airworthiness' },
-            { text: 'Weather Information', link: '/cfi/preflight-prep/weather-info' }
+            { text: 'Meteorology', link: '/cfi/preflight-prep/meteorology' },
+            { text: 'Weather Products', link: '/cfi/preflight-prep/weather-products' }
           ]
         },
         {
@@ -197,7 +198,8 @@ export default defineConfig({
           text: 'Preflight Preparation',
           collapsed: false,
           items: [
-            { text: 'Weather Information', link: '/cfii/preflight-prep/weather-info' },
+            { text: 'Meteorology', link: '/cfii/preflight-prep/meteorology' },
+            { text: 'Weather Products', link: '/cfii/preflight-prep/weather-products' },
             { text: 'Cross Country Planning', link: '/cfii/preflight-prep/xc-planning' },
             { text: 'Instrument Cockpit Check', link: '/cfii/preflight-prep/instrument-cockpit-check' }
           ]

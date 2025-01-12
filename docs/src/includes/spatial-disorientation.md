@@ -81,4 +81,4 @@ When experiencing spatial disorientation make sure to rely on flight instruments
 * Overfly the field
 * Use approach lighting (VASI or PAPI)
 
-![Runway illusions. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 17: Aeromedical Factors](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf) Figure 17-7.](/img/phak/phak-figure-17-7-runway-illusions.jpg){width=540}
+![Runway illusions. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 17: Aeromedical Factors](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf) Figure 17-7.](/img/phak/phak-figure-17-7-runway-illusions.jpg){width=640}
