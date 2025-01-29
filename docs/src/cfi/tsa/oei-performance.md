@@ -87,7 +87,7 @@ The transition to multi-engine aircraft requires a change in thinking from singl
 
 ### Critical Engine
 
-::: warning Critical Engine 
+::: warning Critical Engine
 The engine which if it fails *most adverserly* effects aircraft performance and handling. [14 CFR &sect; 1.1](https://www.ecfr.gov/current/title-14/part-1/section-1.1#p-1.1(Critical%20engine))
 :::
 

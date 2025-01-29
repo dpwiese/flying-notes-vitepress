@@ -174,6 +174,29 @@ The airport environment has unique hazards that must be managed, including:
 
 ![Runway safety area. Reference unknown.](/img/runway-safety-area.png){width=540}
 
+### ILS Hold Short
+
+* At a towered airport follow ATC instructions if they tell you to hold short of the ILS critcal area
+* [JO 7110.65AA 3−7−5(a) Precision Approach Critical Area](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap3_section_7.html#82H370JACK):
+
+> Aircraft and vehicle access to the ILS critical area must be controlled to ensure the integrity of ILS course
+signals whenever the official weather observation is a ceiling of less than 800 feet or visibility less than 2 miles.
+Unless the arriving aircraft has reported the runway in sight or is circling to land to another runway, do not
+authorize vehicles/aircraft to operate in or over the critical area, except as specified in subparagraph a1, whenever
+an arriving aircraft is inside the ILS outer marker (OM) or the fix used in lieu of the OM.
+
+* See also [AIM 2-3-5(b)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_3.html#$paragraph2-3-5):
+
+> When instructed by ATC to hold short of the ILS critical area, pilots MUST STOP so that no part of the aircraft extends beyond the holding position marking. When approaching the holding position marking, pilots must not cross the marking without ATC clearance.
+
+* [AIM 1-1-9(k)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#aim0101.html.17) provides the same information that is in JO 7110.65AA regarding when ATC responsibilities to protect the ILS critical area
+* This is primarily serves to inform pilots that when the official weather observation indicates a ceiling of less than 800 feet or visibility less than 2 miles, the ILS critical area *should* be protected for aircraft inside the final approach fix.
+  * There are some exceptions, including when the pilot reports the runway in sight that ATC may allow aircraft into the ILS critical area.
+  * Be mindful of this and don't just always assume there will be zero interference to the ILS signals, even if the official weather observation indicates a ceiling of less than 800 feet or visibility less than 2 miles.
+* I haven't found a definitive guide for non-towered airports
+  * When departimg from a non-towered airport in IMC, a release and clearance void time will be given, assuring that no IFR traffic will be inbound on the approach during this time
+  * Outside of this time, holding short of the ILS critical area is probably the most conservative option to ensure the presence of your aircraft doesn't interfere with an aircraft on an approach
+
 ## Flight Deck Activities During Taxiing
 
 ### Maintaining strict focus on the movement of the aircraft and ATC communications

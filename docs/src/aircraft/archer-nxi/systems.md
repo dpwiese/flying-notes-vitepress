@@ -81,8 +81,22 @@
 * 70 ampere alternator
 * 28 volt electrical system
 * 24 volt primary battery
-* Single external power connector 
+* Single external power connector
 * Isolated 24 volt emergency battery
+
+* POH Page 7-49:
+
+> When energized by the battery master switch the primary battery supplies electrical power to the starter, as well as all items on the Essential Bus, Non-Essential Bus and Lighting Bus.
+
+> The emergency battery provides electrical power to the emergency bus in the unlikely event of a complete electrical failure. With the EMERG BATT switch in the ARM position, power is applied to the emergency bus automatically if electrical power is removed from the primary electrical system. Functions available via the emergency bus include all standby instrument functions, PFD functions (nav/com #1 only), and the audio panel. The emergency battery is sized to provide a minimum duration of 30 minutes of electrical power to the emergency bus equipment.
+
+* `ALTR AMPS`
+  * Positive means the alternator is providing current *to the system*
+  * This is expected and normal while the engine is running
+* `BATT AMPS`
+  * Negative means the battery is providing current *to the system*
+  * This is normal when the electrical system is on but the engine is not running
+  * This is *abnormal* when the engine is running as it indicates the battery is discharging
 
 ## Avionics
 

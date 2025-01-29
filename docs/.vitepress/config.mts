@@ -302,6 +302,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Private', link: '/study-guides/ppl' },
+            { text: 'Commercial', link: '/study-guides/commercial' },
             { text: 'CFI', link: '/study-guides/cfi' },
             { text: 'CFII', link: '/study-guides/cfii' },
             { text: 'IPC', link: '/study-guides/ipc' },

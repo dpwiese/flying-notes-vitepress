@@ -51,7 +51,7 @@ This document describes the systems on Baron N322ET.
 * Engine lubrication and cooling
   * 12 quart oil capacity (page 7-25)
   * No published minimum oil, Company policy is 9
-  * Minimum 
+  * Minimum
   * Has thermostat to control flow through oil coolers
   * Oil type is SAE 50 (above 40 &#176;C) or SAE 30 (below 40 &#176;C)
   * Cowl flaps manually actuated
@@ -206,7 +206,7 @@ This document describes the systems on Baron N322ET.
 ![E55 Baron (N322ET) pressure system](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-37-pressure-system.png){width=360}
 
 ![E55 Baron (N322ET) pressure pump](/img/e55-baron-n322et/e55-baron-n322et-pressure-pump.jpeg){width=800}
- 
+
 ## Environmental
 
 ![E55 Baron (N322ET) environmental schematic](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-32-environmental-schematic.png){width=480}

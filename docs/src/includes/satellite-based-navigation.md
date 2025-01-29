@@ -31,12 +31,42 @@ The particular GNSS system used in the United States.
   * Pilots can update GPS database if they can do it from instrument panel without special tools or disassembly of the unit
   * Take the SD card out and update it
 
-## GPS Sensitivity Modes
+## Required Navigation Performance (RNP)
+
+* RNP is a specification under Performance Based Navigation (PBN)
+* PBN describes an aircraft's capability to navigate using performance standards
+* RNP Requires
+  * A specified accuracy be met 95% of the time
+  * Onboard performance monitoring and alerting
+* Three standard RNP levels, where the value is nautical miles each side of centerline
+  * RNP 0.3 – Approach
+  * RNP 1.0 – Departure, Terminal
+  * RNP 2.0 – En route
+
+### A History of Area Navigation (RNAV)
+
+::: warning [Area Navigation (RNAV)](https://www.ecfr.gov/current/title-14/part-1#p-1.1(Area%20navigation%20(RNAV)))
+A method of navigation that permits aircraft operations on any desired flight path.
+:::
+
+* Today we think about RNAV somewhat synonymously with GPS
+* However, there are many methods of area navigation that predate GPS including
+  * Visual reference (e.g. stars)
+  * Inertial Navigation Systems (INS)
+  * Use of VORs
+* The Bendix/King KNS 80 Digital Area Navigation System is an RNAV receiver based on VOR
+  * It enabled flight between waypoints that were *defined by VORs*, but without having to fly *along the radials* of VORs
+
+![Pilot’s Guide KNS 80 Bendix/King VOR/LOC/GS/DME/RNAV Integrated NAV System page 6.](/img/kns80-pilots-guide-page-6.jpg){width=500}
+
+* [FAA-AC-90-45A Approval of Aera Navigation Systems for use in the US National Airspace System](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-45A.pdf) from 1975 describes guidelines for RNAV systems, well before the existence of GPS
+
+### GPS Sensitivity Modes
 
 * Three GPS modes
   * **Enroute**
     * More than 30 miles from departure/destination
-    * 5 nm full-scale deflection
+    * 2 nm full-scale deflection
   * **Terminal**
     * Within 30 nm of departure/destination
     * 1 nm full-scale deflection

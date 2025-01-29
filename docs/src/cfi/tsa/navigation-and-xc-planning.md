@@ -150,8 +150,8 @@ This page covers *Task I. Navigation and Cross-Country Flight Planning* from the
 * There are many other minimum altitudes that pertain to IFR flight not discussed here.
   * See CFII TSA document
 * Minimum safe altitudes see: [14 CFR &sect;91.119 - Minimum safe altitudes: General](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.119)
-  * **Anywhere** - An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface. 
-  * **Over congested areas** - Over any congested area of a city, town, or settlement, or over any open air assembly of persons, an altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet of the aircraft. 
+  * **Anywhere** - An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface.
+  * **Over congested areas** - Over any congested area of a city, town, or settlement, or over any open air assembly of persons, an altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet of the aircraft.
   * **Over other than congested areas** - An altitude of 500 feet above the surface, except over open water or sparsely populated areas. In those cases, the aircraft may not be operated closer than 500 feet to any person, vessel, vehicle, or structure.
 * Acrobatics must be done no lower than 1,500 AGL and with 3 miles of visibility.
 

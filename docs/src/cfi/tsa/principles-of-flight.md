@@ -148,7 +148,7 @@ For example, $C_{l}$ refers to an *airfoil* lift coefficient, and $C_{L}$ refers
 Drag $D$ is given by the following.
 
 ```math
-\begin{align*} 
+\begin{align*}
 D &= D_{0} + D_{i} \\
   &= \frac{1}{2}\rho v^{2}SC_{D_{0}} + \frac{1}{2}\rho v^{2}S\frac{C_{L}^{2}}{\pi\text{AR}e}
 \end{align*}

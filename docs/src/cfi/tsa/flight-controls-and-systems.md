@@ -2,41 +2,39 @@
 
 This page covers *Task E. Aircraft Flight Controls and Operation of Systems* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
 
-## Airplane Systems
+<!--@include: ./docs/src/includes/systems/primary-flight-controls.md | shift:1-->
+<!--@include: ./docs/src/includes/systems/secondary-flight-controls.md | shift:1-->
+<!--@include: ./docs/src/includes/systems/trim-controls.md | shift:2-->
 
-<!--@include: ./docs/src/includes/systems/primary-flight-controls.md | shift:2-->
-<!--@include: ./docs/src/includes/systems/secondary-flight-controls.md | shift:2-->
-<!--@include: ./docs/src/includes/systems/trim-controls.md | shift:3-->
+## Powerplant and propeller
 
-### Powerplant and propeller
+<!--@include: ./docs/src/includes/systems/powerplant-and-propeller.md | shift:2-->
 
-<!--@include: ./docs/src/includes/systems/powerplant-and-propeller.md | shift:3-->
-
-### Landing gear
+## Landing gear
 
 <!--@include: ./docs/src/includes/systems/landing-gear.md-->
 
-<!--@include: ./docs/src/includes/systems/fuel.md | shift:2-->
-<!--@include: ./docs/src/includes/systems/oil.md | shift:2-->
-<!--@include: ./docs/src/includes/systems/hydraulic.md | shift:2-->
+<!--@include: ./docs/src/includes/systems/fuel.md | shift:1-->
+<!--@include: ./docs/src/includes/systems/oil.md | shift:1-->
+<!--@include: ./docs/src/includes/systems/hydraulic.md | shift:1-->
 
-### Electrical
+## Electrical
 
 <!--@include: ./docs/src/includes/systems/electrical-system.md-->
 
-### Avionics
+## Avionics
 
-<!--@include: ./docs/src/includes/systems/avionics-and-autopilot.md | shift:3-->
+<!--@include: ./docs/src/includes/systems/avionics-and-autopilot.md | shift:2-->
 
-### Pitot-static, vacuum/pressure, and associated flight instruments
+## Pitot-static, vacuum/pressure, and associated flight instruments
 
-<!--@include: ./docs/src/includes/systems/pitot-static-vacuum-instruments.md | shift:3-->
+<!--@include: ./docs/src/includes/systems/pitot-static-vacuum-instruments.md | shift:2-->
 
-<!--@include: ./docs/src/includes/systems/environmental-systems.md | shift:2-->
-<!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md | shift:2-->
-<!--@include: ./docs/src/includes/systems/oxygen-system.md | shift:2-->
+<!--@include: ./docs/src/includes/systems/environmental-systems.md | shift:1-->
+<!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md | shift:1-->
+<!--@include: ./docs/src/includes/systems/oxygen-system.md | shift:1-->
 
-<!--@include: ./docs/src/includes/systems/pressurization.md | shift:3-->
+<!--@include: ./docs/src/includes/systems/pressurization.md | shift:2-->
 
 ## System Abnormalities or Failures
 

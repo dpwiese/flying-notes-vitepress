@@ -27,6 +27,7 @@ This page covers *Task H. Navigation Systems and Radar Services* from the [FAA-S
   * [AIM Chapter 5: Air Traffic Procedures](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap_5.html)
     * [AIM 5-1-16 RNAV and RNP Operations](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_1.html#$paragraph5-1-16)
 * [FAA-AC-20-138D Airworthiness Approval of Positioning and Navigation Systems](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_20-138D_with_Change_1__2.pdf)
+* [FAA-AC-90-105A Approval Guidance for RNP Operations and Barometric Vertical Navigation in the U.S. National Airspace System and in Oceanic and Remote Continental Airspace](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-105A_Ed_Update_2.pdf)
 * [FAA-AC-90-108 Use of Suitable Area Navigation (RNAV) Systems on Conventional Routes and Procedures](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-108_CHG_1.pdf)
 * [FAA-AC-90-100A U.S Terminal and En Route Area Navigation (RNAV) Operations](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/73482)
 * [RAIM Service Availability Prediction Tool (SAPT) Summary Page](https://sapt.faa.gov/default.php)

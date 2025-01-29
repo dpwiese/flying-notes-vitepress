@@ -43,6 +43,7 @@ It is important to remember and understand the rules which apply to the more com
 * VFR coordidors sometimes exist as small paths through B airspace
 
 ### Class C
+
 * [AIM 3-2-4](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-4)
 * Less busy than B, but still high volume of large aircraft
 * SFC to 4,000 MSL
@@ -52,6 +53,7 @@ It is important to remember and understand the rules which apply to the more com
 * Spacing / separation: [7110.65 Section 8. Class C Service- Terminal 7-8-3](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html)
 
 ### Class D
+
 * [AIM 3-2-5](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-5)
 * Operating control tower
 * SFC – 2,500 ft
@@ -62,6 +64,7 @@ It is important to remember and understand the rules which apply to the more com
 * [14 CFR &sect;91.129 - Operations in Class D airspace](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.129)
 
 ### Class E
+
 * [AIM 3-2-6](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-6)
 * Any controlled airspace that is not A-D
 * Class E airspace below 14,500 feet MSL is charted on Sectional, Terminal, and IFR Enroute Low Altitude charts.
@@ -328,8 +331,8 @@ It is important to remember and understand the rules which apply to the more com
 * [FAA Equip ADS-B](https://www.faa.gov/air_traffic/technology/equipadsb/)
 * [14 CFR &sect;91.225 - Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.225)
   * Class A, B, and C airspace
-  * Class E airspace at or above 10,000 feet msl
-    * Excluding airspace at and below 2,500 feet agl
+  * Class E airspace at or above 10,000 feet MSL
+    * Excluding airspace at and below 2,500 feet AGL
   * Within 30 nautical miles of a Class B primary airport (the Mode C veil)
   * Above the ceiling and within the lateral boundaries of Class B or Class C airspace up to 10,000 feet
   * Class E airspace over the Gulf of Mexico, at and above 3,000 feet msl, within 12 nm of the U.S. coast.

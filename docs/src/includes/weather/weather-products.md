@@ -389,7 +389,7 @@ From [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_p
   * Issued by ARTCCs
   * Valid for 2 hours
 
-# SIGMETS and AIRMETS
+# SIGMETs and AIRMETs
 
 * **AIRMET (WA)**:
   * Stands for Airmen's Meteorological Information

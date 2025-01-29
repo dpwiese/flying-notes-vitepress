@@ -327,7 +327,7 @@ When air descends, the opposite is true.
   * As the warm front approaches, the barometric pressure continues to fall until the front passes completely.
 * During the passage of a warm front:
   * Stratiform clouds are visible and drizzle may be falling.
-  * The visibility is generally poor, but improves with variable winds. 
+  * The visibility is generally poor, but improves with variable winds.
 
 ### Cold Front
 
@@ -402,7 +402,7 @@ There are three ingredients that must be present for a thunderstorm to occur:
 
 From [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf):
 
-> Some storms occur at random in unstable air, last for only an hour or two, and produce only moderate wind gusts and rainfall. These are known as air mass thunderstorms and are generally a result of surface heating. 
+> Some storms occur at random in unstable air, last for only an hour or two, and produce only moderate wind gusts and rainfall. These are known as air mass thunderstorms and are generally a result of surface heating.
 
 > Steady-state thunderstorms are associated with weather systems.
 

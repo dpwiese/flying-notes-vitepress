@@ -9,7 +9,7 @@ Those which are not considered primary and are used to change the aircraft's per
 * They may consist of wing flaps, leading edge devices, spoilers, and trim systems.
 * Flaps
   * Change the relationship between lift and drag
-* Slots
+* Slots / Slats
   * Located on the leading edge
   * Allows higher angles of attack by redirecting airflow from under the wing to the top delaying separation
 * Spoilers
@@ -17,22 +17,34 @@ Those which are not considered primary and are used to change the aircraft's per
 
 ## Flaps
 
-* Types
-  * **Plain Flaps**
-    * Characterized by a hinging a rearward section of an airfoil about a point *within the airfoils contour*
-  * **Split Flaps**
-    * Creates least change in pitching moment
-  * **Slotted Flaps**
-    * Flap is allowed to move rearward when deflected
-  * **Fowler Flaps**
-    * Produces greatest change in pitching moment
-    * Greatest increase in lift with minimal changes in drag
-
-![Five common types of flaps. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-17.](/img/phak/phak-figure-6-17-common-flaps.png){width=800}
-
 ::: info NOTE
 At the most fundamental level, flaps change the shape of the wing with the primary goal of changing the relationship between lift and drag.
 :::
+
+### Flap Types
+
+* **Plain Flaps**
+  * Characterized by a hinging a rearward section of an airfoil about a point *within the airfoils contour*
+  * Main effect is an increase effective camber of the airfoil
+  * Increases lift coefficient at zero angle of attack and reduces stall angle of attack
+* **Split Flaps**
+  * Characterized by hinging only the *lower portion* of a rearward section of an airfoil
+  * Similar aerodynamically to plain flaps but with better high angle of attack performance due to less separation on the upper surface
+  * Creates least change in pitching moment
+* **Slotted Flaps**
+  * Characterized by slots between the flap and main airfoil section when the flap is deflected
+  * Flap rotates about a point *outside of the airfoils contour* creating a gap, or a slot, through which air can flow
+  * Uses high energy air beneath the airfoil to delay separation over the flap
+* **Fowler Flaps**
+  * Charaterized by a rearward translation of the flap resulting in an increase in the effective wing chord and correspondingly an increase in wing area
+  * Produces greatest change in pitching moment
+  * Greatest increase in lift with minimal changes in drag
+
+![Five common types of flaps. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-17.](/img/phak/phak-figure-6-17-common-flaps.png){width=800}
+
+### Flap Aerodynamics
+
+![Comparison of Effectiveness of Various Flaps. [Jan Roskam - Airplane Aerodynamics and Performance](https://search.worldcat.org/title/247558516) Figure 3.26.](/img/roskam-figure-3-26-flap-comparison.png){width=600}
 
 * For example, permit a higher $C_{L}$ for a given $C_{D}$ thus permitting slower flight for takeoff and landing.
 * Alternatively flaps my permit a larger $C_{D}$ for a given $C_{L}$, enabling the aircraft to better slow down.
@@ -62,18 +74,29 @@ In the following picture, can see how the drag bucket changes for the given airf
 
 ### Flap Definitions
 
-* The original 1921 patent by Harlan Davey Fowler was for a flap which would "maintain the general curvature and upper camber of the airfoil"
-* Both the definitions by Roskam, "Plain trailing edge flaps are formed by hinging the rear-most part of a wing section about a point within the contour" and Sagraey, "hinged at the wing trailing edge" imply that the point about which a plain flap pivots must be within the cross section of the airfoil.
+* The original 1921 patent by Harlan Davey Fowler was for a flap which would *"maintain the general curvature and upper camber of the airfoil"*
+* Both the definitions by [Roskam](https://search.worldcat.org/title/247558516), *"Plain trailing edge flaps are formed by hinging the rear-most part of a wing section about a point within the contour"* and [Sadraey](https://search.worldcat.org/title/780415812), *"hinged at the wing trailing edge"* imply that the point about which a plain flap pivots must be within the cross section of the airfoil.
 * Flaps such as those found on the Piper Archer or Cirrus SR22 whose pivot point is well outside of and below the airfoil cross section are therefor slotted flaps.
 
 ![Fowler flap diagram. [H. D. Fowler Variable Area Wing US Patent 1,392,005](https://patents.google.com/patent/US1392005A/en)](/img/fowler-flap-1921-patent.png){width=600}
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 57-50-00 Page 3 flap mechanism.](/img/archer-amm/archer-amm-57-50-00-page-3-flap-mechanism.png){width=300}
 
+![Archer flaps. Note the hinge point offset below the flap surface creates the slot when the flaps are deflected.](/img/archer/archer-flaps.jpeg){width=600}
+
 * For more on flap definitions see
   * [Jan Roskam - Airplane Aerodynamics and Performance](https://search.worldcat.org/title/247558516)
   * [Mohammad H. Sadraey - Aircraft design : a systems engineering approach](https://search.worldcat.org/title/780415812)
 * [NASA The Wind and Beyond Volume II: Reinventing the Airplane](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4409-vol2.pdf?emrc=177b1a)
+
+* Key feature of the Fowler flap is a rearward translation of the flap resulting in an increase in the effective wing chord and correspondingly an increase in wing area
+* [Mohammad H. Sadraey - Aircraft design : a systems engineering approach](https://search.worldcat.org/title/780415812):
+
+  > A Fowler flap has a special mechanism such that when deployed, it not only deflects downward but also translates or tracks to the trailing edge of the wing. The second feature increases the exposed wing area...
+
+* [Jan Roskam - Airplane Aerodynamics and Performance](https://search.worldcat.org/title/247558516):
+
+  > The Fowler flap (see Figure 3.22d) employs the same principle as the slotted flap, but it also moves backward while deflecting downward. The backward motion increases the effective wing area.
 
 ## Slots
 
