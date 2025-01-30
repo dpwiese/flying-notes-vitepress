@@ -70,7 +70,7 @@
 
 ### Global Positioning System (GPS)
 
-<!--@include: ./docs/src/includes/satellite-based-navigation-minus-vor.md | shift:3-->
+<!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:3-->
 
 ### IFR En Route Charts
 
