@@ -55,7 +55,7 @@ This page covers *Task D. Logbook Entries Related to Instrument Instruction* fro
 
 * [FAA-AC-61-65J Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1043278) gives the required endorsement upon satisfactory completion of an IPC
   * No logbook entry reflecting unsatisfactory performance is required - just log it as dual given
-  * [FAA-AC-61-98D Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/1033391)
+  * [FAA-AC-61-98E Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98E.pdf)
   * See also Instrument ACS for IPC requirements
 
 ### IPC Overview
@@ -85,7 +85,7 @@ The flight instructor determines that the pilot has adequate knowledge and under
 * IPC References
   * [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
   * [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook)
-  * [FAA-AC-61-98D Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/1033391)
+  * [FAA-AC-61-98E Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98E.pdf)
   * [14 CFR &sect;61.57(d) Instrument proficiency check](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.57#p-61.57(d)) describes the requirements for an IPC.
   * See also Instrument ACS for IPC requirements
 * An IPC is required when instrument currency lapses, where instrument currency is maintained by the following in last 6 months
@@ -108,4 +108,4 @@ The flight instructor determines that the pilot has adequate knowledge and under
 
 ## References
 
-* [FAA-AC-61-98D Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/1033391)
+* [FAA-AC-61-98E Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98E.pdf)

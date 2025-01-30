@@ -111,7 +111,7 @@ This page covers *Task B. Cross Country Flight Planning* from the [FAA-S-8081-9E
 
 ## Demonstrates Knowledge of GPS and RAIM
 
-<!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:2-->
+See [Satellite Based Navigation](/cfii/tsa/flight-instruments#satellite-based-navigation).
 
 ## Recognizes Airframe Icing {#recognizes-airframe-icing}
 

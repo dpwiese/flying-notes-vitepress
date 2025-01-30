@@ -14,8 +14,8 @@
     * e.g. Airplane, rotorcraft
 * After instrument currency lapses, there is a six-month "grace period" where a pilot can regain their instrument currency
   * After this six-month "grace period" an IPC is required
-  * [14 CF$ &sect;61.57(d)(1)](https://www.ecfr.gov/current/title-14/part-61/section-61.57#p-61.57(d)(1))
-* [FAA-AC-61-98D Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/1033391)
+  * [14 CFR &sect;61.57(d)(1)](https://www.ecfr.gov/current/title-14/part-61/section-61.57#p-61.57(d)(1))
+* [FAA-AC-61-98E Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98E.pdf)
   * Gives a list of areas to cover during an IPC
 * [FAA-S-ACS-8B Instrument Rating Airplane Airman Certification Standards Change 1](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/instrument_rating_acs_change_1.pdf)
   * Provides the areas of operation to cover during an IPC
@@ -70,7 +70,7 @@
 
 ### Global Positioning System (GPS)
 
-<!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:3-->
+<!--@include: ./docs/src/includes/satellite-based-navigation-minus-vor.md | shift:3-->
 
 ### IFR En Route Charts
 

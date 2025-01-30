@@ -52,6 +52,14 @@ This page covers *Task A. Nonprecision Instrument Approach (NPA)* from the [FAA-
 * GPS can be used instead of the VOR receiver for a VOR approach *if the underlying NAVAID is monitored for course guidance*
   * See [Using GPS for Non-GPS Approaches](/cfi/tsa/nav-systems-radar-services#using-gps-for-non-gps-approaches)
 
+## LDA Approach Plate Examples
+
+* May or may not have a glideslope
+
+![KTVL LDA RWY 18.](/img/iap/ktvl-lda-rwy-18.png){width=500}
+
+![KSLC LDA RWY 35.](/img/iap/kslc-lda-rwy-35.png){width=500}
+
 ## Completion Standards
 
 ![[FAA-S-ACS-8B Instrument Rating Airplane Airman Certification Standards Change 1](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/instrument_rating_acs_change_1.pdf)](/img/instrument-acs/instrument-acs-vi-a-nonprecision-approach.png){width=540}

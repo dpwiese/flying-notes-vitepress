@@ -716,7 +716,7 @@ See [FAA-AC-61-65H - Certification: Pilots and Flight and Ground Instructors](ht
     * (Tailwheel after I get endorsement)
         * [14 CFR &sect;61.31(i) - Additional training required for operating tailwheel airplanes](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.31#p-61.31(i))
 * **What guidance should you follow when administering a Flight Review?**
-    * See [FAA-AC-61-98D Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/1033391)
+    * See [FAA-AC-61-98E Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98E.pdf)
     * A flight review consists of a minimum of ==1 hour of flight training and 1 hour of ground== training
     * Send student to ==[FAASafety.gov](https://faasafety.gov) for the free ALC-25 Flight Review Prep Guide== course
     * ==Set expectations==
@@ -737,7 +737,7 @@ See [FAA-AC-61-65H - Certification: Pilots and Flight and Ground Instructors](ht
     * References
         * [Conducting an Effective Flight Review](https://www.faasafety.gov/files/events/GL/GL09/2016/GL0970676/Conducting_an_Effective_Flight_Review.pdf)
         * [14 CFR &sect;61.56 - Flight Review](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.56)
-        * [FAA-AC-61-98D Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1033391)
+        * [FAA-AC-61-98E Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98E.pdf)
 * **If you have completed a flight with a student who came to you for a flight review and they did not fly well enough that you intend to provide them a Flight Review endorsement, what kind of logbook entry do you make and what do you do from there?**
     * Log flight as dual given
     * Discuss areas to improve

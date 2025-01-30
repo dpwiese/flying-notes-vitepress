@@ -233,6 +233,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Overview', link: '/cfii/approaches/overview' },
+            { text: 'GPS Approach', link: '/cfii/approaches/gps' },
             { text: 'Nonprecision Approach', link: '/cfii/approaches/nonprecision' },
             { text: 'Precision Approach', link: '/cfii/approaches/precision' },
             { text: 'Missed Approach', link: '/cfii/approaches/missed' },

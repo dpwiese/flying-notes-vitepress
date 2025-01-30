@@ -286,5 +286,5 @@ Instructor must sign the logbook of each person they have given flight or ground
 
 * [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
   * [Chapter 1: Introduction to Flying](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/03_phak_ch1.pdf)
-* [FAA-AC-61-98D Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1033391)
+* [FAA-AC-61-98E Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98E.pdf)
 * [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)

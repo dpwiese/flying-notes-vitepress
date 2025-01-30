@@ -2,13 +2,13 @@
 
 This page covers *Task H. Navigation Systems and Radar Services* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
 
-## Ground-Based Navigation
+## Ground Based Navigation
 
-<!--@include: ./docs/src/includes/ground-based-navigation.md | shift:2-->
+<!--@include: ./docs/src/includes/vor.md | shift:2-->
+<!--@include: ./docs/src/includes/ndb.md | shift:2-->
+<!--@include: ./docs/src/includes/using-ground-based-navaids.md | shift:2-->
 
-## Satellite-Based Navigation
-
-<!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:2-->
+<!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:1-->
 
 ## Radar Assistance to VFR Aircraft
 

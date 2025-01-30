@@ -1,26 +1,71 @@
-# Overview
+# Satellite Based Navigation
+
+* As the title implies, satellite based navigation uses signals from satellite to determine location
+* These satellites are placed in a medium-Earth orbit
+* There are four constellations of such satellites operated by various bodies around the workd
+  * GPS - United States
+  * GLONASS - Russia
+  * Galileo - EU
+  * BeiDou (BDS) - China
 
 ::: warning Global Navigation Satellite System (GNSS)
-The generic term for satellite-based navigation systems used around the world.
+The generic term for satellite based navigation systems used around the world.
 :::
 
 ::: warning Global Positioning System (GPS)
 The particular GNSS system used in the United States.
 :::
 
-## Satellites
+* Given GPS is the system used in the United States, this document will refer to GPS, but much of what applies to GPS applies to the other GNSS systems as well.
 
-* Number of visible GPS satellites
-  * The GPS constellation currently consists of 31 active satellites
-  * GPS is designed so that as long as 24 GPS satellites are working, at least 5 should be visible at any time
-    * [AIM 1-1-17(a)(1)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#$paragraph1-1-17)
-  * [AIM 1-1-17(a)(3)(a)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#$paragraph1-1-17)
-    * Need 4 satellites to have GPS
-      * This gives latitude, longitude, altitude, and time
-    * Need 5 satellites for RAIM
-      * More on RAIM below
-    * Need 6 satellites to remove corrupt GPS signal
-    * A typical GPS receiver has at least 12 channels
+## A History of Area Navigation (RNAV)
+
+* GPS systems provide a capability called Area Navigation (RNAV) which, unlike using a traditional VOR receiver which only allows flying toward or away from the ground station, allows the navigation between arbitrary points.
+* As GPS is overwhelmingly the means by which RNAV is possible these terms are often conflated.
+* It is important to remember that they are distinct concepts, and while GPS can provide RNAV capability, RNAV systems did exist prior to GPS.
+
+::: warning [Area Navigation (RNAV)](https://www.ecfr.gov/current/title-14/part-1#p-1.1(Area%20navigation%20(RNAV)))
+A method of navigation that permits aircraft operations on any desired flight path.
+:::
+
+* Methods of area navigation that predate GPS include
+  * Visual reference (e.g. stars)
+  * Inertial Navigation Systems (INS)
+  * LORAN C
+    * See [FAA-AC-90-92](https://www.faa.gov/documentLibrary/media/Advisory_Circular/90-92.pdf)
+  * VOR/DME
+  * DME/DME
+* See [FIU RNAV](https://web.eng.fiu.edu/allstar/RNAV.htm)
+* Some such VOR based RNAV recievers include
+  * The Bendix/King KNS 80 Digital Area Navigation System is an RNAV receiver based on VOR
+  * Narco NS-800
+  * King KN-74 
+* They enabled flight between waypoints that were *defined by VORs*, but without having to fly *along the radials* of VORs
+* [FAA-AC-90-45A Approval of Area Navigation Systems for use in the US National Airspace System](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-45A.pdf) from 1975 describes guidelines for RNAV systems, well before the existence of GPS
+
+![Pilot’s Guide KNS 80 Bendix/King VOR/LOC/GS/DME/RNAV Integrated NAV System page 6.](/img/kns80-pilots-guide-page-6.jpg){width=500}
+
+![Narco NS-900 Pilots Guide. RNV Mode.](/img/narco-ns-800-page-23-rnv-mode.png){width=500}
+
+![KGGP VOR/DME RNAV RWY 27. RNAV based on VOR/DME in this case enables the instrument approach procedure to be flown with no GPS required.](/img/iap/kggp-vor-dme-rnav-rwy-27.png){width=500}
+
+![KTTN COPTER LORAN RNAV RWY 16. This is an experimental COPTER approach based on LORAN.](/img/iap/kttn-copter-loran-c-rnav-rwy-16.png){width=500}
+
+## GPS Satellites
+
+* The GPS constellation currently consists of 31 operational satellites
+* GPS is designed so that as long as 24 GPS satellites are working, at least 5 should be visible at any time
+  * [AIM 1-1-17(a)(1)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#$paragraph1-1-17)
+* [AIM 1-1-17(a)(3)(a)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#$paragraph1-1-17)
+  * Need 4 satellites to have GPS
+    * This gives latitude, longitude, altitude, and time
+  * Need 5 satellites for RAIM
+    * More on RAIM below
+  * Need 6 satellites to remove corrupt GPS signal
+
+## GPS Receiver
+
+* A typical GPS receiver has at least 12 channels
 
 ![Garmin GNS430W GPS Specs.](/img/gns430w-gps-specs.png){width=300}
 
@@ -35,33 +80,62 @@ The particular GNSS system used in the United States.
 
 * RNP is a specification under Performance Based Navigation (PBN)
 * PBN describes an aircraft's capability to navigate using performance standards
-* RNP Requires
-  * A specified accuracy be met 95% of the time
-  * Onboard performance monitoring and alerting
+* ==RNP Requires==
+  * ==A specified accuracy be met 95% of the time==
+  * ==Onboard performance monitoring and alerting==
 * Three standard RNP levels, where the value is nautical miles each side of centerline
   * RNP 0.3 – Approach
   * RNP 1.0 – Departure, Terminal
   * RNP 2.0 – En route
+* The performance requirements of PBN are conveyed to the operators through navigation specifications, or NavSpecs.
 
-### A History of Area Navigation (RNAV)
+### Aircraft Equipment Requirements
 
-::: warning [Area Navigation (RNAV)](https://www.ecfr.gov/current/title-14/part-1#p-1.1(Area%20navigation%20(RNAV)))
-A method of navigation that permits aircraft operations on any desired flight path.
-:::
+* The Piper Archer III NXi G1000 system satisfies the following requirements:
+  * RNP APCH (without RF)
+  * RNP 1 (terminal operations)
+  * RNAV 1 and RNAV 2
+  * RNP-10 (oceanic and remote continental operations)
 
-* Today we think about RNAV somewhat synonymously with GPS
-* However, there are many methods of area navigation that predate GPS including
-  * Visual reference (e.g. stars)
-  * Inertial Navigation Systems (INS)
-  * Use of VORs
-* The Bendix/King KNS 80 Digital Area Navigation System is an RNAV receiver based on VOR
-  * It enabled flight between waypoints that were *defined by VORs*, but without having to fly *along the radials* of VORs
+![Archer III NXi Navigation system equipment approvals.](/img/archer-poh/archer-poh-page-1-7-nav-system-approvals.png){width=500}
 
-![Pilot’s Guide KNS 80 Bendix/King VOR/LOC/GS/DME/RNAV Integrated NAV System page 6.](/img/kns80-pilots-guide-page-6.jpg){width=500}
+![Archer III NXi Navigation system equipment approvals.](/img/archer-poh/archer-poh-page-1-8-nav-system-approvals.png){width=500}
 
-* [FAA-AC-90-45A Approval of Aera Navigation Systems for use in the US National Airspace System](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-45A.pdf) from 1975 describes guidelines for RNAV systems, well before the existence of GPS
+* Determining what requirements a particular aircraft satisfies can be challenging.
+* The excerpt from Garmin Performance-Based Navigation Capabilities document indicates some RNP functions for various products
+  * Some capabilities depend on software versions, so be sure to check carefully what RNP capabilities an aicraft has before flying
 
-### GPS Sensitivity Modes
+![Garmin Performance-Based Navigation Capabilities. In the case of the G1000 NXi, the asterisk says to contact Garmin. For the Archer III with the G1000 NXi, the pages above indicate it is not approved for RF legs.](/img/garmin-pbn-capabilities.png){width=800}
+
+* The Garmin GTN750, which can support RF legs, are indicated in the flight plan view as shown below
+
+![Garmin GTN750 with the KRNO ILS Z RWY 17R loaded starting from KLOCK. Note the arc left to get from SLABS to ZOMPO.](/img/garmin-gtn750-krno-ils-z-rwy-17r.jpg){width=500}
+
+* RNP AR APCH (AR for Authorization Required)
+  * General aviation operations do not have the authorization required to fly these approaches
+  * See [AIM 1-2-2(b)(1)(a)(2)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html#aim0102.html.6):
+
+    > In the U.S., RNP AR APCH procedures are titled RNAV (RNP). These approaches have stringent equipage and pilot training standards and require special FAA authorization to fly. Scalability and RF turn capabilities are mandatory in RNP AR APCH eligibility.
+
+* Relevant Advisory Circulars
+  * [FAA-AC-91-105A](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-105A_Ed_Update_2.pdf) for RNP definitions
+  * [FAA-AC-91-100A](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-100A_CHG_2.pdf) for RNAV definitions
+  * [FAA-AC-91-107](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-107.pdf) for LP and LPV approaches
+  * [FAA-AC-90-101A](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-101A_CHG_1.pdf) for RNP procedures with AR
+  * [FAA-AC-20-138D](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_20-138D_with_Change_1__2.pdf) for airworthiness approval
+
+* In the past, LNAV/VNAV required a baro-aided altimeter
+* This has changed to allow appropriately certified WAAS GPS systems to fly LNAV/VNAV approaches, but I don't know exactly when this happened
+  * One data point is in the 2012 version of the AIM, which states that properly certified WAAS received _will_ be able to fly LNAV/VNAV approaches
+  * Earlier references indicate the ability to use an appropriate WAAS GPS for LNAV/VNAV approaches
+  * WAAS was authorized for IFR use in 2003, so certainly before that LNAV/VNAV approaches would have _required_ a baro-aided altimeter
+  * [FAA-AC-90-97](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/74461) (which was canceled by [FAA-AC-91-105A](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-105A_Ed_Update_2.pdf)) describes the use of barometric vertical guidance for VNAV
+
+![2012 AIM 1-1-20(b)(1)](/img/aim-2012-sect-1-1-20b1.png){width=300}
+
+![FAA-AC-90-97 on WAAS use for VNAV.](/img/faa-ac-90-97-waas-for-vnav.png){width=600}
+
+## GPS Sensitivity Modes
 
 * Three GPS modes
   * **Enroute**
@@ -117,7 +191,9 @@ A method of navigation that permits aircraft operations on any desired flight pa
 
 ![Garmin GNS430W is approved for use under TSO-C146a as stated in the approved AFM supplement that accompanies its installation.](/img/garmin-gns-430w-stc-approved.png){width=480}
 
-# Non-WAAS GPS
+![Archer III NXi G1000 system is certified under TSO-C145/TSO-C146.](/img/archer-poh/archer-poh-page-1-7-nav-system-approvals.png){width=500}
+
+## Non-WAAS GPS
 
 * Also called non-augmented GPS
 * May be used as primary source of navigation if the aircraft has working conventional navigation equipment (e.g. VOR receiver)
@@ -182,10 +258,10 @@ Receiver autonomous integrity monitoring (RAIM) is a technology for a GPS unit t
   * [FAA FNS NOTAM Seach](https://notams.aim.faa.gov/notamSearch)
   * ForeFlight briefing
 
-# Wide-Area Augmentation System (WAAS)
+## Wide-Area Augmentation System (WAAS)
 
 ::: warning SBAS
-Satellite-Based Augmentation System (SBAS) augments GNSS with additional ground stations/enhanced information transmitted from satellites for improved accuracy and reliability.
+Satellite Based Augmentation System (SBAS) augments GNSS with additional ground stations/enhanced information transmitted from satellites for improved accuracy and reliability.
 :::
 
 ::: warning WAAS
@@ -238,7 +314,7 @@ Wide-Area Augmentation System (WAAS) is the US implementation of SBAS.
 
 * WAAS satellite PRN 138 was decommissioned in May 2022 and replaced by PRN 135
 
-# Using GPS During IFR Operations
+## Using GPS During IFR Operations
 
 * Verify database is current
   * See the exception in [AIM Table 1-1-6](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#ffAks301atcn) that allows flying with an expired GPS database
