@@ -14,6 +14,11 @@ This page covers *Task H. Navigation Systems and Radar Services* from the [FAA-S
 
 <!--@include: ./docs/src/includes/radar-services.md-->
 
+## Transponder and ADS-B
+
+* What they are
+* Where they are required
+
 ## References
 
 * [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)

@@ -1,4 +1,4 @@
-# Departure Procedure Overview
+# Departure Procedures
 
 * Find Standard Terminal Arrival Routes (STAR) and Departure Procedures (DP) in the [Digital Terminal Procedures Publication](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dtpp/)
 * [AIM Section 2. Departure Procedures](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_2.html)
@@ -10,8 +10,11 @@
   * **Standard Instrument Departures (SID)**
 * Departure procedure performance requirements are given in terms of feet per nautical mile.
   * To convert those to feet per minute, there is a chart in the back of the [Digital Terminal Procedures Publication (d-TPP)/Airport Diagrams](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dtpp/)
+* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
+  * Chapter 10: IFR Flight
+    * Page 10-5: Departure Procedures (DPs)
 
-# Obstacle Departure Procedures (ODP)
+## Obstacle Departure Procedures (ODP)
 
 * Purely for obstacle clearance
 * Graphical or textual
@@ -31,11 +34,11 @@
 
 ![Digital Terminal Procedures: DP Legend](/img/tpp/dtpp-dp-legend.jpg){width=540}
 
-![Digital Terminal Procedures: MTJ Graphical ODP](/img/tpp/dtpp-graphical-odp.jpg){width=460}
+![Digital Terminal Procedures: MTJ Graphical ODP](/img/tpp/dtpp-graphical-odp.jpg){width=540}
 
-![Digital Terminal Procedures: rate of climb/descent table](/img/tpp/dtpp-rate-of-climb-table.png){width=460}
+![Digital Terminal Procedures: rate of climb/descent table](/img/tpp/dtpp-rate-of-climb-table.png){width=500}
 
-# Standard Instrument Departures (SID)
+## Standard Instrument Departures (SID)
 
 * Exist predominantly for ATC reasons
 * Reduces radio traffic and eases traffic flow
@@ -50,7 +53,7 @@
 * Climb to 400' AGL before turning
 * Must climb at 200' per nm unless otherwise stated
 
-# General Departure Notes
+## General Departure Notes
 
 * Can decline DP
 * If no departure procedure
@@ -58,7 +61,7 @@
   * Must climb at least 200' per nm
   * Must be at least 35' AGL at departure end of runway
 
-# Takeoff Minimums
+## Takeoff Minimums
 
 * ==Under Part 91 there are no takeoff minimums except there are *performance minimums* for the departure you are assigned that you must meet.==
 * If ATC assigns a departure with performance requirements you cannot meet, you must decline.
@@ -68,9 +71,3 @@
 * Just because there are no takeoff minimums for Part 91, doesn't mean it's a good idea to take off in zero-zero weather
 
 ![Digital Terminal Procedures takeoff minimums and textual ODP for Stow, MA 6B6.](/img/tpp/dtpp-takeoff-mins.png){width=540}
-
-# References
-
-* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
-  * Chapter 10: IFR Flight
-    * Page 10-5: Departure Procedures (DPs)

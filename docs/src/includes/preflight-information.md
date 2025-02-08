@@ -4,6 +4,7 @@
     * Reports and forecasts
   * ==**K** - **Known traffic delays**==
     * As advised by ATC
+    * See [FAA National Airspace System Status](https://nasstatus.faa.gov)
   * ==**R** - **Runway lengths**==
     * Of intended use
   * ==**A** - **Alternates**==

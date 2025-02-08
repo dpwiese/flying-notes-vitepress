@@ -62,9 +62,7 @@
 
 * See [Runway Incursion Avoidance](/cfi/tsa/runway-incursions)
 
-### Instrument Departures
-
-<!--@include: ./docs/src/includes/departure-procedures.md | shift:3-->
+<!--@include: ./docs/src/includes/departure-procedures.md | shift:2-->
 
 ## En Route
 
@@ -72,9 +70,7 @@
 
 <!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:3-->
 
-### IFR En Route Charts
-
-<!--@include: ./docs/src/includes/ifr-en-route.md | shift:3-->
+<!--@include: ./docs/src/includes/ifr-en-route.md | shift:2-->
 
 ### En Route Weather
 
@@ -112,9 +108,7 @@
 
 ## Arrival and Approach Procedures
 
-### Arrival Procedures
-
-<!--@include: ./docs/src/includes/arrival-procedures.md | shift:3-->
+<!--@include: ./docs/src/includes/arrival-procedures.md | shift:2-->
 
 ### Instrument Approach Procedures
 

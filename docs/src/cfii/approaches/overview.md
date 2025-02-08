@@ -95,12 +95,6 @@ Know how to read an instrument approach chart, review charts before flight, and 
 
 > When radar or other equipment is required for procedure entry from the en route environment, a note will be charted in the planview of the approach procedure chart (e.g., RADAR REQUIRED or ADF REQUIRED). When radar or other equipment is required on portions of the procedure outside the final approach segment, including the missed approach, a note will be charted in the notes box of the pilot briefing portion of the approach chart (e.g., RADAR REQUIRED or DME REQUIRED).
 
-## Canceling IFR
-
-* Good idea to do as soon as you can safely make it to airport under VMC
-* This frees up the runway for use by other traffic more quickly
-  * Locks up runway for 30 minutes or until they locate you
-
 ## Briefing the Approach
 
 * There is no standard way to do an approach briefing
@@ -121,6 +115,10 @@ Know how to read an instrument approach chart, review charts before flight, and 
   * **A** - ATIS
   * **B** - Build + Brief
   * **C** - Checklist
+* Or alternatively:
+  * Listen
+  * Load
+  * Brief
 * The enroute briefing is something like what's in [How do you Brief an Approach Using FAA/NACO Charts](https://www.aviator.nyc/how-brief-an-instrument-approach/) although I have modified it slightly.
     1. Type of Approach & Location.
     2. Check the Date
@@ -141,7 +139,7 @@ Know how to read an instrument approach chart, review charts before flight, and 
 
 ![Approach briefing guide. [How do you Brief an Approach Using FAA/NACO Charts](https://www.aviator.nyc/how-brief-an-instrument-approach/)](/img/ILS_12_SMX_FAA_Instrument_Plate_Brief.jpg){width=600}
 
-## Example Approach Briefing
+### Example Approach Briefing
 
 * Run WIRE checklist
   * Weather - get the ATIS
@@ -161,6 +159,7 @@ Know how to read an instrument approach chart, review charts before flight, and 
   * Verify chart expiration date
 * Brief
   * We are doing the ILS 12 in Santa Maria.
+  * The chart dates are valid.
   * We are currently (location relative to airport) at (altitude)
   * Localizer frequency 108.9 set in nav 1 and 2 active AND identified
   * Heading bug set to final approach course 120
@@ -228,6 +227,9 @@ Know how to read an instrument approach chart, review charts before flight, and 
 * Minimums do not preclude flights under Part 91 from *initiating an approach*
   * You can "take a look"
   * 121 and 135 operators must have weather at or above minimums as reported on ATIS/AWOS in order to even begin the approach
+* From [7110.65AA 4-8-1(a)(3)](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap4_section_8.html#VwJ28JACK)
+
+  > Standard instrument approach procedures (SIAP) must begin at an initial approach fix (IAF) or an intermediate fix (IF) if there is not an IAF.
 
 ## Continuing the Approach / Descending Below MDA or DA
 
@@ -284,3 +286,9 @@ Know how to read an instrument approach chart, review charts before flight, and 
 ![Digital Terminal Procedures: lighting legend](/img/tpp/dtpp-lighting-legend-1.png){width=540}
 
 ![Digital Terminal Procedures: lighting legend](/img/tpp/dtpp-lighting-legend-2.png){width=540}
+
+## Canceling IFR
+
+* Good idea to do as soon as you can safely make it to airport under VMC
+* This frees up the runway for use by other traffic more quickly
+  * Locks up runway for 30 minutes or until they locate you

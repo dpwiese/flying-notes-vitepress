@@ -6,34 +6,40 @@ This page covers *Task A. Aircraft Flight Instruments and Navigation Equipment* 
 
 ### Pitot-Static System
 
-* Alternate static source
-  * Due to the venturi effect of the air flowing around the fuselage, *the air pressure inside the flight deck is lower* than the exterior pressure.
-* Altimeter
-  * The indicated altitude is correct, however, only when the sea level barometric pressure is standard (29.92 inHg), the sea level free air temperature is standard (15 &#176;C or 59 &#176;F), and the pressure and temperature decrease at a standard rate with an increase in altitude.
-  * Can adjust the altimeter for nonstandard pressure but not temperature
-    * True altitude thus varies with temperature
-    * Higher temps means true altitude is higher than indicated and lower temps means true altitude is lower than indicated
-    * Recall "hot-to-cold look out below"
-    * Beware obstacle clearance especially when flying in colder temps
-  * Mental model: altimeter setting provides true datum at ground level of the reporting station. Then consider the pressure gradient (which decreases with altitude). Compared to the standard pressure gradient, the pressure gradient in colder more dense air will decrease more quickly, and in hot air the pressure gradient will decrease less quickly.
-* Vertical Speed Indicator (VSI)
-* Airspeed Indicator (ASI)
-  * Lower limits of green and white arc are power-off stall speeds
-  * Other speeds not here are, for example, $V_{a}$, $V_{g}$, and $V_{\text{LE}}$
-  * The same behavior described by "hot-to-cold look out below" for the altimeter applies to the airspeed indicator as well - when flying to a warmer area, for example, true airspeed will increase (given a constant power setting and true altitude)
-* Failure modes
-
 ![Pitot static system and instruments. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 8: Flight Instruments](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/10_phak_ch8.pdf) Figure 8-1.](/img/phak/phak-figure-8-1-pitot-static-system.jpg){width=500}
+
+#### Altimeter
+
+* The indicated altitude is correct, however, only when the sea level barometric pressure is standard (29.92 inHg), the sea level free air temperature is standard (15 &#176;C or 59 &#176;F), and the pressure and temperature decrease at a standard rate with an increase in altitude.
+* Can adjust the altimeter for nonstandard pressure but not temperature
+  * True altitude thus varies with temperature
+  * Higher temps means true altitude is higher than indicated and lower temps means true altitude is lower than indicated
+  * Recall "hot-to-cold look out below"
+  * Beware obstacle clearance especially when flying in colder temps
+* Mental model: altimeter setting provides true datum at ground level of the reporting station. Then consider the pressure gradient (which decreases with altitude). Compared to the standard pressure gradient, the pressure gradient in colder more dense air will decrease more quickly, and in hot air the pressure gradient will decrease less quickly.
 
 ![Altimeter. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 8: Flight Instruments](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/10_phak_ch8.pdf) Figure 8-2.](/img/phak/phak-figure-8-2-altimeter.jpg){width=360}
 
+#### Vertical Speed Indicator (VSI)
+
 ![Vertical Speed Indicator (VSI). [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 8: Flight Instruments](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/10_phak_ch8.pdf) Figure 8-5.](/img/phak/phak-figure-8-5-vertical-speed-indicator.png){width=360}
+
+#### Airspeed Indicator (ASI)
+
+* Lower limits of green and white arc are power-off stall speeds
+* Other speeds not here are, for example, $V_{a}$, $V_{g}$, and $V_{\text{LE}}$
+* The same behavior described by "hot-to-cold look out below" for the altimeter applies to the airspeed indicator as well - when flying to a warmer area, for example, true airspeed will increase (given a constant power setting and true altitude)
 
 ![Airspeed indicator. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 8: Flight Instruments](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/10_phak_ch8.pdf) Figure 8-7.](/img/phak/phak-figure-8-7-airspeed-indicator.png){width=360}
 
 ![Airspeed indicator markings. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 8: Flight Instruments](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/10_phak_ch8.pdf) Figure 8-8.](/img/phak/phak-figure-8-8-airspeed-indicator-markings.png){width=360}
 
-![Pitot static system failure modes and instrument indications. Reference unknown.](/img/broken-pitot-static-instruments-table.png){width=400}
+#### Failure modes
+
+* Alternate static source
+  * Due to the venturi effect of the air flowing around the fuselage, *the air pressure inside the flight deck is lower* than the exterior pressure.
+
+![Pitot static system failure modes and instrument indications. Reference unknown.](/img/broken-pitot-static-instruments-table.png){width=500}
 
 ### Attitude Indicator
 
@@ -42,7 +48,8 @@ This page covers *Task A. Aircraft Flight Instruments and Navigation Equipment* 
   * Rigidity in space
   * Precession
 * Electrically or vacuum powered
-  * What is in POH might have changed and need to consult supplements, e.g. G5 attitude indicator using solid state (electrically powered) gyro instead of vacuum powered.
+  * What is in POH might have changed and need to consult supplements
+  * For example, the Garmin G5 attitude indicator uses solid state (electrically powered) gyro instead of vacuum powered.
 * Due to friction, gyroscopic instruments can drift and need to be reset periodically (for example heading indicator to compass)
   * For example, check and reset every 15 minutes
 * Certain gyroscopic instruments have specific pitch and bank limits that induce a tumble of the gyro.
@@ -70,6 +77,7 @@ This page covers *Task A. Aircraft Flight Instruments and Navigation Equipment* 
 
 * **Variation**
   * The difference between true and magnetic directions
+  * More on magnetic variation below
 * **Deviation**
   * Created by local magnetic field around aircraft
 * **Dip**
@@ -98,7 +106,7 @@ It states:
 
 > This is done by lowering the center of gravity below the pivot point and making the assembly heavy enough that the vertical component of the magnetic force is too weak to tilt it significantly out of the horizontal plane.
 
-But literally the sentence after it states:
+But the next sentence after it states:
 
 > Because the dip angle is of no navigational interest, the compass is made so that it can rotate only in the horizontal plane.
 
@@ -115,22 +123,23 @@ Also browsing Aircraft Spruce, the compasses require selection of northern or so
 There seem to be other compass types, and different ways to accommodate dip error without a weight on one of the compass "seeking" ends.
 ==However, for the purposes of understanding compass errors, the mental model of a weight opposite the "seeking" end is probably the best.==
 
-* Charts and magnetic variation
-  * **==The E/W variation on isogonic lines indicates where you would end up relative to true north if you followed your compass north.==**
-  * Thinking back to private pilot flight planning with the flight plan form and manually charting on a sectional chart, we want to navigate based on true directions. If magnetic north and true north were collocated, life would be good. They are not, so we need to correct for magnetic directions so that we can navigate by true directions.
-  * Note: Figure 45 in the [FAA-CT-8080-5H Instructor Knowledge Test Supplement](https://www.faa.gov/training_testing/testing/supplements/media/flight_ground_instructor_akts.pdf) shows the sectional chart around Corpus Christi TX and easterly magnetic variation, in case that is helpful to remember anything on the test.
-  * By convention, magnetic variation is *positive when magnetic north is east of true north*, and *negative when it is to the west*.
-    * In other words, if we are trying to fly to true north from Corpus Christi (which indicates an easterly magnetic variation) using our compass, we would *end up east of true north*. This is how to think about easterly / westerly magnetic variation - *it's where you would end up relative to true north if you followed your compass north.*
-    * So, in this case we would need a more westerly heading to actually end up at true north.
-  * TC +W/-E Var = MC +R/-L WCA = MH (this is what we do on flight plan form)
-    * Remember for the test it is *subtract E and L* and *add W and R* when going *from TC to MC*
-    * It is the opposite when going the other way
+#### Magnetic Variation
+
+* **==The E/W variation on isogonic lines indicates where you would end up relative to true north if you followed your compass north.==**
+* Thinking back to private pilot flight planning with the flight plan form and manually charting on a sectional chart, we want to navigate based on true directions. If magnetic north and true north were collocated, life would be good. They are not, so we need to correct for magnetic directions so that we can navigate by true directions.
+* Note: Figure 45 in the [FAA-CT-8080-5H Instructor Knowledge Test Supplement](https://www.faa.gov/training_testing/testing/supplements/media/flight_ground_instructor_akts.pdf) shows the sectional chart around Corpus Christi TX and easterly magnetic variation, in case that is helpful to remember anything on the test.
+* By convention, magnetic variation is *positive when magnetic north is east of true north*, and *negative when it is to the west*.
+  * In other words, if we are trying to fly to true north from Corpus Christi (which indicates an easterly magnetic variation) using our compass, we would *end up east of true north*. This is how to think about easterly / westerly magnetic variation - *it's where you would end up relative to true north if you followed your compass north.*
+  * So, in this case we would need a more westerly heading to actually end up at true north.
+* TC +W/-E Var = MC +R/-L WCA = MH (this is what we do on flight plan form)
+  * Remember for the test it is *subtract E and L* and *add W and R* when going *from TC to MC*
+  * It is the opposite when going the other way
 * When measuring true course on a line drawn on a sectional chart, measure the course angle at the midpoint of the line
 * The `K` identifier in front of airports is for ICAO recognized airports that are located in the contiguous United States
 
 ![Notice easterly magnetic variation on isogonic line. This means that if you took off from Corpus Christi and pointed your aircraft to compass north, you would end up east of true north. CFI test supplement CT-8080-5H.](/img/test-supplement-cfi-figure-45.jpg){width=440}
 
-![Isogonic lines. PHAK Figure 8-33.](/img/phak/phak-figure-8-33-cropped-isogonic-lines.jpg){width=440}
+![Isogonic lines. [FAA-H-8083-25C Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) Figure 8-33.](/img/phak/phak-figure-8-33-cropped-isogonic-lines.jpg){width=440}
 
 ### Turn-and-Slip Indicator / Turn Coordinator
 
@@ -169,6 +178,9 @@ There seem to be other compass types, and different ways to accommodate dip erro
 
 ### Vacuum System
 
+* The vacuum system applies a vacuum to instruments that require it spin gyros, as an alternative to electrically powered gyros.
+* Attitude and heading indicators are common instruments to use vacuum driven gyros.
+
 ![C172M Vacuum system diagram. Note the heading indicator and attitude indicator are powered by the vacuum system.](/img/c172m-poh-vacuum-system.jpg){width=600}
 
 ![Typical vacuum system. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 8: Flight Instruments](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/10_phak_ch8.pdf) Figure 8-20.](/img/phak/phak-figure-8-20-typical-vacuum-system.jpg){width=600}
@@ -188,7 +200,7 @@ There seem to be other compass types, and different ways to accommodate dip erro
 
 PFDs provide increased situational awareness (SA) to the pilot by replacing the traditional six instruments used for instrument flight with an easy-to-scan display that provides the horizon, airspeed, altitude, vertical speed, trend, trim, rate of turn among other key relevant indications.
 
-![G1000 Primary Flight Display (PFD). [Cessna Support](https://support.cessna.com/docs/custsupt/GarminExpertSystem/525%20G1000/525_G1000_PFD1_LRU_Page.html).](/img/g1000-pfd.jpg){width=500}
+![G1000 Primary Flight Display (PFD). [Cessna Support](https://support.cessna.com/docs/custsupt/GarminExpertSystem/525%20G1000/525_G1000_PFD1_LRU_Page.html).](/img/g1000-pfd.jpg){width=600}
 
 ## Navigation Equipment and Their Operating Characteristics
 
@@ -216,10 +228,10 @@ See [Ground Based Navigation](/cfii/tsa/flight-instruments#ground-based-navigati
     * Runway and touchdown lights
 * Marker beacons
   * Outer Marker (OM)
-    * Indicates glideslope intercept
+    * Indicates the final approach fix (FAF) / glideslope intercept
   * Middle Marker (MM)
     * Usually 3,500 ft from landing threshold
-    * Glidepath 200 ft above touchdown zone elevation
+    * Glideslope 200 ft above touchdown zone elevation
   * Inner Marker (IM)
     * For Category II ILS
 

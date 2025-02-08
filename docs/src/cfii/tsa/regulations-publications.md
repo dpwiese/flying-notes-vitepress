@@ -4,7 +4,9 @@ This page covers *Task C. Regulations and Publications Related to IFR Operations
 
 ## 14 CFR parts 61, 71, 91, 95, and 97
 
-Heirarchy:
+Title 14 of the Code of Federal Regulations is a collection of regulatory laws that govern aeronatics and space.
+The heirarchy of Title 14 that is relevant to pilots is shown below.
+While the parts listed below are some important parts for pilots to know, there are other parts which are relevant as well.
 
 * **Title** 14: Aeronautics and Space
   * **Chapter** I: Federal Aviation Administration, Department of Transportation
@@ -128,15 +130,9 @@ Heirarchy:
 * Now the [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)
 * Updated every 56 days
 
-## Standard Instrument Departures/Terminal Arrivals
-
-<!--@include: ./docs/src/includes/departure-procedures.md | shift:2-->
-
-<!--@include: ./docs/src/includes/arrival-procedures.md | shift:2-->
-
-## En Route Charts
-
-<!--@include: ./docs/src/includes/ifr-en-route.md | shift:2-->
+<!--@include: ./docs/src/includes/departure-procedures.md | shift:1-->
+<!--@include: ./docs/src/includes/arrival-procedures.md | shift:1-->
+<!--@include: ./docs/src/includes/ifr-en-route.md | shift:1-->
 
 ## Standard Instrument Approach Procedure Charts
 

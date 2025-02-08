@@ -118,6 +118,7 @@ The airport environment has unique hazards that must be managed, including:
 #### Satellite Imagery
 
 * Whether or not there is an FAA Airport Diagram, satellite imagery is a valuable tool to use during preflight planning to help understand the airport environment at your destination.
+* [adip.faa.gov](https://adip.faa.gov/agis/public/#/simpleAirportMap/RBD) has satellite imagery with basic airport information
 
 ![Satellite view of KHEF from Google Maps.](/img/khef-taxiway-satellite-image-2.jpg){width=800}
 
@@ -376,6 +377,8 @@ Areas designed to alert pilots to potential conflicts, that have a history of or
 * Be alert if ATC states to hold short of the ILS critical area
 * Notify ATC immediately if you become disoriented
 * Use low visibility taxi charts when available
+  * See LVO/SMGCS (Low Visibility Operations / Surface Movement Guidance Control System)
+* [FAA-AC-120-57C](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_120-57C.pdf)
 
 ![Jeppesen KSEA low visibility taxi chart.](/img/jeppesen-ksea-low-vis-taxi-chart.png){width=440}
 

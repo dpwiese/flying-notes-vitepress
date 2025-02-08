@@ -1,4 +1,4 @@
-# En Route Charts Overview
+# IFR En Route Charts
 
 ![IFR chart index. [IFR Enroute Aeronautical Charts and Planning](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/ifr/)](/img/ifr-chart-index.jpg){width=600}
 
@@ -28,7 +28,7 @@
 
 ![[Aeronautical Chart Users' Guide](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/aero_guide/)](/img/ifr-low-instructions-fix-arrow.jpg){width=480}
 
-# IFR Altitudes
+## IFR Altitudes
 
 * ==**Minimum Enroute Altitude (MEA)**==
   * ==Ensures acceptable nav signal coverage and meets obstacle clearance requirements==
@@ -71,7 +71,7 @@
 
 ![[AIM Figure 5-6-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_6.html#$paragraph5-6-16) Mountainous areas.](/img/aim/aim-figure-5-6-3-mountainous-areas.jpg){width=580}
 
-# Mandatory Reporting Points
+## Mandatory Reporting Points
 
 * ==Required reports (**MARVELOUS VFR C500**)==
   * ==**M** - Missed approach==
@@ -102,7 +102,7 @@
     * *In non-radar environment*
   * ==**500** - Failure to maintain at least 500 FPM climb or descent==
 
-# Waypoints
+## Waypoints
 
 * This is applicable to other portions of IFR flight too, e.g. departure, arrival, and approach
 * Flyover vs. flyby waypoints

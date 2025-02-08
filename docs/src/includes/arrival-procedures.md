@@ -1,11 +1,11 @@
-# Arrival Procedures Overview
+# Arrival Procedures
 
 * Arrival procedures transition the instrument pilot from the en route structure to a fix in the terminal area from which an instrument approach can be conducted
 * [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
   * Chapter 10: IFR Flight
     * Page 10-9: Standard Terminal Arrival Routes (STARs)
 
-# Standard Terminal Arrival (STAR)
+## Standard Terminal Arrival (STAR)
 
 * "Fly" vs. "Descend via" the arrival
 * [FAA Climb Via/Descend Via Speed Clearances Frequently Asked Questions](https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/avs/Climb_Descend_Via_FAQ.pdf)
@@ -21,7 +21,7 @@
 
 ![Digital Terminal Procedures: STAR legend](/img/tpp/dtpp-star-legend.jpg){width=600}
 
-# Terminal Arrival Areas (TAA)
+## Terminal Arrival Areas (TAA)
 
 * [AIM 5-4-5(d)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html#$paragraph5-4-5)
 * The TAA provides a transition from the en route structure to the terminal environment with little required pilot/air traffic control interface for aircraft equipped with Area Navigation (RNAV) systems.

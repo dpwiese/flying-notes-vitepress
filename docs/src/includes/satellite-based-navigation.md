@@ -1,16 +1,16 @@
 # Satellite Based Navigation
 
-* As the title implies, satellite based navigation uses signals from satellite to determine location
-* These satellites are placed in a medium-Earth orbit
-* There are four constellations of such satellites operated by various bodies around the workd
+::: warning Global Navigation Satellite System (GNSS)
+The generic term for satellite based navigation systems used around the world.
+:::
+
+* As the title implies, satellite based navigation uses signals from satellites to determine location.
+* These satellites are placed in a medium-Earth orbit.
+* There are four constellations of such satellites operated by various bodies around the world:
   * GPS - United States
   * GLONASS - Russia
   * Galileo - EU
   * BeiDou (BDS) - China
-
-::: warning Global Navigation Satellite System (GNSS)
-The generic term for satellite based navigation systems used around the world.
-:::
 
 ::: warning Global Positioning System (GPS)
 The particular GNSS system used in the United States.
@@ -20,14 +20,13 @@ The particular GNSS system used in the United States.
 
 ## A History of Area Navigation (RNAV)
 
-* GPS systems provide a capability called Area Navigation (RNAV) which, unlike using a traditional VOR receiver which only allows flying toward or away from the ground station, allows the navigation between arbitrary points.
-* As GPS is overwhelmingly the means by which RNAV is possible these terms are often conflated.
-* It is important to remember that they are distinct concepts, and while GPS can provide RNAV capability, RNAV systems did exist prior to GPS.
-
 ::: warning [Area Navigation (RNAV)](https://www.ecfr.gov/current/title-14/part-1#p-1.1(Area%20navigation%20(RNAV)))
 A method of navigation that permits aircraft operations on any desired flight path.
 :::
 
+* GPS systems provide a capability called Area Navigation (RNAV) which, unlike using a traditional VOR receiver which only allows flying toward or away from the ground station, allows the navigation between arbitrary points.
+* As GPS is overwhelmingly the means by which modern RNAV is possible these terms are often conflated.
+* It is important to remember that they are distinct concepts, and while GPS can provide RNAV capability, RNAV systems did exist prior to GPS.
 * Methods of area navigation that predate GPS include
   * Visual reference (e.g. stars)
   * Inertial Navigation Systems (INS)
@@ -51,6 +50,8 @@ A method of navigation that permits aircraft operations on any desired flight pa
 
 ![KTTN COPTER LORAN RNAV RWY 16. This is an experimental COPTER approach based on LORAN.](/img/iap/kttn-copter-loran-c-rnav-rwy-16.png){width=500}
 
+* With a little bit of background on legacy RNAV systems, we can now focus on GPS.
+
 ## GPS Satellites
 
 * The GPS constellation currently consists of 31 operational satellites
@@ -71,23 +72,60 @@ A method of navigation that permits aircraft operations on any desired flight pa
 
 ![Garmin G1000 (GIA63) TSO-129 (non-WAAS) system GPS specifications. Garmin G1000 Pilot’s Guide for Cessna Nav III (190-00498-00 Rev. A)](/img/g1000-gia63-gps-specs.png){width=300}
 
+## GPS Database
+
 * GPS databases are updated every 28 days
   * Usually every 4th Thursday of the month
   * Pilots can update GPS database if they can do it from instrument panel without special tools or disassembly of the unit
   * Take the SD card out and update it
 
+## Performance Based Navigation (PBN)
+
+::: warning [Performance Based Navigation](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/pbn)
+Performance Based Navigation (PBN) is comprised of Area Navigation (RNAV) and Required Navigation Performance (RNP) and describes an aircraft's capability to navigate using performance standards.
+:::
+
+* [AIM 1-2-1](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html#$paragraph1-2-1) says:
+
+  > PBN exists under the umbrella of area navigation (RNAV). The term RNAV in this context, as in procedure titles, just means “area navigation,” regardless of the equipment capability of the aircraft.
+
+* This can be confusing given the difference between RNAV as a _concept_ (area navigation) and RNAV as a navigation _specification_ similar to RNP.
+* PBN defines a set of _standards_ and doesn't depend on a particular technology.
+* Therefore, procedures can be defined that depend on these standards and can be used without being changed as new technology is developed.
+* RTCA DO-229 defines these standards.
+* These standards, refered to as NavSpecs apply to both aircraft and aircrew.
+* It also doesn't help that ICAO and the FAA differ somewhat in their use of terminology.
+* [AIM 1-2-2(a)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html#$paragraph1-2-2):
+
+  > NavSpecs should be considered different from one another, not “better” or “worse” based on the described lateral navigation accuracy.
+
+  > As a safeguard, the FAA requires that aircraft navigation databases hold only those procedures that the aircraft maintains eligibility for. If you look for a specific instrument procedure in your aircraft's navigation database and cannot find it, it's likely that procedure contains PBN elements your aircraft is ineligible for or cannot compute and fly. Further, optional capabilities such as Radius-to-fix (RF) turns or scalability should be described in the AFM or avionics documents. Use the capabilities of your avionics suite to verify the appropriate waypoint and track data after loading the procedure from your database.
+
+<!--
+RTCA DO-229D, Section 2.2.5.2.4 Selection of the Approach Type:
+The automatically-selected approach type shall be the most accurate approach where the alert limits) are predicted to be supported, and where a minimum is published for the selected procedure.
+The order of precedence is LPV or LP, LNAV/VNAV, then LNAV.
+If LPV or LP is both published and predicted to be available, the equipment shall indicate that it is available.
+If LPV or LP is published and is not predicted to be available, the equipment shall indicate that it is not available and shall indicate the approach type that is available (e.g. "LPV not available - Use LNAV/VNAV minima").
+A prediction for Approach (LNAV) is not necessary.
+Once annunciated, the equipment shall not change from Approach (LPV) to Approach (LNAV/VNAV) or from Approach (LP) to Approach (LNAV) unless the approach is reselected or the pilot selects a different approach type.
+-->
+
 ## Required Navigation Performance (RNP)
 
-* RNP is a specification under Performance Based Navigation (PBN)
-* PBN describes an aircraft's capability to navigate using performance standards
-* ==RNP Requires==
-  * ==A specified accuracy be met 95% of the time==
-  * ==Onboard performance monitoring and alerting==
-* Three standard RNP levels, where the value is nautical miles each side of centerline
+* RNP is a navigation specification under Performance Based Navigation (PBN)
+* Three standard RNP levels, where the value is nautical miles each side of centerline that must be maintained for aircraft and obstacle clearance
   * RNP 0.3 – Approach
   * RNP 1.0 – Departure, Terminal
   * RNP 2.0 – En route
 * The performance requirements of PBN are conveyed to the operators through navigation specifications, or NavSpecs.
+* The values listed above are the lateral limits, in nautical miles, of the errors within which the system must remain 95% of the time
+
+::: info NOTE
+RNP Requires
+  * A specified accuracy be met 95% of the time
+  * Onboard performance monitoring and alerting
+:::
 
 ### Aircraft Equipment Requirements
 
@@ -268,8 +306,17 @@ Satellite Based Augmentation System (SBAS) augments GNSS with additional ground 
 Wide-Area Augmentation System (WAAS) is the US implementation of SBAS.
 :::
 
+* Other SBAS implementations include
+  * EGNOS - Europe
+  * MSAS - Japan
+  * SDCM - Russia
+  * GAGAN - India
 * WAAS accuracy is at a minimum of approximately 25 ft 95% of the time.
 * ***Enables certain GPS approaches to be performed to lower minimums than otherwise allowed with a non-WAAS GPS (e.g. LPV)***
+* WAAS works by using ground stations at known locations to determine their GPS-measured location
+* Based on the difference between their _known location_ and _measured location_ a correction message is sent up to some WAAS satellites in geostationary orbit
+* These corrections are then sent from the WAAS satellites to WAAS-capable GPS receivers
+  * There are currently 3 such WAAS satellites
 * If WAAS is working then do not need to be concerned with RAIM
   * [AIM 5-1-16(f)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_1.html#Vc6MC1203sher)
 

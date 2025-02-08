@@ -35,38 +35,59 @@
   * Check the morse code audio
   * Ensure the avionics displays the VOR identifier
 * VOR is line-of-sight transmission
-* **VOR Service Volumes**
-  * Three classes of VOR / VORTAC that define service volume:
-      1. T (Terminal)
-      2. L (Low altitude)
-      3. H (High altitude)
 
-    > 1-1-8. NAVAID SERVICE VOLUMES  
-    > a. Most air navigation radio aids which provide positive course guidance have a designated standard service volume (SSV).
+## VOR Service Volumes
 
-  * To find the service volume class of a given VOR
-    * Can find the service volume in the [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/).
-      * For example see `BOSTON (H) VOR/DME` indicating it is a high class `(H)`
-    * See also: [Aviation StackExchange How do you know if a VOR is High, Low, or Terminal?](https://aviation.stackexchange.com/questions/26030/how-do-you-know-if-a-vor-is-high-low-or-terminal)
-    * Can also check low and high altitude IFR charts to see which appear on each.
-      * Here it is implicit, but Low Class `(L)` VORs will not appear on the IFR High Chart as their service volume tops out at 18,000 ft. AGL, and IFR charts are for use at or above 18,000 ft. MSL.
-      * Note the difference between AGL and MSL. I don't know at what altitude the IFR high charts top out at, but there are Maximum Authorized Altitudes (MAA) so conceivably a Low Class `(L)` VOR located at 10,000 ft. MSL, for example, would provide 40 nm radius of service up to 28,000 ft. MSL and be used on a high chart.
-      * In any case, following what is on the IFR charts for VOR navigation ensures a pilot need not worry too much about the various service volumes.
+* Three classes of VOR / VORTAC that define service volume:
+    1. T (Terminal)
+    2. L (Low altitude)
+    3. H (High altitude)
 
-![VOR service volumes. [FAA-CT-8080-3F Airman Knowledge Testing Supplement for Instrument Rating](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/supplements/instrument_rating_akts.pdf)](/img/faa-ct-8080-3f-legend-37-vor-service-volumes.jpg){width=800}
+> 1-1-8. NAVAID SERVICE VOLUMES  
+> a. Most air navigation radio aids which provide positive course guidance have a designated standard service volume (SSV).
 
-![KBED chart supplement page showing LWM low class VOR/DME and BOS high class VOR/DME.](/img/chart_supplement_vor_ssv.png){width=800}
+* To find the service volume class of a given VOR
+  * Can find the service volume in the [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/).
+    * For example see `BOSTON (H) VOR/DME` indicating it is a high class `(H)`
+  * See also: [Aviation StackExchange How do you know if a VOR is High, Low, or Terminal?](https://aviation.stackexchange.com/questions/26030/how-do-you-know-if-a-vor-is-high-low-or-terminal)
+  * Can also check low and high altitude IFR charts to see which appear on each.
+    * Here it is implicit, but Low Class `(L)` VORs will not appear on the IFR High Chart as their service volume tops out at 18,000 ft. AGL, and IFR charts are for use at or above 18,000 ft. MSL.
+    * Note the difference between AGL and MSL. I don't know at what altitude the IFR high charts top out at, but there are Maximum Authorized Altitudes (MAA) so conceivably a Low Class `(L)` VOR located at 10,000 ft. MSL, for example, would provide 40 nm radius of service up to 28,000 ft. MSL and be used on a high chart.
+    * In any case, following what is on the IFR charts for VOR navigation ensures a pilot need not worry too much about the various service volumes.
 
-* **VOR Checks**
-  * Recall from AVIATE acronym, VOR needs to be checked *every 30 days for IFR*
-    * [14 CFR &sect;91.171(a)(2)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.171)
-  * For methods of checking the VOR
-    * VOT: +/- 4 deg
-    * Ground checkpoint: +/- 4 deg
-    * Airborne checkpoint: +/- 6 deg
-    * Dual check: within 4 deg
-  * Can find VOT facilities in chart supplement
-  * VOR accuracy requirements are given in [14 CFR &sect;91.171(b), (c)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.171)
+![VOR service volumes. [FAA-CT-8080-3F Airman Knowledge Testing Supplement for Instrument Rating](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/supplements/instrument_rating_akts.pdf)](/img/faa-ct-8080-3f-legend-37-vor-service-volumes.jpg){width=540}
+
+![KBED chart supplement page showing LWM low class VOR/DME and BOS high class VOR/DME.](/img/chart_supplement_vor_ssv.png){width=540}
+
+![[AIM Figure 1-1-1](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard high altitude service volume.](/img/vor_high_volume.jpg){width=340}
+
+![[AIM Figure 1-1-2](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard low altitude service volume.](/img/vor_low_volume.jpg){width=340}
+
+![[AIM Figure 1-1-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard terminal service volume.](/img/vor_terminal_volume.png){width=340}
+
+![ASA Instrument Test Prep Figure 4-1 VOR service volumes](/img/asa-2022-instrument-test-prep-figure-4-1-vor-ssv.png){width=800}
+
+![Different edition [AIM Figure 1-1-1](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) all VOR service volumes.](/img/new-aim-figure-1-1-1-all-vor-service-volumes.jpg){width=600}
+
+## VOR Checks
+
+* Recall from AVIATE acronym, VOR needs to be checked *every 30 days for IFR*
+  * [14 CFR &sect;91.171(a)(2)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.171)
+* For methods of checking the VOR
+  * VOT: +/- 4 deg
+  * Ground checkpoint: +/- 4 deg
+  * Airborne checkpoint: +/- 6 deg
+  * Dual check: within 4 deg
+* Can find VOT facilities in chart supplement
+* VOR accuracy requirements are given in [14 CFR &sect;91.171(b), (c)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.171)
+
+### VOT Check
+
+* A VOT is a facility located at certain airports that emits a signal that can be used to test a plane's VOR receiver
+* The VOT signals are generally designed to be used while on the ground, but some are designated as usable in air, with certain restrictions
+* This information can be found in the chart supplement
+
+![VOR test facilities in chart supplement (south central U.S.)](/img/chart-supplement-vot-facilities.png){width=600}
 
 ## Distance Measuring Equipment (DME)
 
@@ -129,56 +150,3 @@
 ![DCA VOR/DME from chart supplement.](/img/dca-vor-dme-chart-supplement.jpg){width=340}
 
 ![Sectional chart legend - different VOR facilities.](/img/section-legend-vors.jpg){width=400}
-
-## VOR Service Volumes
-
-* Three classes of VOR / VORTAC that define service volume:
-    1. T (Terminal)
-    2. L (Low altitude)
-    3. H (High altitude)
-
-> 1-1-8. NAVAID SERVICE VOLUMES  
-> a. Most air navigation radio aids which provide positive course guidance have a designated standard service volume (SSV).
-
-* To find the service volume class of a given VOR
-  * Can find the service volume in the [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/).
-    * For example see `BOSTON (H) VOR/DME` indicating it is a high class `(H)`
-  * See also: [Aviation StackExchange How do you know if a VOR is High, Low, or Terminal?](https://aviation.stackexchange.com/questions/26030/how-do-you-know-if-a-vor-is-high-low-or-terminal)
-  * Can also check low and high altitude IFR charts to see which appear on each.
-    * Here it is implicit, but Low Class `(L)` VORs will not appear on the IFR High Chart as their service volume tops out at 18,000 ft. AGL, and IFR charts are for use at or above 18,000 ft. MSL.
-    * Note the difference between AGL and MSL. I don't know at what altitude the IFR high charts top out at, but there are Maximum Authorized Altitudes (MAA) so conceivably a Low Class `(L)` VOR located at 10,000 ft. MSL, for example, would provide 40 nm radius of service up to 28,000 ft. MSL and be used on a high chart.
-    * In any case, following what is on the IFR charts for VOR navigation ensures a pilot need not worry too much about the various service volumes.
-
-![VOR service volumes. [FAA-CT-8080-3F Airman Knowledge Testing Supplement for Instrument Rating](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/supplements/instrument_rating_akts.pdf)](/img/faa-ct-8080-3f-legend-37-vor-service-volumes.jpg){width=540}
-
-![KBED chart supplement page showing LWM low class VOR/DME and BOS high class VOR/DME.](/img/chart_supplement_vor_ssv.png){width=540}
-
-![[AIM Figure 1-1-1](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard high altitude service volume.](/img/vor_high_volume.jpg){width=340}
-
-![[AIM Figure 1-1-2](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard low altitude service volume.](/img/vor_low_volume.jpg){width=340}
-
-![[AIM Figure 1-1-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard terminal service volume.](/img/vor_terminal_volume.png){width=340}
-
-![ASA Instrument Test Prep Figure 4-1 VOR service volumes](/img/asa-2022-instrument-test-prep-figure-4-1-vor-ssv.png){width=800}
-
-![Different edition [AIM Figure 1-1-1](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) all VOR service volumes.](/img/new-aim-figure-1-1-1-all-vor-service-volumes.jpg){width=600}
-
-## VOR Checks
-
-* Recall from AVIATE acronym, VOR needs to be checked *every 30 days for IFR*
-  * [14 CFR &sect;91.171(a)(2)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.171)
-* For methods of checking the VOR
-  * VOT: +/- 4 deg
-  * Ground checkpoint: +/- 4 deg
-  * Airborne checkpoint: +/- 6 deg
-  * Dual check: within 4 deg
-* Can find VOT facilities in chart supplement
-* VOR accuracy requirements are given in [14 CFR &sect;91.171(b), (c)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.171)
-
-### VOT Check
-
-* A VOT is a facility located at certain airports that emits a signal that can be used to test a plane's VOR receiver
-* The VOT signals are generally designed to be used while on the ground, but some are designated as usable in air, with certain restrictions
-* This information can be found in the chart supplement
-
-![VOR test facilities in chart supplement (south central U.S.)](/img/chart-supplement-vot-facilities.png){width=600}
