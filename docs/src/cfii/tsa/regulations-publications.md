@@ -72,18 +72,7 @@ While the parts listed below are some important parts for pilots to know, there 
     * **I** - Intercepting and
     * **T** - Tracking courses through the use of navigational electronic systems
 
-### Logging Instrument Time
-
-* Logging instrument time
-  * [14 CFR 61.51(g)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.51#p-61.51(g))
-  * CFII must log PIC when student is under foggles
-    * CFII is required crewmember
-  * CFII can log time in IMC as instrument time
-  * CFII logs any time they are giving instruction as PIC
-* Safety pilot
-  * Needs to be rated in same *category* and *class*
-* Instrument Proficiency Check
-  * See [Required Logbook Endorsement for Satisfactory Completion of an IPC](#ipc-required-logbook-endorsement) below
+<!--@include: ./docs/src/includes/logging-instrument.md | shift:2-->
 
 ### Required Equipment
 
