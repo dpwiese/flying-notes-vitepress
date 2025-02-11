@@ -241,6 +241,8 @@ See [Ground Based Navigation](/cfii/tsa/flight-instruments#ground-based-navigati
 
 ![Localizer coverage limits. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 9: Navigation Systems Figure 9-34.](/img/ifh/ifh-figure-9-34-localizer-coverage.png){width=600}
 
+![Glideslope antenna at KRBD.](/img/glideslope-antenna.jpeg){width=600}
+
 * **What are the dimensions of an ILS?**
   * Localizer: Usually 5&#176; total width, with the width at the threshold being 700 feet.
   * Glideslope: Usually a 3&#176; slope, with 1.4&#176; total width.

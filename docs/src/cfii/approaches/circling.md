@@ -2,8 +2,12 @@
 
 This page covers *Task D. Circling Approach* from the [FAA-S-8081-9E Flight Instructor Instrument Practical Test Standards](https://www.faa.gov/training_testing/testing/acs/cfi_instrument_pts_9.pdf).
 
-* ==Approaches whose final approach segment is more than 30 degrees different from the landing runway alignment are always designated as circling approaches==
+* ==Approaches whose final approach segment is more than 30 degrees different from the landing runway alignment are designated as circling approaches==
+  * There are some exceptions to this with LDA (and perhaps other) approaches
+  * `PHNL LDA RWY 26L`, `KDCA LDA Y RWY 19`, `KDCA LDA Z RWY 19`
+  * The reason is probably described in [FAA Order 8260.3G](https://www.faa.gov/documentLibrary/media/Order/Order_8260.3G.pdf)
 * *==Circling approaches may also be designated when the descent gradient is greater than 400 ft/NM from the FAF to the threshold crossing height (TCH) or there is no runway clearly identified on the field==*
+  * 400 ft/nm approximates a 3.77&#176; descent angle
 * Unless a specific landing runway is specified in the approach clearance, the pilot may land on any runway
 
 ## Purpose

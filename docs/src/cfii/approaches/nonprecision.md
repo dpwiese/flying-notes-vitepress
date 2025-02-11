@@ -17,8 +17,11 @@ This page covers *Task A. Nonprecision Instrument Approach (NPA)* from the [FAA-
 * **NDB**
   * Need to have working ADF onboard unless the approach has a GPS overlay `NDB OR GPS`
 * **LDA**
-  * Like a localizer, but there is more than a 3&#176; deviation from runway heading
+  * Like a localizer, but there is more than a 3&#176; deviation in its alignment with runway heading
+    * [FAA Order 8260.3G](https://www.faa.gov/documentLibrary/media/Order/Order_8260.3G.pdf) 8-1-2(b)
+  * This offset is noted on the approach chart either in the localizer box, or near it as a note
   * May or may not have a glide slope
+  * When it has a glideslope it is an APV procedure
 * **SDF**
   * Basically extinct
   * Poor man's localizer
