@@ -13,7 +13,7 @@ To develop ability to fly level turns under instrument conditions, both with ful
   * Keep pitch dot on horizon
 * Roll out 5&#176; before desired heading
   * Heading bug is 10&#176; wide - edge of heading bug is 5&#176;
-* **==Primary and supporting instruments for turning flight==**
+* **Primary and supporting instruments for turning flight**
   * **Primary**
     * Altitude
       * Altimeter

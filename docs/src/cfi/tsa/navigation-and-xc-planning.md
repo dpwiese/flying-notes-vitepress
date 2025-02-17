@@ -62,11 +62,11 @@ This page covers *Task I. Navigation and Cross-Country Flight Planning* from the
   * AGL height
   * Given by subtracting height of terrain from true altitude
 * **Pressure altitude**
-  * Altitude corrected for nonstandard pressure
+  * Height above 29.92 inHg standard datum plane (SDP)
+  * The standard datum plane is the theoretical where atmospheric pressure is 29.92 inHg
   * ==What altimeter reads when setting altimeter to 29.92 inHg==
-  * Height above 29.92 inHg pressure datum
 * **Density altitude**
-  * Altitude corrected for nonstandard pressure and temperature, or equivalently pressure altitude corrected for temperature
+  * Pressure altitude corrected for nonstandard temperature
   * Vertical distance above sea level in the standard atmosphere at which a given density is to be found.
 
 ### Airspeed

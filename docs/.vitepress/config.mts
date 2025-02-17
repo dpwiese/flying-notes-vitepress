@@ -217,7 +217,8 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Straight-and-Level', link: '/cfii/instrument-flight/straight-and-level' },
-            { text: 'Turns', link: '/cfii/instrument-flight/turns' }
+            { text: 'Turns', link: '/cfii/instrument-flight/turns' },
+            { text: 'Timed and Compass Turns', link: '/cfii/instrument-flight/timed-and-compass-turns' }
           ]
         },
         {

@@ -200,7 +200,7 @@ RNP Requires
 * T Routes: from 18,000 up to FL450
 * GPS MEA, e.g. `2900G`
 * Airway width is 4 nm on each side of centerline
-  * * [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook) [Chapter 2: En Route Operations](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_2.pdf)
+  * [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook) [Chapter 2: En Route Operations](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_2.pdf)
 * Jet routes
   * Start with letter J
   * From 18,000 up to FL450
@@ -311,7 +311,7 @@ Wide-Area Augmentation System (WAAS) is the US implementation of SBAS.
   * MSAS - Japan
   * SDCM - Russia
   * GAGAN - India
-* WAAS accuracy is at a minimum of approximately 25 ft 95% of the time.
+* WAAS accuracy can achieve position accuracy of approximately 25 ft 95% of the time.
 * ***Enables certain GPS approaches to be performed to lower minimums than otherwise allowed with a non-WAAS GPS (e.g. LPV)***
 * WAAS works by using ground stations at known locations to determine their GPS-measured location
 * Based on the difference between their _known location_ and _measured location_ a correction message is sent up to some WAAS satellites in geostationary orbit
@@ -322,6 +322,15 @@ Wide-Area Augmentation System (WAAS) is the US implementation of SBAS.
 
     > If TSO-C145/C146 equipment is used to satisfy the RNAV and RNP requirement, the pilot/operator need not perform the prediction if WAAS coverage is confirmed to be available along the entire route of flight.
 
+  * In the Piper Archer POH (VB-2749) page 2-8:
+
+    > In areas where GPS WAAS SBAS coverage is not available, the pilot must verify RAIM availability.
+
+  * Regarding checking WAAS in the Piper Archer POH (VB-2749) page 2-8:
+
+    > For information on using the WFDE Prediction Program, refer to Garmin WAAS FDE Prediction Program, part number 190-00643, 'WFDE Prediction Program Instructions'.
+
+  * See [fly.garmin.com/fly-garmin/support/raim](https://fly.garmin.com/fly-garmin/support/raim/)
 * May be used as primary source of navigation without any other equipment requirements imposed on the aircraft
   * [AIM 1-1-18(c)(9)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#$paragraph1-1-18)
 

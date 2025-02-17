@@ -6,17 +6,9 @@ This page covers *Task A. Intercepting and Tracking Navigational Systems and DME
 
 Use ground-based navigation systems to perform en-route navigation, and perform proper procedure to fly a DME arc.
 
-## Elements
+![Instrument approach at which includes a DME arc: KACT VOR RWY 14.](/img/iap/kact-vor-rwy-14.png){width=600}
 
-* Normal VOR is 10&#176; full-scale deflection from center to either side
-* ==Cardinal rule: always want FROM indication unless flying directly TO the station==
-  * Want OBS in agreement with heading
-* If plane has HSI, keep the top of CDI needle on the lubber line to intercept
-* On planes without HSI
-  * Full needle deflection use 45&#176; intercept angle
-  * Partial needle deflection use 30&#176; intercept angle
-
-### DME Arcs
+## Introduction
 
 * A series of straight lines to approximate a circle
 * Begin turn to join 0.7 nm prior to desired DME distance
@@ -25,9 +17,11 @@ Use ground-based navigation systems to perform en-route navigation, and perform 
   * Repeat until crossing the lead radial
   * If no lead radial, begin turn to exit arc 5&#176; prior to desired radial
 
-![DME Arcs. Aviation Adventures instrument procedures.](/img/avad-dme-arcs.jpg){width=440}
+![DME arc flown in N583CA. Flying inbound on the 320 radial, arcing right (clockwise) to the 050 radial and flying inbound.](/img/dme-arc.jpg){width=800}
 
-#### On 20&#176; Turns
+### On 20&#176; Turns
+
+![DME Arcs. Aviation Adventures instrument procedures.](/img/avad-dme-arcs.jpg){width=440}
 
 ![DME Arcs radius limits. [FAA Order 8260.3G](https://www.faa.gov/documentLibrary/media/Order/Order_8260.3G.pdf)](/img/order-8260-3g-pg-66-dme-arcs.png){width=640}
 
@@ -57,6 +51,15 @@ Use ground-based navigation systems to perform en-route navigation, and perform 
 | KCVO ILS/LOC 17   | 13.2 nm  |
 | KWRI VOR 18       | 11 nm    |
 | KACT VOR 14       | 10 nm    |
+
+## Elements
+
+* Normal VOR is 10&#176; full-scale deflection from center to either side
+* When setting course using OBS, it should match the intended course to be flown rather than the reciprocal
+* If plane has HSI, keep the top of CDI needle on the lubber line to intercept
+* On planes without HSI
+  * Full needle deflection use 45&#176; intercept angle
+  * Partial needle deflection use 30&#176; intercept angle
 
 ## Completion Standards
 

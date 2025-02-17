@@ -10,13 +10,11 @@ Uses a navigation system that provides lateral *and vertical* course guidance.
 
 ## Types of Precision Approaches (PA)
 
-* **==Instrument Landing System (ILS)==**
+* **Instrument Landing System (ILS)**
   * The "standard" precision approach
   * Has localizer for lateral guidance and glideslope for vertical guidance
   * Requires equipment installed at the airport
-* **==Precision Approach Radar (PAR)==**
-  * Dedicated radar site with two dishes, one horizontal and one vertical
-* **==Localizer Performance with Vertical guidance (LPV)==**
+* **Localizer Performance with Vertical guidance (LPV)**
   * Is technically *not* a precision approach but rather an approach with vertical guidance (APV)
   * For our purposes these are flown just like precision approaches, but just have a different name
   * Are not precision approaches because they don't meet ICAO standards (Annex 10)
@@ -25,8 +23,8 @@ Uses a navigation system that provides lateral *and vertical* course guidance.
   * Requires WAAS-GPS
   * `LPV` on GPS display
   * See overview section on GPS Approaches
-
-![Quantico PAR](/img/knyg-par.png){width=540}
+* **Precision Approach Radar (PAR)**
+  * Dedicated radar site with two dishes, one horizontal and one vertical
 
 ## Chart Review
 
@@ -105,6 +103,12 @@ Uses a navigation system that provides lateral *and vertical* course guidance.
   * Landing light on
 * If criteria not met at Decision Altitude (DA)
   * Execute missed approach
+
+## Precision Approach Radar
+
+![Fort Worth Naval Air Station Joint Reserve Base radar approach minimums. The No-NOTAM MP: 1230-1530Z++ indicates planned maintanence during the time listed, where the conversion to local time is affected by daylight savings.](/img/tpp/dtpp-knfw-radar-mins.png){width=540}
+
+![Quantico PAR.](/img/tpp/dtpp-knyg-par.png){width=540}
 
 ## Common Errors
 
