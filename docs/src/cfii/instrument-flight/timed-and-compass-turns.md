@@ -1,9 +1,12 @@
 # Timed and Compass Turns
 
+This page covers *Task F. Timed Turns to Magnetic Compass Headings* from the [FAA-S-8081-9E Flight Instructor Instrument Practical Test Standards](https://www.faa.gov/training_testing/testing/acs/cfi_instrument_pts_9.pdf) with additional material on compass turns.
+
 ## Purpose
 
-* Attempting to use the compass like a heading indicator and rolling out upon reaching the desired heading (as indicated by the compass) can result in large heading errors.
-  * This is due to errors associated with the compass
+* The backup source of heading information in many aircraft is a magnetic compass.
+* Attempting to use the compass like a heading indicator (rolling out upon reaching the desired heading as indicated by the compass) can result in large heading errors upon completion of the roll out.
+  * This is due to errors associated with the compass.
 * Therefore alternative techniques to be able to use the compass to accurately are required
 
 ## Elements
@@ -15,9 +18,15 @@ Timed and compass turns are two different techniques that exist to enable accura
 * A magnetic compass provides an accurate heading reference during straight and level flight but it does not accurately indicate the aircraft's heading during turns
 * Timed turns used for turns of less than 60&#176;
 * Compass turns used for turns of more than 60&#176;
+
+### Timed Turns
+
 * "Times 3 minus 3"
   * Take the leading digit of the heading change, multiply it by 3 and sutract 3 to get the number of seconds to hold the 15&#176; bank turn
   * For example, to turn 30&#176; (3&times;3=9, 9&minus;3=6) roll into a 15&#176; degree turn and hold for 6 seconds then roll out
+
+### Compass Turns
+
 * For compass turns, the lead/lag depends on the latitude
   * Using 30&#176; for the US works well enough
   * Including the standard roll-out lead when turning results in the table seen in the Aviation Adventures procedures guide
@@ -34,3 +43,12 @@ Timed and compass turns are two different techniques that exist to enable accura
 
 * For example, if you are flying east and are making a turn to north, roll out when the compass indicates 35&#176; *before* the desired heading, or in this example when the compass reads 35&#176;.
 * If you are are flying east and making a turn to south, roll out when the compass indicates 25&#176; *after* the desired heading, or in this example when the compass reads 205&#176;.
+
+## Common Errors
+
+## References
+
+* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
+  * Chapter 7: Airplane Basic Flight Maneuvers
+    * Page 7-21: Timed Turns
+    * Page 7-21: Compass Turns

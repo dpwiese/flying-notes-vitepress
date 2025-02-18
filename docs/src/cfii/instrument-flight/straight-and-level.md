@@ -13,10 +13,10 @@ To develop ability to fly straight-and-level under instrument conditions, both w
     * Aircraft performance is accomplished by controlling the aircraft attitude and power output
     * Instruments broken up into control, performance, and navigation
     * ==Set the power and attitude, then monitor the performance and make adjustments==
-  * **==Primary and Supporting Method==**
+  * **Primary and Supporting Method**
     * ==Focuses more on the instruments that depict the most accurate indication for the aspect of the aircraft attitude being controlled==
     * All changes to aircraft attitude need to be made using the attitude indicator and the power instruments
-* **==Primary and supporting instruments for straight-and-level flight==**
+* **Primary and supporting instruments for straight-and-level flight**
   * **Primary**
     * Altitude
       * Altimeter
