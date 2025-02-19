@@ -6,7 +6,7 @@ This page covers *Task A. Straight-and-Level Flight* from the [FAA-S-8081-9E Fli
 
 To develop ability to fly straight-and-level under instrument conditions, both with full and partial panel.
 
-<!--@include: ./docs/src/includes/instrument-flight.md | shift:1-->
+<!--@include: ./docs/src/includes/instrument-flight/instrument-flight.md | shift:1-->
 
 ## Completion Standards
 

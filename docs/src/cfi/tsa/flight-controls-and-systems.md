@@ -20,7 +20,7 @@ This page covers *Task E. Aircraft Flight Controls and Operation of Systems* fro
 
 ## Electrical
 
-<!--@include: ./docs/src/includes/systems/electrical-system.md-->
+<!--@include: ./docs/src/includes/systems/electrical.md-->
 
 ## Avionics
 

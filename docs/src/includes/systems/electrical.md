@@ -1,3 +1,5 @@
+# Electrical System
+
 * Most planes 14 or 28 volt (DC) systems
 * Alternator or generator supplies power
   * Alternator provides more power than a generator at a lower RPM
