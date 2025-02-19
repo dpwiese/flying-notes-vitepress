@@ -31,7 +31,7 @@
 
 ![Pitot static system failure modes and instrument indications.](/img/broken-pitot-static-instruments-table.png){width=440}
 
-# Aside: Static Pressure
+## Static Pressure
 
 For an incompressible fluid the **hydrostatic pressure** is given by the following, where $p_{0}$ indicates some reference pressure at position $z_{0}$ and $z$ actual position ($z$ is positive in the upwards direction).
 
@@ -56,7 +56,7 @@ Similarly, for two different pressure gradients at the same pressure $p$ the one
 
 TODO@dpwiese - insert picture showing these pressure gradients
 
-# Aside: Gyroscopic Principles
+## Gyroscopic Principles
 
 * Principles
   * Rigidity in space

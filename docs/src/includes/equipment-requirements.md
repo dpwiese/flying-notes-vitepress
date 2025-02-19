@@ -2,7 +2,7 @@
 
 * [14 CFR &sect;91.205 - Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.205)
 
-# Basic Equipment Requirements: Day VFR
+## Day VFR
 
 * [14 CFR &sect;91.205(b)](https://www.ecfr.gov/current/title-14/part-91/section-91.205#p-91.205(b))
 * ==**A-TOMATO FLAMES**==
@@ -30,7 +30,7 @@
 * Note: Transponder required above 10,000 MSL, unless witihin 2,500 AGL. Also in A, above B mode-C veil, and in C airspace.
   * See: [14 CFR &sect;91.215(b)(5)(i)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.215)
 
-# Basic Equipment Requirements: Night VFR
+## Night VFR
 
 * [14 CFR &sect;91.205(c)](https://www.ecfr.gov/current/title-14/part-91/section-91.205#p-91.205(c))
 * ==**FLAPS** *(In addition to day VFR)*==
@@ -42,7 +42,7 @@
     * Nav lights
   * ==**S** - source of power==
 
-# Basic Equipment Requirements: IFR
+## IFR
 
 * [14 CFR &sect;91.205(d)](https://www.ecfr.gov/current/title-14/part-91/section-91.205#p-91.205(d))
 * ==**GRABCARDD**==

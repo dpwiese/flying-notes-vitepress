@@ -751,7 +751,7 @@ See [FAA-AC-61-65H - Certification: Pilots and Flight and Ground Instructors](ht
 
 * **What certificates and documents must you carry as a flight instructor in flight?**
 
-<!--@include: ./docs/src/includes/required-documents-ppm.md-->
+<!--@include: ./docs/src/includes/required-documents-ppm.md | shift:3-->
 
 * **What class medical certificate must you have to provide flight instruction? Do you always need to have a medical certificate to instruct?**
     * ==None if not acting as PIC or required crewmember and the other pilot can act as PIC==

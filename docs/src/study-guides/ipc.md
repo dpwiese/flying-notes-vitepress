@@ -45,7 +45,7 @@
 * Be able to use POH to determine aircraft performance given the forecast conditions
 * Use calculated performance in ADM
 
-<!--@include: ./docs/src/includes/ifr-alternates.md-->
+<!--@include: ./docs/src/includes/ifr-alternates.md | shift:3-->
 
 ### Risk Management and Personal Minimums
 

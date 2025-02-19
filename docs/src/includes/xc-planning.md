@@ -143,40 +143,7 @@ See [Satellite Based Navigation](/cfii/tsa/flight-instruments#satellite-based-na
 * Reduces stall angle-of-attack
 * Adds weight
 
-# Demonstrates Familiarity with Icing Procedures
-
-* **Wings**
-  * Boots
-    * Use as soon as icing is observed
-  * Heated leading edge
-    * Also called "hot wing"
-    * Uses hot bleed air from turbine compressor, for example
-  * Weeping wing
-    * Deicing fluid (e.g. TKS fluid, like antifreeze) comes out of small holes in leading edge
-    * TKS (Tecalemit-Kilfrost-Sheepbridge Stokes) was the name of a British aerospace company during WWII that developed the original weeping wing technology
-* **Prop**
-  * Heated
-  * Deicing fluid
-* **Windscreen**
-  * Alcohol
-  * Hot air defrost
-  * Electric (like rear window of car)
-  * Icing fluid from prop in single engine also sprays back on windscreen
-* ==When encountering icing==
-  * ==Exit area of icing==
-  * ==Generally climb==
-    * ==To find temps colder than -20 &#176;C==
-    * ==Being higher gives more options==
-    * Alternatively descend to find temperatures warmer than 5 &#176;C
-  * ==Gentle maneuvers==
-    * Avoid increasing load factor too much
-  * ==Fly faster==
-  * ==Avoid configuration change==
-    * No flaps to avoid tailplane stall
-
-![Deicing boots. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-48.](/img/phak/phak-figure-7-48-deicing-boots.jpg){width=380}
-
-![Weeping wing. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-49.](/img/phak/phak-figure-7-49-deicing-weeping-wing.jpg){width=380}
+<!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md-->
 
 # References
 

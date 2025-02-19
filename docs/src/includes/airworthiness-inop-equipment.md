@@ -1,4 +1,4 @@
-### Inoperative Equipment Overview
+# Inoperative Equipment Overview
 
 * When thinking about what equipment is required first think of [14 CFR &sect;91.7 - Civil aircraft airworthiness](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.7) that says:
 
@@ -34,7 +34,7 @@
 * This has interesting discussion about what equipment needs to be working in particular on intermittently working equipment [Minimum Equipment: What Has to be Working?](https://www.cirruspilots.org/Publications/Articles/minimum-equipment-what-has-to-be-working)
 * A good way to approach required equipment on the aircraft is to think through a hypothetical situation of preflighting an aircraft prior to a flight, finding a piece of equipment inoperative, and then determining whether or not the aircraft can still be flown with said equipment inoperative.
 
-### Determining Airworthiness
+# Determining Airworthiness
 
 * The following flowchart captures most of the questions that need to be answered in this situation.
 
@@ -59,7 +59,7 @@
       * See [14 CFR &sect;91.7](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.7)
 * If it legal to fly with the inoperative equipment, it must be placarded and either removed or deactivated, if it is removed, a new weight and balance might need to be computed depending on the weight of the part
 
-#### Aside: a Single Broken Strobe Light
+## Aside: a Single Broken Strobe Light
 
 * Regarding equipment required by [14 CFR &sect;91.205](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.205), it is interesting to note that [14 CFR &sect;91.205(b)(11)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.205#p-91.205(b)(11)) says, regarding anticollision light system:
 
@@ -68,7 +68,7 @@
 * So this is why according to the C172SP KOEL that Strobes are required during all flight conditions.
 * See also [Letts 2017 Legal Interpretation](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2017/Letts_2017_Legal_Interpretation.pdf).
 
-#### Aside: Altimeter Accuracy
+## Aside: Altimeter Accuracy
 
 * ***Altimeter accuracy requirements +/- 75 ft. for IFR. For VFR not explicitly stated, but it's up to PIC to determine the aircraft is in a safe condition for flight.***
 * Accuracy requirements of altimeter [AIM 7-2-3 Altimeter Errors](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_2.html#$paragraph7-2-3):
