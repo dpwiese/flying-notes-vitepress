@@ -42,9 +42,7 @@
   * TH - Variation -> MH
   * MH - Deviation -> CH (Compass Heading)
 
-## Determining an Alternate
-
-<!--@include: ./docs/src/includes/ifr-alternates.md-->
+<!--@include: ./docs/src/includes/ifr-alternates.md | shift:1-->
 
 [Aeronautical Chart Users' Guide Terminal Procedure Publications](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/aero_guide/)
 

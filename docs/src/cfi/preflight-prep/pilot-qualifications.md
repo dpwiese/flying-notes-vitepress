@@ -4,9 +4,7 @@ This page covers *Task A. Pilot Qualifications* from the [FAA-S-ACS-25 Flight In
 
 <!--@include: ./docs/src/includes/pilot-qualifications.md | shift:1-->
 
-## Documents Pilots Must Possess
-
-<!--@include: ./docs/src/includes/required-documents-ppm.md | shift:2-->
+<!--@include: ./docs/src/includes/required-documents-ppm.md | shift:1-->
 
 ## References
 

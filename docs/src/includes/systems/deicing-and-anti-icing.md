@@ -15,6 +15,8 @@
   * Alcohol
   * Electric heating element
   * Boots
+* Pitot tube
+  * Electric
 * *Note: unless otherwise recommended in the POH/AFM, do not use the autopilot in icing conditions*
 
 ![Deicing boots. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-48.](/img/phak/phak-figure-7-48-deicing-boots.jpg){width=340}
