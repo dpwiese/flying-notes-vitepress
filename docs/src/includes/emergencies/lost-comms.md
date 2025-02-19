@@ -16,3 +16,18 @@
 * If clearance limit is not a fix from which approach begins, leave the clearance limit at EFC time or arrival at the fix if no EFC time, and start approach to begin as close as possible to estimated time of arrival from flight plan (or amended enroute.)
 * When comms are lost we are automatically cleared for any approach at our destination
 * If you enter VMC try to stay in VMC
+
+## Troubleshooting
+
+* Check frequency
+* Check volume
+* Try previous frequency
+* Try other radio
+* Check for TX/RX
+* Try other headphone jacks
+* Try other PTT
+* Try handheld mic
+* Try overhead speaker
+* Try EMG
+* Try other headset
+* Otherwise go 7600

@@ -6,24 +6,7 @@ This page covers *Task A. Loss of Communications* from the [FAA-S-8081-9E Flight
 
 Know what to do in the event of a communication failure while flying IFR.
 
-## Elements
-
-### Troubleshooting
-
-* Check frequency
-* Check volume
-* Try previous frequency
-* Try other radio
-* Check for TX/RX
-* Try other headphone jacks
-* Try other PTT
-* Try handheld mic
-* Try overhead speaker
-* Try EMG
-* Try other headset
-* Otherwise go 7600
-
-<!--@include: ./docs/src/includes/lost-comms.md | shift:2-->
+<!--@include: ./docs/src/includes/emergencies/lost-comms.md | shift:1-->
 
 ## Completion Standards
 
