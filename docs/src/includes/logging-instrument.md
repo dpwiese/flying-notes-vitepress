@@ -7,7 +7,6 @@
 * Safety pilot
   * Needs to be rated in same *category* and *class*
 * Instrument Proficiency Check
-  * See [Required Logbook Endorsement for Satisfactory Completion of an IPC](#ipc-required-logbook-endorsement) below
 
 # Logging approaches
 

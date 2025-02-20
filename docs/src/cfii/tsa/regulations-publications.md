@@ -20,81 +20,10 @@ While the parts listed below are some important parts for pilots to know, there 
   * [Part 95 - IFR Altitudes](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-95?toc=1)
   * [Part 97 - Standard Instrument Procedures](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-97?toc=1)
 
-### Requirements to get Instrument Rating
-
-* [14 CFR &sect;61.65 Instrument rating requirements](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-B/section-61.65)
-  * 50 hours PIC cross country
-  * 40 hours actual or simulated instrument time
-    * 15 hours from an instructor
-    * Max of 20 hours can be in AATD
-  * 3 hours within 2 calendar months of checkride
-  * 250 nm cross country
-    * Total distance along airways, not straight-line distance between points of landing
-    * 3 different types of approaches
-* [14 CFR Par 141 Appendix C Instrument Rating Course](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-H/part-141/appendix-Appendix%20C%20to%20Part%20141)
-  * No minimum PIC cross country
-  * 35 hours actual or simulated instrument time
-    * 15 hours from an instructor
-    * 40% of the time (14 hours) can be in Redbird Simulator
-      * We do the first 2 of 4 stages in the Redbird
-  * 3 hours within 2 calendar months of checkride
-  * 250 nm cross country
-    * Total distance along airways, not straight-line distance between points of landing
-    * 3 different types of approaches
-    * 100 nm straight line distance
-
-### Instrument Rating Privileges
-
-* **==Flight under IFR or in weather less than VFR in controlled airspace==**
-  * [14 CFR &sect;61.3(e) Instrument rating](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.3#p-61.3(e))
-    * *"No person may act as pilot in command of a civil aircraft under IFR or in weather conditions less than the minimums prescribed for VFR flight unless that person holds ... instrument rating on that person's pilot certificate."*
-  * Really this is flight in weather less than VMC in *any* airspace, as operations in uncontrolled airspace under IMC without a clearance or instrument rating violate [14 CFR &sect;91.13 Careless or reckless operation](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.13)
-* **==Flight in Class A airspace==**
-  * [14 CFR &sect;91.135 Operations in Class A airspace](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.135)
-    * *"Each person operating an aircraft in Class A airspace must conduct that operation under instrument flight rules (IFR)."*
-* **==Passengers for hire on cross countries longer than 50 nm or at night==**
-  * [14 CFR &sect;61.133 Commercial pilot privileges and limitations](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.133)
-    * *"The carriage of passengers for hire in airplanes on cross-country flights in excess of 50 nautical miles* ***or*** *at night is prohibited."*
-* **==Special VFR at night==**
-  * Technically it is between sunset and sunrise
-  * [14 CFR &sect;91.157(b)(4)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFR4d5279ba676bedc/section-91.157#p-91.157(b)(4))
-    * *"The person being granted the ATC clearance meets the applicable requirements for* ***instrument flight*** *under part 61 of this chapter."*
-
-### Instrument Currency Requirements
-
-* Instrument currency requirements (**66 HIT**)
-  * [14 CFR 61.57(c)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.57#p-61.57(c))
-  * Per aircraft ***category***
-    * e.g. Airplane, helicopter
-  * Within preceding **6 calendar months**
-    * **6** - 6 instrument approaches
-    * **H** - Holding procedures and tasks
-    * **I** - Intercepting and
-    * **T** - Tracking courses through the use of navigational electronic systems
-
+<!--@include: ./docs/src/includes/privileges-limitations/ira.md | shift:1-->
+<!--@include: ./docs/src/includes/currency.md | shift:1-->
 <!--@include: ./docs/src/includes/logging-instrument.md | shift:2-->
-
-### Required Equipment
-
-[14 CFR &sect;91.205 - Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.205)
-
-* ==IFR Required Equipment (**GRABCARDD**)==
-  * ==**G** - Generator==
-    * Or alternator
-  * ==**R** - Radios==
-    * Comm and nav
-  * ==**A** - Altimeter==
-    * Adjustable
-  * ==**B** - Ball==
-    * Inclinometer, slip/skid indicator
-  * ==**C** - Clock==
-    * With seconds
-  * ==**A** - Attitude indicator==
-  * ==**R** - Rate of turn indicator==
-  * ==**D** - Directional gyro==
-    * Heading indicator
-  * ==**D** - DME or RNAV==
-    * At FL240 and higher if VOR is required
+<!--@include: ./docs/src/includes/required-equipment/ifr.md | shift:2-->
 
 ## FAA-H-8083-15, Instrument Flying Handbook
 
@@ -104,15 +33,7 @@ While the parts listed below are some important parts for pilots to know, there 
 
 * [Aeronautical Information Manual](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/)
 
-## Practical Test Standards
-
-* [Practical Test Standards (PTS)](https://www.faa.gov/training_testing/testing/test_standards)
-  * Older version of testing standards.
-  * The PTS primarily provides metrics to define acceptable performance of the "flight proficiency" skills listed in 14 CFR part 61 for a given certificate or rating.
-* [Airman Certification Standards (ACS)](https://www.faa.gov/training_testing/testing/acs)
-  * The ACS is an enhanced version of the Practical Test Standards (PTS) that started replacing the PTS in 2016, and will eventually replace all PTS.
-  * It adds task-specific knowledge and risk management elements to each PTS Area of Operation and Task.
-  * The result is a comprehensive presentation that integrates the standards for what an applicant needs to know, consider, and do in order to pass both the knowledge test and the practical test for a certificate or rating.
+<!--@include: ./docs/src/includes/publications/standards.md | shift:1-->
 
 ## Airport Facility Directory
 

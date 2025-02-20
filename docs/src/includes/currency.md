@@ -1,5 +1,7 @@
 # Currency Requirements
 
+## Basic Currency Requirements
+
 * [14 CFR &sect;61.56 - Flight Review](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.56)
 * [14 CFR &sect;61.57 - Recent flight experience: Pilot in command](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.57)
 * To act as PIC
@@ -15,6 +17,9 @@
   * 3 takeoffs/landings within the preceding 90 days
     * Same category, class, and type
     * Full stop
+
+## Instrument Currency Requirements
+
 * To act as PIC under IFR or less than VFR weather minimums
   * ==Use **66 HIT** to remember instrument currency requirements==
     * **==6 Approaches==** within

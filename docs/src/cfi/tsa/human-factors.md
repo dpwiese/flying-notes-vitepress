@@ -4,16 +4,16 @@ This page covers *Task A. Human Factors* from the [FAA-S-ACS-25 Flight Instructo
 
 ## Aeromedical Issues
 
-<!--@include: ./docs/src/includes/hypoxia.md | shift:2-->
-<!--@include: ./docs/src/includes/hyperventilation.md | shift:2-->
-<!--@include: ./docs/src/includes/ear-and-sinus.md | shift:2-->
-<!--@include: ./docs/src/includes/spatial-disorientation.md | shift:2-->
-<!--@include: ./docs/src/includes/motion-sickness.md | shift:2-->
-<!--@include: ./docs/src/includes/alcohol-and-drugs.md | shift:2-->
-<!--@include: ./docs/src/includes/co-poisoning.md | shift:2-->
-<!--@include: ./docs/src/includes/stress.md | shift:2-->
-<!--@include: ./docs/src/includes/fatigue.md | shift:2-->
-<!--@include: ./docs/src/includes/dehydration.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/hypoxia.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/hyperventilation.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/ear-and-sinus.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/spatial-disorientation.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/motion-sickness.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/alcohol-and-drugs.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/co-poisoning.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/stress.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/fatigue.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/dehydration.md | shift:2-->
 
 ## ADM, CRM, and SRM
 

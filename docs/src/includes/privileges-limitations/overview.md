@@ -10,13 +10,3 @@
     * The number of hourse spent on various flight training activities
 * These are broken down by the level of pilot certificate below
 * Also included in the below are the privileges and limitations of each level of pilot certificate
-
-<!--@include: ./docs/src/includes/privileges-limitations/student.md-->
-<!--@include: ./docs/src/includes/privileges-limitations/recreational.md-->
-<!--@include: ./docs/src/includes/privileges-limitations/private.md-->
-<!--@include: ./docs/src/includes/privileges-limitations/commercial.md-->
-<!--@include: ./docs/src/includes/privileges-limitations/atp.md-->
-
-<!--@include: ./docs/src/includes/medicals.md-->
-
-<!--@include: ./docs/src/includes/currency.md-->

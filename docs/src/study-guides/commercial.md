@@ -265,23 +265,8 @@ KIAD 241741Z 2418/2524 10006KT 2SM -RA OVC006 WS020/17040KT
 
 #### Transponder and ADS-B Requirements
 
-* Mode-C Transponder requirements
-  * Used in general aviation are mode A
-  * If it can do altitude encoding it has mode C capability
-  * ==Above 10,000 MSL, unless witihin 2,500 AGL==
-  * ==In class A, B, and C airspace==
-  * ==Within horizontal limits of Class B mode-C veil (30 nm)==
-  * Within 10 nm of certain designated airports, excluding airspace which is both outside the Class D surface area and below 1,200' AGL
-  * Flying into, within, or across the ADIZ
-  * [14 CFR &sect;91.215(b)(5)(i)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.215)
-* [14 CFR &sect;91.225 - Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.225)
-  * Class A, B, and C airspace
-  * Class E airspace at or above 10,000 feet msl
-    * Excluding airspace at and below 2,500 feet AGL
-  * Within 30 nautical miles of a Class B primary airport (the Mode C veil)
-  * Above the ceiling and within the lateral boundaries of Class B or Class C airspace up to 10,000 feet
-  * Class E airspace over the Gulf of Mexico, at and above 3,000 feet msl, within 12 nm of the U.S. coast.
-* [14 CFR &sect;91.227 - Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment performance requirements](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.227)
+<!--@include: ./docs/src/includes/airspace-requirements/transponder.md | shift:3-->
+<!--@include: ./docs/src/includes/airspace-requirements/adsb.md | shift:3-->
 
 #### What are SIGMETs and AIRMETs?
 
@@ -360,31 +345,11 @@ KIAD 241741Z 2418/2524 10006KT 2SM -RA OVC006 WS020/17040KT
 
 #### Describe where the following airspaces can be found. Reference a VFR sectional.
 
-##### Class E
-
-* [AIM 3-2-6](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-6)
-* Any controlled airspace that is not A-D
-* Class E airspace below 14,500 feet MSL is charted on Sectional, Terminal, and IFR Enroute Low Altitude charts.
-* *So technically the default is G up to 14,500 unless otherwise charted*
-* ==However, with very few exceptions (see class G airspace below) class E is charted to start at either 700' or 1200' AGL==
-  * ==So basically the default is that E starts at 1200' AGL except where charted to start at 700' AGL, or where shown to *not* to start at 1200' AGL.==
-  * This can be seen along the US border, where it shows the start of E at 1,200'
-* 700/1200 ft AGL – 18,000 ft MSL (A), up to 12 nm off US coast
-* "1200 ft, except where the elephant steps"
-* VFR chart Colors
-  * To surface: dashed magenta
-  * 700 ft floor: ombre magenta
-  * 1200 ft floor: ombre blue
-    * Note: ombre is a French word meaning shaded, where one hue blends to another
-* Weather, Aircraft, Pilot Requirements
+<!--@include: ./docs/src/includes/airspace/class-e.md | shift:4-->
 
 ##### Class G
 
-* [AIM 3-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_3.html)
-* SFC – Base of class E
-* Even though there is no ATC, still minimum requirements to comply with FAA
-* In certain designated areas class G extends up to 14,500 feet
-  * This is on VFR charts, but easier to see on IFR charts
+<!--@include: ./docs/src/includes/airspace/class-g.md | shift:4-->
 
 #### VFR Weather Minimums
 

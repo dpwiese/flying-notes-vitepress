@@ -4,21 +4,7 @@ This page covers *Task A. Aircraft Flight Instruments and Navigation Equipment* 
 
 ## Flight Instrument Systems and Their Operating Characteristics
 
-### Pitot-Static System
-
-![Pitot static system and instruments. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 8: Flight Instruments](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/10_phak_ch8.pdf) Figure 8-1.](/img/phak/phak-figure-8-1-pitot-static-system.jpg){width=500}
-
-<!--@include: ./docs/src/includes/instruments/altimeter.md | shift:3-->
-<!--@include: ./docs/src/includes/instruments/vsi.md | shift:3-->
-<!--@include: ./docs/src/includes/instruments/airspeed.md | shift:3-->
-
-#### Failure modes
-
-* Alternate static source
-  * Due to the venturi effect of the air flowing around the fuselage, *the air pressure inside the flight deck is lower* than the exterior pressure.
-
-![Pitot static system failure modes and instrument indications. Reference unknown.](/img/broken-pitot-static-instruments-table.png){width=500}
-
+<!--@include: ./docs/src/includes/instruments/pitot-static.md | shift:2-->
 <!--@include: ./docs/src/includes/instruments/attitude.md | shift:2-->
 <!--@include: ./docs/src/includes/instruments/heading-indicator.md | shift:2-->
 <!--@include: ./docs/src/includes/instruments/compass.md | shift:2-->
@@ -27,7 +13,7 @@ This page covers *Task A. Aircraft Flight Instruments and Navigation Equipment* 
 <!--@include: ./docs/src/includes/systems/electrical.md | shift:2-->
 <!--@include: ./docs/src/includes/systems/vacuum.md | shift:2-->
 
-### Electronic Engine Instrument Display {#task-a-1-h}
+### Electronic Engine Instrument Display
 
 * Tachometer
 * Oil pressure
@@ -38,7 +24,7 @@ This page covers *Task A. Aircraft Flight Instruments and Navigation Equipment* 
 
 ![G1000 MFD with engine instrument display. [High Performance Aviation](https://www.flyhpa.com/2010/10/g1000-descent-planning/).](/img/g1000-mfd.jpg){width=600}
 
-### Primary Flight Display {#task-a-1-i}
+### Primary Flight Display
 
 PFDs provide increased situational awareness (SA) to the pilot by replacing the traditional six instruments used for instrument flight with an easy-to-scan display that provides the horizon, airspeed, altitude, vertical speed, trend, trim, rate of turn among other key relevant indications.
 
@@ -49,11 +35,6 @@ PFDs provide increased situational awareness (SA) to the pilot by replacing the 
 See [Ground Based Navigation](/cfii/tsa/flight-instruments#ground-based-navigation)
 
 ### Instrument Landing System (ILS)
-
-* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
-  * Chapter 9: Navigation Systems
-    * Page 9-35: Instrument Approach Systems
-* [AIM 1-1-9 Instrument Landing System](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#$paragraph1-1-9)
 
 * Provides
   * Guidance information
@@ -92,11 +73,6 @@ See [Ground Based Navigation](/cfii/tsa/flight-instruments#ground-based-navigati
 * **When can you descend to the next instrument approach segment?**
   * When cleared for the approach and established on a segment of a published approach or route.
 
-* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
-  * Chapter 9: Navigation Systems
-    * Page 9-35: Instrument Approach Systems
-* [AIM 1-1-9 Instrument Landing System](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#$paragraph1-1-9)
-
 ### Marker Beacon Receiver / Indicators
 
 * Outer Marker (OM)
@@ -113,18 +89,10 @@ See [Ground Based Navigation](/cfii/tsa/flight-instruments#ground-based-navigati
 
 ### Transponder / Altitude Encoding
 
-* [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
-  * [Chapter 14: Airport Operations](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/16_phak_ch14.pdf)
-    * Page 14-25: Transponder
-* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
-  * Chapter 2: The Air Traffic Control System
-    * Page 2-3: Radar and Transponders
-
 * A transponder is a radar beacon transmitter/receiver installed in the instrument panel.
 * ATC beacon transmitters send out interrogation signals continuously as the radar antenna rotates.
 * When an interrogation is received by a transponder, a coded reply is sent to the ground station where it is displayed on the controller's scope.
 * A reply light on the transponder panel flickers every time it receives and replies to a radar interrogation. Transponder codes are assigned by ATC.
-
 * Mode C sends *pressure altitude* to ATC
   * Adjusting the altimeter's Kollsman window has no effect on the altitude read by the controller.
   * A transponder code consists of four numbers from 0 to 7 (4,096 possible codes)
@@ -139,7 +107,6 @@ See [Ground Based Navigation](/cfii/tsa/flight-instruments#ground-based-navigati
 * [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
   * Chapter 5: Flight Instruments
     * Page 5-27: Primary Flight Display
-* See [Task A.1.I. Primary Flight Display](#task-a-1-i) for more information
 
 ### Automatic Pilot
 
@@ -161,12 +128,7 @@ See [Ground Based Navigation](/cfii/tsa/flight-instruments#ground-based-navigati
 
 ![G1000 MFD with engine instrument display. [High Performance Aviation](https://www.flyhpa.com/2010/10/g1000-descent-planning/)](/img/g1000-mfd.jpg){width=600}
 
-## Ground Based Navigation
-
-<!--@include: ./docs/src/includes/vor.md | shift:2-->
-<!--@include: ./docs/src/includes/ndb.md | shift:2-->
-<!--@include: ./docs/src/includes/using-ground-based-navaids.md | shift:2-->
-
+<!--@include: ./docs/src/includes/ground-based-navigation.md | shift:1-->
 <!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:1-->
 
 <!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md | shift:1-->
@@ -200,13 +162,19 @@ See [Ground Based Navigation](/cfii/tsa/flight-instruments#ground-based-navigati
 
 * [FAA-H-8083-3C Airplane Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook)
   * [Chapter 2: Ground Operations](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/03_afh_ch2.pdf)
-* [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
-  * [Chapter 17: Aeromedical Factors](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf)
 * [Aeronautical Information Manual](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/)
   * [AIM Chapter 8: Medical Factors for Pilots](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap_8.html)
 * [FAA-H-8083-6 Advanced Avionics Handbook](https://bookstore.gpo.gov/products/advanced-avionics-handbook-2009)
   * Chapter 5: Information Systems
     * Page 5-10: Onboard Weather Radar Systems
 * [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
+  * Chapter 2: The Air Traffic Control System
+    * Page 2-3: Radar and Transponders
   * Chapter 5: Flight Instruments
     * Page 5-28: Multi-Function Display (MFD)
+  * Chapter 9: Navigation Systems
+    * Page 9-35: Instrument Approach Systems
+* [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
+  * [Chapter 14: Airport Operations](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/16_phak_ch14.pdf)
+    * Page 14-25: Transponder
+* [AIM 1-1-9 Instrument Landing System](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#$paragraph1-1-9)

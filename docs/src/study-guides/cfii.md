@@ -495,23 +495,9 @@
   * If broken part is not required by KOEL/CEL, check it is not requried by [14 CFR &sect;91.205 Instrument and equipment requirements](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.205) below
   * Day VFR (A+TOMATOFLAMES)
   * Night VFR (FLAPS)
-  * ==IFR Required Equipment (**GRABCARDD**)==
-    * ==**G** - Generator==
-      * Or alternator
-    * ==**R** - Radios==
-      * Comm (and nav if needed for route of flight to be flown)
-    * ==**A** - Altimeter==
-      * Adjustable
-    * ==**B** - Ball==
-      * Inclinometer, slip/skid indicator
-    * ==**C** - Clock==
-      * With seconds
-    * ==**A** - Attitude indicator==
-    * ==**R** - Rate of turn indicator==
-    * ==**D** - Directional gyro==
-      * Heading indicator
-    * ==**D** - DME or RNAV==
-      * At FL240 and higher if VOR is required
+
+<!--@include: ./docs/src/includes/required-equipment/ifr.md | shift:3-->
+
   * Is the equipment required for your planned IFR flight, e.g. required by the approach you are planning?
   * If legal to fly with broken part, it must be PLACARDED and either REMOVED or DEACTIVATED
     * If it is removed, a new weight and balance might need to be computed depending on the weight of the part

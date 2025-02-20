@@ -30,7 +30,10 @@ This page covers *Task B. Airworthiness Requirements* from the [FAA-S-ACS-25 Fli
 
 ## Equipment Requirements
 
-<!--@include: ./docs/src/includes/equipment-requirements.md | shift:2-->
+<!--@include: ./docs/src/includes/required-equipment/day-vfr.md | shift:2-->
+<!--@include: ./docs/src/includes/required-equipment/night-vfr.md | shift:2-->
+<!--@include: ./docs/src/includes/required-equipment/ifr.md | shift:2-->
+<!--@include: ./docs/src/includes/required-equipment/night-lighting-requirements.md | shift:2-->
 
 <!--@include: ./docs/src/includes/airworthiness-inop-equipment.md | shift:2-->
 

@@ -19,7 +19,7 @@ This page covers *Task N. High Altitude Operations - Supplemental Oxygen* and *T
 
 * A primary concern when operating at high altitudes is impairment associated with hypoxia.
 
-<!--@include: ./docs/src/includes/hypoxia.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/hypoxia.md | shift:2-->
 
 ### Time of Useful Consciousness
 

@@ -118,11 +118,11 @@
 * This results in decreased transport of oxygen to the red blood cells and decreased arterial oxygen saturation
 * As an example, hospitalized patients will typically be administered oxygen when their SpO2 drops below 88%
 
-<!--@include: ./docs/src/includes/hyperventilation.md | shift:3-->
+<!--@include: ./docs/src/includes/aeromedical/hyperventilation.md | shift:3-->
 
 ### III. Effects, symptoms, and causes of hypoxia and any other high-altitude sickness
 
-<!--@include: ./docs/src/includes/hypoxia.md | shift:3-->
+<!--@include: ./docs/src/includes/aeromedical/hypoxia.md | shift:3-->
 
 #### Vision
 

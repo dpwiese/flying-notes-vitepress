@@ -1,16 +1,7 @@
 # Airspace Regulatory Requirements
 
-* Transponders requirements
-  * Used in general aviation are mode A
-  * If it can do altitude encoding it has mode C capability
-  * Must have transponder with mode C in
-    * Class A, B, and C airspace
-    * Above 10,000 MSL, except when 2,500 AGL.
-      * See: [14 CFR &sect;91.215(b)(5)(i)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.215)
-    * Within 30 nm of class B primary airports (in and above the mode-C veil)
-  * Mode S transponder sends/receives some extra data
-
-![VFR airspace entry requirements. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 15: Airspace](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/17_phak_ch15.pdf) Figure 15-9.](/img/vfr-entry-requirements.png)
+<!--@include: ./docs/src/includes/airspace-requirements/transponder.md | shift:1-->
+<!--@include: ./docs/src/includes/airspace-requirements/adsb.md | shift:1-->
 
 # Computation of Time Enroute and Fuel Requirements
 
@@ -46,8 +37,6 @@
 
 [Aeronautical Chart Users' Guide Terminal Procedure Publications](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/aero_guide/)
 
-**Fuel Requirements** - be able to fly to first airport of intended landing, then to alternate, and still have 45 min reserve at normal cruise. [14 CFR &sect;91.167 - Fuel requirements for flight in IFR conditions](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.167)
-
 ![Digital Terminal Procedures: approach with non-standard alternate minimums, as indicated by the `A` in the triangle within the first box of the middle briefing strip notes box.](/img/tpp/dtpp-vji-rnav-24.png){width=600}
 
 ![Digital Terminal Procedures: alternate minimums. For example, the LOC Rwy 15 approach is not available when the tower is closed, and when it is open, the minimums are 900-2 instead of the 800-2 standard minimums.](/img/tpp/dtpp-alternate-minimums.png){width=600}
@@ -63,30 +52,10 @@
 * See [GPS Routes](/cfi/tsa/nav-systems-radar-services#gps-routes)
 * Blue or green airports on IFR chart have instrument approach procedure (IAP) and/or radar minima, where this is related to ASR or PAR (radar) approaches
 
-# Procurement and Interpretation of NOTAMS
-
-* Two types
-  * FDC (Flight Data Center)
-    * Regulatory changes, approach procedures, aeronautical charts
-  * GPS
-    * ==GPS NOTAMs **must** be checked before using a GPS under IFR==
-  * D
-    * Airport and airport facility changes
-    * Examples: temporary outages, runway closures
-* NOTAMs with short effective period will be received with weather briefing
-* If NOTAM will remain in effect for at least 7 days they will be published in the Notices to Airmen publication
-  * This publication has been discontinued
-* Can obtain NOTAMs from
-  * Foreflight
-  * Online
-    * FAA
-    * 1800wxbrief.com
-  * Calling 1-800-WX-BRIEF Briefing (see: [https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/systemops/fs/alaskan/alaska/fai/pfpwb/](https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/systemops/fs/alaskan/alaska/fai/pfpwb/))
-  * *Q: I assume Foreflight gives all NOTAMs with briefing, not just short term NOTAMs?*
+<!--@include: ./docs/src/includes/notams.md-->
+<!--@include: ./docs/src/includes/preflight-information.md | shift:1-->
 
 # Completes and Files IFR Flight Plan
-
-<!--@include: ./docs/src/includes/preflight-information.md-->
 
 * File flight plan to IAF
   * Use time to IAF
@@ -103,46 +72,8 @@
 * Have 30 minutes to close VFR flight plan after ETA
 * If no runway gradient information is specified in the [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/) (formerly called airport facility directory or AF/D) then by definition it is less than 0.3 percent
 
-# Demonstrates Knowledge of GPS and RAIM
-
-See [Satellite Based Navigation](/cfii/tsa/flight-instruments#satellite-based-navigation).
-
-# Recognizes Airframe Icing {#recognizes-airframe-icing}
-
-* For ice to form need
-  * Visible moisture
-  * Surface temperatures freezing or below
-    * Often occurs when outside temperatures are between -20 and 5 &#176;C
-* Typically forms on wing and propellor
-* **Clear ice**
-  * ==Most dangerous==
-  * ==Happens when flying through rain==
-  * Most rapid ice formation
-  * Typically forms in cumuliform clouds
-* **Rime ice**
-  * ==Happens when flying through clouds==
-* **Mixed ice**
-  * ==Has the properties of both clear and rime icing==
-  * Large and small supercooled droplets coexist
-  * Appearance is whitish, irregular and rough
-* **Frost**
-  * Aircraft surface temperature and dew point both below freezing
-* **Freezing rain**
-  * Rain falling from warmer air into air that is colder than freezing
-  * Ice pellets indicates there is freezing rain above
-
-![Clear ice. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 4: Aerodynamic Factors Figure 4-17.](/img/ifh/ifh-figure-4-17-clear-ice.jpg){width=380}
-
-![Rime ice. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 4: Aerodynamic Factors Figure 4-19.](/img/ifh/ifh-figure-4-19-rime-ice.jpg){width=380}
-
-# Understands Adverse Effects of Airframe Icing
-
-* Disturbed airflow over wings and other surfaces
-* More drag
-* Less lift
-* Reduces stall angle-of-attack
-* Adds weight
-
+<!--@include: ./docs/src/includes/satellite-based-navigation.md-->
+<!--@include: ./docs/src/includes/airframe-icing.md-->
 <!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md-->
 
 # References

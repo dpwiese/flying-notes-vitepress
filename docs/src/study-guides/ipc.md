@@ -36,7 +36,11 @@
 
 ### Required Equipment and Airworthiness
 
-<!--@include: ./docs/src/includes/equipment-requirements.md | shift:3-->
+<!--@include: ./docs/src/includes/required-equipment/day-vfr.md | shift:3-->
+<!--@include: ./docs/src/includes/required-equipment/night-vfr.md | shift:3-->
+<!--@include: ./docs/src/includes/required-equipment/ifr.md | shift:3-->
+<!--@include: ./docs/src/includes/required-equipment/night-lighting-requirements.md | shift:3-->
+
 <!--@include: ./docs/src/includes/airworthiness-inop-equipment.md | shift:3-->
 <!--@include: ./docs/src/includes/inspections-required.md | shift:3-->
 
