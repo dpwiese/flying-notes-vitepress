@@ -188,7 +188,8 @@ export default defineConfig({
           text: 'Technical Subject Areas',
           collapsed: false,
           items: [
-            { text: 'Flight Instruments and Navigation Equipment', link: '/cfii/tsa/flight-instruments' },
+            { text: 'Aircraft Flight Instruments', link: '/cfii/tsa/flight-instruments' },
+            { text: 'Navigation Equipment', link: '/cfii/tsa/nav' },
             { text: 'Aeromedical Factors', link: '/cfii/tsa/aeromedical' },
             { text: 'Regulations and Publications', link: '/cfii/tsa/regulations-publications' },
             { text: 'Logbook Entries', link: '/cfii/tsa/logbook-entries' }
@@ -200,7 +201,7 @@ export default defineConfig({
           items: [
             { text: 'Meteorology', link: '/cfii/preflight-prep/meteorology' },
             { text: 'Weather Products', link: '/cfii/preflight-prep/weather-products' },
-            { text: 'Cross Country Planning', link: '/cfii/preflight-prep/xc-planning' },
+            { text: 'Cross-Country Planning', link: '/cfii/preflight-prep/xc-planning' },
             { text: 'Instrument Cockpit Check', link: '/cfii/preflight-prep/instrument-cockpit-check' }
           ]
         },
@@ -233,7 +234,7 @@ export default defineConfig({
           text: 'Instrument Approaches',
           collapsed: false,
           items: [
-            { text: 'Overview', link: '/cfii/approaches/overview' },
+            { text: 'Approaches Overview', link: '/cfii/approaches/overview' },
             { text: 'GPS Approach', link: '/cfii/approaches/gps' },
             { text: 'Nonprecision Approach', link: '/cfii/approaches/nonprecision' },
             { text: 'Precision Approach', link: '/cfii/approaches/precision' },

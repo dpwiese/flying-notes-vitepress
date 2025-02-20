@@ -13,6 +13,15 @@
 
 ![DME arc flown in N583CA. Flying inbound on the 320 radial, arcing right (clockwise) to the 050 radial and flying inbound.](/img/dme-arc.jpg){width=800}
 
+## Elements
+
+* Normal VOR is 10&#176; full-scale deflection from center to either side
+* When setting course using OBS, it should match the intended course to be flown rather than the reciprocal
+* If plane has HSI, keep the top of CDI needle on the lubber line to intercept
+* On planes without HSI
+  * Full needle deflection use 45&#176; intercept angle
+  * Partial needle deflection use 30&#176; intercept angle
+
 ### On 20&#176; Turns
 
 ![DME Arcs. Aviation Adventures instrument procedures.](/img/avad-dme-arcs.jpg){width=440}

@@ -33,9 +33,7 @@ This page covers *Task B. Normal Approach and Landing* from the [FAA-S-ACS-25 Fl
 
 * TBD
 
-## LAHSO
-
-<!--@include: ./docs/src/includes/lahso.md-->
+<!--@include: ./docs/src/includes/lahso.md | shift:1-->
 
 ## Common Errors Related to Normal and Crosswind Approach and Landing
 

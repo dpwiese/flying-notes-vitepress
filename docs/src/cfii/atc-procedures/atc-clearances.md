@@ -1,4 +1,4 @@
-# Air Traffic Control Clearances
+# ATC Clearances
 
 This page covers *Task A. Air Traffic Control Clearances* from the [FAA-S-8081-9E Flight Instructor Instrument Practical Test Standards](https://www.faa.gov/training_testing/testing/acs/cfi_instrument_pts_9.pdf).
 

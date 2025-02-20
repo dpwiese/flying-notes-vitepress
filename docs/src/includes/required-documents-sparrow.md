@@ -19,7 +19,7 @@
     * Includes but not limited to: placards, gauge markings, POH/AFM
   * ==**W** - **Weight and balance**==
 
-# Radio Station License / Radiotelephone Operator Permit
+## Radio Station License / Radiotelephone Operator Permit
 
 * Regarding an additional "R" for radio station license see [FCC Commercial Radio Operator License Program](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/commercial-radio-operator-license-program), [Transport Canada: Flying to Canada: what you need to know - TP 15048](https://tc.canada.ca/en/aviation/general-operating-flight-rules/flying-canada-what-you-need-know-tp-15048), [14 CFR &sect;87.89](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-87/subpart-C/subject-group-ECFR7723e17ce169759/section-87.89), and [14 CFR &sect;87.89](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-87/subpart-B/section-87.18).
 * Basically, the *plane* needs a radio station license and the *pilot* needs a restricted radiotelephone operator permit.
@@ -33,7 +33,7 @@
     >
     > * Aircraft radio stations, except those which operate only on very high frequencies (VHF) and do not make foreign flights.
 
-# AFM vs POH
+## AFM vs POH
 
 * Aircraft owner/information manual is *not* approved by the FAA and is not a substitute for the *approved* POH/AFM
   * The POH is a document developed by the aircraft manufacturer and contains FAA-approved AFM information.

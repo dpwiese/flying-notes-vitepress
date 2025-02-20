@@ -5,7 +5,7 @@ This page covers *Task C. Missed Instrument Approach (PA)* from the [FAA-S-8081-
 ## Purpose
 
 Important to know how to properly fly a missed approach procedure, as it may not always be the case that you can land from an approach.
-Additionally, during training nearly all approaches will terminate with the missed approach procedure to save time
+Additionally, during training nearly all approaches will terminate with the missed approach procedure to save time.
 
 <!--@include: ./docs/src/includes/approaches/missed.md-->
 

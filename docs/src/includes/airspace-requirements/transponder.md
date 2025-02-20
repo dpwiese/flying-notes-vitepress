@@ -1,8 +1,20 @@
 # Transponder
 
+* A transponder is a radar beacon transmitter/receiver installed in the instrument panel.
+* ATC beacon transmitters send out interrogation signals continuously as the radar antenna rotates.
+* When an interrogation is received by a transponder, a coded reply is sent to the ground station where it is displayed on the controller's scope.
+* A reply light on the transponder panel flickers every time it receives and replies to a radar interrogation. Transponder codes are assigned by ATC.
 * Transponders used in general aviation are mode A
 * If it can do altitude encoding it has mode C capability
+* Mode C sends *pressure altitude* to ATC
+  * Adjusting the altimeter's Kollsman window has no effect on the altitude read by the controller.
+  * A transponder code consists of four numbers from 0 to 7 (4,096 possible codes)
 * Mode S transponder sends/receives some extra data
+* Mode S offers improvements over Mode C
+  * 24-bit addresses instead of 4-bit
+  * Transmits more data
+    * Aircraft Collision Avoidance System (ACAS)
+    * Heading, roll angle, etc.
 
 ## Requirements
 

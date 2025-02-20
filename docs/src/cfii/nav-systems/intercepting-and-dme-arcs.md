@@ -8,15 +8,6 @@ Use ground-based navigation systems to perform en-route navigation, and perform 
 
 <!--@include: ./docs/src/includes/dme-arcs.md | shift:1-->
 
-## Elements
-
-* Normal VOR is 10&#176; full-scale deflection from center to either side
-* When setting course using OBS, it should match the intended course to be flown rather than the reciprocal
-* If plane has HSI, keep the top of CDI needle on the lubber line to intercept
-* On planes without HSI
-  * Full needle deflection use 45&#176; intercept angle
-  * Partial needle deflection use 30&#176; intercept angle
-
 ## Completion Standards
 
 ![[FAA-S-ACS-8B Instrument Rating Airplane Airman Certification Standards Change 1](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/instrument_rating_acs_change_1.pdf)](/img/instrument-acs/instrument-acs-v-a-navigation-systems-arcs.png){width=540}
