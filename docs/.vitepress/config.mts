@@ -76,12 +76,80 @@ export default defineConfig({
   },
   themeConfig: {
     nav: [
+      { text: 'Instrument', link: '/ira', activeMatch: '^/ira/' },
       { text: 'CFI', link: '/cfi', activeMatch: '^/cfi/' },
       { text: 'CFII', link: '/cfii', activeMatch: '^/cfii/' },
       { text: 'Aircraft', link: '/aircraft', activeMatch: '^/aircraft/' },
       { text: 'Study Guides', link: '/study-guides', activeMatch: '^/study-guides/' }
     ],
     sidebar: {
+      '/ira/': [
+        {
+          text: 'Preflight Preparation',
+          collapsed: false,
+          items: [
+            { text: 'Pilot Qualifications', link: '/ira/preflight-prep/pilot-qualifications' },
+            { text: 'Meteorology', link: '/ira/preflight-prep/meteorology' },
+            { text: 'Weather Products', link: '/ira/preflight-prep/weather-products' },
+            { text: 'Cross-Country Planning', link: '/ira/preflight-prep/xc-planning' }
+          ]
+        },
+        {
+          text: 'Preflight Procedures',
+          collapsed: false,
+          items: [
+            { text: 'Aircraft Systems', link: '/ira/preflight-procedures/systems' },
+            { text: 'Aircraft Flight Instruments', link: '/ira/preflight-procedures/flight-instruments' },
+            { text: 'Navigation Equipment', link: '/ira/preflight-procedures/nav' },
+            { text: 'Flight Deck Check', link: '/ira/preflight-procedures/flight-deck-check' }
+          ]
+        },
+        {
+          text: 'ATC Clearances and Procedures',
+          collapsed: false,
+          items: [
+            { text: 'Compliance with Clearances', link: '/ira/atc-procedures/compliance-with-clearances' },
+            { text: 'Holding Procedures', link: '/ira/atc-procedures/holding-procedures' }
+          ]
+        },
+        {
+          text: 'Instrument Flight',
+          collapsed: false,
+          items: [
+            { text: 'Instrument Flight', link: '/ira/instrument-flight/instrument-flight' },
+            { text: 'Unusual Attitudes', link: '/ira/instrument-flight/unusual-attitudes' }
+          ]
+        },
+        {
+          text: 'Navigation Systems',
+          collapsed: false,
+          items: [
+            { text: 'Intercepting, Tracking, and DME Arcs', link: '/ira/nav-systems/intercepting-and-dme-arcs' },
+            { text: 'Departure, En Route, and Arrival', link: '/ira/nav-systems/departure-enroute-arrival' }
+          ]
+        },
+        {
+          text: 'Instrument Approaches',
+          collapsed: false,
+          items: [
+            { text: 'Overview', link: '/ira/approaches/overview' },
+            { text: 'GPS Approach', link: '/ira/approaches/gps' },
+            { text: 'Non-precision Approach', link: '/ira/approaches/nonprecision' },
+            { text: 'Precision Approach', link: '/ira/approaches/precision' },
+            { text: 'Missed Approach', link: '/ira/approaches/missed' },
+            { text: 'Circling Approach', link: '/ira/approaches/circling' },
+            { text: 'Landing from an Approach', link: '/ira/approaches/landing' }
+          ]
+        },
+        {
+          text: 'Emergency Operations',
+          collapsed: false,
+          items: [
+            { text: 'Loss of Communications', link: '/ira/emergencies/lost-comms' },
+            { text: 'Partial Panel Approach', link: '/ira/emergencies/partial-panel-approach' }
+          ]
+        }
+      ],
       '/cfi/': [
         {
           text: 'Fundamentals of Instructing',
