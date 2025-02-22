@@ -1,4 +1,4 @@
-# Deicing and anti-icing
+# Deicing and Anti-icing
 
 ## Airframe
 

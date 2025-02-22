@@ -6,29 +6,21 @@ This page covers *Task E. Aircraft Flight Controls and Operation of Systems* fro
 <!--@include: ./docs/src/includes/systems/secondary-flight-controls.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/trim-controls.md | shift:2-->
 
-## Powerplant and propeller
+<!--@include: ./docs/src/includes/systems/powerplant.md | shift:1-->
+<!--@include: ./docs/src/includes/systems/ignition.md | shift:2-->
+<!--@include: ./docs/src/includes/systems/induction.md | shift:2-->
+<!--@include: ./docs/src/includes/systems/propellor.md | shift:2-->
+<!--@include: ./docs/src/includes/systems/turbine.md | shift:2-->
 
-<!--@include: ./docs/src/includes/systems/powerplant-and-propeller.md | shift:2-->
-
-## Landing gear
-
-<!--@include: ./docs/src/includes/systems/landing-gear.md-->
-
+<!--@include: ./docs/src/includes/systems/landing-gear.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/fuel.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/oil.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/hydraulic.md | shift:1-->
+<!--@include: ./docs/src/includes/systems/electrical.md | shift:1-->
 
-## Electrical
+<!--@include: ./docs/src/includes/systems/avionics-and-autopilot.md | shift:1-->
 
-<!--@include: ./docs/src/includes/systems/electrical.md-->
-
-## Avionics
-
-<!--@include: ./docs/src/includes/systems/avionics-and-autopilot.md | shift:2-->
-
-## Pitot-static, vacuum/pressure, and associated flight instruments
-
-<!--@include: ./docs/src/includes/systems/pitot-static-vacuum-instruments.md | shift:2-->
+<!--@include: ./docs/src/includes/systems/pitot-static-vacuum-instruments.md | shift:1-->
 
 <!--@include: ./docs/src/includes/systems/environmental-systems.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md | shift:1-->
@@ -40,6 +32,8 @@ This page covers *Task E. Aircraft Flight Controls and Operation of Systems* fro
 
 * Indications of system abnormalities or failures
 * Managing system abnormalities or failures
+
+<!--@include: ./docs/src/includes/airworthiness-inop-equipment.md | shift:2-->
 
 ## References
 

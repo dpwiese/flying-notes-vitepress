@@ -1,4 +1,4 @@
-# Environmental
+# Environmental System
 
 * Environmental systems are those which are responsible for maintaining pilot and passenger comfort, and to ensure the human body can properly function physiologically
 * Heating / Air Conditioning

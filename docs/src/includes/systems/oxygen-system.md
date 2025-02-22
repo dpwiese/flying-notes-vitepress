@@ -1,4 +1,4 @@
-# Oxygen system
+# Oxygen System
 
 * In a mixture of gases, each constituent gas has a **partial pressure** which is the notional pressure of that constituent gas as if it alone occupied the entire volume of the original mixture at the same temperature.
 * Components
