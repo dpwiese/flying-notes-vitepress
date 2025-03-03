@@ -2,6 +2,27 @@
 
 ## Static Pressure
 
+Consider the atmosphere as an ideal gas.
+The moisture content in the air also affects its density.
+
+```math
+\begin{equation*}
+p = \rho RT
+\end{equation*}
+```
+
+From [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 8: Flight Instruments](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/10_phak_ch8.pdf):
+
+> Adjustments to compensate for nonstandard pressure do not compensate for nonstandard temperature. Since cold air is denser than warm air, when operating in temperatures that are colder than standard, the altitude is lower than the altimeter indication.
+
+> When flying into a cooler air mass while maintaining a constant indicated altitude, true altitude is lower. If terrain or obstacle clearance is a factor in selecting a cruising altitude, particularly in mountainous terrain, remember to anticipate that a colder-than-standard temperature places the aircraft lower than the altimeter indicates. Therefore, a higher indicated altitude may be required to provide adequate terrain clearance.
+
+> When the air is warmer than standard, the aircraft is higher than the altimeter indicates.
+
+![Effects of nonstandard temperature on an altimeter. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 8: Flight Instruments](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/10_phak_ch8.pdf) Figure 8-3.](/img/phak/phak-figure-8-3-altimeter-nonstandard-temperature.png){width=800}
+
+![[FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Figure 5-8 Effects of nonstandard pressure on an altimeter of an aircraft flown into air of lower than standard pressure (air is less dense).](/img/ifh/ifh-figure-5-8-nonstandard-pressure.png){width=440}
+
 For an incompressible fluid the **hydrostatic pressure** is given by the following, where $p_{0}$ indicates some reference pressure at position $z_{0}$ and $z$ actual position ($z$ is positive in the upwards direction).
 
 TODO@dpwiese - insert picture here so sign of $z$ direction is clear

@@ -103,7 +103,7 @@
 ### Primary
 
 * **Garmin G1000 system**
-  * GDU 1050
+  * **GDU 1050**
     * PFD and MFD screens
   * **GIA 64 Integrated Avionics Unit (IAU)**
     * VHF COM/ NAV receivers

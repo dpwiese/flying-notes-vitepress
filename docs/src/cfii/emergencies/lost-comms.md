@@ -6,7 +6,7 @@ This page covers *Task A. Loss of Communications* from the [FAA-S-8081-9E Flight
 
 Know what to do in the event of a communication failure while flying IFR.
 
-<!--@include: ./docs/src/includes/emergencies/lost-comms.md | shift:1-->
+<!--@include: ./docs/src/includes/emergencies/ifr-comm-failure.md | shift:1-->
 
 ## Completion Standards
 

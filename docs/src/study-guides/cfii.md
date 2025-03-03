@@ -15,10 +15,9 @@
 ![VFR weather minimums. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 15: Airspace](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/17_phak_ch15.pdf) Figure 15-8](/img/vfr-weather-minimums.png){width=800}
 
 * **What other privileges do you have as an instrument pilot vs. a private pilot alone?**
-  * **==Flight under IFR or in weather less than VFR in controlled airspace==**
+  * **==Flight under IFR or in weather less than VFR==**
     * [14 CFR &sect;61.3(e) Instrument rating](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.3#p-61.3(e))
       * *"No person may act as pilot in command of a civil aircraft under IFR or in weather conditions less than the minimums prescribed for VFR flight unless that person holds ... instrument rating on that person's pilot certificate."*
-    * Really this is flight in weather less than VMC in *any* airspace, as operations in uncontrolled airspace under IMC without a clearance or instrument rating violate [14 CFR &sect;91.13 Careless or reckless operation](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.13)
   * **==Flight in Class A airspace==**
     * [14 CFR &sect;91.135 Operations in Class A airspace](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.135)
       * *"Each person operating an aircraft in Class A airspace must conduct that operation under instrument flight rules (IFR)."*
@@ -317,43 +316,10 @@
 ![VFR airspace entry requirements. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 15: Airspace](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/17_phak_ch15.pdf) Figure 15-9](/img/vfr-entry-requirements.png)
 
 * **What required ATC reports and calls are specific to instrument flights?**
-  * ==Required reports (**MARVELOUS VFR C500**)==
-    * ==**M** - Missed approach==
-    * ==**A** - Airspeed==
-      * +/- 10 kts or 5% of filed TAS (whichever greater)
-      * ATC basically wants to know if we are making a deliberate power change
-    * ==**R** - Reaching a holding fix==
-      * Time and altitude
-      * Crossing the holding fix outbound as part of our entry procedure
-    * ==**V** - VFR on-top altitude changes==
-    * ==**E** - ETA change==
-      * Of more than +/- 2 minutes
-      * *In non-radar environment*
-    * ==**L** - Leaving a holding fix==
-    * ==**O** - Outer marker inbound==
-      * *In non-radar environment*
-      * Outer marker indicates final approach fix for non-precision approach
-    * ==**U** - Unforecast weather==
-      * Especially icing, turbulence, wind
-    * ==**S** - Safety of flight==
-    * ==**V** - Vacating an altitude or flight level==
-    * ==**F** - FAF inbound==
-      * *In non-radar environment*
-    * ==**R** - Radio or navigation failure==
-    * ==**C** - Compulsory reporting points==
-      * *In non-radar environment*
-      * This includes points which define the route of flight
-    * ==**500** - Failure to maintain at least 500 FPM climb or descent==
-  * ==How to report one of the above (**PTA PT P**)==
-    * **P** - Point
-    * **T** - Time
-    * **A** - Altitude
-    * **P** - Point
-    * **T** - Time
-    * **P** - Point
-    * For example
-      * *=="Potomac Approach, Skyventures 124 is over CSN at 4000 feet 30 minutes after the hour, expect BRV at 45 minutes after the hour, then FAK"==*
-    * *Note: in the above example, the use of time in reference to minutes before or after the hour avoids confusion across time zone. Otherwise, use Zulu time instead of local time to similarly avoid confusion.*
+
+<!--@include: ./docs/src/includes/mandatory-reporting-points.md | shift:4-->
+<!--@include: ./docs/src/includes/position-reports.md | shift:4-->
+
 * **Loss of radar coverage reports**
   * *For the scenario in this question, consider a flight to the Bahamas some time after a hurricane had passed through disabling secondary radar coverage, thus requiring pilots to make position reports on their flight.*
     * See [FAA VFR Raster Charts](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/vfr/) [Carribean - 1](https://aeronav.faa.gov/visual/11-03-2022/PDFs/Caribbean_1_VFR.pdf) chart
@@ -373,31 +339,7 @@
 
 ### VII.A Loss of Communications Procedures
 
-* **Loss of communications procedures**
-  * ==If the radio fails while VFR, fly VFR and land as soon as practicable==
-    * If you enter VMC try to stay in VMC
-  * ==If flight needs to be continued IFR after losing communications, the following *route* should be flown (**AVEF**)==
-    * ==**A** - Assigned==
-      * In last ATC clearance
-    * ==**V** - Vectored==
-    * ==**E** - Expected==
-      * From last ATC communication
-    * ==**F** - Filed==
-      * In flight plan
-  * ==If flight needs to be continued IFR after losing communications, the **highest** of the following *altitude* should be flown (**MEA**) *for each route segment*==
-    * ==**M** - Minimum altitude for IFR operations==
-    * ==**E** - Expected==
-      * From last ATC communication
-    * ==**A** - Assigned==
-      * In last ATC clearance
-  * If radio failure happens and clearance limit **is** the fix from which approach begins
-    * ==Start descent and approach as close as possible to EFC time==
-    * ==Or to arrive at estimated arrival time from flight plan (or amended enroute) if no EFC time==
-  * If clearance limit **is not** a fix from which approach begins
-    * ==Leave the clearance limit at EFC time==
-    * ==Or arrival at the fix if no EFC time==
-  * ==When comms are lost we are automatically cleared for any approach at our destination==
-  * Squawk 7600 unless declaring an emergency in which case 7700
+<!--@include: ./docs/src/includes/emergencies/ifr-comm-failure.md | shift:3-->
 
 ## Preflight Procedures
 

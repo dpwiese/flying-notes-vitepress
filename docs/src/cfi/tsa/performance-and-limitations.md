@@ -9,69 +9,36 @@ This page covers *Task F. Performance and Limitations* from the [FAA-S-ACS-25 Fl
   * Takeoff and climbout
     * Is there enough runway to safely takeoff?
     * Is climb performance sufficient to clear surrounding terrain?
-  * Accelerate-stop / accelerate-go distances
-    * What will happen if an engine failure is encountered at various points during takeoff and climbout?
   * Cruise and fuel burn
     * Ensure enough fuel is available to complete flight
     * Determine duration of flight to know which weather forecasts to reference
   * Landing
     * Is there enough runway to safely land?
-* See Baron-specific section below for performance charts
-* **All engine service ceiling**
-  * Maximum altitude at which the plane will climb at a rate of 100 FPM in smooth air with AEI
-* **All engine absolute ceiling**
-  * Maximum altitude at which the plane will no longer climb at all with AEI
-* **Single engine service ceiling**
-  * Maximum altitude at which the plane will climb at a rate of 50 FPM in smooth air with OEI
-* **Single engine absolute ceiling**
-  * Maximum altitude at which the plane will no longer climb at all with OEI
-* **Accelerate-stop distance**
-  * Achieve maximum power prior to break release
-  * Reach lift-off speed
-  * Both throttles to idle
-  * Come to a complete stop
-  * [14 CFR &sect; 23.55 (2017)](https://www.ecfr.gov/on/2017-08-29/title-14/chapter-I/subchapter-C/part-23/subpart-B/subject-group-ECFR5ed09dfc2a6b782/section-23.55) for aircraft more than 6,000 lb
-* **Accelerate-go distance**
-  * Achieve maximum power prior to break release
-  * Reach lift-off speed
-  * One engine dies
-  * Climb to a height of 50 feet
-* Performance data in POH based on a new aircraft
-* Performance data in POH is based on trained professional test pilot
-* No requirements on runway length that are dependant on accelerate-stop or accelerate-go distances
-* Use good ADM to determine personal minimums associated with runway use
 
-### Effects of Exceeding Aircraft Limitations
+<!--@include: ./docs/src/includes/altitudes.md | shift:2-->
 
-Understand how to determine aircraft weight and balance and performance limitations, and the importance of operating the aircraft within its limitations to remain safe and avoid damage to the aircraft.
+## Factors Affecting Performance
 
-* See Section 2 of aircraft POH for Limitations
-* Placards (also in POH)
-* Purpose: Mitigate risk of damage
-* Generally CG affects stability and control
-* Limitations include
-  * Weight and balance
-  * Airspeed
-  * Powerplant
-  * Maneuver
-    * For example, spins may be approved
-    * Also depends on loading and thus category (utility or normal)
-  * Flight into known icing
-  * Fuel
-    * How much fuel can be carried
-  * Oil
-    * Type of oil
-  * Flap
-    * Airspeeds flaps can be used
-  * Gear
-    * Airspeeds when retractable gear can be used
-  * Instrument
-    * Excessive pitch attitutde can tumble attitude indicator
+### Atmospheric Conditions
 
-Aircraft are certificated for weight and balance for two principal reasons:
+* High density altitude affects T/O, landing, climb rate
+* Wind
 
-1. The effect of the weight on the aircraft's primary structure and its performance characteristics
-2. The effect of the location of this weight on flight characteristics, particularly in stall and spin recovery and stability
+### Pilot Technique
+
+* Achieving the performance calculated during preflight planning is dependent on the pilot flying the aircraft as directed
+
+### Airplane Configuration
+
+* Achieving the performance calculated during preflight planning is dependent on the pilot configuring the aircraft as directed
+
+### Airport Environment
+
+* Runway surface
+  * e.g. paved, grass
+* Runway slope
+
+### Loading and Weight and Balance
 
 ![Effects of CG movement.](/img/effects_of_cg_movement.jpg){width=340}
 
@@ -88,32 +55,6 @@ Aircraft are certificated for weight and balance for two principal reasons:
   * Reduced elevator effectiveness
     * May not be able to recover from a spin
   * Limit imposed by stability (making sure aircraft has correct damping) / stall recovery
-
-## Factors Affecting Performance
-
-### Atmospheric Conditions
-
-* Density Altitude
-  * Pressure altitude corrected for non-standard temperature and pressure
-  * Affected by pressure, temp, humidity (negligible, but may play a factor)
-  * Affects T/O, landing, climb rate
-* Wind
-
-### Pilot Technique
-
-* TBD
-
-### Airplane Configuration
-
-* TBD
-
-### Airport Environment
-
-* TBD
-
-### Loading and Weight and Balance
-
-* TBD
 
 ## Weight and Balance Terms
 
@@ -173,3 +114,64 @@ The equipment list for an aircraft is located with the weight and balance data.
 ## Aerodynamics
 
 * TBD
+
+## Effects of Exceeding Aircraft Limitations
+
+Understand how to determine aircraft weight and balance and performance limitations, and the importance of operating the aircraft within its limitations to remain safe and avoid damage to the aircraft.
+
+* See Section 2 of aircraft POH for Limitations
+* Placards (also in POH)
+* Purpose: Mitigate risk of damage
+* Generally CG affects stability and control
+* Limitations include
+  * Weight and balance
+  * Airspeed
+  * Powerplant
+  * Maneuver
+    * For example, spins may be approved
+    * Also depends on loading and thus category (utility or normal)
+  * Flight into known icing
+  * Fuel
+    * How much fuel can be carried
+  * Oil
+    * Type of oil
+  * Flap
+    * Airspeeds flaps can be used
+  * Gear
+    * Airspeeds when retractable gear can be used
+  * Instrument
+    * Excessive pitch attitutde can tumble attitude indicator
+
+Aircraft are certificated for weight and balance for two principal reasons:
+
+1. The effect of the weight on the aircraft's primary structure and its performance characteristics
+2. The effect of the location of this weight on flight characteristics, particularly in stall and spin recovery and stability
+
+## Multi-engine Performance
+
+* Accelerate-stop / accelerate-go distances
+  * What will happen if an engine failure is encountered at various points during takeoff and climbout?
+* See Baron-specific section below for performance charts
+* **All engine service ceiling**
+  * Maximum altitude at which the plane will climb at a rate of 100 FPM in smooth air with AEI
+* **All engine absolute ceiling**
+  * Maximum altitude at which the plane will no longer climb at all with AEI
+* **Single engine service ceiling**
+  * Maximum altitude at which the plane will climb at a rate of 50 FPM in smooth air with OEI
+* **Single engine absolute ceiling**
+  * Maximum altitude at which the plane will no longer climb at all with OEI
+* **Accelerate-stop distance**
+  * Achieve maximum power prior to break release
+  * Reach lift-off speed
+  * Both throttles to idle
+  * Come to a complete stop
+  * [14 CFR &sect; 23.55 (2017)](https://www.ecfr.gov/on/2017-08-29/title-14/chapter-I/subchapter-C/part-23/subpart-B/subject-group-ECFR5ed09dfc2a6b782/section-23.55) for aircraft more than 6,000 lb
+* **Accelerate-go distance**
+  * Achieve maximum power prior to break release
+  * Reach lift-off speed
+  * One engine dies
+  * Climb to a height of 50 feet
+* Performance data in POH based on a new aircraft
+* Performance data in POH is based on trained professional test pilot
+* No requirements on runway length that are dependant on accelerate-stop or accelerate-go distances
+* Use good ADM to determine personal minimums associated with runway use

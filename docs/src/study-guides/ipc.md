@@ -70,11 +70,12 @@
 
 ## En Route
 
-### Global Positioning System (GPS)
-
-<!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:3-->
+<!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:2-->
 
 <!--@include: ./docs/src/includes/ifr-en-route.md | shift:2-->
+<!--@include: ./docs/src/includes/ifr-altitudes.md | shift:2-->
+<!--@include: ./docs/src/includes/mandatory-reporting-points.md | shift:2-->
+<!--@include: ./docs/src/includes/waypoints.md | shift:2-->
 
 ### En Route Weather
 
@@ -104,7 +105,8 @@
 
 ### Abnormal Procedures and Emergencies
 
-<!--@include: ./docs/src/includes/ifr-equipment-failure.md | shift:3-->
+<!--@include: ./docs/src/includes/emergencies/ifr-comm-failure.md | shift:3-->
+<!--@include: ./docs/src/includes/emergencies/ifr-equipment-failure.md | shift:3-->
 
 ### Holding Procedures
 
@@ -139,3 +141,6 @@
 * [FAA-S-ACS-8C Instrument Rating Airplane Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/instrument_rating_airplane_acs_8.pdf)
 * [Instrument Proficiency Check (IPC) Guidance](https://www.faasafety.gov/files/events/EA/EA03/2018/EA0382492/IPC_Guidance.pdf)
 * [FAA-AC-61-98D - Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/1033391)
+* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
+  * Chapter 10: IFR Flight
+    * Page 10-5: Departure Procedures (DPs)

@@ -37,9 +37,7 @@ See [Standard Instrument Departures/Terminal Arrivals](/cfii/tsa/regulations-pub
 
 * If there is a delay getting FMS set up to adhere to ATC instructions, ask for vectors to buy time
 
-## Procedures to be used in the event of two-way communications failure
-
-<!--@include: ./docs/src/includes/ifr-equipment-failure.md | shift:2-->
+<!--@include: ./docs/src/includes/emergencies/ifr-comm-failure.md | shift:1-->
 
 ## The uses of the multifunction display and other graphical navigational displays, if installed, to monitor position track, wind drift, and other parameters to maintain situational awareness and desired flightpath
 

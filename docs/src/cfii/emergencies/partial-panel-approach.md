@@ -6,8 +6,7 @@ This page covers *Task B. Approach With Loss of Primary Flight Instrument Indica
 
 Be able to still fly an approach and land in IMC even primary flight instruments become inoperative.
 
-## Elements
-
+<!--@include: ./docs/src/includes/emergencies/ifr-equipment-failure.md | shift:1-->
 <!--@include: ./docs/src/includes/emergencies/partial-panel-approach.md | shift:1-->
 
 ## Completion Standards

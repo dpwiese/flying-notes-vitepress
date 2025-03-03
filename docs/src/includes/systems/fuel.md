@@ -30,7 +30,11 @@
     * The following are disadvantages of using fuel injection:
       * Difficulty in starting a hot engine
       * Vapor locks during ground operations on hot days
+      * If vapor locked on hot day when starting, point aircraft into wind and open oil access door
       * Problems associated with restarting an engine that quits because of fuel starvation
+
+![Piper Archer POH (VB-2749) page 4-14 vapor lock procedure.](/img/archer-poh/archer-poh-page-4-14-vapor-lock.png){width=340}
+
 * Mixture control
   * Total mass of air in a given volume decreases with altitude
   * Mixture used to decrease mass of fuel entering the cylinder as mass of air decreases
@@ -49,11 +53,9 @@
   * Hotter it is, more water can be dissolved in fuel
   * Importance of sumping fuel
   * Fuel system icing
-* SAFETY: Carb icing, vapor lock
-  * Don't run fuel tank to empty
-  * If vapor locked on hot day when starting, point aircraft into wind and open oil access door
 * Refueling
-  * SAFETY: Static electricity, grounding procedures
+  * Static electricity
+  * Grounding procedures
 * Fuel gauges
   * Only are required to read empty when tanks are empty
   * Verify visually and/or with dip stick

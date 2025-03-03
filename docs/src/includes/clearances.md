@@ -8,54 +8,6 @@
     * May not depart prior to this time
   * Clearance void time
     * Clearance void if not airborne by this time
-* ==Required reports (**MARVELOUS VFR C500**)==
-  * ==**M** - Missed approach==
-  * ==**A** - Airspeed==
-    * +/- 10 kts or 5% of filed TAS (whichever greater)
-    * ATC basically wants to know if we are making a deliberate power change
-  * ==**R** - Reaching a holding fix==
-    * Time and altitude
-    * Crossing the holding fix outbound as part of our entry procedure
-  * ==**V** - VFR on-top altitude changes==
-  * ==**E** - ETA change==
-    * Of more than +/- 2 minutes
-    * *In non-radar environment*
-  * ==**L** - Leaving a holding fix==
-  * ==**O** - Outer marker inbound==
-    * *In non-radar environment*
-    * Outer marker indicates final approach fix for non-precision approach
-  * ==**U** - Unforecast weather==
-    * Especially icing, turbulence, wind
-  * ==**S** - Safety of flight==
-  * ==**V** - Vacating an altitude or flight level==
-  * ==**F** - FAF inbound==
-    * *In non-radar environment*
-  * ==**R** - Radio or navigation failure==
-  * ==**C** - Compulsory reporting points==
-    * *In non-radar environment*
-  * ==**500** - Failure to maintain at least 500 FPM climb or descent==
-* ==How to report one of the above (**PTA PT P**)==
-  * **P** - Point
-  * **T** - Time
-  * **A** - Altitude
-  * **P** - Point
-  * **T** - Time
-  * **P** - Point
-  * For example
-    * *=="Potomac Approach, Skyventures 124 is over CSN at 4000 feet 30 minutes after the hour, expect BRV at 45 minutes after the hour, then FAK"==*
-* Position reports
-  * Position reports are required over each compulsory reporting point along the route being flown
-    * Shown on the chart as a solid triangle
-  * Along direct routes, reports are required of all IFR flights over each point used to define the route of flight
-  * Position reports should include the following items:
-      1. Identification
-      2. Position
-      3. Time
-      4. Altitude
-      5. Type of flight plan
-      6. Estimated time of arrival (ETA) and name of next reporting point
-      7. The name only of the next succeeding reporting point along the route of flight
-      8. Remarks
 
 # Correct and timely copying of an ATC clearance
 

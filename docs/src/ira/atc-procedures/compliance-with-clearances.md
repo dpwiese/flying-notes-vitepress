@@ -7,6 +7,8 @@ This page covers *Task A. Compliance with Air Traffic Control Clearances* from t
 To determine the applicant exhibits satisfactory knowledge, risk management, and skills associated with ATC clearances and procedures while operating solely by reference to instruments.
 
 <!--@include: ./docs/src/includes/clearances.md | shift:1-->
+<!--@include: ./docs/src/includes/mandatory-reporting-points.md | shift:1-->
+<!--@include: ./docs/src/includes/position-reports.md | shift:1-->
 <!--@include: ./docs/src/includes/departure-procedures.md | shift:1-->
 
 ## PIC Emergency Authority
@@ -15,4 +17,4 @@ To determine the applicant exhibits satisfactory knowledge, risk management, and
   * The pilot in command is directly responsible for, and is the final authority as to, the operation of that aircraft
   * Can deviate from the rules to meet an emergency
 
-<!--@include: ./docs/src/includes/emergencies/lost-comms.md | shift:2-->
+<!--@include: ./docs/src/includes/emergencies/ifr-comm-failure.md | shift:2-->

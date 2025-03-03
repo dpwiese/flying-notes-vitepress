@@ -7,6 +7,7 @@ This page covers *Task C. Regulations and Publications Related to IFR Operations
 <!--@include: ./docs/src/includes/privileges-limitations/ira.md | shift:1-->
 <!--@include: ./docs/src/includes/currency.md | shift:1-->
 <!--@include: ./docs/src/includes/logging-instrument.md | shift:2-->
+<!--@include: ./docs/src/includes/logbook-entries-ifr.md | shift:2-->
 <!--@include: ./docs/src/includes/required-equipment/ifr.md | shift:2-->
 
 <!--@include: ./docs/src/includes/publications/ifh.md | shift:1-->
@@ -17,6 +18,9 @@ This page covers *Task C. Regulations and Publications Related to IFR Operations
 <!--@include: ./docs/src/includes/departure-procedures.md | shift:1-->
 <!--@include: ./docs/src/includes/arrival-procedures.md | shift:1-->
 <!--@include: ./docs/src/includes/ifr-en-route.md | shift:1-->
+<!--@include: ./docs/src/includes/ifr-altitudes.md | shift:1-->
+<!--@include: ./docs/src/includes/mandatory-reporting-points.md | shift:1-->
+<!--@include: ./docs/src/includes/waypoints.md | shift:1-->
 
 ## Standard Instrument Approach Procedure Charts
 
@@ -25,6 +29,8 @@ See [Instrument Approach Procedures](/cfii/approaches/overview)
 ## References
 
 * [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
+  * Chapter 10: IFR Flight
+    * Page 10-5: Departure Procedures (DPs)
 * [14 CFR &sect;91.175(c) Operation below DA/DH or MDA](https://www.ecfr.gov/current/title-14/part-91#p-91.175(c))
 * [Aeronautical Chart Users' Guide IFR Enroute Charts](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/aero_guide/)
 * [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8)

@@ -15,6 +15,7 @@ This page covers *Task K. Endorsements and Logbook Entries* from the [FAA-S-ACS-
     * *An engine* of 200hp or more
     * [14 CFR &sect;61.31(f)](https://www.ecfr.gov/current/title-14/part-61/section-61.31#p-61.31(f))
   * **Complex** - Retractable gear, flaps, *and* controllable pitch propeller
+    * [14 CFR &sect;61.31(e)](https://www.ecfr.gov/current/title-14/part-61/section-61.31#p-61.31(e))
   * **High Altitude** - 25,000 MSL or more
   * **Tail-wheel**
   * **Technically Advanced Aircraft (TAA)** - see [here](https://www.aopa.org/training-and-safety/active-pilots/safety-and-technique/operations/technically-advanced-airplanes) for example

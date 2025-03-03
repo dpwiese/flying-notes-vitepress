@@ -10,9 +10,6 @@
   * **Standard Instrument Departures (SID)**
 * Departure procedure performance requirements are given in terms of feet per nautical mile.
   * To convert those to feet per minute, there is a chart in the back of the [Digital Terminal Procedures Publication (d-TPP)/Airport Diagrams](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dtpp/)
-* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
-  * Chapter 10: IFR Flight
-    * Page 10-5: Departure Procedures (DPs)
 
 ## Obstacle Departure Procedures (ODP)
 
