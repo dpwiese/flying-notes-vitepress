@@ -1,0 +1,21 @@
+# Example 1
+
+```
+KIAD 241741Z 2418/2524 10006KT 2SM -RA OVC006 WS020/17040KT
+    FM242000 14015G23KT 3SM -SHRA VCTS OVC015CB
+    TEMPO 2420/2424 VRB40KT 1SM +TSRA BKN008 OVC015CB
+    FM250000 18012G16KT 6SM -SHRA BKN040
+    FM250200 20014G21KT P6SM BKN060
+    FM251300 26018G27KT P6SM BKN050
+```
+
+* TAF
+* `241741Z`
+  * Issuance time
+* `2418/2524`
+  * Valid period
+* `WS020/17040KT`
+  * Wind shear 2000 AGL
+  * Wind 170 at 40 knots at the top of the wind shear layer
+* `VCTS`
+  * Thunderstorms in the vicinity
