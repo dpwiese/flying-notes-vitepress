@@ -10,6 +10,8 @@ To determine the applicant exhibits satisfactory knowledge, risk management, and
 
 <!--@include: ./docs/src/includes/currency.md | shift:1-->
 <!--@include: ./docs/src/includes/logging-instrument.md | shift:1-->
+<!--@include: ./docs/src/includes/logging-approaches.md | shift:1-->
+<!--@include: ./docs/src/includes/logging-sim.md | shift:1-->
 
 <!--@include: ./docs/src/includes/medicals/basicmed.md | shift:1-->
 

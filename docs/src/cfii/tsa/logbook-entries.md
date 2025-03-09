@@ -4,6 +4,8 @@ This page covers *Task D. Logbook Entries Related to Instrument Instruction* fro
 
 <!--@include: ./docs/src/includes/logbook-entries-ifr.md | shift:1-->
 <!--@include: ./docs/src/includes/logging-instrument.md | shift:1-->
+<!--@include: ./docs/src/includes/logging-approaches.md | shift:1-->
+<!--@include: ./docs/src/includes/logging-sim.md | shift:1-->
 
 ## Endorsements
 

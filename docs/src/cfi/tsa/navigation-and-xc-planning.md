@@ -54,71 +54,15 @@ This page covers *Task I. Navigation and Cross-Country Flight Planning* from the
 
 <!--@include: ./docs/src/includes/altitudes.md | shift:2-->
 
-### Airspeed
+<!--@include: ./docs/src/includes/airspeeds.md | shift:2-->
 
-* **Indicated Airspeed (IAS)**
-  * What the airspeed indicator says
-* **Calibrated Airspeed (CAS)**
-  * Indicated airspeed corrected for instrument and position error
-  * These errors are due to pressure around the aircraft the static port, for example, does not measure free-stream static pressure perfectly, especially not across the whole range of flight conditions, flap settings, or a large angle of attack causing the free stream flow not to directly enter the pitot tube.
-  * Calibrated airspeed is what the plane "sees"
-  * When flying at sea level under International Standard Atmosphere (ISA) conditions (15 degrees Celsius, 29.92 inHg, 0% humidity), calibrated airspeed is the same as true airspeed
-* **Equivalent Airspeed (EAS)**
-  * Calibrated airspeed corrected for compressibility effects
-* **True Airspeed (TAS)**
-  * Calibrated airspeed corrected for altitude and nonstandard temperature
-  * For example, as altitude increases (and density decreases) the calibrated airspeed will tend to decrease (less dynamic pressure as measured by the pitot tube) even while true airspeed remains the same.
+<!--@include: ./docs/src/includes/charts/overview.md | shift:1-->
 
-## Aeronautical Chart Features
-
-* Digital versions of the charts available for free online
-  * PDF and other formats from the FAA
-    * [FAA VFR Raster Charts](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/vfr/)
-  * [Skyvector](https://skyvector.com)
-* Many topographical and aeronautical features
-  * Airspace
-  * Airports
-  * Navaids
-  * Terrain / Obstructions
-    * Including elevation
-  * Geographical features
-    * Rivers, lakes
-  * Lines of latitude and longitude
-  * Magnetic variation
-  * Manmade features
-    * Cities
-    * Highways
-    * Railways
-    * Power lines
-  * Landmarks
-  * More
-* Charts are periodically republished to account for changes
-
-### Chart Types
-
-* **VFR Sectional Chart**
-  * Most commonly used flying under VFR
-  * 1:500,000 scale, 6.8 nm/inch
-  * Updated every 6 months
-  * Topographic features
-* **Terminal Aeronautical Chart (TAC)**
-  * 1:250,000, 3.43 nm/inch
-  * Close to Class B airspace
-  * Limited coverage
-* **VFR Flyway**
-  * On back of certain TAC
-  * [VFR Flyway Planning Chart](https://www.faa.gov/air_traffic/flight_info/aeronav/productcatalog/PlanningCharts/VFRFlyway/)
-* **World Aeronautical Chart (WAC)**
-  * Medium airspeed, cover more distance
-  * 1:1,000,000, 13.7NM/inch
-* **Helicopter**
-  * May provide additional local information about landmarks referenced by ATC and what they look like
-
-![Sectional legend.](/img/sectional-legend-2.jpg){width=400}
-
-![Washington Baltimore flyway chart.](/img/washington-baltimore-flyway-chart.jpg){width=500}
-
-![Washington Baltimore helicopter chart.](/img/washington-baltimore-helicopter-chart.jpg){width=500}
+<!--@include: ./docs/src/includes/charts/sectional.md | shift:2-->
+<!--@include: ./docs/src/includes/charts/tac.md | shift:2-->
+<!--@include: ./docs/src/includes/charts/flyway.md | shift:2-->
+<!--@include: ./docs/src/includes/charts/wac.md | shift:2-->
+<!--@include: ./docs/src/includes/charts/helicopter.md | shift:2-->
 
 ### Altitude Figures
 
@@ -231,23 +175,7 @@ This page covers *Task I. Navigation and Cross-Country Flight Planning* from the
 * Leverage ATC & FSS (122.2) – "Radio" & Location
 * Use shortcuts and rules of thumb in calculations
 
-## Lost Procedures
-
-* Use the 5 C's checklist
-  * **Circle**: Stay in one spot
-  * **Climb**: Better visibility, better signal and communication strength
-  * **Communicate**: Ask for vectors to a known location
-  * **Confess**: Admit you are lost
-  * **Calculate**: Figure out fuel remaining, where to go, groundspeed, distance covered
-
-* Double check maps and look for landmarks
-* Use secondary navigation systems (GPS, VOR)
-  * Nearest or Direct-To
-  * 2x VORs to identify location
-  * Use ATC (report who you are last known location, heading, airspeed, altitude)
-* Check town water towers or airfield names
-* Compare the heading indicator to the magnetic compass, and note the direction of error before resetting
-  * Can help determine if you are left or right of course
+<!--@include: ./docs/src/includes/lost-procedures.md | shift:1-->
 
 ## Fuel Consumption Calculation
 
@@ -285,23 +213,7 @@ This page covers *Task I. Navigation and Cross-Country Flight Planning* from the
 * Pilot mental and physical condition a factor (IMSAFE)
 * Recent flight experience is important in making the decision
 
-## Filing a Flight Plan
-
-![Flight plan form. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 10: IFR Flight Figure 10-1.](/img/ifh/ifh-figure-10-1-flight-plan-form.png){width=500}
-
-* Flight Service Station (FSS)
-  * Calling 1-800-WX-BRIEF
-  * [1800wxbrief.com](https://www.1800wxbrief.com/)
-  * Provided by Leidos Flight Service
-    * The FAA-contracted Flight Service provider/resource
-  * During flight
-    * To find Automated Flight Service Station (AFSS) frequency, can use Foreflight (it's listed for each airport) otherwise, look for the frequency over VOR boxes.
-    * Common frequency is 122.2
-* Foreflight
-* Flight plan uses true airspeed when filing
-* VFR flight plans are held for 2 hour after proposed departure time and 30 minutes before
-* Have 30 minutes to close VFR flight plan after *ETA*
-  * If your flight plan is not closed search and rescue services will come looking
+<!--@include: ./docs/src/includes/flight-plan.md | shift:1-->
 
 ## References
 
