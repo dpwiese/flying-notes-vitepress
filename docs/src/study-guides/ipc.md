@@ -43,6 +43,7 @@
 
 <!--@include: ./docs/src/includes/airworthiness-inop-equipment.md | shift:3-->
 <!--@include: ./docs/src/includes/inspections-required.md | shift:3-->
+<!--@include: ./docs/src/includes/vor-checks.md | shift:3-->
 
 ### Performance Calculations
 

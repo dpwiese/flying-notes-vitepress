@@ -12,3 +12,4 @@ To determine the applicant exhibits satisfactory knowledge, risk management, and
 <!--@include: ./docs/src/includes/systems/trim-controls.md | shift:1-->
 
 <!--@include: ./docs/src/includes/vor.md | shift:1-->
+<!--@include: ./docs/src/includes/vor-checks.md | shift:1-->

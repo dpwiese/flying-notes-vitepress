@@ -258,6 +258,8 @@ export default defineConfig({
           items: [
             { text: 'Aircraft Flight Instruments', link: '/cfii/tsa/flight-instruments' },
             { text: 'Navigation Equipment', link: '/cfii/tsa/nav' },
+            { text: 'Ground Based Navigation', link: '/cfii/tsa/ground-based-nav' },
+            { text: 'Satellite Based Navigation', link: '/cfii/tsa/satellite-based-nav' },
             { text: 'Aeromedical Factors', link: '/cfii/tsa/aeromedical' },
             { text: 'Regulations and Publications', link: '/cfii/tsa/regulations-publications' },
             { text: 'Logbook Entries', link: '/cfii/tsa/logbook-entries' }

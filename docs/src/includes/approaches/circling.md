@@ -1,22 +1,24 @@
-* ==Approaches whose final approach segment is more than 30 degrees different from the landing runway alignment are designated as circling approaches==
-  * There are some exceptions to this with LDA (and perhaps other) approaches
-  * `PHNL LDA RWY 26L`, `KDCA LDA Y RWY 19`, `KDCA LDA Z RWY 19`
-  * The reason is probably described in [FAA Order 8260.3G](https://www.faa.gov/documentLibrary/media/Order/Order_8260.3G.pdf)
-* *==Circling approaches may also be designated when the descent gradient is greater than 400 ft/NM from the FAF to the threshold crossing height (TCH) or there is no runway clearly identified on the field==*
+# Definition
+
+* ==Approaches whose final approach segment is more than 30 degrees different from the landing runway alignment are designated as circling approaches.==
+* *==Circling approaches may also be designated when the descent gradient is greater than 400 ft/NM from the FAF to the threshold crossing height (TCH).==*
   * 400 ft/nm approximates a 3.77&#176; descent angle
+* *==Or there is no runway clearly identified on the field.==*
+
+# Examples
+
+![KCRS VOR/DME-A. This approach is designed a circling approach because the final approach course is nearly perpendicular to the two available runways, exceeding the maximum of 30&#176; to be associated with a particular runway. Note also that as a VOR/DME approach, both VOR and DME are required.](/img/iap/kcrs-vor-dme-a.png){width=600}
+
+![KASE RNAV (GPS)-F. This approach is designated a circling approach due to the steep descent between the final approach fix (FAF) and the threshold crossing height. More than 4500 feet need to be lost in the 6.5 nm between the FAF (ALLIX) and reaching the runway, a descent of about 700 ft/nm, corresponding to the vertical descent angle (VDA) of 6.49&#176;.](/img/iap/kase-rnav-gps-f.png){width=600}
+
+# Overview
+
 * Unless a specific landing runway is specified in the approach clearance, the pilot may land on any runway
-
-## Purpose
-
-When final approach course more than 30&#176; off runway alignment or steeper descent approach path
-
-## Elements
-
+* See [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook) [Chapter 4: Approaches](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_4.pdf) page 4-11 for the criteria above.
 * Circling minima guarantee 300 foot obstacle clearance with the circling area
 * If you re-enter clouds you must go missed
 * No more than 30&#176; bank
 * Circling approach radii are from *any paved runway* on airport
-* Circling only approach when final approach course more than 30&#176; off runway alignment or steeper descent approach path
 * From [AIM 5-4-20(f)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html#$paragraph5-4-20)
 
     > Pilots should remain at or above the circling altitude until the aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers.
@@ -27,7 +29,7 @@ When final approach course more than 30&#176; off runway alignment or steeper de
 
 ![Digital Terminal Procedures: expanded circling approach maneuvering airspace radius](/img/tpp/dtpp-circling-radius.jpg){width=540}
 
-### Direction of Circling
+# Direction of Circling
 
 * The takeaway of this issue seems to be that FAA lawyers maintain that [14 CFR &sect; 91.126](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.126), that requires all turns be made to the left, applies to pilots flying circling approaches.
 * *However* an increasing amount of guidance (e.g. via [FAA-AC-90-66C](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-66C.pdf)) seems to imply that it is only when circling *in VMC* that this rule applies
@@ -59,3 +61,16 @@ When final approach course more than 30&#176; off runway alignment or steeper de
 
 * This language, to specify "in VMC" was added in paragraph 9.6 of [FAA-AC-90-66B-CHG-1](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-66B_CHG_1.pdf)
 * In addition, the language "unless the approach procedure explicitly states otherwise" seems to *not* be how Flight Standards responded to the example of the RNAV (GPS) RWY 12 at KTCY in [IFR Magazine - Circling Revisited](https://www.ifr-magazine.com/system/circling-revisited/), rather it was *implicitly stated* that circling to the right was acceptable only because circling to the left was not authorized.
+
+# LDA Approaches
+
+* There are some exceptions to this with LDA (and perhaps other) approaches
+  * `PHNL LDA RWY 26L`
+  * `KDCA LDA Y RWY 19`
+  * `KDCA LDA Z RWY 19`
+* The reason is probably described in [FAA Order 8260.3G](https://www.faa.gov/documentLibrary/media/Order/Order_8260.3G.pdf)
+* The majority of LDA approaches are designated circling approaches consistent with the definition above, these are just some notable exceptions to that rule.
+
+![Note the final approach course of 304&#176; is offset 43.9&#176; from the runway (260.5&#176;) but still has "straight-in" minimums.](/img/iap/phnl-lda-rwy-26l.png){width=600}
+
+![Note the final approach course of 147&#176; is offset 39.3&#176; from the runway (186.3&#176;) but still has "straight-in" minimums.](/img/iap/kdca-lda-z-rwy-19.png){width=600}

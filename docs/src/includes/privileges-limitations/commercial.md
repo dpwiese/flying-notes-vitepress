@@ -45,6 +45,27 @@
     * Student instruction, non-stop air tours, ferry/training flights, crop dusting, banner towing, aerial photography, firefighting, pipeline patrol, skydivers (within 25nm of departure airport)
   * Common Carriage = "Holding out | to take pax or cargo | from place to place | for compensation"
 
+## Supervised Solo
+
+* The 10 hours of solo flight can be performed with an instructor on board
+  * In the case, instructor is acting in their capacity as an instructor, and so can log PIC
+  * The pilot does not log dual received since they are not receiving instruction
+* See Kuhn 2014
+
+## Double Dipping
+
+::: tip
+The safest way to credit instrument training received while working towards an instrument rating towards the requirements of [14 CFR &sect;61.129](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.129) is to ensure the training satisfies the commercial requirements and note in the logbook entry that the training received was in accordance with [14 CFR &sect;61.129](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.129).
+:::
+
+* On counting time received during training for instrument rating towards experience requirements above
+  * [Oord 2018](https://www.faa.gov/media/11141)
+  * [Hartzell 2010](https://www.faa.gov/media/14131)
+  * [Theriault 2010](https://www.faa.gov/media/14351)
+  * [Theriault 2011](https://www.faa.gov/media/13891)
+
+![Excerpt from [Hartzell 2010](https://www.faa.gov/media/14131).](/img/hartzell-2010-excerpt.jpg){width=800}
+
 ## Flying for Hire
 
 ### Introduction
@@ -126,6 +147,7 @@ And really the takeaway here is that if, as a commercial pilot, you are faced wi
 * Wet vs dry leasing
   * [14 CFR &sect;110.2](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-110/section-110.2)
   * Wet leasing means any leasing arrangement whereby a person agrees to provide an entire aircraft and at least one crewmember.
+  * Dry leasing is the lease of an aircraft without any crew members.
   * See [FAA General Aviation Dry Leasing Guide](https://www.faa.gov/sites/faa.gov/files/2021-11/GADryLeasingGuide.pdf)
 * There are certain requirements when an aircraft is leased to someone else
   * [14 CFR &sect;91.23](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.23)
@@ -146,11 +168,3 @@ And really the takeaway here is that if, as a commercial pilot, you are faced wi
 * [Aviation StackExchange What do the terms 'holding out' and 'common carriage' mean?](https://aviation.stackexchange.com/questions/1402/what-do-the-terms-holding-out-and-common-carriage-mean)
 * [Midlife Flight - What are my limitations as a commercial pilot?](http://midlifeflight.com/flyingfaq/) has a good overview
 * [FAA-AC-91-37B - Truth in Leasing](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-37B.pdf)
-
-## Notes
-
-* On counting time received during training for instrument rating towards experience requirements above
-  * [Oord 2018](https://www.faa.gov/media/11141)
-  * [Hartzell 2010](https://www.faa.gov/media/14131)
-  * [Theriault 2010](https://www.faa.gov/media/14351)
-  * [Theriault 2011](https://www.faa.gov/media/13891)

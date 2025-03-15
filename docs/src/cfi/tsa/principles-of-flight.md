@@ -519,7 +519,7 @@ Aircraft axes system is below where
     * May not be able to recover from a spin
   * Limit imposed by stability (making sure aircraft has correct damping) / stall recovery
 
-## Turning Tendency (Torque Effect)
+## Turning Tendency
 
 * *Note: most United States built aircraft engines rotate the propeller clockwise, as viewed from the pilot's seat.*
 * Four causes of turning tendency below.

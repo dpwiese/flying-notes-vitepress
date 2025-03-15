@@ -28,6 +28,7 @@ To determine the applicant exhibits satisfactory knowledge, risk management, and
 <!--@include: ./docs/src/includes/preflight/autopilot.md | shift:1-->
 
 <!--@include: ./docs/src/includes/inspections-required.md | shift:1-->
+<!--@include: ./docs/src/includes/vor-checks.md | shift:1-->
 
 ## Equipment Requirements
 

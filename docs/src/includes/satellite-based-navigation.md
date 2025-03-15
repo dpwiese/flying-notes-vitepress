@@ -1,4 +1,4 @@
-# Satellite Based Navigation
+# Overview
 
 ::: warning Global Navigation Satellite System (GNSS)
 The generic term for satellite based navigation systems used around the world.
@@ -18,7 +18,7 @@ The particular GNSS system used in the United States.
 
 * Given GPS is the system used in the United States, this document will refer to GPS, but much of what applies to GPS applies to the other GNSS systems as well.
 
-## A History of Area Navigation (RNAV)
+# A History of Area Navigation (RNAV)
 
 ::: warning [Area Navigation (RNAV)](https://www.ecfr.gov/current/title-14/part-1#p-1.1(Area%20navigation%20(RNAV)))
 A method of navigation that permits aircraft operations on any desired flight path.
@@ -52,7 +52,7 @@ A method of navigation that permits aircraft operations on any desired flight pa
 
 * With a little bit of background on legacy RNAV systems, we can now focus on GPS.
 
-## GPS Satellites
+# GPS Satellites
 
 * The GPS constellation currently consists of 31 operational satellites
 * GPS is designed so that as long as 24 GPS satellites are working, at least 5 should be visible at any time
@@ -64,7 +64,7 @@ A method of navigation that permits aircraft operations on any desired flight pa
     * More on RAIM below
   * Need 6 satellites to remove corrupt GPS signal
 
-## GPS Receiver
+# GPS Receiver
 
 * A typical GPS receiver has at least 12 channels
 
@@ -72,14 +72,14 @@ A method of navigation that permits aircraft operations on any desired flight pa
 
 ![Garmin G1000 (GIA63) TSO-129 (non-WAAS) system GPS specifications. Garmin G1000 Pilot’s Guide for Cessna Nav III (190-00498-00 Rev. A)](/img/g1000-gia63-gps-specs.png){width=300}
 
-## GPS Database
+# GPS Database
 
 * GPS databases are updated every 28 days
   * Usually every 4th Thursday of the month
   * Pilots can update GPS database if they can do it from instrument panel without special tools or disassembly of the unit
   * Take the SD card out and update it
 
-## Performance Based Navigation (PBN)
+# Performance Based Navigation (PBN)
 
 ::: warning [Performance Based Navigation](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/pbn)
 Performance Based Navigation (PBN) is comprised of Area Navigation (RNAV) and Required Navigation Performance (RNP) and describes an aircraft's capability to navigate using performance standards.
@@ -111,7 +111,7 @@ A prediction for Approach (LNAV) is not necessary.
 Once annunciated, the equipment shall not change from Approach (LPV) to Approach (LNAV/VNAV) or from Approach (LP) to Approach (LNAV) unless the approach is reselected or the pilot selects a different approach type.
 -->
 
-## Required Navigation Performance (RNP)
+# Required Navigation Performance (RNP)
 
 * RNP is a navigation specification under Performance Based Navigation (PBN)
 * Three standard RNP levels, where the value is nautical miles each side of centerline that must be maintained for aircraft and obstacle clearance
@@ -127,7 +127,7 @@ RNP Requires
   * Onboard performance monitoring and alerting
 :::
 
-### Aircraft Equipment Requirements
+## Aircraft Equipment Requirements
 
 * The Piper Archer III NXi G1000 system satisfies the following requirements:
   * RNP APCH (without RF)
@@ -173,7 +173,7 @@ RNP Requires
 
 ![FAA-AC-90-97 on WAAS use for VNAV.](/img/faa-ac-90-97-waas-for-vnav.png){width=600}
 
-## GPS Sensitivity Modes
+# GPS Sensitivity Modes
 
 * Three GPS modes
   * **Enroute**
@@ -193,7 +193,7 @@ RNP Requires
 
 ![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Automatic GPS CDI scaling.](/img/g1000nxi-pilots-guide/figure-2-25-26-cdi-scaling.png){width=800}
 
-## GPS Routes
+# GPS Routes
 
 * See [AIM 5-3-4](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-4)
 * Q Routes: from 1,200 up to *but not including* 18,000' MSL
@@ -207,7 +207,7 @@ RNP Requires
   * Have no specified width
     * [7400.2P 20-4-3](https://www.faa.gov/air_traffic/publications/atpubs/pham_html/chap20_section_4.html)
 
-## Regulations
+# Regulations
 
 * Technical Standard Orders (TSO) are the regulations that describe GNSS certification
   * [Technical Standard Orders (TSO) - Regulations and Policy](https://www.faa.gov/aircraft/air_cert/design_approvals/tso/tso_regs)
@@ -231,7 +231,7 @@ RNP Requires
 
 ![Archer III NXi G1000 system is certified under TSO-C145/TSO-C146.](/img/archer-poh/archer-poh-page-1-7-nav-system-approvals.png){width=500}
 
-## Non-WAAS GPS
+# Non-WAAS GPS
 
 * Also called non-augmented GPS
 * May be used as primary source of navigation if the aircraft has working conventional navigation equipment (e.g. VOR receiver)
@@ -266,7 +266,7 @@ RNP Requires
 Basically, if you are using a non-WAAS GPS, you must make sure RAIM is available and working before using the GPS under IFR.
 :::
 
-## Receiver autonomous integrity monitoring (RAIM)
+# Receiver autonomous integrity monitoring (RAIM)
 
 ::: warning RAIM
 Receiver autonomous integrity monitoring (RAIM) is a technology for a GPS unit to assess the integrity of GPS signals it receives to make sure they are correct. [AIM 1-1-17(a)(3)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#$paragraph1-1-17)
@@ -281,7 +281,7 @@ Receiver autonomous integrity monitoring (RAIM) is a technology for a GPS unit t
 
     > If a RAIM failure/status annunciation occurs prior to the final approach waypoint (FAWP), the approach should not be completed since GPS no longer provides the required integrity. The receiver performs a RAIM prediction by 2 NM prior to the FAWP to ensure that RAIM is available as a condition for entering the approach mode. The pilot should ensure the receiver has sequenced from “Armed” to “Approach” prior to the FAWP (normally occurs 2 NM prior). Failure to sequence may be an indication of the detection of a satellite anomaly, failure to arm the receiver (if required), or other problems which preclude flying the approach.
 
-### Checking RAIM
+## Checking RAIM
 
 * There are several ways to check RAIM, the most common by using the SAPT tool online, or using the GPS receivers built-in RAIM prediction functionality
   * [AIM 5-1-16(f)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_1.html#$paragraph5-1-16)
@@ -296,7 +296,7 @@ Receiver autonomous integrity monitoring (RAIM) is a technology for a GPS unit t
   * [FAA FNS NOTAM Seach](https://notams.aim.faa.gov/notamSearch)
   * ForeFlight briefing
 
-## Wide-Area Augmentation System (WAAS)
+# Wide-Area Augmentation System (WAAS)
 
 ::: warning SBAS
 Satellite Based Augmentation System (SBAS) augments GNSS with additional ground stations/enhanced information transmitted from satellites for improved accuracy and reliability.
@@ -345,14 +345,14 @@ Wide-Area Augmentation System (WAAS) is the US implementation of SBAS.
 
     > Pilots with WAAS receivers may flight plan to use any instrument approach procedure authorized for use with their WAAS avionics as the planned approach at a required alternate, with the following restrictions. When using WAAS at an alternate airport, flight planning must be based on flying the RNAV (GPS) LNAV or circling minima line, or minima on a GPS approach procedure, or conventional approach procedure with “or GPS” in the title.
 
-## Checking WAAS Availability
+# Checking WAAS Availability
 
 * The [William J. Hughes Technical Center WAAS Test Team](https://www.nstb.tc.faa.gov/) website seems to be the best resource for checking WAAS availability
 * The [Airport Schedules](https://www.nstb.tc.faa.gov/AirportSchedules/) application seems to be the easiest way to determine WAAS availability
 
 ![WAAS Airport Schedules application](/img/waas-airport-schedules.jpeg)
 
-## Determining GPS Receiver Capabilities
+# Determining GPS Receiver Capabilities
 
 * Check AFM/POH
   * See, for example on a Cessna 172S G1000, the POH Section 2 - G1000 LIMITATIONS - GPS-WAAS for more info.
@@ -370,7 +370,7 @@ Wide-Area Augmentation System (WAAS) is the US implementation of SBAS.
 
 * WAAS satellite PRN 138 was decommissioned in May 2022 and replaced by PRN 135
 
-## Using GPS During IFR Operations
+# Using GPS During IFR Operations
 
 * Verify database is current
   * See the exception in [AIM Table 1-1-6](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#ffAks301atcn) that allows flying with an expired GPS database
@@ -378,7 +378,7 @@ Wide-Area Augmentation System (WAAS) is the US implementation of SBAS.
     * Verifying route hasn't changed
 * Check RAIM or WAAS
 
-## Using GPS for Non-GPS Approaches
+# Using GPS for Non-GPS Approaches
 
 * GPS can be used in lieu of a VOR for a VOR approach if the underlying NAVAID is monitored for final approach segment coarse alignment
   * [AIM 1-2-3(c)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html#$paragraph1-2-3) Note 5
@@ -391,7 +391,7 @@ Wide-Area Augmentation System (WAAS) is the US implementation of SBAS.
 To satisfy the requirement that the NAVAID underlying frequency be monitored on the final approach course, tune the VOR use the bearing pointers, and ensure they align with guidance provided by GPS.
 :::
 
-## GPS Failures
+# GPS Failures
 
 * On the G1000, the GPS flight phase (e.g. `ENR`, `TERM`, `LPV`) is shown on the HSI to the right of the CDI
 * Normally this text is magenta

@@ -5,6 +5,7 @@ This page covers *Task H. Navigation Systems and Radar Services* from the [FAA-S
 ## Ground Based Navigation
 
 <!--@include: ./docs/src/includes/vor.md | shift:2-->
+<!--@include: ./docs/src/includes/vor-checks.md | shift:2-->
 <!--@include: ./docs/src/includes/ndb.md | shift:2-->
 <!--@include: ./docs/src/includes/using-ground-based-navaids.md | shift:2-->
 

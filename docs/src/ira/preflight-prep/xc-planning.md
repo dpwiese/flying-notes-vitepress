@@ -10,7 +10,7 @@ This page covers the portion of *Task C. Cross-Country Flight Planning* from the
 <!--@include: ./docs/src/includes/ifr-routing.md | shift:1-->
 <!--@include: ./docs/src/includes/ifr-alternates.md | shift:1-->
 
-<!--@include: ./docs/src/includes/ifr-charts.md | shift:1-->
+<!--@include: ./docs/src/includes/ifr-en-route.md | shift:1-->
 <!--@include: ./docs/src/includes/notams.md | shift:1-->
 
 <!--@include: ./docs/src/includes/preflight-information.md | shift:1-->

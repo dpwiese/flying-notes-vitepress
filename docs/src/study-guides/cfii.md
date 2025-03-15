@@ -365,21 +365,7 @@
   * Physiological or mental discomfort or illness can be a distraction or affect senses so the pilot is not able to safely perform required duties
   * Cognition can be affected
 
-#### VOR Ground Checkpoint
-
-* Has a sign in front of the arrow with the radial and frequency
-
-![VOR ground checkpoint location indicated in Chart Supplement. Note the location of the ground checkpoint in Richmond.](/img/chart-supplement-vor-ground-checkpoint-kric.jpg){width=600}
-
-![Aerial image of ground checkpoint at Richmond.](/img/kric-vor-ground-checkpoint.jpg){width=800}
-
-#### VOT Check
-
-* A VOT is a facility located at certain airports that emits a signal that can be used to test a plane's VOR receiver
-* The VOT signals are generally designed to be used while on the ground, but some are designated as usable in air, with certain restrictions
-* This information can be found in the chart supplement
-
-![VOR test facilities in chart supplement (south central U.S.)](/img/chart-supplement-vot-facilities.png){width=600}
+<!--@include: ./docs/src/includes/vor-checks.md | shift:3-->
 
 ### II.C Instrument Flight Deck Check
 

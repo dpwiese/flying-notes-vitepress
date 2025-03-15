@@ -9,6 +9,7 @@ This page covers *Task B. Airworthiness Requirements* from the [FAA-S-ACS-25 Fli
 <!--@include: ./docs/src/includes/required-documents-sparrow.md | shift:3-->
 
 <!--@include: ./docs/src/includes/inspections-required.md | shift:2-->
+<!--@include: ./docs/src/includes/vor-checks.md | shift:2-->
 
 ### Airworthiness Directives
 
