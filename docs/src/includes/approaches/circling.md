@@ -74,3 +74,7 @@
 ![Note the final approach course of 304&#176; is offset 43.9&#176; from the runway (260.5&#176;) but still has "straight-in" minimums.](/img/iap/phnl-lda-rwy-26l.png){width=600}
 
 ![Note the final approach course of 147&#176; is offset 39.3&#176; from the runway (186.3&#176;) but still has "straight-in" minimums.](/img/iap/kdca-lda-z-rwy-19.png){width=600}
+
+# GPS Circling Approach
+
+![KTRK RNAV (GPS)-A.](/img/iap/ktrk-rnav-gps-a.png){width=500}

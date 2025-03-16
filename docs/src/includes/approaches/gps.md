@@ -48,10 +48,7 @@
 * Approach with vertical guidance
 * Requires baro-aided altimeter or appropriately certified WAAS GPS
 * Typically has minimums that are higher than LPV minimums, but occasionally LNAV/VNAV minimums are below those for LPV
-  * `KHZR RNAV (GPS) RWY 18`
-  * `KTTA RNAV (GPS) RWY 21`
-  * `KRNO RNAV (GPS) X RWY 17L`
-  * `KSXW RNAV (GPS) RWY 5`
+  * See below for some specific examples
 
 ### LPV
 
@@ -79,30 +76,17 @@
 * May be flown solely with GPS if it says `NDB or GPS`
 * Or if you have a working NDB onboard, although you need not monitor it
 
-## GPS Approach Nuances
+## Interesting Approaches
 
-### Interesting Approach Minima
+### Better LNAV/VNAV Minimums
 
-* Approaches where LNAV/VNAV minimums are lower than the corresponding LPV minimums
-  * `KHZR RNAV (GPS) RWY 18`
+* Approaches where LNAV/VNAV minimums are lower than the corresponding LPV minimums.
   * `KTTA RNAV (GPS) RWY 21`
   * `KRNO RNAV (GPS) X RWY 17L`
   * `KSCX RNAV (GPS) RWY 5`
-* Approaches where vertical guidance gives a lower DA but requires higher visibility
-  * `KMKO RNAV (GPS) RWY 4`
-  * `PAUT RNAV (GPS) RWY 27`
-* Approaches where only LNAV/VNAV is available for vertical guidance and not LPV
-  * `KSTL RNAV (GPS) RWY 6`
-  * `PHKO RNAV (GPS) Y RWY 17`
-  * `KLGA RNAV (GPS) Y RWY 31`
-* Approaches where WAAS *cannot* be used for VNAV vertical guidance
-  * `TJSJ RNAV (GPS) RWY 10`
-* Others
-  * `KMDT RNAV (GPS) RWY 13` - LNAV/VNAV minimums just seem _bad_ relative to other options
-
-![KHZR RNAV (GPS) RWY 18. The LNAV/VNAV minimums are lower than the corresponding LPV minimums.](/img/iap/khzr-rnav-gps-rwy-18.png){width=600}
-
-![Avidyne IFD540 simulator, selecting an approach at KHZR. Interestingly on this approach, LPV minima exist, and LNAV/VNAV minima are even lower, but the (simulator) only offers LNAV+V.](/img/ifd540-khzr-approaches.jpg){width=440}
+  * `KPHK RNAV (GPS) RWY 36`
+  * `KHZR RNAV (GPS) RWY 18`
+* While LPV does enable lower minimums than LNAV/VNAV, due to some specifics of how the approaches are designed there are cases where LNAV/VNAV minumums end up being lower.
 
 ![KTTA RNAV (GPS) RWY 21. The LNAV/VNAV minimums are lower than the corresponding LPV minimums.](/img/iap/ktta-rnav-gps-rwy-21.png){width=600}
 
@@ -110,19 +94,61 @@
 
 ![KSCX RNAV (GPS) RWY 5. The LNAV/VNAV minimums are lower than the corresponding LPV minimums.](/img/iap/kscx-rnav-gps-rwy-5.png){width=600}
 
+![KPHK RNAV (GPS) RWY 36. The LNAV/VNAV minimums are lower than the corresponding LPV minimums.](/img/iap/kphk-rnav-gps-rwy-36.png){width=600}
+
+![KHZR RNAV (GPS) RWY 18. The LNAV/VNAV minimums are lower than the corresponding LPV minimums.](/img/iap/khzr-rnav-gps-rwy-18.png){width=600}
+
+![Avidyne IFD540 simulator, selecting an approach at KHZR. Interestingly on this approach, LPV minima exist, and LNAV/VNAV minima are even lower, but the (simulator) only offers LNAV+V.](/img/ifd540-khzr-approaches.jpg){width=440}
+
+### Vertical Guidance Higher Visibility
+
+* Approaches where vertical guidance (provided by LNAV/VNAV) gives a lower DA (than the corresponding LNAV MDA) but requires higher visibility.
+  * `KMKO RNAV (GPS) RWY 4`
+  * `PAUT RNAV (GPS) RWY 27`
+
 ![KMKO RNAV (GPS) RWY 4. The LNAV/VNAV gives a DA below the LNAV MDA, but with higher visibility minimums.](/img/iap/kmko-rnav-gps-rwy-4.png){width=600}
 
 ![PAUT RNAV (GPS) RWY 27. The LNAV/VNAV gives a DA below the LNAV MDA, but with higher visibility minimums.](/img/iap/paut-rnav-gps-rwy-27.png){width=600}
 
-![KLGA RNAV (GPS) Y RWY 31. Only LNAV/VNAV is available for vertical guidance.](/img/iap/klga-rnav-gps-y-rwt-31.png){width=600}
+### Only LNAV/VNAV Vertical Guidance
+
+* Approaches where only LNAV/VNAV is available for vertical guidance and not LPV.
+  * `KSTL RNAV (GPS) RWY 6`
+  * `PHKO RNAV (GPS) Y RWY 17`
+  * `KLGA RNAV (GPS) Y RWY 31`
+* These approaches aren't particularly interesting, but worth reviewing and understanding before flying these appraoches, if the airplane used has the capability to fly LNAV/VNAV.
+  * In many GA planes this ability is provided by WAAS.
+  * Always check and understand aircraft capabilities before planning a particular approach.
 
 ![KSTL RNAV (GPS) RWY 6. WAAS cannot be used for VNAV vertical guidance.](/img/iap/kstl-rnav-gps-rwy-6.png){width=600}
 
 ![PHKO RNAV (GPS) Y RWY 17. WAAS cannot be used for VNAV vertical guidance.](/img/iap/phko-rnav-gps-y-rwy-17.png){width=600}
 
+![KLGA RNAV (GPS) Y RWY 31. Only LNAV/VNAV is available for vertical guidance.](/img/iap/klga-rnav-gps-y-rwt-31.png){width=600}
+
+### WAAS Cannot be used for VNAV
+
+* Approaches where WAAS *cannot* be used for VNAV vertical guidance
+  * `TJSJ RNAV (GPS) RWY 10`
+* This is an interesting case to note in the context of the section above, whereby if the aircraft being used has VNAV capabilities provided only by WAAS, then the VNAV minimum cannot be used.
+* If the aircraft has Baro-VNAV, that _can_ be used for vertical guidance
+
 ![TJSJ RNAV (GPS) RWY 10. WAAS cannot be used for VNAV vertical guidance.](/img/iap/tjsj-rnav-gps-rwy-10.png){width=600}
 
+### Circling Only GPS Approaches
+
+* Relatively uninteresting, but despite the fact that GPS approaches are _not_ constrained in their design by ground-based navaids, and therefore seems they should always be designed as straight-in approaches, terrain or other factors might constrain them to being circling-only approaches as below.
+
+![KTRK RNAV (GPS)-A.](/img/iap/ktrk-rnav-gps-a.png){width=500}
+
+### Bad LNAV/VNAV Minimums
+
+* This is an interesting case where, while having a variety of various 
+  * `KMDT RNAV (GPS) RWY 13` - LNAV/VNAV minimums just seem _bad_ relative to other options
+
 ![KMDT RNAV (GPS) RWY 13. The LNAV/VNAV visibility and DA are significantly higher than the LNAV visbility and MDA.](/img/iap/kmdt-rnav-gps-rwy-13.png){width=600}
+
+## RNP and PBN on Approaches
 
 * On PBN approach minima: [FAA Order 8260.58D](https://www.faa.gov/documentLibrary/media/Order/Order_8260.58D.pdf)
 * On approach plate definitions: [FAA Order 8260.19H](https://www.faa.gov/documentLibrary/media/Order/Order_8260.19H.pdf).
@@ -166,6 +192,6 @@
   * `KLAX RNAV (GPS) Y 25L`
   * `KLAX RNAV (RNP) Z 25L`
 
-### Circling Only GPS Approaches
+## Baro-VNAV
 
-![KTRK RNAV (GPS)-A.](/img/iap/ktrk-rnav-gps-a.png){width=500}
+![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Compensated Baro-VNAV.](/img/g1000nxi-pilots-guide/page-275-compensated-baro-vnav.png){width=800}
