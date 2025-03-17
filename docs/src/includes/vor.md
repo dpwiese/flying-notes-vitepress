@@ -19,15 +19,33 @@ Very High Frequency (VHF) Omni-directional Range (VOR) is a type of radio based 
   * So in the example above about being south of Casanova VOR, if we dialed the 180&#176; radial we would see a `FROM` indication, but if we dialed in the 360&#176; radial we would see `TO`.
   * Remember this information is irrespective of the aircraft's heading.
 
+![VOR ground station. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 9: Navigation Systems Figure 9-11.](/img/ifh/ifh-figure-9-11-vor-ground-station.png){width=500}
+
 ![DCA VOR/DME from Gravelly Point. [Gravelly Point Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/08/MountVernonTrail_GravellyPoint.jpg)](/img/gravelly-point-dca-vor.jpg){width=700}
 
-![VOR ground station. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 9: Navigation Systems Figure 9-11.](/img/ifh/ifh-figure-9-11-vor-ground-station.png){width=500}
+![VHF line of sight. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 16: Navigation](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/18_phak_ch16.pdf) Figure 16-28.](/img/phak/phak-figure-16-28-vhf-line-of-sight.jpg){width=400}
+
+## VOR Symbols on Charts
+
+* There are several different types of VOR facilities, each of which slightly different capabilities.
+* These facilities are described more in detail below.
+* For now, note each different type of VOR facility is charted slightly differently on aeronautical charts.
+* The screenshots below are from VFR sectionals, but the same symbols are used on IFR charts.
+* The most common type of VOR facility is the VORTAC, then the VOR/DME, with VOR being fairly uncommon.
 
 ![VFR sectional legend: radio aids to navigation.](/img/section-legend-vors.jpg){width=500}
 
 ![Casanova VORTAC on sectional chart.](/img/casanova-vor-sectional.jpg){width=700}
 
-![VHF line of sight. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 16: Navigation](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/18_phak_ch16.pdf) Figure 16-28.](/img/phak/phak-figure-16-28-vhf-line-of-sight.jpg){width=400}
+![Frankston VOR/DME on sectional chart.](/img/vfr-sectional/vfr-sectional-fzt-vor-dme.jpg){width=700}
+
+![Otto VOR on sectional chart.](/img/vfr-sectional/vfr-sectional-oto-vor.jpg){width=700}
+
+![Sulphur Springs DME on sectional chart.](/img/vfr-sectional/vfr-sectional-slr-dme.jpg){width=700}
+
+![A NAVAID located on an airport may not always be charted with its typical symbol. [Aeronautical Chart User Guide Complete](https://aeronav.faa.gov/user_guide/cug-complete_20250220.pdf).](/img/chart-users-guide-navaid-on-airport.png){width=800}
+
+## VOR Indicator
 
 ![VOR Indicator. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 16: Navigation](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/18_phak_ch16.pdf) Figure 16-29.](/img/phak/phak-figure-16-29-vor-indicator.jpg){width=400}
 
@@ -120,3 +138,9 @@ Very High Frequency (VHF) Omni-directional Range (VOR) is a type of radio based 
 ## VOR MON
 
 * As VORs are gradually being phased out in favor of GPS, a limited network of VORs will be kept which will make up the VOR MON network, and enable some level of navigation using this system in the event that GPS is unavailable.
+* Certain airports are also designated MON airports.
+* According to the [Aeronautical Chart User Guide Complete](https://aeronav.faa.gov/user_guide/cug-complete_20250220.pdf):
+
+    > MON Airports with the Airport designator at the top of the Airport Data Block. The MON designation is to alert pilots to those airports that have retained ILS and VOR instrument approach procedures for safe recovery in the event of a GPS outage. Refer to the Aeronautical Information Manual (AIM) for expanded MON Airport guidance.
+
+![Ardmore Municipal airport is designated a MON airport on the IFR low sectional.](/img/ifr-low-chart-adm-mon-airport.jpg){width=700}
