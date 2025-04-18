@@ -97,12 +97,13 @@ Instructor must sign the logbook of each person they have given flight or ground
   * [14 CFR &sect;61.56(e)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.56#p-61.56(e))
   * This is in lieu of flight review
 
-## Endorsement for Satisfactory Completion of FAA Flight Review
+## Flight Review
 
 * **Completion of a flight review (A.65)**
   * See [14 CFR &sect;61.56 - Flight Review](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.56) (a) and (c)
   * Minimum 1 hour ground and 1 hour flight training
   * Log unsatisfactory flight review as dual given
+  * [FAA-AC-61-98E](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98E.pdf)
 
 ![Flight review endorsement. [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)](/img/faa-ac-61-65h-flight-review-endorsement.png){width=500}
 
@@ -120,6 +121,10 @@ Instructor must sign the logbook of each person they have given flight or ground
 * Serve as a part 121 or 135 instructor or check airman
 * Complete a Flight Instructor Refresher Course (FIRC)
 * Take a practical test with FAA or DPE
+
+## Special Federal Aviation Regulation (SFAR) 73
+
+* Special requirements for Robinson R-22 and R-44 helicopters.
 
 ## References
 

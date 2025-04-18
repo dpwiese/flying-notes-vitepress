@@ -194,4 +194,12 @@
 
 ## Baro-VNAV
 
+* The Piper Archer with G1000 NXi, as an example, uses SBAS (WAAS) as its primary method of vertical navigation
+* Certain approaches such as the `TJSJ RNAV (GPS) RWY 10` shown above indicates in the notes that `WAAS VNAV NA`, indicating in this case that WAAS is not authorized for vertical nagivation.
+* In the case of the Piper Archer with G1000 NXi, it does have Baro-VNAV which can be used to provide vertical navigation.
+
+![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Vertical guidance.](/img/g1000nxi-pilots-guide/page-36-vertical-guidance.png){width=800}
+
 ![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Compensated Baro-VNAV.](/img/g1000nxi-pilots-guide/page-275-compensated-baro-vnav.png){width=800}
+
+![G1000 NXi approach with Baro-VNAV  on the KJWY RNAV (GPS) RWY 18. This was accomplished by manually disabling SBAS.](/img/g1000-baro-vnav.jpg){width=700}

@@ -79,10 +79,35 @@ A predetermined maneuver which keeps aircraft within a specified airspace while 
   * In flight this means don't get bogged down with single degree precision determinations of hold entries, or re-determining your entry if your bearing relative to the fix changes slightly
   * Rather, make a reasonable calculation of the hold entry and the necessary heading after crossing the fix, and execute this entry
 
+![Guidance on the angle to use for a teardrop hold entry for holds other than 1 minute is not obvious, but [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) gives some support to using a shallower angle for longer holds. This image relates to a teardrop course reversal, but same rationale applied to teardrop entries into holds.](/img/ifh/ifh-figure-7-44-teardrop.png){width=400}
+
 ::: tip
 Determine the hold entry as early as practicable when expecting to hold.
 For example when briefing an approach you can determine and brief the expected entry to the hold on the missed approach procedure.
 :::
+
+## Details
+
+* There are details regarding holding both in [AIM 5-3-8](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) and [AIM 5-4-9](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html#$paragraph5-4-9) both have information on holds.
+  * [AIM 5-3-8](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) is general procedural information on holds.
+  * [AIM 5-4-9](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html#$paragraph5-4-9) relates to holds in lieu of procedure turn.
+* [AIM 5-3-8(j)(5)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) states the following with respect to hold entries for DME holds:
+
+  >  DME/GPS holding is subject to the same entry and holding procedures except that distances (nautical miles) are used in lieu of time values.
+
+* This is the same guidance as in [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) page 10-13.
+* [AIM 5-3-8(j)(4)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) states:
+
+  > The initial outbound leg should be flown for 1 minute or 1 1/2 minutes (appropriate to altitude). Timing for subsequent outbound legs should be adjusted, as necessary, to achieve proper inbound leg time. Pilots may use any navigational means available; i.e., DME, RNAV, etc., to ensure the appropriate inbound leg times.
+
+* Regarding HILPT, [AIM 5-4-9(a)(5)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html#$paragraph5-4-9) states (emphasis added):
+
+  > A holding pattern in lieu of procedure turn may be specified for course reversal in some procedures. In such cases, the holding pattern is established over an intermediate fix or a final approach fix. ***The holding pattern distance or time specified in the profile view must be observed.*** For a hold-in-lieu-of-PT, the holding pattern direction must be flown as depicted and the specified leg length/timing must not be exceeded.
+
+* The intepretation from this seems to be that the initial outbound can not be shortened.
+  * See `KFBR RNAV (GPS) RWY 22` that has a 7 nm HILPT.
+  * In this case, flying outbound for 1 minute before turning to intercept the inbound leg seems to be inconsistent with the guidance in the AIM.
+* This same guidance appears verbatim in [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook) on page 4-49.
 
 # Compensating for Wind
 
@@ -104,7 +129,10 @@ It's OK to round off a degree of heading or second of time.
 * **==Adjust outbound to achieve 1 minute inbound legs==**
 * Time the outbound leg when abeam the fix
   * ==Abeam the fix is most accurately determined by flag flip==
-    * This is consistent with guidance in [AIM 5-3-8(g)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8)
+    * This is consistent with guidance in [AIM 5-3-8(g)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) and [AIM 5-3-8(j)(4)(b)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8):
+
+    > Outbound leg timing begins over/abeam the fix, whichever occurs later. If the abeam position cannot be determined, start timing when turn to outbound is completed.
+
   * If the abeam position cannot be determined, start timing when turn to outbound is completed
 * If you fly an initial outbound leg of 1 minute and that gives an inbound leg of 50 seconds, then
   * Take this deficit of 10 seconds
@@ -120,6 +148,7 @@ It's OK to round off a degree of heading or second of time.
 
 * ==**To compensate for crosswind, *triple* the inbound wind correction angle on the outbound leg**==
   * So if heading 10&#176; right of the inbound course is required to stay on course, on the outbound leg use a 30&#176; wind correction to the left
+  * This rule-of-thumb works well for 1 minute holds, for 4 nm mile holds, _doubling_ the inbound wind correction works better.
 * Do not compensate for wind when turning - just fly standard rate turns (15&#176; bank angle)
 
 ## Using Track Diamond
@@ -189,6 +218,8 @@ In aircraft equipped with track information displayed on the HSI, the applicatio
 * Prior to entering the hold
   * Start slowdown 3 minutes before reaching holding fix
     * Remember it's a good idea to ask ATC to slow down as soon as you are expecting to hold
+    * There are references in [AIM 5-3-8](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) regarding this slowdown 3 minutes prior to the hold in reference to slowing below maximum holding speed.
+    * For general aviation a better reference is [FAA-S-ACS-8C Instrument Rating Airplane Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/instrument_rating_airplane_acs_8.pdf) that specifies a slowdown 3 minutes prior to reaching the holding fix and states power should be set to conserve fuel.
   * Power 2100 RPM
   * Use a little left rudder
   * 2 slow turns of nose-up trim
@@ -256,6 +287,7 @@ In aircraft equipped with track information displayed on the HSI, the applicatio
   * ==Time the outbound leg when abeam the fix==
   * **==Abeam the fix is most accurately determined by flag flip==**
   * If the abeam position cannot be determined, start timing when turn to outbound is completed
+  * [AIM 5-3-8(g)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8)
 * Repeat this process for each turn in the hold
 * Exiting the hold and returning to cruise
   * Full power
@@ -277,6 +309,7 @@ In aircraft equipped with track information displayed on the HSI, the applicatio
   * ==Time the outbound leg when abeam the fix==
   * **==Abeam the fix is most accurately determined by flag flip==**
   * If the abeam position cannot be determined, start timing when turn to outbound is completed as indicated by wings level
+  * [AIM 5-3-8(g)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8)
     * See the example below
 
 ![Consider the hold on the published missed approach at PADDR. The completion of the outbound turn cannot be determined using the VORs, so the outbound turn is considered complete when wings are level.](/img/vor-30-klgb.jpg){width=600}
