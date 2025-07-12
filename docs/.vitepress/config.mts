@@ -249,6 +249,13 @@ export default defineConfig({
             { text: 'Ground Reference Maneuvers', link: '/cfi/performance-ground-reference/ground-reference' },
             { text: 'Eights on Pylons', link: '/cfi/performance-ground-reference/eights-on-pylons' }
           ]
+        },
+        {
+          text: 'Slow Flight, Stalls, and Spins',
+          collapsed: false,
+          items: [
+            { text: 'Slow Flight', link: '/cfi/slow-flight-stalls-spins/slow-flight' }
+          ]
         }
       ],
       '/cfii/': [

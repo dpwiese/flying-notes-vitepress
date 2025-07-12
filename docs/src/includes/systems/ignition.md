@@ -29,7 +29,7 @@
 
 ## Impulse Coupling
 
-* In most general aviation aircraft, ignition timing is fixed to provide maximum power at readline
+* In most general aviation aircraft, ignition timing is fixed to provide maximum power at redline
 * This is somewhere around 20 degrees before top dead center (BTDC)
 * In order to change the ignition timing to enable starting an impulse coupling is used
 * The impulse coupling mounts between the engine and magnetos and contains some springloaded flyweights and an internal spring
