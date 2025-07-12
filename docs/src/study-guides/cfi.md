@@ -774,3 +774,15 @@ See [FAA-AC-61-65H - Certification: Pilots and Flight and Ground Instructors](ht
 ### IV. Preflight Lesson
 
 * Applicant taught lesson.
+
+## Preflight Preparation
+
+* ***What class of medical is required to exercise flight instructor privileges?***
+  * ==None in certain circumstances==
+    * [14 CFR &sect;61.3(c)(2)(viii)](https://www.ecfr.gov/current/title-14/part-61/section-61.3#p-61.3(c)(2)(viii)) says a medical certificate is _not_ required to exercise the privileges of a flight instructor certificate, provided the person is not acting as pilot in command or as a required pilot flight crewmember.
+    * This is repeated in [14 CFR &sect;61.23(b)(7)](https://www.ecfr.gov/current/title-14/part-61/section-61.23#p-61.23(b)(7))
+  * So as long as the person being taught is legally able to act as PIC, and the instructor is not acting as a safety pilot (which would make them a required crewmember) then the instructor does not need to hold a medical.
+  * ==If the instructor does need to act as PIC or a required crewmember, then they need to hold at least a third class medical _or_ BasicMed.==
+    * [14 CFR &sect;61.23(a)(3)(ii)](https://www.ecfr.gov/current/title-14/part-61/section-61.23#p-61.23(a)(3)(ii))
+    * There is an exception that says a third-class medical is _not_ required if operating under the conditions required for BasicMed described in [14 CFR &sect;61.113(i)](https://www.ecfr.gov/current/title-14/section-61.113#p-61.113(i))
+    * Prior to 2022 a pilot could _not_ use BasicMed when not acting as PIC.

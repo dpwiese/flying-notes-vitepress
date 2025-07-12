@@ -61,8 +61,12 @@
 
 #### Is a private carrier exempt from getting an air carrier certificate?
 
-* No.
-* [14 CFR &sect;119.23](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119#119.23)
+* Not necessarily.
+* [14 CFR &sect;119.23](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119/subpart-B/section-119.23)
+* This regulation says that operators engaged in passenger-carrying operations, cargo operations, or both when common carriage is *not* involved need to operate under either part 125 or part 135 (depending on the size of the airplane)
+  * [14 CFR &sect;125.5](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-125#125.5) says an operating certificate is required.
+  * [14 CFR &sect;119.33](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119/subpart-C#119.33) says an air carrier or operating certificate is required.
+* The exceptions are in [14 CFR &sect;91.501(b)](https://www.ecfr.gov/current/title-14/part-91/section-91.501#p-91.501(b))
 
 #### How old do you need to be to be a commercial pilot?
 
@@ -178,25 +182,27 @@
 
 ### Task C. Weather Information
 
+* TBD
 
 ### Task D. Cross-Country Flight Planning
 
+* TBD
 
 ### Task E. National Airspace System
 
+* TBD
 
 ### Task F. Performance and Limitations
 
+* TBD
 
 ### Task G. Operation of Systems
 
-
+* TBD
 
 ### Task H. Human Factors
 
-
-
-
+* TBD
 
 ## Weather
 
@@ -316,6 +322,24 @@
 * This is without wind
 
 ## Unsorted
+
+#### What qualifications does a safety pilot need? Must they have complex or high performance endorsement, current medical, or flight review?
+
+* Safety pilot only needs a private pilot certificate with category and class ratings appropriate to the aircraft being flown *and* a current medical (or BasicMed).
+  * Prior to 2022 a pilot could _not_ use BasicMed when not acting as PIC.
+  * See [14 CFR &sect;91.109(c)](https://www.ecfr.gov/current/title-14/part-91/section-91.109#p-91.109(c)) that described safety pilot requirements.
+  * See [14 CFR &sect;61.23(a)(3)(ii)](https://www.ecfr.gov/current/title-14/part-61/section-61.23#p-61.23(a)(3)(ii)) that says that at least a third class medical is required when acting as a required flightcrew member.
+  * [14 CFR &sect;61.23(c)(1)(vi)](https://www.ecfr.gov/current/title-14/part-61/section-61.23#p-61.23(c)(1)(vi)) says that a required flightcrew member can use BasicMed when adhering to it's limitations.
+* The following are *not* required
+  * Current flight review
+  * Takeoff / landing currency
+  * Instrument rating
+  * Instrument currency
+* However, the above *does* impact whether or not the safety pilot can be *acting PIC* during the flight.
+
+<!--
+https://ifr-magazine.com/technique/safety-pilot-rules/
+-->
 
 ### Aeromedical Factors
 
