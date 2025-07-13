@@ -108,11 +108,16 @@ And really the takeaway here is that if, as a commercial pilot, you are faced wi
 * Operations that constitute common carriage are required to be conducted under
   * [14 CFR &sect;121](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-121?toc=1)
   * [14 CFR &sect;135](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-135?toc=1)
+  * See [Order 8900.1 CHG 948 Volume 2, Chapter 2, Section 2-127](https://drs.faa.gov/browse/ORDER_8900.1/doctypeDetails)
+
+  > Common carriage operations are conducted under part 121 or part 135, depending on the type of aircraft, seating configuration, and payload capacity.
+
 * Private carriage may be conducted under
   * [14 CFR &sect;125](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-125?toc=1)
   * [14 CFR &sect;91](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91?toc=1)
 * **Air carriers and commercial operators are subject to certain rules**
   * [14 CFR &sect;119](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119?toc=1)
+  * [14 CFR &sect;119.1](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-119/subpart-A/section-119.1) describes which rules are applicable to different types of operations, and certification requirements to operate under various other parts.
   * This applies to each person operating or intending to operate a civil aircraft:
       1. As an air carrier or commercial operator or
       2. When common carriage is not involved but the plane is big, 20+ seats, 6000+ lb payload
@@ -152,6 +157,8 @@ And really the takeaway here is that if, as a commercial pilot, you are faced wi
 * There are certain requirements when an aircraft is leased to someone else
   * [14 CFR &sect;91.23](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.23)
 
+![[Order 8900.1 CHG 840 Volume 3, Chapter 18, Section 2](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID120750431820230606234604.0001) flow chart.](/img/8900-1/8900-1-chg-840-figure-3-265.png){width=800}
+
 ### Common Scenarios
 
 * You are hired by a skydive company to fly skydivers
@@ -165,6 +172,7 @@ And really the takeaway here is that if, as a commercial pilot, you are faced wi
 
 ### Resources
 
+* [Order 8900.1 CHG 948](https://drs.faa.gov/browse/ORDER_8900.1/doctypeDetails)
 * [Aviation StackExchange What do the terms 'holding out' and 'common carriage' mean?](https://aviation.stackexchange.com/questions/1402/what-do-the-terms-holding-out-and-common-carriage-mean)
 * [Midlife Flight - What are my limitations as a commercial pilot?](http://midlifeflight.com/flyingfaq/) has a good overview
 * [FAA-AC-91-37B - Truth in Leasing](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-37B.pdf)

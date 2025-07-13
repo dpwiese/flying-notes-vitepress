@@ -23,7 +23,7 @@
   * Rudder
 * Stabilator trim is an anti-servo tab, moving in the same direction as the stabilator to increase control pressure
 
-## Powerplant and Propellor
+## Powerplant
 
 * LHAND
   * Lycoming IO-360-B4A
@@ -39,15 +39,19 @@
 
 ![Lycoming 360 series engine. [Lycoming](https://www.lycoming.com/engines/8844)](/img/lycoming-io-360.png){width=400}
 
+![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 5 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-5-lycoming.png){width=800}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 6 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-6-lycoming.png){width=800}
+
+### Ignition System
+
 * Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 page 2:
 
     > The ARCHER III is equipped with two Slick 4373 magnetos. These magnetos are engineered to give trouble free ignition, are completely self contained, and have an impulse coupling to aid in starting.
 
-    > In addition to the previously mentioned components, each ARCHER III engine is furnished with a starter, 70 ampere alternator, 28 volt electrical system, shielded ignition, and fuel pump. The exhaust system is stainless steel with two mufflers. A shroud is provided to supply heat for the cabin.
+![Archer Airplane Maintenance Manual (PN 761-883) 71-10-00 Page 1 ingition system.](/img/archer-amm/archer-amm-71-10-00-page-1-ignition.png){width=800}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 5 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-5-lycoming.png){width=800}
-
-![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 6 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-6-lycoming.png){width=800}
+![[L-1363J 4300/6300 Series Magneto Maintenance and Overhaul Manual](https://www.championaerospace.com/pdfs/techdocs/F1100/L-1363J_corrected%2020210420.pdf) magneto. Additional annotations added.](/img/l-1363j-magnetos/l-1363j-figure-7-16-a-magneto.png){width=400}
 
 ## Landing Gear
 
@@ -97,6 +101,10 @@
   * Negative means the battery is providing current *to the system*
   * This is normal when the electrical system is on but the engine is not running
   * This is *abnormal* when the engine is running as it indicates the battery is discharging
+
+* Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 page 2:
+
+    > In addition to the previously mentioned components, each ARCHER III engine is furnished with a starter, 70 ampere alternator, 28 volt electrical system, shielded ignition, and fuel pump. The exhaust system is stainless steel with two mufflers. A shroud is provided to supply heat for the cabin.
 
 ## Avionics
 
@@ -150,6 +158,12 @@
     > The RSM is installed internally on an access cover on the underside of the aircraft right wing.
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 34-24-00 Page 11 RSM installation.](/img/archer-amm/archer-amm-34-24-00-page-11-rsm.png){width=600}
+
+### Antennas
+
+![Piper Archer III NXi antennas (top).](/img/archer/archer-antennas-upper.jpeg){width=600}
+
+![Piper Archer III NXi antennas (bottom).](/img/archer/archer-antennas-lower.jpeg){width=600}
 
 ## Pitot-static / Vacuum System
 
