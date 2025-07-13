@@ -7,12 +7,21 @@
 * Ailerons
   * Differential
 * Cables between the controls and the surfaces
+* Balance weights on control surfaces prevent flutter of the control surfaces in flight
+  * See [FAA-H-8083-31B Aviation Maintenance Technician Handbook - Airframe](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) page 4-88:
 
-![TCDS 2A13 XV - B.- Model PA-28-181 (Archer III), 4 PCLM (Normal Category), 2 PCLM (Utility Category), Approved August 30, 1994, for S/N 2890206 through 2890231, 2843001 and up, and 2881001 and up. Control surface movements.](/img/tcds-2a13/tcds-2a13-control-surface-movements.png){width=600}
+    > As a general rule, repair the control surface in such a manner that the weight distribution is not affected in any way, in order to preclude the occurrence of flutter of the control surface in flight. Under certain conditions, counterbalance weight is added forward of the hinge line to maintain balance. Add or remove balance weights only when necessary in accordance with the manufacturer’s instructions. Flight testing must be accomplished to ensure flutter is not a problem. Failure to check and retain control surface balance within the original or maximum allowable value could result in a serious flight hazard.
+
+![TCDS 2A13 XV - B.- Model PA-28-181 (Archer III), 4 PCLM (Normal Category), 2 PCLM (Utility Category), Approved August 30, 1994, for S/N 2890206 through 2890231, 2843001 and up, and 2881001 and up. Control surface movements.](/img/tcds-2a13/tcds-2a13-control-surface-movements.png){width=800}
 
 ## Secondary Flight Controls
 
+::: info NOTE
+While the right flap can be used as a step while in the up position, it's generally advisable to avoid doing so if it is safe to prevent damaging the attachment bracket, which can break from the weight of a person.
+:::
+
 * Flaps
+  * Slotted type
   * Mechanically actuated with spring to return to up position
   * See POH (VB-2749) page 7-5:
 
@@ -22,6 +31,8 @@
   * Stabilator
   * Rudder
 * Stabilator trim is an anti-servo tab, moving in the same direction as the stabilator to increase control pressure
+
+![Archer slotted flaps. Note the hinge point offset below the flap surface creates the slot when the flaps are deflected.](/img/archer/archer-flaps.jpeg){width=600}
 
 ## Powerplant
 
@@ -33,15 +44,22 @@
   * Direct-drive
 * Takeoff power: 180 HP @ 2700 RPM
 * Fuel injected
-* Fixed-pitch propellor
-  * Aluminum
-  * 76 inches
 
 ![Lycoming 360 series engine. [Lycoming](https://www.lycoming.com/engines/8844)](/img/lycoming-io-360.png){width=400}
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 5 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-5-lycoming.png){width=800}
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 6 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-6-lycoming.png){width=800}
+
+### Cooling System
+
+* Air cooled
+* Air flows into the inlets behind the prop, over the engine, and exits out the bottom
+* Circulating oil (along with the oil cooler) aids in cooling
+
+### Exhaust System
+
+![Archer Airplane Maintenance Manual (PN 761-883) 78-00-00 Page 1 Figure 1 exhaust system. Annotations removed for clarity.](/img/archer-amm/archer-amm-78-00-00-page-1-figure-1-exhaust-system.png){width=800}
 
 ### Ignition System
 
@@ -52,6 +70,21 @@
 ![Archer Airplane Maintenance Manual (PN 761-883) 71-10-00 Page 1 ingition system.](/img/archer-amm/archer-amm-71-10-00-page-1-ignition.png){width=800}
 
 ![[L-1363J 4300/6300 Series Magneto Maintenance and Overhaul Manual](https://www.championaerospace.com/pdfs/techdocs/F1100/L-1363J_corrected%2020210420.pdf) magneto. Additional annotations added.](/img/l-1363j-magnetos/l-1363j-figure-7-16-a-magneto.png){width=400}
+
+### Induction System
+
+* TBD
+
+### Propeller
+
+![Archer Sensenich propeller.](/img/archer/archer-prop-sensenich-logo.jpeg){width=400}
+
+* 2-bladed
+* Fixed-pitch
+* Sensenich
+* Model 76EM8S14-0-62
+* Aluminum
+* 76 inch diameter
 
 ## Fuel System
 
@@ -135,9 +168,13 @@
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 1 Instrument Panel.](/img/archer-amm/archer-amm-34-25-03-page-1-instrument-panel.png){width=800}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 34-25-02 Page 34 GDU 1050.](/img/archer-amm/archer-amm-34-25-02-page-34-gdu-1050.png){width=340}
+![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 34 GDU 105x. Note the part number is GDU 1050 and GDU 1054 when the GFC 700 is installed.](/img/archer-amm/archer-amm-34-25-03-page-34-gdu-105x.png){width=340}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 35 Garmin GMA 1360 audio panel.](/img/archer-amm/archer-amm-34-25-03-page-35-gma-1360.png){width=260}
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 36 Garmin GIA 64 Integrated Avionics Unit.](/img/archer-amm/archer-amm-34-25-03-page-36-gia-64.png){width=340}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 38 Garmin GEA 71 Engine/Airframe Unit.](/img/archer-amm/archer-amm-34-25-03-page-38-gea-71.png){width=340}
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 41 Garmin GDU 75 ADAHRS.](/img/archer-amm/archer-amm-34-25-03-page-41-gdu-75.png){width=340}
 
@@ -185,3 +222,7 @@
 ## Deicing and Anti-icing
 
 * TBD
+
+## Appendix
+
+![Archer serial number plate. Located just in front of the leading edge of the stabilator on the left side of the empennage.](/img/archer/archer-serial-number-plate.jpeg){width=400}

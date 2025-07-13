@@ -76,13 +76,13 @@ In the following picture, can see how the drag bucket changes for the given airf
 
 * The original 1921 patent by Harlan Davey Fowler was for a flap which would *"maintain the general curvature and upper camber of the airfoil"*
 * Both the definitions by [Roskam](https://search.worldcat.org/title/247558516), *"Plain trailing edge flaps are formed by hinging the rear-most part of a wing section about a point within the contour"* and [Sadraey](https://search.worldcat.org/title/780415812), *"hinged at the wing trailing edge"* imply that the point about which a plain flap pivots must be within the cross section of the airfoil.
-* Flaps such as those found on the Piper Archer or Cirrus SR22 whose pivot point is well outside of and below the airfoil cross section are therefor slotted flaps.
+* Flaps such as those found on the Piper Archer or Cirrus SR22 whose pivot point is well outside of and below the airfoil cross section are therefore slotted flaps.
 
 ![Fowler flap diagram. [H. D. Fowler Variable Area Wing US Patent 1,392,005](https://patents.google.com/patent/US1392005A/en)](/img/fowler-flap-1921-patent.png){width=600}
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 57-50-00 Page 3 flap mechanism.](/img/archer-amm/archer-amm-57-50-00-page-3-flap-mechanism.png){width=300}
 
-![Archer flaps. Note the hinge point offset below the flap surface creates the slot when the flaps are deflected.](/img/archer/archer-flaps.jpeg){width=600}
+![Archer slotted flaps. Note the hinge point offset below the flap surface creates the slot when the flaps are deflected.](/img/archer/archer-flaps.jpeg){width=600}
 
 * For more on flap definitions see
   * [Jan Roskam - Airplane Aerodynamics and Performance](https://search.worldcat.org/title/247558516)
