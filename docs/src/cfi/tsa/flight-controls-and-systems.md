@@ -12,11 +12,11 @@ This page covers *Task E. Aircraft Flight Controls and Operation of Systems* fro
 <!--@include: ./docs/src/includes/systems/propellor.md | shift:2-->
 <!--@include: ./docs/src/includes/systems/turbine.md | shift:2-->
 
-<!--@include: ./docs/src/includes/systems/landing-gear.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/fuel.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/oil.md | shift:1-->
-<!--@include: ./docs/src/includes/systems/hydraulic.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/electrical.md | shift:1-->
+<!--@include: ./docs/src/includes/systems/hydraulic.md | shift:1-->
+<!--@include: ./docs/src/includes/systems/landing-gear.md | shift:1-->
 
 <!--@include: ./docs/src/includes/systems/avionics-and-autopilot.md | shift:1-->
 

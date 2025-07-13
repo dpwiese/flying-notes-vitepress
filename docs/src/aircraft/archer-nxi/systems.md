@@ -53,11 +53,6 @@
 
 ![[L-1363J 4300/6300 Series Magneto Maintenance and Overhaul Manual](https://www.championaerospace.com/pdfs/techdocs/F1100/L-1363J_corrected%2020210420.pdf) magneto. Additional annotations added.](/img/l-1363j-magnetos/l-1363j-figure-7-16-a-magneto.png){width=400}
 
-## Landing Gear
-
-* Fixed tricycle gear
-* Oleo struts
-
 ## Fuel System
 
 * 50 gallons total capacity
@@ -68,17 +63,15 @@
 
     > The fuel injection system is a conventional, Bendix-type RSA5 system, consisting of a fuel injection servo that meters fuel delivery based on engine intake airflow, a flow divider that evenly distributes fuel to the 4 cylinders and injection nozzles that direct vaporized fuel into the cylinder head intake ports. An alternate air control is provided in the event of blockage of the primary, filtered airflow path to the engine. The design of the system will also continue to provide the required, minimum heat rise to prevent or eliminate icing of the system by pulling airflow from around the exhaust tailpipe.
 
+![Archer Airplane Maintenance Manual (PN 761-883) 78-00-00 Page 3 fuel system.](/img/archer-amm/archer-amm-28-00-00-page-3-fuel-system.png){width=800}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 73-10-00 Page 4 fuel distribution.](/img/archer-amm/archer-amm-73-10-00-page-4-figure-2-fuel-distribution.png){width=800}
+
 ## Oil System
 
 * Wet sump
-
-## Hydraulic System
-
-* Piper Archer has a separate master cylinder for the handbrake, see POH (VB-2749) page 7-7:
-
-    > The toe and hand brakes have their own master brake cylinders, but they share a common reservoir.
-
-![Archer Airplane Maintenance Manual (PN 761-883) 27-20-00 Page 5 Rudder Controls and Steering Pedal Assembly.](/img/archer-amm/archer-amm-27-20-00-page-5-brakes.png){width=440}
+* Capacity: 8 quarts
+* Minimum safe quantity: 2 quarts
 
 ## Electrical
 
@@ -105,6 +98,20 @@
 * Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 page 2:
 
     > In addition to the previously mentioned components, each ARCHER III engine is furnished with a starter, 70 ampere alternator, 28 volt electrical system, shielded ignition, and fuel pump. The exhaust system is stainless steel with two mufflers. A shroud is provided to supply heat for the cabin.
+
+
+## Hydraulic System
+
+* Piper Archer has a separate master cylinder for the handbrake, see POH (VB-2749) page 7-7:
+
+    > The toe and hand brakes have their own master brake cylinders, but they share a common reservoir.
+
+![Archer Airplane Maintenance Manual (PN 761-883) 27-20-00 Page 5 Rudder Controls and Steering Pedal Assembly.](/img/archer-amm/archer-amm-27-20-00-page-5-brakes.png){width=440}
+
+## Landing Gear
+
+* Fixed tricycle gear
+* Oleo struts
 
 ## Avionics
 
