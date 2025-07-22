@@ -8,9 +8,9 @@
   * AGL height
   * Given by subtracting height of terrain from true altitude
 * **Pressure altitude**
-  * Height above 29.92 inHg standard datum plane (SDP)
-  * The standard datum plane is the theoretical where atmospheric pressure is 29.92 inHg
-  * ==What altimeter reads when setting altimeter to 29.92 inHg==
+  * Height above 29.92 inHg standard datum plane (SDP).
+  * The standard datum plane is the theoretical level in the atmosphere where the pressure is 29.92 inHg.
+  * ==What altimeter reads when setting altimeter to 29.92 inHg.==
 * **Density altitude**
   * Pressure altitude corrected for nonstandard temperature
   * Vertical distance above sea level in the standard atmosphere at which a given density is to be found.

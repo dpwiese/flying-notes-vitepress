@@ -1,4 +1,4 @@
-# Twin Comanche
+# Systems
 
 ![Twin Comanche (N24TE)](/img/twin-comanche/n24te.jpeg){width=800}
 
@@ -138,39 +138,3 @@ This document describes the systems on the Twin Comanche.
 
 * Hobbs under center floor by fuses
 * Does not have Tach time?
-
-## V-Speeds
-
-The below speeds are all in MPH.
-
-* **$V_{\text{SO}}$**: 69
-* **$V_{\text{S}}$**: 76
-* **$V_{\text{R}}$**: 85
-* **$V_{\text{X}}$**: 90
-* **$V_{\text{XSE}}$**: 90
-* **$V_{\text{MC}}$**: 90
-* **$V_{\text{SSE}}$**: 97
-* **$V_{\text{YSE}}$**: 105
-* **$V_{\text{Y}}$**: 112
-* **$V_{\text{FE}}$**: 125
-* **$V_{\text{A}}$ @ 3600 LBS**: 162
-* **$V_{\text{LE}}$**: 150 (140 AVAD)
-* **$V_{\text{NO}}$**: 200
-* **$V_{\text{NE}}$**: 230
-* **Abeam #'s**: 115
-* **Base**: 110
-* **Final**: 105
-* **Max Demonstrated Crosswind Component**: 20
-
-
-## Performance
-
-* $V_{\text{YSE}}$ see chart below
-
-![PA-30 POH Single Engine Rate of Climb](/img/twin-comanche/pa-30-poh-page-5-14-figure-5-10-single-engine-rate-of-climb.png){width=460}
-
-### Glide Ratio
-
-* From the POH:
-
-  > Both-engines-out glide ratio for the Twin Comanche with landing gear and flaps retracted and propellers windmilling is 10 to 1, or approximately two miles of gliding distance for each 1,000 feet of altitude above the terrain. Drag is substantially reduced when the propellers are feathered, and glide ratio improves to 13 to 1. When the landing gear is extended, drag is increased and glide ratio is radically reduced to approximately 7 to 1. For this reason, it is suggested that the landing gear and flaps not be extended in most engine-out emergencies until over the threshold of the landing area. Landing gear down operating time is approximately 7 seconds.

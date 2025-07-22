@@ -57,7 +57,7 @@
 
 ![Structure of atmosphere (unknown reference)](/img/structure-of-atmosphere-1.jpg){width=340}
 
-![Structure of atmosphere. [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851)](/img/structure-of-atmosphere-2.jpg){width=400}
+![Vertical structure of the atmosphere. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 4-1.](/img/awh/awh-figure-4-1-structure-of-atmosphere.jpg){width=500}
 
 * There are three levels of the atmosphere where high-altitude flight may occur.
   * **Troposphere**
@@ -73,7 +73,7 @@
 
 ![Standard atmospheric pressure. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-41.](/img/phak/phak-figure-7-41-standard-atmospheric-pressure.jpg){width=380}
 
-![US Standard atmosphere within troposphere. [FAA-AC-00-06B: Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/1029851) Figure 1-2.](/img/faa-ac-00-06b-figure-1-2-altitude-millibars.jpg){width=460}
+![US Standard atmosphere within the troposphere. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 4-2.](/img/awh/awh-figure-4-2-us-standard-atmosphere.jpg){width=460}
 
 #### Jet Stream
 

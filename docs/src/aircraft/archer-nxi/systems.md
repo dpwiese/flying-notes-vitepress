@@ -1,4 +1,6 @@
-# Archer III NXi
+# Archer III G1000 NXi
+
+![Piper Archer III PA-28-181 G1000 NXi.](/img/archer/archer-nxi.jpeg){width=800}
 
 ## Primary Flight Controls
 
@@ -116,9 +118,9 @@ While the right flap can be used as a step while in the up position, it's genera
 
 * POH Page 7-49:
 
-> When energized by the battery master switch the primary battery supplies electrical power to the starter, as well as all items on the Essential Bus, Non-Essential Bus and Lighting Bus.
+    > When energized by the battery master switch the primary battery supplies electrical power to the starter, as well as all items on the Essential Bus, Non-Essential Bus and Lighting Bus.
 
-> The emergency battery provides electrical power to the emergency bus in the unlikely event of a complete electrical failure. With the EMERG BATT switch in the ARM position, power is applied to the emergency bus automatically if electrical power is removed from the primary electrical system. Functions available via the emergency bus include all standby instrument functions, PFD functions (nav/com #1 only), and the audio panel. The emergency battery is sized to provide a minimum duration of 30 minutes of electrical power to the emergency bus equipment.
+    > The emergency battery provides electrical power to the emergency bus in the unlikely event of a complete electrical failure. With the EMERG BATT switch in the ARM position, power is applied to the emergency bus automatically if electrical power is removed from the primary electrical system. Functions available via the emergency bus include all standby instrument functions, PFD functions (nav/com #1 only), and the audio panel. The emergency battery is sized to provide a minimum duration of 30 minutes of electrical power to the emergency bus equipment.
 
 * `ALTR AMPS`
   * Positive means the alternator is providing current *to the system*
@@ -164,7 +166,7 @@ While the right flap can be used as a step while in the up position, it's genera
   * **GMU 44 Magnetometer**
     * Located on the underside of the left wing
 
-![G1000 NXi Pilot's Guide ](/img/archer-poh/g1000-pilots-guide-figure-1-1-lru-diagram.png){width=600}
+![[G1000 NXi Pilot's Guide 190-02130-02 Rev. A](https://static.garmin.com/pumac/190-02130-02_A.pdf)](/img/archer-poh/g1000-pilots-guide-figure-1-1-lru-diagram.png){width=600}
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 1 Instrument Panel.](/img/archer-amm/archer-amm-34-25-03-page-1-instrument-panel.png){width=800}
 
@@ -226,3 +228,7 @@ While the right flap can be used as a step while in the up position, it's genera
 ## Appendix
 
 ![Archer serial number plate. Located just in front of the leading edge of the stabilator on the left side of the empennage.](/img/archer/archer-serial-number-plate.jpeg){width=400}
+
+## References
+
+* [G1000 NXi Pilot's Guide 190-02130-02 Rev. A](https://static.garmin.com/pumac/190-02130-02_A.pdf)

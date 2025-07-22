@@ -331,6 +331,13 @@ export default defineConfig({
       ],
       '/aircraft/': [
         {
+          text: 'Archer III NXi',
+          collapsed: false,
+          items: [
+            { text: 'Systems', link: 'aircraft/archer-nxi/systems' }
+          ]
+        },
+        {
           text: 'E55 Baron (Early)',
           collapsed: false,
           items: [
@@ -358,7 +365,9 @@ export default defineConfig({
           text: 'Twin Comanche',
           collapsed: false,
           items: [
-            { text: 'Twin Comanche', link: '/aircraft/twin-comanche/twin-comanche' }
+            { text: 'Systems', link: '/aircraft/twin-comanche/systems' },
+            { text: 'V-Speeds', link: '/aircraft/twin-comanche/v-speeds' },
+            { text: 'Performance', link: '/aircraft/twin-comanche/performance' }
           ]
         },
         {
@@ -366,13 +375,6 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Systems', link: '/aircraft/seminole/systems' }
-          ]
-        },
-        {
-          text: 'Archer III NXi',
-          collapsed: false,
-          items: [
-            { text: 'Systems', link: 'aircraft/archer-nxi/systems' }
           ]
         }
       ],

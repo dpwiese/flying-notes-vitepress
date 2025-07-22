@@ -1,47 +1,34 @@
 ## The Atmosphere
 
-* Earth's atmosphere is divided into several layers
-* The troposphere, which extends up to 36,000 feet is where most flying occurs
+* Earth's atmosphere is divided into several layers.
+* The troposphere, which extends up to 36,000 feet is where most flying occurs.
 
 ![Temperature and pressure distribution in US Standard Atmosphere. From [U.S. Standard Atmosphere, 1976, Government Printing Office, Washington, DC, 1976](https://www.ngdc.noaa.gov/stp/space-weather/online-publications/miscellaneous/us-standard-atmosphere-1976/us-standard-atmosphere_st76-1562_noaa.pdf) and reprinted in [Frank M. White Fluid Mechanics 4th Edition](https://books.google.com/books?vid=ISBN0071168486)](/img/white-fluid-mechanics-5ed-atmosphere.png){width=600}
 
 ![Structure of atmosphere (unknown reference)](/img/structure-of-atmosphere-1.jpg){width=340}
 
-::: warning Standard atmosphere
-At sea level 59 &#176;F (15 &#176;C), pressure 29.92 inHg (or 1013.2 mb) and no moisture.
+::: info NOTE
+Weather is the result of uneven heating and cooling across the Earth.
+Atmospheric circulation is the movement of air masses in a never-ending persuit of equilibrium.
 :::
 
-* Standard atmosphere and lapse rates
-  * See [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
-    * [Chapter 4: Principles of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/06_phak_ch4.pdf)
-    * [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/14_phak_ch12.pdf)
-* ==The **standard temperature lapse** rate is 3.5 &#176;F (2.0 &#176;C) per 1,000 feet.==
-  * This is for 0 - 36,000 ft
-  * Above this point, the temperature is considered constant up to 80,000 feet
-* ==The **standard pressure lapse rate** is 1 inHg per 1,000 ft up to 10,000 feet.==
-* The **dry adiabatic lapse** rate is  5.4 &#176;F (3.0 &#176;C) per 1,000 feet.
-  * This is the rate at which the temperature of a dry parcel of air decreases as it rises in the atmosphere
-* The **wet adiabatic lapse** rate is 3 &#176;F (1.67 &#176;C) per 1,000 feet.
-  * It varies between 2 to 5 &#176;F (1.1 to 2.8 &#176;C)
-* In dry air, **dewpoint lapse rate** is 1 &#176;F (0.61 &#176;C) per 1,000 feet.
-* ==The **temperature and dewpoint converge** at about 4.4 &#176;F (2.5 &#176;C) per 1,000 feet.==
-  * Take the dry adiabatic lapse rate (5.4 &#176;F) and subtract dewpoint lapse rate (1 &#176;F)
-  * ==Using knowledge of the temperature and dewpoint (as reported on the surface) one can estimate the base of clouds by taking the difference (in &#176;F), dividing by 4.4, and multiplying by 1,000 ft.==
+### Standard Atmosphere
 
-![Structure of atmosphere. [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851)](/img/structure-of-atmosphere-2.jpg){width=400}
+::: warning Standard Atmosphere
+The standard atmosphere is a fixed reference standard that represents an average of conditions throughout the atmosphere for all latitudes, seasons, and altitudes.
+:::
 
-* **Lifted index** is the difference found by subtracting the temperature of a parcel of air theoretically lifted from the surface to 500 millibars and the existing temperature at 500 millibars.
-  * The lifted index is computed as if a parcel of air near the surface were lifted to 500 millibars.
-  * As the air is 'lifted,' it cools by expansion.
-  * The temperature the parcel would have at 500 millibars is then subtracted from the existing 500 millibar (mb) temperature.
-  * The difference is the lifted index; it may be positive, zero, or negative.
-* **K-Index** is an indication of the probability of thunderstorms
+::: info NOTE
+At sea level, standard atmospheric properties are: 59 &#176;F (15 &#176;C), pressure 29.92 inHg (or 1013.2 mb) and no moisture.
+:::
+
+* The atmosphere is approximately (by volume) 78% Nitrogen, 21% Oxygen, and the remaining 1% mostly Argon.
 
 ### Atmospheric Circulation
 
 * Due to the rotation and tilted axis of the Earth, the circulation pattern of the atmosphere is comprised of the Hadley, Ferrel, and Polar cells.
 
-![Earth circulation system. [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851)](/img/faa-ac-00-6b-figure-8-2-earth-circulation.jpg){width=600}
+![Earth circulation system. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 9-2.](/img/awh/awh-figure-9-2-earth-circulation-system.jpg){width=600}
 
 ### Pressure Systems
 
@@ -74,7 +61,7 @@ Stability of the atmosphere determines the type and vertical extent of clouds.
 * **Virga** is precipitation trailing beneath clouds but evaporating before it reaches the ground
   * Sometimes near virga get strong downdrafts and microbursts
 
-![Coriolis force. FAA-AC-00-6B Aviation Weather.](/img/faa-ac-00-6b-figure-7-4-coriolis.jpg){width=600}
+![Coriolis force variations across the Earth. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 10-4.](/img/awh/awh-figure-10-4-coriolis-force-variations.jpg){width=600}
 
 ### Isobars
 
@@ -103,6 +90,31 @@ The CAT is strongest on the cold air side of the jet, next to and just under the
 
 ![Jetstream. [Wikipedia](https://en.wikipedia.org/wiki/Jet_stream)](/img/jetstream_wiki.jpg){width=400}
 
+### Lapse Rates
+
+::: warning Lapse Rate
+A lapse rate is the rate at which an atmospheric quantity, usually temperature, _decreases_ with altitude.
+:::
+
+* Note the implicit sign in the definition above -- a higher lapse rate means larger temperature decreases as altitude increases.
+* ==The **standard temperature lapse** rate is 3.5 &#176;F (2.0 &#176;C) per 1,000 feet.==
+  * This is for 0 - 36,000 ft
+  * Above this point, the temperature is considered constant up to 80,000 feet
+* ==The **standard pressure lapse rate** is 1 inHg per 1,000 ft up to 10,000 feet.==
+* The **dry adiabatic lapse** rate is  5.4 &#176;F (3.0 &#176;C) per 1,000 feet.
+  * This is the rate at which the temperature of a dry parcel of air decreases as it rises in the atmosphere
+* The **wet adiabatic lapse** rate is 3 &#176;F (1.67 &#176;C) per 1,000 feet.
+  * It varies between 2 to 5 &#176;F (1.1 to 2.8 &#176;C)
+* In dry air, **dewpoint lapse rate** is 1 &#176;F (0.61 &#176;C) per 1,000 feet.
+* ==The **temperature and dewpoint converge** at about 4.4 &#176;F (2.5 &#176;C) per 1,000 feet.==
+  * Take the dry adiabatic lapse rate (5.4 &#176;F) and subtract dewpoint lapse rate (1 &#176;F)
+
+::: tip
+Using knowledge of the temperature and dewpoint (as reported on the surface) one can estimate the base of clouds by taking the difference (in &#176;F), dividing by 4.4, and multiplying by 1,000 ft.
+:::
+
+![Vertical structure of the atmosphere. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 4-1.](/img/awh/awh-figure-4-1-structure-of-atmosphere.jpg){width=500}
+
 ## Air Masses
 
 ### Prerequisites
@@ -124,27 +136,25 @@ The CAT is strongest on the cold air side of the jet, next to and just under the
   * This is due to the greater specific heat.
 * Land heats faster than water during the day and cools faster at night.
   * Its specific heat is less
-* **Lapse rate** - the rate at which an atmospheric variable *decreases* with altitude
-  * Note the implicit sign - a higher lapse rate means larger temperature decreases as altitude increases
 * **Relative humidity** - percent of moisture in air versus how much the air can hold
 * A rising air parcel does work on surrounding air, so it loses internal energy.
   * A rising parcel of air that is less than 100% relative humidity cools at the dry adiabatic lapse rate.
   * When the parcel of air becomes saturated (100% relative humidity) some of the energy loss comes from condensing moisture, so $\Delta T$ is less than dry parcel.
   * This is why the moist adiabatic lapse rate is less than the dry adiabatic lapse rate.
 
-::: warning Atmospheric stability
+::: warning Atmospheric Stability
 The tendency of a parcel of air perturbed from its equilibrium to return back to its initial equilibrium or not
 :::
 
 * Atmospheric stability is basically all about how the temperature of a parcel of air changes relative to the environment.
   * Compare the actual, ambient lapse rate with the standard lapse rate
   * In order to figure out if the air parcel is unstable or not we must know the temperature of both the rising air and the environment at different altitudes.
-    * ==*The higher the environmental lapse rate relative to the air parcel, the less stable the atmosphere*.==
+    * ==*The faster the environmental temperature decreases with height, relative to the air parcel, the less stable the atmosphere*.==
       * This is because a (let's say) rising parcel of air will not cool as quickly as the environment, and thus will continue to rise.
     * Similarly, because moisture reduces the lapse rate of a parcel of air, *moisture leads to instability.*
   * See: [https://www.spc.noaa.gov/exper/mesoanalysis/help/help_lllr.html](https://www.spc.noaa.gov/exper/mesoanalysis/help/help_lllr.html)
 
-::: warning Temperature inversion
+::: warning Temperature Inversion
 A layer where temperature *increases* with altitude
 :::
 
@@ -162,7 +172,14 @@ Temperature inversions create stability because an air parcel, as it rises and c
 
 * Differences in air density caused by changes in temperature result in a change in pressure.
 
-![Stability types. [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851)](/img/faa-ac-00-6b-figure-12-5-stability-types.jpg){width=340}
+![Stability types. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 13-5.](/img/awh/awh-figure-13-5-stability-types.jpg){width=440}
+
+* **Lifted index** is the difference found by subtracting the temperature of a parcel of air theoretically lifted from the surface to 500 millibars and the existing temperature at 500 millibars.
+  * The lifted index is computed as if a parcel of air near the surface were lifted to 500 millibars.
+  * As the air is 'lifted,' it cools by expansion.
+  * The temperature the parcel would have at 500 millibars is then subtracted from the existing 500 millibar (mb) temperature.
+  * The difference is the lifted index; it may be positive, zero, or negative.
+* **K-Index** is an indication of the probability of thunderstorms
 
 ### Stability of Air Masses
 
@@ -264,31 +281,34 @@ When air descends, the opposite is true.
 
 ### Wind Shear
 
-* Wind shear is a sudden, drastic change in wind speed and/or direction over a very small area
-* Wind shear can affect any flight and any pilot at any altitude
-* Low-level wind shear
-  * Can be expected during strong temperature inversions
-  * On all sides and below thunderstorm
-  * Near frontal activity
+::: warning Wind Shear
+Wind shear is a sudden, drastic change in wind speed and/or direction over a short distance.
+:::
+
+* Wind shear can affect any flight and any pilot at any altitude.
+* Low-level wind shear can be expected:
+  * During strong temperature inversions.
+  * On all sides and below thunderstorm.
+  * Near frontal activity.
     * For warm fronts:
       * Most critical period is before the front passes
       * May exist up to 5,000 feet for about 6 hours after front passes
       * Windshear associated with warm front usually more extreme than that found in cold fronts
-    * For cold fronts
+    * For cold fronts:
       * Low-level wind shear usually associated with cold fronts?
       * Shear behind the front
-      * If the front moving at 30 kts or more, shear zone will be 5,000 ft above the surface 3 hours after frontal passage
-* Wind shear can also be found above a low-level temperature inversion with strong winds above the inversion
+      * If the front moving at 30 kts or more, shear zone will be 5,000 ft above the surface 3 hours after frontal passage.
+* Wind shear can also be found above a low-level temperature inversion with strong winds above the inversion.
 
 ### Turbulence
 
-* Greatest danger is on leeward (downwind) side of mountains when flying into the wind
+* Greatest danger is on leeward (downwind) side of mountains when flying into the wind.
 * **Clear Air Turbulence (CAT)**
-  * Typically encountered at 15,000 ft AGL or higher
-  * Not associated with thunderstorms or cumulous type clouds
-  * Avoid horizontal changes more than 40 knots within 150 miles to avoid CAT
-    * See winds aloft chart
-  * See also Jetstream
+  * Typically encountered at 15,000 ft AGL or higher.
+  * Not associated with thunderstorms or cumulous type clouds.
+  * Avoid horizontal changes more than 40 knots within 150 miles to avoid CAT.
+    * See winds aloft chart.
+  * See also Jetstream.
 
 ### Mountain Wave
 
@@ -359,7 +379,7 @@ When air descends, the opposite is true.
 
 ### Stationary Front
 
-::: warning Stationary front
+::: warning Stationary Front
 When two fronts come together, and when the forces of two air masses are relatively equal, the boundary or front that separates them remains stationary and influences the local weather for days.
 :::
 
@@ -368,7 +388,7 @@ When two fronts come together, and when the forces of two air masses are relativ
 
 ### Occluded Front
 
-::: warning Occluded front
+::: warning Occluded Front
 Occurs when a fast-moving cold front catches up with a slow-moving warm front.
 :::
 
@@ -410,9 +430,16 @@ From [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa
 
 > Gust fronts often move far ahead (up to 15 miles) of associated precipitation.
 
-#### Squall line
+* Wind shear turbulence within 20 nm of thunderstorm
+* Avoid severe thunderstorms by at least 20 nm as they can throw out hail
+* Hail is
+  * Usually found in thunderstorms with strong updrafts and a high water content
+  * Produced during the mature stage
+  * Found beneath the anvil cloud
 
-::: warning Squall line
+### Squall line
+
+::: warning Squall Line
 A narrow band of active thunderstorms.
 :::
 
@@ -438,21 +465,12 @@ From [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa
 
 ![Thunderstorm stages. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-28.](/img/phak/phak-figure-12-28-thunderstorm-stages.jpg){width=600}
 
-### More Thunderstorm Stuff
+### Microbusts
 
-* Wind shear turbulence within 20 nm of thunderstorm
-* Avoid severe thunderstorms by at least 20 nm as they can throw out hail
-* Hail is
-  * Usually found in thunderstorms with strong updrafts and a high water content
-  * Produced during the mature stage
-  * Found beneath the anvil cloud
-
-#### Microbusts
-
-* Can have maximum downdrafts of 6000 ft/min
-* Last usually not more than 15 minutes
-* Maximum winds usually last 2-4 minutes
-* Create vertical and horizontal windshear
+* Can have maximum downdrafts of 6000 ft/min.
+* Last usually not more than 15 minutes.
+* Maximum winds usually last 2-4 minutes.
+* Create vertical and horizontal windshear.
 
 ## Icing
 
