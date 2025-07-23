@@ -6,7 +6,8 @@
     "nodemon": "^3.1.7",
     "rollup": "^4.24.3",
     "vite-plugin-full-reload": "^1.2.0",
-    "vitepress": "^1.6.3"
+    "vitepress": "2.0.0-alpha.8",
+    "vite": "^6.0.0"
   },
   "scripts": {
     "docs:dev": "COMMIT_HASH=$(git rev-parse HEAD) nodemon --watch docs/src/includes --ext md --exec \"vitepress dev docs\"",
