@@ -20,7 +20,25 @@ const theme: Theme = {
     if (inBrowser) {
       const route = useRoute();
 
-      // Function to modify outline titles to omit anything within parentheses
+      // Helper: run MathJax only if and when it’s ready
+      const retypeset = () => {
+        const MJ: any = window.MathJax;
+        if (!MJ) return;
+
+        const run = () => {
+          if (typeof MJ.typesetPromise === 'function') {
+            MJ.typesetPromise().catch((err: any) =>
+              console.error('MathJax typeset failed:', err)
+            );
+          } else if (typeof MJ.typeset === 'function') {
+            MJ.typeset();
+          }
+        };
+
+        MJ.startup?.promise ? MJ.startup.promise.then(run) : run();
+      };
+
+      // Helper: modify outline titles to omit anything within parentheses
       const modifyOutlineLinks = () => {
         nextTick(() => {
           const links = document.querySelectorAll('.outline-link');
@@ -50,22 +68,12 @@ const theme: Theme = {
       watch(
         () => route.path,
         () => {
-          nextTick(() => {
-            if (window.MathJax) {
-              window.MathJax.typesetPromise()
-                .catch((err) => console.error('MathJax typeset failed:', err))
-            }
-          });
+          nextTick(retypeset);
           modifyOutlineLinks();
         }
       );
 
-      nextTick(() => {
-        if (window.MathJax) {
-          window.MathJax.typesetPromise()
-            .catch((err) => console.error('MathJax initial typeset failed:', err))
-        }
-      })
+      nextTick(retypeset);
     }
   }
 }
