@@ -320,14 +320,7 @@
   * Cabin and baggage compartments pressurized
 * Maintains cabin pressure about 8,000 ft MSL
 
-### Airspace Speed Limits
-
-* Defined in [14 CFR &sect;91.117 - Aircraft speed](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.117)
-* Generally high altitude aircraft are also capable of breaking speed limits, so these are important to know
-* For C and D airspace, within 4 nm and within 2,500 AGL of the primary airport, the speed limit is 200 KIAS
-* Beneath or in a VFR cooridor through B airspace the speed limit is 200 KIAS
-* Speed limits are in knots *indicated airspeed*
-* Below 10,000 MSL the speed limit is 250 KIAS
+<!--@include: ./docs/src/includes/airspace-requirements/speed.md | shift:2-->
 
 ### VOR Service Volumes
 
