@@ -33,3 +33,20 @@
     * ==Every 12 months==
     * [14 CFR &sect;91.207(d)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.207)
     * Also need to replace/recharge battery at 50% life or after 1 hour of cumulative use
+
+## Logbook Documentation
+
+![Annual inspection logbook entry. Some information obscured for privacy.](/img/annual-inspection.jpeg){width=500}
+
+* [14 CFR &sect;43.11](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/section-43.11)
+  * Things required when _inspections_ are performed
+    1. Type and description.
+    2. Date of inspection and aircraft total time.
+    3. Signature, certificate type and certificate number.
+    4. A statement certifying the aircraft was airworthy for return to service, or list of unairworthy items.
+* [14 CFR &sect;43.9](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/section-43.9)
+  * Similarly, a similar list when _maintenance_ is performed.
+* [14 CFR &sect;91.417](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-E/section-91.417)
+  * Basically says the aircraft owner must keep these records.
+* [FAA-AC-43-9C](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_43-9C_CHG_2.pdf)
+  * This advisory circular provides guidance to help comply with the CFRs above.

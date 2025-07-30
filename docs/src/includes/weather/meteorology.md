@@ -1,5 +1,6 @@
 ## The Atmosphere
 
+* The atmosphere is approximately (by volume) 78% Nitrogen, 21% Oxygen, and the remaining 1% mostly Argon.
 * Earth's atmosphere is divided into several layers.
 * The troposphere, which extends up to 36,000 feet is where most flying occurs.
 
@@ -21,8 +22,6 @@ The standard atmosphere is a fixed reference standard that represents an average
 ::: info NOTE
 At sea level, standard atmospheric properties are: 59 &#176;F (15 &#176;C), pressure 29.92 inHg (or 1013.2 mb) and no moisture.
 :::
-
-* The atmosphere is approximately (by volume) 78% Nitrogen, 21% Oxygen, and the remaining 1% mostly Argon.
 
 ### Atmospheric Circulation
 
@@ -202,6 +201,8 @@ Temperature inversions create stability because an air parcel, as it rises and c
 
 ### Movement of Air Masses
 
+![North American air mass source regions. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-23.](/img/phak/phak-figure-12-23-north-american-air-masses.jpg){width=640}
+
 * **Air masses** are large bodies of air that take on the characteristics of the surrounding area or source region
   * Polar / Tropical
   * Maritime / Continental
@@ -216,6 +217,96 @@ When air rises into an area of lower pressure, it expands to a larger volume.
 As the molecules of air expand, the temperature of the air lowers.
 As a result, when a parcel of air rises, pressure decreases, volume increases, and temperature decreases.
 When air descends, the opposite is true.
+
+## Fronts
+
+* **Front** is the boundary layer between two types of air masses.
+* An approaching front of any type always means changes to the weather are imminent.
+* Knowing fronts is important for planning
+  * *Example: ceiling will typically drop flying into a warm front, so be wary about planning VFR into a warm front.*
+* **Types of Fronts**
+  * Warm
+  * Cold
+  * Stationary
+  * Occluded
+* Frontal waves normally form on slow-moving cold fronts or stationary fronts
+  * See [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851) for more on frontal waves
+
+![Front chart symbols. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-24.](/img/phak/phak-figure-12-24-front-chart-symbols.png){width=400}
+
+### Warm Front
+
+* Move slowly, 10-25 mph
+* Light rain over a longer period of time
+  * This is due in part to their slow speed and also the shallowness of the frontal zone
+* Prior to the passage of a warm front
+  * Cirriform or stratiform clouds, along with fog, can be expected to form along the frontal boundary.
+  * In the summer months, cumulonimbus clouds (thunderstorms) are likely to develop.
+  * Light to moderate precipitation is probable, usually in the form of rain, sleet, snow, or drizzle, accentuated by poor visibility.
+  * As the warm front approaches, the barometric pressure continues to fall until the front passes completely.
+* During the passage of a warm front:
+  * Stratiform clouds are visible and drizzle may be falling.
+  * The visibility is generally poor, but improves with variable winds.
+
+### Cold Front
+
+* Characteristics of a cold air mass moving over a warm surface:
+  * Cumuliform clouds
+  * Turbulence
+  * Good visibility
+* *Cool air moving over a warm surface is heated from below, generating instability and increasing the possibility of showers. Unstable air is characterized by cumuliform clouds, turbulence and good visibility.*
+* Move quickly, 25-30 mph and up to 60 mph
+* heavy rain over a short period of time
+  * This is due in part to their fast speed and also the steepness of the frontal zone
+* The rapidly ascending air causes the temperature to decrease suddenly, forcing the creation of clouds.
+* Prior to the passage of a typical cold front
+  * Cirriform or towering cumulus clouds are present, and cumulonimbus clouds may develop
+  * Rain showers may also develop due to the rapid development of clouds.
+  * A high dew point and falling barometric pressure are indicative of imminent cold front passage.
+* As the cold front passes
+  * Towering cumulus or cumulonimbus clouds continue to dominate the sky.
+  * Depending on the intensity of the cold front, heavy rain showers form and may be accompanied by lightning, thunder, and/or hail.
+  * More severe cold fronts can also produce tornadoes.
+  * During cold front passage, the visibility is poor with winds variable and gusty
+
+#### Comparison Between Cold and Warm Fronts
+
+* Cold fronts
+  * Move faster
+  * Bring worse weather
+  * Weather doesn't occur in advance of frontal boundary
+
+### Stationary Front
+
+::: warning Stationary Front
+When two fronts come together, and when the forces of two air masses are relatively equal, the boundary or front that separates them remains stationary and influences the local weather for days.
+:::
+
+* Front is moving less than 5 knots
+* The weather associated with a stationary front is typically a mixture that can be found in both warm and cold fronts.
+
+### Occluded Front
+
+::: warning Occluded Front
+Occurs when a fast-moving cold front catches up with a slow-moving warm front.
+:::
+
+* As the occluded front approaches, warm front weather prevails but is immediately followed by cold front weather.
+* A wide variety of weather can be found along an occluded front, with thunderstorms possible, but usually their passage is associated with a drying of the air mass.
+* Warm air is lifted (occluded) from the ground
+* A front is considered to be an occluded front once the warm air at the surface is cut off from the surface low pressure system.
+* Cold front occlusion
+  * Cold front is colder than the air ahead of the slow moving warm front
+  * Creates a mixture of weather found in both warm and cold fronts, providing the air is relatively stable
+* Warm front occlusion
+  * Cold front is warmer than the air ahead of the slow moving warm front
+  * The cold front rides up and over the warm front. If the air forced aloft by the warm front occlusion is unstable, the weather is more severe than the weather found in a cold front occlusion. Embedded thunderstorms, rain, and fog are likely to occur.
+
+![Occluded fronts. Top: cold front occlusion. Bottom: warm front occlusion. Reference unknown.](/img/occludedfronts.jpg){width=400}
+
+## Moisture / Precipitation
+
+![Mixed precipitation.](/img/nws-mixed-precipitation.jpeg){width=640}
 
 ## Clouds
 
@@ -318,92 +409,6 @@ Wind shear is a sudden, drastic change in wind speed and/or direction over a sho
   * Wind at least 20 mph blowing across mountain ridge
 * Lenticular clouds form at crest of each wave
 * Usually not turbulent in lenticular clouds but rather below *at ridgetop level in the rotor clouds and below the rotor clouds*
-
-## Fronts
-
-* **Front** is the boundary layer between two types of air masses.
-* An approaching front of any type always means changes to the weather are imminent.
-* Knowing fronts is important for planning
-  * *Example: ceiling will typically drop flying into a warm front, so be wary about planning VFR into a warm front.*
-* **Types of Fronts**
-  * Warm
-  * Cold
-  * Stationary
-  * Occluded
-* Frontal waves normally form on slow-moving cold fronts or stationary fronts
-  * See [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851) for more on frontal waves
-
-![Front chart symbols. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-24.](/img/phak/phak-figure-12-24-front-chart-symbols.png){width=400}
-
-### Warm Front
-
-* Move slowly, 10-25 mph
-* Light rain over a longer period of time
-  * This is due in part to their slow speed and also the shallowness of the frontal zone
-* Prior to the passage of a warm front
-  * Cirriform or stratiform clouds, along with fog, can be expected to form along the frontal boundary.
-  * In the summer months, cumulonimbus clouds (thunderstorms) are likely to develop.
-  * Light to moderate precipitation is probable, usually in the form of rain, sleet, snow, or drizzle, accentuated by poor visibility.
-  * As the warm front approaches, the barometric pressure continues to fall until the front passes completely.
-* During the passage of a warm front:
-  * Stratiform clouds are visible and drizzle may be falling.
-  * The visibility is generally poor, but improves with variable winds.
-
-### Cold Front
-
-* Characteristics of a cold air mass moving over a warm surface:
-  * Cumuliform clouds
-  * Turbulence
-  * Good visibility
-* *Cool air moving over a warm surface is heated from below, generating instability and increasing the possibility of showers. Unstable air is characterized by cumuliform clouds, turbulence and good visibility.*
-* Move quickly, 25-30 mph and up to 60 mph
-* heavy rain over a short period of time
-  * This is due in part to their fast speed and also the steepness of the frontal zone
-* The rapidly ascending air causes the temperature to decrease suddenly, forcing the creation of clouds.
-* Prior to the passage of a typical cold front
-  * Cirriform or towering cumulus clouds are present, and cumulonimbus clouds may develop
-  * Rain showers may also develop due to the rapid development of clouds.
-  * A high dew point and falling barometric pressure are indicative of imminent cold front passage.
-* As the cold front passes
-  * Towering cumulus or cumulonimbus clouds continue to dominate the sky.
-  * Depending on the intensity of the cold front, heavy rain showers form and may be accompanied by lightning, thunder, and/or hail.
-  * More severe cold fronts can also produce tornadoes.
-  * During cold front passage, the visibility is poor with winds variable and gusty
-
-#### Comparison Between Cold and Warm Fronts
-
-* Cold fronts
-  * Move faster
-  * Bring worse weather
-  * Weather doesn't occur in advance of frontal boundary
-
-### Stationary Front
-
-::: warning Stationary Front
-When two fronts come together, and when the forces of two air masses are relatively equal, the boundary or front that separates them remains stationary and influences the local weather for days.
-:::
-
-* Front is moving less than 5 knots
-* The weather associated with a stationary front is typically a mixture that can be found in both warm and cold fronts.
-
-### Occluded Front
-
-::: warning Occluded Front
-Occurs when a fast-moving cold front catches up with a slow-moving warm front.
-:::
-
-* As the occluded front approaches, warm front weather prevails but is immediately followed by cold front weather.
-* A wide variety of weather can be found along an occluded front, with thunderstorms possible, but usually their passage is associated with a drying of the air mass.
-* Warm air is lifted (occluded) from the ground
-* A front is considered to be an occluded front once the warm air at the surface is cut off from the surface low pressure system.
-* Cold front occlusion
-  * Cold front is colder than the air ahead of the slow moving warm front
-  * Creates a mixture of weather found in both warm and cold fronts, providing the air is relatively stable
-* Warm front occlusion
-  * Cold front is warmer than the air ahead of the slow moving warm front
-  * The cold front rides up and over the warm front. If the air forced aloft by the warm front occlusion is unstable, the weather is more severe than the weather found in a cold front occlusion. Embedded thunderstorms, rain, and fog are likely to occur.
-
-![Occluded fronts. Top: cold front occlusion. Bottom: warm front occlusion. Reference unknown.](/img/occludedfronts.jpg){width=400}
 
 ## Thunderstorms
 

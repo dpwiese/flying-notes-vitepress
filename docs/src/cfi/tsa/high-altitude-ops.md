@@ -9,9 +9,7 @@ This page covers *Task N. High Altitude Operations - Supplemental Oxygen* and *T
 * Pressurized plane with a max operating altitude or service ceiling 25k MSL or below don't need endorsement
 * [14 CFR &sect;91.121(a)(2)](https://www.ecfr.gov/current/title-14/part-91/section-91.121#p-91.121(a)(2)) says when operating at or above 18,000 feet MSL the altimeter must be set to 29.92" Hg.
 
-### Oxygen Regulations
-
-<!--@include: ./docs/src/includes/oxygen-requirements.md-->
+<!--@include: ./docs/src/includes/oxygen-requirements.md | shift:2-->
 
 ## Physiological Factors
 
