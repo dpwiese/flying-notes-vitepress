@@ -9,6 +9,8 @@
     * 1 hour flight and 1 hour ground training
       * Review of Part 91
       * Demonstrate safe exercise of pilot certificate
+  * Checkride counts as flight review
+    * [14 CFR &sect;61.56(d)(1)](https://www.ecfr.gov/current/title-14/part-61/section-61.56#p-61.56(d)(1))
 * To carry passengers
   * 3 takeoffs/landings within the preceding 90 days
     * Same category, class, and type

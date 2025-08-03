@@ -5,6 +5,7 @@
     * Need to find all applicable ones and make sure they are complied with
     * Can look up [FAA Airworthiness Directives (ADs)](https://www.faa.gov/regulations_policies/airworthiness_directives/)
     * There are third-party services that can provide and help ensure ongoing compliance with ADs by inputting information about a plane
+    * Airworthiness directives cannot be overflown.
   * ==**V** - **VOR**==
     * ==Every 30 days for IFR==
     * [14 CFR &sect;91.171(a)(2)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.171)
@@ -20,9 +21,14 @@
       * **S** - Signature
   * ==**I** - **Inspections**==
     * ==Annual==
+      * Can not be overflown.
+      * If annual "expires" and it needs to be flown somewhere for inspection, need a special flight permit (ferry permit).
+      * Annual can count as 100 hour but not vice versa.
     * ==100 hour if for hire==
+      * Including flight instruction when the plane and pilot are provided.
     * Or progressive
-    * [14 CFR &sect;91.409(a)(1)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-E/section-91.409) and [14 CFR &sect;91.409(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-E/section-91.409)
+    * 100 hour may be overflown to get to a place where inspection may be performed.
+    * [14 CFR &sect;91.409(a)(1)](https://www.ecfr.gov/current/title-14/part-91/section-91.409#p-91.409(a)(1)) and [14 CFR &sect;91.409(b)](https://www.ecfr.gov/current/title-14/part-91/section-91.409#p-91.409(2))
   * ==**A** - **Altimeter/static system**==
     * ==Every 24 calendar months==
     * [14 CFR &sect;91.411](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-E/section-91.411)

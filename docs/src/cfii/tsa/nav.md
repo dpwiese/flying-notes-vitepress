@@ -4,8 +4,11 @@ This page covers the portion of *Task A. Aircraft Flight Instruments and Navigat
 
 <!--@include: ./docs/src/includes/ils.md | shift:1-->
 <!--@include: ./docs/src/includes/ndb.md | shift:1-->
+
 <!--@include: ./docs/src/includes/airspace-requirements/transponder.md | shift:1-->
-<!--@include: ./docs/src/includes/autopilot.md | shift:2-->
+<!--@include: ./docs/src/includes/airspace-requirements/adsb.md | shift:1-->
+
+<!--@include: ./docs/src/includes/autopilot.md | shift:1-->
 
 <!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md | shift:1-->
 <!--@include: ./docs/src/includes/weather-radar.md | shift:1-->

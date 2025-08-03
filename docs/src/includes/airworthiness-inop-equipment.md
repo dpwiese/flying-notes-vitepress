@@ -38,7 +38,7 @@
 
 * The following flowchart captures most of the questions that need to be answered in this situation.
 
-![Required equipment flow chart. See also [FAA-AC-91-67 Minimum Equipment Requirements for General Aviation Operations Under FAR Part 91](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22435)](/img/minimum-equipment-flow-chart.jpg){width=440}
+![Required equipment flow chart when operating _without_ and MEL. Reference unknown, likely [8900.1](https://drs.faa.gov/browse/ORDER_8900.1/doctypeDetails). See also [FAA-AC-91-67A Minimum Equipment Requirements for General Aviation Operations Under FAR Part 91](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-67A.pdf)](/img/minimum-equipment-flow-chart.jpg){width=440}
 
 * The following list is similar to the questions in the flowchart.
   * [14 CFR &sect;91.213 - Inoperative instruments and equipment](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.213)
@@ -57,7 +57,21 @@
   6. ==**Is it required by STC?**==
   7. ==**Finally, is it required to fly safely?**==
       * See [14 CFR &sect;91.7](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.7)
-* If it legal to fly with the inoperative equipment, it must be placarded and either removed or deactivated, if it is removed, a new weight and balance might need to be computed depending on the weight of the part
+* If it legal to fly with the inoperative equipment, it must be placarded and either removed or deactivated, if it is removed, a new weight and balance might need to be computed depending on the weight of the part.
+  * [14 CFR &sect;91.213(d)(3)](https://www.ecfr.gov/current/title-14/part-91/section-91.213#p-91.213(d)(3))
+  * [FAA-AC-91-67A Minimum Equipment Requirements for General Aviation Operations Under FAR Part 91](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-67A.pdf)
+
+    > Deactivation. When an item is "deactivated" or "secured," or both, the specified item must be put into an acceptable condition for safe flight. Deactivation may involve more than simply turning off a system switch, which does not remove power from the system. Deactivation may involve pulling and securing the circuit breaker and/or removing the equipment. Deactivation of an inoperative system is not preventive maintenance as described in part 43 appendix A. Regardless of the method of deactivation, a person authorized to approve the aircraft for return to service under &sect; 43.7 must make the maintenance record entry required by &sect; 43.9. No person may operate the aircraft without the entry required by &sect; 43.9.
+
+  * The safest interpretation of this is that deactivation is _not_ preventative maintenance and therefore not something the pilot can do.
+  * However, the references below may offer other interpretations that might be applied in the case of pulling and securing a circuit breaker in order to deactivate a piece of equpiment.
+  * Specifically, that the act of pulling a circuit breaker, like adding oil to the engine, doesn't even rise to the level of preventative maintentance.
+    * [Coleal 2009](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2009/Coleal-Bombardier%20Learjet_2009_Legal_Interpretation.pdf)
+    * [Hochberg 2016](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2016/Hochberg_2016_Legal_Interpretation.pdf)
+  * [14 CFR &sect;91.213(d)(3)](https://www.ecfr.gov/current/title-14/part-91/section-91.213#p-91.213(d)(3)) also says, "_if_ deactivation of the inoperative instrument or equipment involves maintenance" implying that deactivation may be possible that does _not_ involve maintenance.
+  * Finally, remember about Advisory Circulars from the [AIM](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap0_cfr.html):
+
+    > Advisory Circulars ‐ The FAA issues Advisory Circulars (AC) to inform the aviation public in a systematic way of nonregulatory material. Unless incorporated into a regulation by reference, the contents of an advisory circular are not binding on the public.
 
 ## Aside: a Single Broken Strobe Light
 

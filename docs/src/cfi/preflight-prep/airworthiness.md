@@ -99,12 +99,27 @@ This page covers *Task B. Airworthiness Requirements* from the [FAA-S-ACS-25 Fli
   * Light sport
 * They are also issued as provisional airworthiness certificates, special flight permits (ferry permits), and for experimental aircraft.
   * [14 CFR &sect;91.325 - Primary category aircraft: Operating limitations.](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-D/section-91.325)
+    * Generally treated like Standard except no passenger/cargo for hire.
+    * Extra limits if the owner maintains the aircraft under the “pilot-owner” program.
   * [14 CFR &sect;91.313 - Restricted category civil aircraft: Operating limitations.](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-D/section-91.313)
+    * Can only be flown for the specific special-purpose listed on the certificate.
+    * No passenger/ cargo for hire.
+    * Other restrictions.
   * [14 CFR &sect;91.315 - Limited category civil aircraft: Operating limitations.](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-D/section-91.315)
+    * Limitations on carrying passengers for compensation or hire.
   * [14 CFR &sect;91.327 - Aircraft having a special airworthiness certificate in the light-sport category: Operating limitations.](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-D/section-91.327)
+    * Compensation or hire only for glider/ultralight towing and flight training.
+    * Must tell occupants that it is an LSA and does not meet standard airworthiness requirements.
 * See also:
   * [14 CFR &sect;91.317 - Provisionally certificated civil aircraft: Operating limitations.](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-D/section-91.317)
+    * Primarily for flight-test & manufacturer demonstration
+    * Operations outside the U.S
+    * Air-transport require specific FAA permission.
   * [14 CFR &sect;91.319 - Aircraft having experimental certificates: Operating limitations.](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-D/section-91.319)
+    * Must be operated consistent with the purpose in the certificate.
+    * Restrictions on carrying passengers for compensation or hire.
+    * Must tell occupants that it is experimental.
+    * Day VFR only unless authorized otherwise.
 
 ## References
 

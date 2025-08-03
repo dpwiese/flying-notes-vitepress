@@ -7,6 +7,7 @@
   * ==**A** - **Airworthiness certificate**==
     * Means aircraft is safe for flight
     * Remains valid as long as maintenance is done
+      * [14 CFR &sect;21.181(a)(1)](https://www.ecfr.gov/current/title-14/part-21/section-21.181#p-21.181(a)(1))
   * ==**R** - **Registration**==
     * Valid for 3 years (Now 7 years)
     * Required to be visible on outside of aircraft
@@ -18,6 +19,8 @@
   * ==**O** - **Operating limitations**==
     * Includes but not limited to: placards, gauge markings, POH/AFM
   * ==**W** - **Weight and balance**==
+
+![Piper Archer registration and airworthiness certificate.](/img/archer/archer-registration-airworthiness.jpeg){width=600}
 
 ## Radio Station License / Radiotelephone Operator Permit
 

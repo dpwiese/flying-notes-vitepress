@@ -43,7 +43,6 @@
     * [14 CFR &sect;91.146](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.146)
     * [14 CFR &sect;91.147](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.147)
     * Student instruction, non-stop air tours, ferry/training flights, crop dusting, banner towing, aerial photography, firefighting, pipeline patrol, skydivers (within 25nm of departure airport)
-  * Common Carriage = "Holding out | to take pax or cargo | from place to place | for compensation"
 
 ## Supervised Solo
 

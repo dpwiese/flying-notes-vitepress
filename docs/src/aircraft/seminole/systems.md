@@ -1,6 +1,6 @@
-# Systems
+# Seminole
 
-* TBD
+![Piper Seminole.](/img/seminole/seminole.jpeg){width=800}
 
 ## Primary Flight Controls
 

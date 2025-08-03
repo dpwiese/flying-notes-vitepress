@@ -21,13 +21,13 @@
   * **==Flight in Class A airspace==**
     * [14 CFR &sect;91.135 Operations in Class A airspace](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.135)
       * *"Each person operating an aircraft in Class A airspace must conduct that operation under instrument flight rules (IFR)."*
-  * **==Passengers for hire on cross countries longer than 50 nm or at night==**
-    * [14 CFR &sect;61.133 Commercial pilot privileges and limitations](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.133)
-      * *"The carriage of passengers for hire in airplanes on cross-country flights in excess of 50 nautical miles* ***or*** *at night is prohibited."*
   * **==Special VFR at night==**
     * Technically it is between sunset and sunrise
     * [14 CFR &sect;91.157(b)(4)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFR4d5279ba676bedc/section-91.157#p-91.157(b)(4))
       * *"The person being granted the ATC clearance meets the applicable requirements for* ***instrument flight*** *under part 61 of this chapter."*
+  * Also as a _commercial_ pilot _without_ an instrument rating, carrying passengers for hire on cross countries longer than 50 nm or at night is prohibited.
+    * [14 CFR &sect;61.133 Commercial pilot privileges and limitations](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.133)
+      * *"The carriage of passengers for hire in airplanes on cross-country flights in excess of 50 nautical miles* ***or*** *at night is prohibited."*
 * **Additional currency requirements by adding an instrument rating?**
   * ==Use **66 HIT** to remember instrument currency requirements==
     * **==6 Approaches==** within

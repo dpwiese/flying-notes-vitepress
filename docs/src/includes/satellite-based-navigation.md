@@ -95,6 +95,7 @@ Performance Based Navigation (PBN) is comprised of Area Navigation (RNAV) and Re
 * RTCA DO-229 defines these standards.
 * These standards, refered to as NavSpecs apply to both aircraft and aircrew.
 * It also doesn't help that ICAO and the FAA differ somewhat in their use of terminology.
+* For an aircraft to meet the requirements of PBN, a specified RNAV or RNP accuracy must be met 95 percent of the flight time.
 * [AIM 1-2-2(a)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html#$paragraph1-2-2):
 
   > NavSpecs should be considered different from one another, not “better” or “worse” based on the described lateral navigation accuracy.
@@ -111,7 +112,9 @@ A prediction for Approach (LNAV) is not necessary.
 Once annunciated, the equipment shall not change from Approach (LPV) to Approach (LNAV/VNAV) or from Approach (LP) to Approach (LNAV) unless the approach is reselected or the pilot selects a different approach type.
 -->
 
-# Required Navigation Performance (RNP)
+![AIM Figure 1-2-1: Navigation Specifications](/img/aim/aim-figure-1-2-1-pbn.jpg){width=800}
+
+## Required Navigation Performance (RNP)
 
 * RNP is a navigation specification under Performance Based Navigation (PBN)
 * Three standard RNP levels, where the value is nautical miles each side of centerline that must be maintained for aircraft and obstacle clearance
@@ -126,6 +129,12 @@ RNP Requires
   * A specified accuracy be met 95% of the time
   * Onboard performance monitoring and alerting
 :::
+
+## RNAV Navigation Specification
+
+* [AIM 1-2-1(a)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html#paragraph1-2-1)
+* The term RNAV X means a specific navigation specification with a specified lateral accuracy value.
+* No requirement for onboard performance monitoring and alerting.
 
 ## Aircraft Equipment Requirements
 
@@ -143,7 +152,7 @@ RNP Requires
 * The excerpt from Garmin Performance-Based Navigation Capabilities document indicates some RNP functions for various products
   * Some capabilities depend on software versions, so be sure to check carefully what RNP capabilities an aicraft has before flying
 
-![Garmin Performance-Based Navigation Capabilities. In the case of the G1000 NXi, the asterisk says to contact Garmin. For the Archer III with the G1000 NXi, the pages above indicate it is not approved for RF legs.](/img/garmin-pbn-capabilities.png){width=800}
+![Garmin Performance-Based Navigation Capabilities. In the case of the G1000 NXi, the asterisk says to contact Garmin. For the Archer III with the G1000 NXi, the POH pages above indicate it is not approved for RF legs.](/img/garmin-pbn-capabilities.png){width=800}
 
 * The Garmin GTN750, which can support RF legs, are indicated in the flight plan view as shown below
 
