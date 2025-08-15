@@ -385,6 +385,9 @@ export default defineConfig({
           items: [
             { text: 'Private', link: '/study-guides/ppl' },
             { text: 'Commercial', link: '/study-guides/commercial' },
+            { text: 'Commercial Midcourse', link: '/study-guides/commercial-midcourse' },
+            { text: 'PPL Block I', link: '/study-guides/ppl-block-i' },
+            { text: 'PPL Block II', link: '/study-guides/ppl-block-ii' },
             { text: 'CFI', link: '/study-guides/cfi' },
             { text: 'CFII', link: '/study-guides/cfii' },
             { text: 'IPC', link: '/study-guides/ipc' },
