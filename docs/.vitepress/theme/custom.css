@@ -49,3 +49,16 @@ li p {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
+
+/* Bullets */
+.vp-doc ul {
+  list-style-type: disc;
+}
+
+.vp-doc ul ul {
+  list-style: circle;
+}
+
+.vp-doc ul ul ul {
+  list-style-type: square;
+}

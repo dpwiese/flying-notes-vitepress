@@ -67,6 +67,15 @@
   * However, the references below may offer other interpretations that might be applied in the case of pulling and securing a circuit breaker in order to deactivate a piece of equpiment.
   * Specifically, that the act of pulling a circuit breaker, like adding oil to the engine, doesn't even rise to the level of preventative maintentance.
     * [Coleal 2009](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2009/Coleal-Bombardier%20Learjet_2009_Legal_Interpretation.pdf)
+
+      > Many preventive maintenance tasks are listed in 14 C.F.R. part 43, appendix A, paragraph (c).
+      > The paragraph sets forth in 32 numbered subparagraphs items the FAA has determined to be preventive maintenance.
+      > Even though the introductory text of subparagraph (c) states that "[p]reventive maintenance is limited to the following work ...." (emphasis added), in view of the broader definition of preventive maintenance in section 1.1, we believe that such limitation 'is not controlling.
+      > Similarly, for the same reason, we also believe that the following sentence in Advisory Circular 43-12A, Preventive Maintenance (which was referenced in Mr. Hernandez's letter), is overly restrictive
+      > That sentence, found in Paragraph 3(b)(l), states: "If a task or maintenance function does not appear in the list, it is not preventive maintenance."
+      > As with the other paragraphs of Appendix A (i.e., on major repairs and major alterations), the lists are better viewed as examples of the tasks in each category-they cannot be considered all-inclusive.
+      > There are, no doubt, many "simple or minor preservation operations [tasks]" and many "replacement[s] of small standard parts not involving complex assembly operations" performed daily, especially on small general aviation aircraft, that the agency would consider to be preventive maintenance, though they are not included in the 32 listed items.
+
     * [Hochberg 2016](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2016/Hochberg_2016_Legal_Interpretation.pdf)
   * [14 CFR &sect;91.213(d)(3)](https://www.ecfr.gov/current/title-14/part-91/section-91.213#p-91.213(d)(3)) also says, "_if_ deactivation of the inoperative instrument or equipment involves maintenance" implying that deactivation may be possible that does _not_ involve maintenance.
   * Finally, remember about Advisory Circulars from the [AIM](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap0_cfr.html):

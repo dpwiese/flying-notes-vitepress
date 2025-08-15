@@ -12,10 +12,12 @@ This page covers *Task C. Regulations and Publications Related to IFR Operations
 <!--@include: ./docs/src/includes/logbook-entries-ifr.md | shift:2-->
 <!--@include: ./docs/src/includes/required-equipment/ifr.md | shift:2-->
 
-<!--@include: ./docs/src/includes/publications/ifh.md | shift:1-->
-<!--@include: ./docs/src/includes/publications/aim.md | shift:1-->
-<!--@include: ./docs/src/includes/publications/standards.md | shift:1-->
-<!--@include: ./docs/src/includes/publications/afd.md | shift:1-->
+## Relevant Publications
+
+<!--@include: ./docs/src/includes/publications/ifh.md | shift:2-->
+<!--@include: ./docs/src/includes/publications/aim.md | shift:2-->
+<!--@include: ./docs/src/includes/publications/standards.md | shift:2-->
+<!--@include: ./docs/src/includes/publications/afd.md | shift:2-->
 
 <!--@include: ./docs/src/includes/departure-procedures.md | shift:1-->
 <!--@include: ./docs/src/includes/arrival-procedures.md | shift:1-->

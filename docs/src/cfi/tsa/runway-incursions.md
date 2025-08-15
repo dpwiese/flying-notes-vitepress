@@ -180,7 +180,7 @@ The airport environment has unique hazards that must be managed, including:
 * At a towered airport follow ATC instructions if they tell you to hold short of the ILS critcal area
 * [JO 7110.65AA 3−7−5(a) Precision Approach Critical Area](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap3_section_7.html#82H370JACK):
 
-> Aircraft and vehicle access to the ILS critical area must be controlled to ensure the integrity of ILS course
+  > Aircraft and vehicle access to the ILS critical area must be controlled to ensure the integrity of ILS course
 signals whenever the official weather observation is a ceiling of less than 800 feet or visibility less than 2 miles.
 Unless the arriving aircraft has reported the runway in sight or is circling to land to another runway, do not
 authorize vehicles/aircraft to operate in or over the critical area, except as specified in subparagraph a1, whenever
@@ -188,7 +188,7 @@ an arriving aircraft is inside the ILS outer marker (OM) or the fix used in lieu
 
 * See also [AIM 2-3-5(b)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_3.html#$paragraph2-3-5):
 
-> When instructed by ATC to hold short of the ILS critical area, pilots MUST STOP so that no part of the aircraft extends beyond the holding position marking. When approaching the holding position marking, pilots must not cross the marking without ATC clearance.
+  > When instructed by ATC to hold short of the ILS critical area, pilots MUST STOP so that no part of the aircraft extends beyond the holding position marking. When approaching the holding position marking, pilots must not cross the marking without ATC clearance.
 
 * [AIM 1-1-9(k)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#aim0101.html.17) provides the same information that is in JO 7110.65AA regarding when ATC responsibilities to protect the ILS critical area
 * This is primarily serves to inform pilots that when the official weather observation indicates a ceiling of less than 800 feet or visibility less than 2 miles, the ILS critical area *should* be protected for aircraft inside the final approach fix.
@@ -356,13 +356,13 @@ Areas designed to alert pilots to potential conflicts, that have a history of or
 
 ### Use of aircraft exterior lighting
 
-* Use to increase aircraft visibility when crossing runway
-* Be mindful at night of how lighting can impair visibility during taxi operations
-  * For example, don't taxi around with strobes on
+* Use to increase aircraft visibility when crossing runway.
+* Be mindful at night of how lighting can impair visibility during taxi operations.
+  * For example, don't taxi around with strobes on.
 * **Aircraft Lights**
   * See [AIM 4-3-23 - Use of Aircraft Lights](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html#$paragraph4-3-23)
   * *An aircraft **anti-collision light** system can use one or more **rotating beacons** and/or **strobe lights.***
-    * *However, during any adverse meteorological conditions, the pilot-in-command may determine that the anti-collision lights should be turned off when their light output would constitute a hazard to safety*
+    * *However, during any adverse meteorological conditions, the pilot-in-command may determine that the anti-collision lights should be turned off when their light output would constitute a hazard to safety.*
     * *Supplementary strobe lights should be turned off on the ground when they adversely affect ground personnel or other pilots, and in flight when there are adverse reflection from clouds.*
   * *Aircraft **position lights** are required to be lighted on aircraft operated on the surface and in flight **from sunset to sunrise.***
 
