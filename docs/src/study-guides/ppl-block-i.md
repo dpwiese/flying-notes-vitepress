@@ -117,7 +117,7 @@
 
 ### Basic effects of weight and balance on aircraft performance during takeoff, climb, landing, and cruise flight
 
-* [Loading and Weight and Balance](http://localhost:5173/cfi/tsa/performance-and-limitations#loading-and-weight-and-balance)
+* [Loading and Weight and Balance](/cfi/tsa/performance-and-limitations#loading-and-weight-and-balance)
 
 <!-- SECTION -->
 
@@ -280,7 +280,7 @@
 
 ### Right-of-way rules
 
-* [Right-of-way Rules](http://localhost:5173/cfi/tsa/collision-avoidance#right-of-way-rules)
+* [Right-of-way Rules](/cfi/tsa/collision-avoidance#right-of-way-rules)
 
 ### Aircraft speed
 
