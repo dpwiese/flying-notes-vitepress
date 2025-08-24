@@ -149,7 +149,8 @@
 
 #### Are there any departure minimums?
 
-* [Takeoff Minimums](http://localhost:5173/cfii/tsa/regulations-publications#takeoff-minimums)
+* [Takeoff Minimums](/cfii/tsa/regulations-publications#takeoff-minimums)
+
 * Not part 91.
 
 ### Altitude selection accounting for terrain and obstacles, glide distance of airplane, IFR cruising altitudes, effect of wind, and oxygen requirements.
