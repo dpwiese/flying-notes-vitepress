@@ -126,6 +126,8 @@ Instructor must sign the logbook of each person they have given flight or ground
 
 * Special requirements for Robinson R-22 and R-44 helicopters.
 
+<!--@include: ./docs/src/includes/endorsements-logging/not-flying.md | shift:1-->
+
 ## References
 
 * [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)

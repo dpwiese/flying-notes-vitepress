@@ -3,6 +3,7 @@
 This page covers *Task D. Logbook Entries Related to Instrument Instruction* from the [FAA-S-8081-9E Flight Instructor Instrument Practical Test Standards](https://www.faa.gov/training_testing/testing/acs/cfi_instrument_pts_9.pdf).
 
 <!--@include: ./docs/src/includes/logbook-entries-ifr.md | shift:1-->
+<!--@include: ./docs/src/includes/safety-pilot.md | shift:1-->
 <!--@include: ./docs/src/includes/logging-instrument.md | shift:1-->
 <!--@include: ./docs/src/includes/logging-approaches.md | shift:1-->
 <!--@include: ./docs/src/includes/logging-sim.md | shift:1-->

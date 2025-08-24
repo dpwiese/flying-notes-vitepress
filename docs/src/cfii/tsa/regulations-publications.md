@@ -10,6 +10,7 @@ This page covers *Task C. Regulations and Publications Related to IFR Operations
 <!--@include: ./docs/src/includes/logging-approaches.md | shift:2-->
 <!--@include: ./docs/src/includes/logging-sim.md | shift:2-->
 <!--@include: ./docs/src/includes/logbook-entries-ifr.md | shift:2-->
+<!--@include: ./docs/src/includes/safety-pilot.md | shift:2-->
 <!--@include: ./docs/src/includes/required-equipment/ifr.md | shift:2-->
 
 ## Relevant Publications
