@@ -3,6 +3,9 @@
 * ***Two-way radio communication requirement is met when ATC uses your aircraft ID (tail number or callsign).***
 * For example, if ATC says "aircraft calling standby" this does *not* constitute two-way communication.
 * If ATC says "N12345 standby" that does.
+  * See the note in [AIM 3-2-5(b)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_2.html#$paragraph3-2-5)
+    > If the controller responds to a radio call with, “[aircraft callsign] standby,” radio communications have been established and the pilot can enter the Class D airspace.
+  * See also [JO 7110.65BB 7-8-4](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html#P2I398JACK)
 * [14 CFR &sect;91.129(c)(1)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.129#p-91.129(c)(1)) says:
 
     > Each person must establish two-way radio communications with the ATC facility (including foreign ATC in the case of foreign airspace designated in the United States) providing air traffic services prior to entering that airspace and thereafter maintain those communications while within that airspace.

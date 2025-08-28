@@ -75,7 +75,7 @@ First, you will be considered a *carrier* if you are willing to take payment to 
 The carriage of passengers may fall under *common carriage* or *private carriage*, which are discussed below, but in either case an air carrier certificate is required.
 
 Basically, there isn't practically anything an owner of a small plane can do to charge to carry passengers.
-Rather, you'll get a job with a company / operator of a plane that will need to take care of the air carrier certificate if needed.
+Rather, you'll get a job with a company / operator of a plane that will need to take care of the air carrier or operating certificate if needed.
 And really the takeaway here is that if, as a commercial pilot, you are faced with an opportunity where there is any uncertainty as to whether it is legal or not, go check out 14 CFR.
 
 ### Definitions
@@ -153,6 +153,10 @@ And really the takeaway here is that if, as a commercial pilot, you are faced wi
   * Wet leasing means any leasing arrangement whereby a person agrees to provide an entire aircraft and at least one crewmember.
   * Dry leasing is the lease of an aircraft without any crew members.
   * See [FAA General Aviation Dry Leasing Guide](https://www.faa.gov/sites/faa.gov/files/2021-11/GADryLeasingGuide.pdf)
+  * Basically, a wet lease scenario must be done under Part 135, while a dry lease one can be done Part 91.
+  * See [Huber 1990](https://www.faa.gov/media/16061):
+    > The line between Part 91 and Part 135 is crossed, however, if the pilot also comes from the same source as the airplane.
+    > Renting or leasing a plane and pilot constitutes a 135 operation on the part of the lessor and pilot.
 * There are certain requirements when an aircraft is leased to someone else
   * [14 CFR &sect;91.23](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.23)
 
@@ -163,15 +167,21 @@ And really the takeaway here is that if, as a commercial pilot, you are faced wi
 * You are hired by a skydive company to fly skydivers
   * This is legal under [14 CFR &sect;91.147](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.147)
 * You want to rent a plane to fly somewhere with your friends and split the rental cost and fuel equally
-  * This is legal under [14 CFR &sect; 61.113(c)](https://www.ecfr.gov/current/title-14/part-61/section-61.113#p-61.113(c))
+  * This is legal under [14 CFR &sect; 61.113(c)](https://www.ecfr.gov/current/title-14/part-61/section-61.113#p-61.113(c)) assuming there is a common purpose.
 * An aircraft owner wants to pay you to fly them somewhere in their plane
   * This is legal under [14 CFR &sect;91.501(b)(4)](https://www.ecfr.gov/current/title-14/part-91/section-91.501#p-91.501(b)(4))
 * An aircraft owner wants to pay you to fly their friends and family members somehwhere in their plane
   * This is legal under [14 CFR &sect;91.501(b)(4)](https://www.ecfr.gov/current/title-14/part-91/section-91.501#p-91.501(b)(4)) as long as the aircraft owner isn't charging his friends and family for the flight
+* Your friend wants to pay you to fly them somewhere in your plane and drop them off.
+  * This is not legal; there is no exception that allows for the charging of passengers.
+  * Note that [14 CFR &sect;91.501(b)(4)](https://www.ecfr.gov/current/title-14/part-91/section-91.501#p-91.501(b)(4)) allows the _operator_ to be flown.
 
 ### Resources
 
+* [FAA-AC-120-12A - Private carriage versus common carriage of persons or property](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22647)
+* [FAA-AC-61-142 - Sharing Aircraft Operating Expenses in Accordance with 14 CFR § 61.113 (c)](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-142_Ed_Upd.pdf)
+* [FAA-AC-91-37B - Truth in Leasing](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-37B.pdf)
 * [Order 8900.1 CHG 948](https://drs.faa.gov/browse/ORDER_8900.1/doctypeDetails)
+* [FAA Safe Air Charter Handout](https://www.faa.gov/sites/faa.gov/files/2021-11/University_Handout.pdf)
 * [Aviation StackExchange What do the terms 'holding out' and 'common carriage' mean?](https://aviation.stackexchange.com/questions/1402/what-do-the-terms-holding-out-and-common-carriage-mean)
 * [Midlife Flight - What are my limitations as a commercial pilot?](http://midlifeflight.com/flyingfaq/) has a good overview
-* [FAA-AC-91-37B - Truth in Leasing](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-37B.pdf)

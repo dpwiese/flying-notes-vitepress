@@ -77,6 +77,9 @@
       > There are, no doubt, many "simple or minor preservation operations [tasks]" and many "replacement[s] of small standard parts not involving complex assembly operations" performed daily, especially on small general aviation aircraft, that the agency would consider to be preventive maintenance, though they are not included in the 32 listed items.
 
     * [Hochberg 2016](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2016/Hochberg_2016_Legal_Interpretation.pdf)
+      * Referenced above in [Pilot Performed Preventative Maintenance](/cfi/preflight-prep/airworthiness#pilot-performed-preventive-maintenance)
+      * In the context of pilots deactivating inoperative systems (e.g. via pulling and securing a circuit breaker) this letter offers some guidance related to things pilots _can_ do which do not even rise to the level of preventative maintenance.
+      * In the context of this letter, it seems a reasonable position to take that pulling and securing a circuit breaker is the same level as adding oil, and therefore while _not_ preventative maintenance something the pilot _can_ legall do.
   * [14 CFR &sect;91.213(d)(3)](https://www.ecfr.gov/current/title-14/part-91/section-91.213#p-91.213(d)(3)) also says, "_if_ deactivation of the inoperative instrument or equipment involves maintenance" implying that deactivation may be possible that does _not_ involve maintenance.
   * Finally, remember about Advisory Circulars from the [AIM](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap0_cfr.html):
 
