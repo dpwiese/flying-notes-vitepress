@@ -38,8 +38,12 @@ While the right flap can be used as a step while in the up position, it's genera
 
 ## Powerplant
 
-* LHAND
+* L4HAND
   * Lycoming IO-360-B4A
+    * I - fuel injected
+    * O - opposed cylinders
+    * 360 cubic inch displacement
+  * 4 cylinder
   * Horizontally opposed
   * Air-cooled
   * Naturally aspirated
@@ -75,7 +79,7 @@ While the right flap can be used as a step while in the up position, it's genera
 
 ### Induction System
 
-* TBD
+* Note as described in the [Fuel System](/aircraft/archer-nxi/systems#fuel-system) section below that fuel is injected into the cylinder head intake ports.
 
 ### Propeller
 

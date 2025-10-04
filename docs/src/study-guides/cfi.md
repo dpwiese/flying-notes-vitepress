@@ -683,8 +683,9 @@ See [FAA-AC-61-65H - Certification: Pilots and Flight and Ground Instructors](ht
     * Commercial written
     * (High altitude after I get endorsement)
         * A high altitude aircraft is a *pressurized plane* with max operating altitude or service ceiling *above 25k MSL*
-            * Unpressurized planes that fly at high altitudes don't need endorsement
-            * Pressurized plane with a max operating altitude or service ceiling 25k MSL or below don't need endorsement
+            * There is ambiguity in the regulations as to whether flying an *unpressurized plane* above 25k ft MSL needs an endorsement.
+            * A conservative reading of the regulations says that flying *any* plane above 25k ft MSL needs the endorsement, and this is the wise and safe interpretation.
+            * Flying a pressurized plane with a max operating altitude or service ceiling 25k MSL or below don't need endorsement
         * [14 CFR &sect;61.31(g) - Additional training required for operating pressurized aircraft capable of operating at high altitudes](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.31#p-61.31(g))
         * [AOPA - Other Ratings and Endorsements](https://www.aopa.org/training-and-safety/active-pilots/ratings-and-endorsements/other-ratings)
         * [Flying Magazine - How To Earn a High-Altitude Endorsement](https://www.flyingmag.com/guides/how-to-earn-a-high-altitude-endorsement/)

@@ -4,21 +4,27 @@
   * ==**S** - **Supplements**==
   * ==**P** - **Placards**==
     * The placards that should be on the plane are listed in the POH
+    * [14 CFR &sect;91.9(a)](https://www.ecfr.gov/current/title-14/part-91/section-91.9#p-91.9(a))
   * ==**A** - **Airworthiness certificate**==
     * Means aircraft is safe for flight
     * Remains valid as long as maintenance is done
       * [14 CFR &sect;21.181(a)(1)](https://www.ecfr.gov/current/title-14/part-21/section-21.181#p-21.181(a)(1))
+    * [14 CFR &sect;91.203(a)(1)](https://www.ecfr.gov/current/title-14/part-91/section-91.203#p-91.203(a)(1))
   * ==**R** - **Registration**==
     * Valid for 3 years (Now 7 years)
     * Required to be visible on outside of aircraft
     * Paper document required to be onboard
+    * [14 CFR &sect;91.203(a)(2)](https://www.ecfr.gov/current/title-14/part-91/section-91.203#p-91.203(a)(2))
   * ==**R** - **Radio station license**==
     * International only
     * Good for 10 years?
     * *Note: the pilot may also need a radiotelephone operator permit, but that is a requirement of the pilot, not the plane as the items in this list pertain to.*
+    * TODO@dwiese check this 47 CFR 87.18 and 47 CFR 87.89
   * ==**O** - **Operating limitations**==
     * Includes but not limited to: placards, gauge markings, POH/AFM
+    * [14 CFR &sect;91.9(b)(1)](https://www.ecfr.gov/current/title-14/part-91/section-91.9#p-91.9(b)(1))
   * ==**W** - **Weight and balance**==
+    * [14 CFR &sect;23.2620(a)(4)](https://www.ecfr.gov/current/title-14/part-23/section-23.2620#p-23.2620(a)(4))
 
 ![Piper Archer registration and airworthiness certificate.](/img/archer/archer-registration-airworthiness.jpeg){width=600}
 

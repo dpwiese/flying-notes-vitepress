@@ -10,14 +10,14 @@
 ## Aeronautical Experience
 
 * [14 CFR &sect;61.129](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.129)
-* 250 hours total flight time
-  * 100 Hours in powered aircraft, of which 50 hours must be in airplanes
+* **250 hours total flight time**
+  * 100 hours in powered aircraft, of which 50 hours must be in airplanes
   * 100 hours of a pilot-in-command flight time which includes
     * 50 hours in airplanes
     * 50 hours in cross-country flight of which at least 10 hours must be in airplanes
   * 20 hours flight training (on Commercial Pilot areas of operation in [14 CFR &sect;61.127(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.127#p-61.127(b)))
     * 10 Hours of instrument training (5 hours must be in a single-engine airplane)
-    * 10 hours of training in a complex airplane
+    * 10 hours of training in a complex airplane or TAA
     * One 100 nm 2-hour day cross-country
     * One 100 nm 2-hour night cross-country
     * 3 hours of check ride preparation in a single-engine airplane within 2 calendar months of the checkride
@@ -25,11 +25,10 @@
     * One 300nm cross-country flight
       * One leg straight-line distance of at least 250 nm from point of departure with 3 points of landing
     * 5 hours in night VFR conditions with 10 takeoffs and landings at an airport with an operating control tower
+  * 50 hours in simulator can be credited
+    * [14 CFR &sect;61.129(i)(1)(i)](https://www.ecfr.gov/current/title-14/part-61/section-61.129#p-61.129(i)(1)(i))
+    * Note the reg says FFS/FTD, but the LOA for a given sim will indicate if it can be used for this purpose
 * Only need 3rd class medical to get certificate (even though 2nd class to exercise privileges)
-* 250 hours required
-  * Only 200 in aircraft, 50 can be in approved ground trainer
-* 100 hours PIC
-* 50 hours cross country
 
 ## Privileges and Limitations
 
