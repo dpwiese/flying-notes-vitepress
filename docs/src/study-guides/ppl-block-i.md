@@ -272,7 +272,9 @@
 
 ### Use of safety belts, shoulder harnesses, and child restraint systems
 
-[14 CFR &sect;91.107](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.107)
+* [14 CFR &sect;91.107](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.107)
+  * Brief everyone on how to use the seatbelts
+  * Tell everyone that seatbelts are required during taxi, takeoff, and landing
 
 ### Operating near other aircraft
 
@@ -284,7 +286,7 @@
 
 ### Aircraft speed
 
-[Airspace Speed Limits](/cfi/tsa/airspace#airspace-speed-limits)
+* [Airspace Speed Limits](/cfi/tsa/airspace#airspace-speed-limits)
 
 ### Minimum safe altitudes
 
