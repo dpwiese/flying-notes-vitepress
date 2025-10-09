@@ -10,15 +10,21 @@ Defines our natural ability to maintain our body orientation and/or posture in r
 * Basically all vestibular illusions below are caused by a steady-state condition being reached in the inner ear that is not straight-and-level flight
   * Return to straight-and-level flight from this condition then feels wrong causing the pilot to react incorrectly
 * Posture considerations
+* ICEFLAGS is an acronym that can be used to help memorize a mix of some of the more common vestibular and visual illusions below.
 
 ## Vestibular Illusions
 
-* **The Leans**
-  * Sudden return to level flight following a gradual and prolonged turn
-  * When gradual turn rate is below the detection threshold of the semicircular canals
+* **Inversion Illusion**
+  * An abrupt change from climb to straight-and-level flight can stimulate the otolith organs enough to create the illusion of tumbling backwards
+  * Pilot may compensate by pushing the aircraft nose towards the ground
 * **Coriolis Illusion**
   * Inner ear getting used to turning equilibrium
   * Turning head perturbs this equilibrium and can give pilot sense of different motion
+* **Elevator Illusion**
+  * An abrupt upward vertical acceleration, as can occur in an updraft, can stimulate the otolith organs to create the illusion of being in a climb.
+* **The Leans**
+  * Sudden return to level flight following a gradual and prolonged turn
+  * When gradual turn rate is below the detection threshold of the semicircular canals
 * **Graveyard Spiral**
   * As in other illusions, a pilot in a prolonged coordinated, constant-rate turn may experience the illusion of not turning
   * In recovery from the turn the pilot feels a turn the other way, so compensates back the original direction
@@ -26,11 +32,6 @@ Defines our natural ability to maintain our body orientation and/or posture in r
 * **Somatogravic Illusion**
   * A rapid acceleration, such as experienced during takeoff, stimulates the otolith organs in the same way as tilting the head backwards.
   * Pilot may compensate by pushing the aircraft nose towards the ground
-* **Inversion Illusion**
-  * An abrupt change from climb to straight-and-level flight can stimulate the otolith organs enough to create the illusion of tumbling backwards
-  * Pilot may compensate by pushing the aircraft nose towards the ground
-* **Elevator Illusion**
-  * An abrupt upward vertical acceleration, as can occur in an updraft, can stimulate the otolith organs to create the illusion of being in a climb.
 
 ## Visual Illusions
 

@@ -198,6 +198,11 @@ Alternatively, the aerodynamic contributions due to other surfaces (e.g. vertica
 * Think of skidding like drifting in a car - too much turn angle for radius of turn, so need to apply rudder in opposite direction
 * One thing this image doesn't capture is how in these different scenarios the radius of turn (should?) be different
 
+::: danger SAFETY
+Skidding is generally considered more dangerous than slipping due to the lowered wing moving more slowly, at a higher angle of attack, and with more aileron and hence being the wing which may stall first.
+Should this occur, the lowered wing would drop even further rolling the aircraft *into* a spin.
+:::
+
 ![Slipping vs skidding turns. [Tappan Toward Introspective Human Versus Machine Learning of Simulated Airplane Flight Dynamics](http://shelby.ewu.edu/research/docs/2014_maics.pdf)](/img/tappan-figure-9-slipping-skidding-turns.png){width=400}
 
 ![[FAA-CT-8080-5H Instructor Knowledge Test Supplement](https://www.faa.gov/training_testing/testing/supplements/media/flight_ground_instructor_akts.pdf)](/img/cfi-test-supplement-figure-22-turning-force-vectors.png){width=340}

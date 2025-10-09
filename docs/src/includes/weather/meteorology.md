@@ -295,10 +295,10 @@ Occurs when a fast-moving cold front catches up with a slow-moving warm front.
 * A wide variety of weather can be found along an occluded front, with thunderstorms possible, but usually their passage is associated with a drying of the air mass.
 * Warm air is lifted (occluded) from the ground
 * A front is considered to be an occluded front once the warm air at the surface is cut off from the surface low pressure system.
-* Cold front occlusion
+* **Cold front occlusion**
   * Cold front is colder than the air ahead of the slow moving warm front
   * Creates a mixture of weather found in both warm and cold fronts, providing the air is relatively stable
-* Warm front occlusion
+* **Warm front occlusion**
   * Cold front is warmer than the air ahead of the slow moving warm front
   * The cold front rides up and over the warm front. If the air forced aloft by the warm front occlusion is unstable, the weather is more severe than the weather found in a cold front occlusion. Embedded thunderstorms, rain, and fog are likely to occur.
 

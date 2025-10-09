@@ -18,9 +18,7 @@ This page covers *Task B. Visual Scanning and Collision Avoidance* from the [FAA
 
 ## Vestibular and visual illusions
 
-* See [Spatial Disorientation](/cfi/tsa/human-factors#spatial-disorientation)
-
-<!--include: ./docs/src/includes/spatial-disorientation.md | shift:2-->
+<!--@include: ./docs/src/includes/aeromedical/spatial-disorientation.md | shift:2-->
 
 ## "See and avoid" responsibilities
 
@@ -112,7 +110,7 @@ When aircraft of the same category are converging at approximately the same alti
 * To determine relative altitude, use the horizon as a reference point: if the aircraft is above the horizon, it is probably on a higher flight path, and if it is below the horizon, it is probably on a lower flight path.
 * Any aircraft that appears to have no relative motion is likely to be on a collision course-if it shows no lateral or vertical motion, but increases in size, take evasive action.
 
-![[FAA-AC-90-48 Pilots' Role in Collision Avoidance](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029428) Table 1. Aircraft Identification and Reaction Time Chart.](/img/faa-ac-90-48d-reaction-time-chart.png){width=400}
+![[FAA-AC-90-48D Pilots' Role in Collision Avoidance](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029428) Table 1. Aircraft Identification and Reaction Time Chart.](/img/faa-ac-90-48d-reaction-time-chart.png){width=400}
 
 ## Division of attention inside and outside the aircraft
 
@@ -125,7 +123,7 @@ When aircraft of the same category are converging at approximately the same alti
 
 * [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
     * [Chapter 17: Aeromedical Factors](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf)
-* [FAA-AC-90-48 Pilots' Role in Collision Avoidance](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029428)
+* [FAA-AC-90-48D Pilots' Role in Collision Avoidance](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029428)
 * [AIM 4-3 Airport Operations](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html)
 * [FAA Spatial Disorientation Brochure](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald.pdf)
 

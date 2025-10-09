@@ -161,7 +161,9 @@ This page covers *Task C. Course Development, Lesson Plans, and Classroom Traini
 
 ## Integrated Flight Instruction
 
-* TBD
+::: warning Integrated Flight Instruction
+Integrated flight instruction is flight instruction during which learners are taught to perform flight maneuvers both by outside visual references and by reference to flight instruments.
+:::
 
 ## Problem-based Instruction
 
@@ -185,3 +187,4 @@ This page covers *Task C. Course Development, Lesson Plans, and Classroom Traini
 
 * [FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook)
     * [Chapter 5: The Teaching Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/07_aih_chapter_5.pdf)
+    * [Chapter 9: Techniques of Flight Instruction](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/11_aih_chapter_9.pdf)

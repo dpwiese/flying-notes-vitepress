@@ -57,6 +57,8 @@ While the right flap can be used as a step while in the up position, it's genera
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 6 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-6-lycoming.png){width=800}
 
+![Archer Airplane Maintenance Manual (PN 761-883) 6-00-00 Page 4 Station Reference Lines. Note the buttock line for the spinner tip is 0.44 inches offset from the aircraft centerline, annotated as corresponding to 3&#176; angle of the thrustline relative to the aircraft centerline.](/img/archer-amm/archer-amm-6-00-00-page-4-buttock-lines.png){width=800}
+
 ### Cooling System
 
 * Air cooled

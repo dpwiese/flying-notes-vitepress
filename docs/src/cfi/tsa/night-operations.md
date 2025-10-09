@@ -217,3 +217,4 @@ The Air Almanac, and tables for sun set/rise can be found online here:
     * [Section 1: Fitness for Flight](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap8_section_1.html)
       * 8–1–6 Vision in Flight
   * [AIM 2-1 Airport Lighting Aids](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html)
+* [FAA-AC-90-48E Pilots' Role in Collision Avoidance](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-48E.pdf)

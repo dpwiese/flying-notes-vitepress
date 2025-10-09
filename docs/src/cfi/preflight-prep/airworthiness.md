@@ -42,6 +42,8 @@ This page covers *Task B. Airworthiness Requirements* from the [FAA-S-ACS-25 Fli
 * An aircraft overdue for an annual inspection may be operated under a Special Flight Permit issued by the FAA for the purpose of flying the aircraft to a location where the annual inspection can be performed.
 * However, all applicable ADs that are due must be complied with before the flight.
 * To get a special flight permit, contact FSDO and use FAA Form 8130-7, Special Airworthiness Certificate.
+* Valid period of a special flight permit is specified on the permit
+  * [14 CFR &sect;21.181(a)(2)](https://www.ecfr.gov/current/title-14/part-21/section-21.181#p-21.181(a)(2))
 
 ## Pilot-Performed Preventive Maintenance
 
