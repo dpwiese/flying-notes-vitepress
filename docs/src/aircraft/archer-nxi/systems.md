@@ -213,9 +213,13 @@ While the right flap can be used as a step while in the up position, it's genera
 
 ### Antennas
 
+* ADS-B shares the transponder antenna.
+
 ![Piper Archer III NXi antennas (top).](/img/archer/archer-antennas-upper.jpeg){width=600}
 
 ![Piper Archer III NXi antennas (bottom).](/img/archer/archer-antennas-lower.jpeg){width=600}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 23-00-00 Page 2 Antenna installations.](/img/archer-amm/archer-amm-23-00-00-page-2-figrure-1-antenna-installations.png){width=800}
 
 ## Pitot-static / Vacuum System
 
