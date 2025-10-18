@@ -1,6 +1,6 @@
 # DME Arcs
 
-![Instrument approach at which includes a DME arc: KACT VOR RWY 14.](/img/iap/kact-vor-rwy-14.png){width=600}
+![Instrument approach at which includes a DME arc: KACT VOR RWY 14.](/img/iap/kact-vor-rwy-14.png){width=600 border=true}
 
 ## Introduction
 
@@ -11,7 +11,7 @@
   * Repeat until crossing the lead radial
   * If no lead radial, begin turn to exit arc 5&#176; prior to desired radial
 
-![DME arc flown in N583CA. Flying inbound on the 320 radial, arcing right (clockwise) to the 050 radial and flying inbound.](/img/dme-arc.jpg){width=800}
+![DME arc flown in N583CA. Flying inbound on the 320 radial, arcing right (clockwise) to the 050 radial and flying inbound.](/img/dme-arc.jpg){width=800 border=true}
 
 ## Elements
 
@@ -24,9 +24,9 @@
 
 ### On 20&#176; Turns
 
-![DME Arcs. Aviation Adventures instrument procedures.](/img/avad-dme-arcs.jpg){width=440}
+![DME Arcs. Aviation Adventures instrument procedures.](/img/avad-dme-arcs.jpg){width=440 border=true}
 
-![DME Arcs radius limits. [FAA Order 8260.3G](https://www.faa.gov/documentLibrary/media/Order/Order_8260.3G.pdf)](/img/order-8260-3g-pg-66-dme-arcs.png){width=640}
+![DME Arcs radius limits. [FAA Order 8260.3G](https://www.faa.gov/documentLibrary/media/Order/Order_8260.3G.pdf)](/img/order-8260-3g-pg-66-dme-arcs.png){width=640 border=true}
 
 * Real DME arcs "in the wild" exist with radii between 7 and 30 nm, inclusive
 * Regardless of the specifics of the procedure, flying a DME arc involves a series of turns to fixed headings, "cutting the corners" of the arc

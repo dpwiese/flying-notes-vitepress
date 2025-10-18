@@ -29,6 +29,7 @@ This page covers *Task B. Airworthiness Requirements* from the [FAA-S-ACS-25 Fli
 
 ### Special Flight Permit
 
+* [14 CFR &sect;21.197](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-21/subpart-H/section-21.197)
 * A special flight permit is a Special Airworthiness Certificate authorizing operation of an aircraft that does not currently meet applicable airworthiness requirements but is safe for a specific flight.
 * FAA may require an inspection first.
 * The special flight permit is issued to allow the aircraft to be flown to a base where:

@@ -62,3 +62,11 @@ li p {
 .vp-doc ul ul ul {
   list-style-type: square;
 }
+
+img[border="true"] {
+  display: block;
+  margin: 0px auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+}

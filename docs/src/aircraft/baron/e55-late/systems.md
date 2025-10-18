@@ -130,19 +130,19 @@ This document describes the systems on Baron N322ET.
 * Float type fuel sensors
 * *Note: in N322ET the fuel flow on right engine is a bit less than left when mixture handles are full rich*
 
-![E55 Baron (N322ET) fuel system](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-25-fuel-system.png){width=800}
+![E55 Baron (N322ET) fuel system](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-25-fuel-system.jpeg){width=800 border=true}
 
 ![E55 Baron (N322ET) fuel sumps](/img/e55-baron-n322et/e55-baron-n322et-fuel-sumps.jpeg){width=600}
 
-![E55 Baron (N322ET) fuel selector placard](/img/e55-baron-poh-n322et/e55-baron-poh-page-2-2-fuel-selector-placard.png){width=360}
+![E55 Baron (N322ET) fuel selector placard](/img/e55-baron-poh-n322et/e55-baron-poh-page-2-2-fuel-selector-placard.png){width=360 border=true}
 
 ![E55 Baron (N322ET) fuel pump switches](/img/e55-baron-n322et/e55-baron-n322et-fuel-pump-switches.jpeg){width=300}
 
-![E55 Baron (N322ET) hot start](/img/e55-baron-poh-n322et/e55-baron-poh-page-4-7-hot-start.png){width=360}
+![E55 Baron (N322ET) hot start](/img/e55-baron-poh-n322et/e55-baron-poh-page-4-7-hot-start.png){width=360 border=true}
 
-![E55 Baron (N322ET) flooded start](/img/e55-baron-poh-n322et/e55-baron-poh-page-4-8-flooded-start.jpeg){width=360}
+![E55 Baron (N322ET) flooded start](/img/e55-baron-poh-n322et/e55-baron-poh-page-4-8-flooded-start.jpeg){width=360 border=true}
 
-![E55 Baron (N322ET) fuel flow indicator](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-23-fuel-flow-indicator.png){width=360}
+![E55 Baron (N322ET) fuel flow indicator](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-23-fuel-flow-indicator.png){width=360 border=true}
 
 ### Oil System
 
@@ -203,13 +203,13 @@ This document describes the systems on Baron N322ET.
   * There is another filter behind the firewall
 * Alternate static red lever left lever by pilot side left shin
 
-![E55 Baron (N322ET) pressure system](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-37-pressure-system.png){width=360}
+![E55 Baron (N322ET) pressure system](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-37-pressure-system.png){width=360 border=true}
 
 ![E55 Baron (N322ET) pressure pump](/img/e55-baron-n322et/e55-baron-n322et-pressure-pump.jpeg){width=800}
 
 ## Environmental
 
-![E55 Baron (N322ET) environmental schematic](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-32-environmental-schematic.png){width=480}
+![E55 Baron (N322ET) environmental schematic](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-32-environmental-schematic.png){width=480 border=true}
 
 * Air Conditioner
   * Controlled by Sofie dial

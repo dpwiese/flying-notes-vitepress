@@ -11,7 +11,7 @@ Additionally, during training nearly all approaches will terminate with the miss
 
 ## Completion Standards
 
-![[FAA-S-ACS-8B Instrument Rating Airplane Airman Certification Standards Change 1](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/instrument_rating_acs_change_1.pdf)](/img/instrument-acs/instrument-acs-vi-c-missed-approach.png){width=540}
+![[FAA-S-ACS-8B Instrument Rating Airplane Airman Certification Standards Change 1](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/instrument_rating_acs_change_1.pdf)](/img/instrument-acs/instrument-acs-vi-c-missed-approach.png){width=600 border=true}
 
 ## References
 

@@ -58,9 +58,7 @@ This page covers *Task M. Night Operations* from the [FAA-S-ACS-25 Flight Instru
 
 ![Off-center viewing. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 17: Aeromedical Factors](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf) Figure 17-19.](/img/phak/phak-figure-17-19-off-center-viewing.png){width=540}
 
-## Airport Lighting
-
-<!--@include: ./docs/src/includes/airport-lighting.md-->
+<!--@include: ./docs/src/includes/airport-lighting.md | shift:1-->
 
 ## Equipment and Lighting Requirements
 

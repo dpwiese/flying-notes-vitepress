@@ -38,7 +38,7 @@
 
 * The following flowchart captures most of the questions that need to be answered in this situation.
 
-![Required equipment flow chart when operating _without_ and MEL. Reference unknown, likely [8900.1](https://drs.faa.gov/browse/ORDER_8900.1/doctypeDetails). See also [FAA-AC-91-67A Minimum Equipment Requirements for General Aviation Operations Under FAR Part 91](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-67A.pdf)](/img/minimum-equipment-flow-chart.jpg){width=440}
+![Required equipment flow chart when operating _without_ and MEL. Reference unknown, likely [8900.1](https://drs.faa.gov/browse/ORDER_8900.1/doctypeDetails). See also [FAA-AC-91-67A Minimum Equipment Requirements for General Aviation Operations Under FAR Part 91](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-67A.pdf)](/img/minimum-equipment-flow-chart.jpg){width=500 border=true}
 
 * The following list is similar to the questions in the flowchart.
   * [14 CFR &sect;91.213 - Inoperative instruments and equipment](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.213)

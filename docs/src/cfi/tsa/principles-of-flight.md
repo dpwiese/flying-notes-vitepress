@@ -4,7 +4,7 @@ This page covers *Task D. Principles of Flight* from the [FAA-S-ACS-25 Flight In
 
 ## Overview
 
-![The four forces. ASA 2022 Instructor Test Prep.](/img/asa-2022-instructor-test-prep-figure-2-4-four-forces.png){width=440}
+![The four forces. ASA 2022 Instructor Test Prep.](/img/asa-2022-instructor-test-prep-figure-2-4-four-forces.png){width=440 border=true}
 
 Aerodynamic theory was developed to answer important questions necessary for airplane design.
 For example, to calculate how much lift a wing might produce.
@@ -80,9 +80,9 @@ The speed below which, for a specified aircraft configuration, an aircraft will 
 * The stalling speed increase as CG moves forward and decreases as it moves rearward.
   * This is because as the CG moves forward, there is an increase in downward force produced by the horizontal stabilizer to balance out the moments. But to balance out this increase in downward force, more lift must be produced by the wings. Therefore at a given flight condition, the aircraft with the forward CG will require more lift than that with a rearward CG, meaning a higher minimum speed to maintain the flight condition.
 
-![Stall speeds. Reference: Cessna 172R Information Manual.](/img/stall-speeds-c-172.png){width=400}
+![Stall speeds. Reference: Cessna 172R Information Manual.](/img/stall-speeds-c-172.png){width=400 border=true}
 
-![Performance. Reference: Cessna 172R Information Manual.](/img/performance-c-172.png){width=400}
+![Performance. Reference: Cessna 172R Information Manual.](/img/performance-c-172.png){width=400 border=true}
 
 ### Drag
 
@@ -174,9 +174,9 @@ D = \frac{1}{2}\rho v^{2}SC_{D_{0}} + \frac{W^{2}}{\frac{1}{2}\rho v^{2}S\pi\tex
 * ***Total drag is composed of a sum of a $v^{2}$ term (parasitic drag) and a $\frac{1}{v^{2}}$ term (induced drag)***
 * ***At low airspeeds induced drag dominates and at high airspeeds parasitic drag dominates***
 
-![Total drag as a function of airspeed. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593)](/img/philpott-drag-figure-5-10.png){width=500}
+![Total drag as a function of airspeed. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593)](/img/philpott-drag-figure-5-10.png){width=500 border=true}
 
-![Drag versus airspeed. ASA 2022 Instructor Test Prep Figure 2-9.](/img/asa-2022-instructor-test-prep-figure-2-9-drag-vs-airspeed.png){width=320}
+![Drag versus airspeed. ASA 2022 Instructor Test Prep Figure 2-9.](/img/asa-2022-instructor-test-prep-figure-2-9-drag-vs-airspeed.png){width=320 border=true}
 
 ### Coordinated Flight
 
@@ -203,11 +203,11 @@ Skidding is generally considered more dangerous than slipping due to the lowered
 Should this occur, the lowered wing would drop even further rolling the aircraft *into* a spin.
 :::
 
-![Slipping vs skidding turns. [Tappan Toward Introspective Human Versus Machine Learning of Simulated Airplane Flight Dynamics](http://shelby.ewu.edu/research/docs/2014_maics.pdf)](/img/tappan-figure-9-slipping-skidding-turns.png){width=400}
+![Slipping vs skidding turns. [Tappan Toward Introspective Human Versus Machine Learning of Simulated Airplane Flight Dynamics](http://shelby.ewu.edu/research/docs/2014_maics.pdf)](/img/tappan-figure-9-slipping-skidding-turns.png){width=400 border=true}
 
-![[FAA-CT-8080-5H Instructor Knowledge Test Supplement](https://www.faa.gov/training_testing/testing/supplements/media/flight_ground_instructor_akts.pdf)](/img/cfi-test-supplement-figure-22-turning-force-vectors.png){width=340}
+![[FAA-CT-8080-5H Instructor Knowledge Test Supplement](https://www.faa.gov/training_testing/testing/supplements/media/flight_ground_instructor_akts.pdf)](/img/cfi-test-supplement-figure-22-turning-force-vectors.png){width=340 border=true}
 
-![Closest diagram I can find to actual free body diagram of turning forces. [Aviation Stackexchange: What is missing from these diagrams of the forces in slips and skids?](https://aviation.stackexchange.com/questions/77528/what-is-missing-from-these-diagrams-of-the-forces-in-slips-and-skids)](/img/turning-forces-non-normal-lift-vector.png){width=800}
+![Closest diagram I can find to actual free body diagram of turning forces. [Aviation Stackexchange: What is missing from these diagrams of the forces in slips and skids?](https://aviation.stackexchange.com/questions/77528/what-is-missing-from-these-diagrams-of-the-forces-in-slips-and-skids)](/img/turning-forces-non-normal-lift-vector.png){width=800 border=true}
 
 ### Turn Rate
 
@@ -274,9 +274,9 @@ $\dot{\psi}=\frac{g\tan\phi}{V}$
 
 ### More Aerodynamic Theory
 
-![Airfoil pressure distribution. [Mark Drela, Flight Vehicle Aerodynamics](https://books.google.com/books?vid=ISBN0262526441)](/img/drela-figure-5-2.png){width=800}
+![Airfoil pressure distribution. [Mark Drela, Flight Vehicle Aerodynamics](https://books.google.com/books?vid=ISBN0262526441)](/img/drela-figure-5-2.png){width=800 border=true}
 
-![Airfoil pressure distribution. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593)](/img/bernard-philpott-figure-3-8.png){width=400}
+![Airfoil pressure distribution. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593)](/img/bernard-philpott-figure-3-8.png){width=400 border=true}
 
 ::: warning Center of Pressure (CP)
 A single point at which the lift and drag forces on an airfoil can be applied about which they exert zero moment.
@@ -333,24 +333,24 @@ Point at which the pitching moment coefficient for the airfoil does not vary wit
 * Airfoil stall characteristics
 * Flaps changing airfoil shape
 
-![Airfoil nomenclature. ASA 2022 Instructor Test Prep. Figure 2.2.](/img/asa-2022-instructor-test-prep-figure-2-2-airfoil-nomenclature.png){width=540}
+![Airfoil nomenclature. ASA 2022 Instructor Test Prep. Figure 2.2.](/img/asa-2022-instructor-test-prep-figure-2-2-airfoil-nomenclature.png){width=540 border=true}
 
-![Airfoil shapes. ASA 2022 Instructor Test Prep. Figure 2.3.](/img/asa-2022-instructor-test-prep-figure-2-3-airfoil-shapes.png){width=540}
+![Airfoil shapes. ASA 2022 Instructor Test Prep. Figure 2.3.](/img/asa-2022-instructor-test-prep-figure-2-3-airfoil-shapes.png){width=540 border=true}
 
-![Airfoil stall. Reference unknown.](/img/airfoil-stall.jpg){width=340}
+![Airfoil stall. Reference unknown.](/img/airfoil-stall.jpg){width=340 border=true}
 
 ### Common Aerodynamic Plots
 
 * A **drag curve** is a generic term to describe a plot of drag (or the drag coefficient) versus a number of other variables.
   * If one of these variables is lift (or the lift coefficient) it is called a **drag polar** or **drag bucket**.
 
-![Four common airfoil plots. [NASA Technical Memorandum 4074 - Effects of independent variation of Mach and Reynolds numbers on the low-speed aerodynamic characteristics of the NACA 0012 airfoil section](https://ntrs.nasa.gov/citations/19880019495)](/img/nasa-tm-4074-figure-3.png){width=540}
+![Four common airfoil plots. [NASA Technical Memorandum 4074 - Effects of independent variation of Mach and Reynolds numbers on the low-speed aerodynamic characteristics of the NACA 0012 airfoil section](https://ntrs.nasa.gov/citations/19880019495)](/img/nasa-tm-4074-figure-3.png){width=540 border=true}
 
-![Lift curves for three different airfoils. Fundamentals of Aerodynamics. John D Anderson. Figure 5.41.](/img/anderson-figure-5-41-cl-alpha.png){width=300}
+![Lift curves for three different airfoils. Fundamentals of Aerodynamics. John D Anderson. Figure 5.41.](/img/anderson-figure-5-41-cl-alpha.png){width=300 border=true}
 
-![Variations in lift curve with flaps. Fundamentals of Aerodynamics. John D Anderson. Figure 1.62.](/img/anderson-figure-1-62-cl-alpha-flaps.png){width=300}
+![Variations in lift curve with flaps. Fundamentals of Aerodynamics. John D Anderson. Figure 1.62.](/img/anderson-figure-1-62-cl-alpha-flaps.png){width=300 border=true}
 
-![Effect of FLaps. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593) Figure 3.33.](/img/philpott-flaps-effect-figure-3-33.png){width=400}
+![Effect of FLaps. [Kermode, Mechanics of Flight](https://books.google.com/books?vid=ISBN1405823593) Figure 3.33.](/img/philpott-flaps-effect-figure-3-33.png){width=400 border=true}
 
 ### Some Notes on Wings
 
@@ -388,7 +388,7 @@ Point at which the pitching moment coefficient for the airfoil does not vary wit
 * Example
   * An airline would be highly controllable but not very maneuverable - it *does* respond to pilot inputs predictably and easily, changes in aircraft velocity (roll, pitch, yaw) are slow.
 
-![Static stability. ASA 2022 Instructor Test Prep. Figure 2.7.](/img/asa-2022-instructor-test-prep-figure-2-7-static-stability.png){width=300}
+![Static stability. ASA 2022 Instructor Test Prep. Figure 2.7.](/img/asa-2022-instructor-test-prep-figure-2-7-static-stability.png){width=300 border=true}
 
 Aircraft axes system is below where
 
@@ -396,9 +396,9 @@ Aircraft axes system is below where
 * $Y$ - lateral axis
 * $Z$ - vertical axis
 
-![Aircraft axes notation. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) Figure 2.3.](/img/cook-aircraft-axes-system.png){width=540}
+![Aircraft axes notation. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) Figure 2.3.](/img/cook-aircraft-axes-system.png){width=540 border=true}
 
-![Aircraft axes. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 3: Aircraft Construction](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/05_phak_ch3.pdf) Figure 3-2.](/img/phak/phak-figure-3-2-aircraft-axes.png){width=800}
+![Aircraft axes. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 3: Aircraft Construction](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/05_phak_ch3.pdf) Figure 3-2.](/img/phak/phak-figure-3-2-aircraft-axes.png){width=800 border=true}
 
 *Note: when we talk about stability it can be confusing because longitudinal stability in not stability about the longitudinal axis, but rather in the longitudinal direction, so just keep that in mind.*
 
@@ -418,7 +418,7 @@ Aircraft axes system is below where
   * Directional
     * Note: lateral and directional stability more closely coupled
 
-![Static and dynamic stability. ASA 2022 Instructor Test Prep. Figure 2.8.](/img/asa-2022-instructor-test-prep-figure-2-8-stability.png){width=800}
+![Static and dynamic stability. ASA 2022 Instructor Test Prep. Figure 2.8.](/img/asa-2022-instructor-test-prep-figure-2-8-stability.png){width=800 border=true}
 
 ### Aircraft Design for Stability and Controllability
 
@@ -471,31 +471,31 @@ Aircraft axes system is below where
     * Spiral divergence
 * Important takeaway here is to develop a better understanding for aircraft aerodynamics, and expectations for how and why an aircraft you will be flying behaves the way it does so.
 
-![Dihedral. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) Figure 13.5.](/img/cook-figure-13-5-dihedral.png){width=540}
+![Dihedral. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) Figure 13.5.](/img/cook-figure-13-5-dihedral.png){width=540 border=true}
 
-![Low vs. high wing in sideslip. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) 13.8.](/img/cook-figure-13-8-low-vs-high-wing-sideslip.png){width=540}
+![Low vs. high wing in sideslip. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) 13.8.](/img/cook-figure-13-8-low-vs-high-wing-sideslip.png){width=540 border=true}
 
-![Wing location and dihedral effect. [Introduction to Aircraft Stability and Control Course Notes for M&AE 5070](https://courses.cit.cornell.edu/mae5070/Caughey_2011_04.pdf) Figure 4.6.](/img/caughey-mae-5070-course-notes-figure-4-6-wing-fuselage-dihedral.png){width=640}
+![Wing location and dihedral effect. [Introduction to Aircraft Stability and Control Course Notes for M&AE 5070](https://courses.cit.cornell.edu/mae5070/Caughey_2011_04.pdf) Figure 4.6.](/img/caughey-mae-5070-course-notes-figure-4-6-wing-fuselage-dihedral.png){width=640 border=true}
 
-![Wing location and dihedral effect. [Introduction to Aircraft Stability and Control Course Notes for M&AE 5070](https://courses.cit.cornell.edu/mae5070/Caughey_2011_04.pdf) Figure 4.7.](/img/caughey-mae-5070-course-notes-figure-4-7-wing-fuselage-dihedral.jpg){width=800}
+![Wing location and dihedral effect. [Introduction to Aircraft Stability and Control Course Notes for M&AE 5070](https://courses.cit.cornell.edu/mae5070/Caughey_2011_04.pdf) Figure 4.7.](/img/caughey-mae-5070-course-notes-figure-4-7-wing-fuselage-dihedral.jpg){width=800 border=true}
 
-![Dihedral. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-28.](/img/phak/phak-figure-5-28-dihedral.png){width=800}
+![Dihedral. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-28.](/img/phak/phak-figure-5-28-dihedral.png){width=800 border=true}
 
-![Anhedral. [Aircraft Aerodynamic Design: Geometry and Optimization. Andras Sobester, Alexander I J Forrester. Figure 9.1.](https://www.wiley.com/en-us/Aircraft+Aerodynamic+Design:+Geometry+and+Optimization-p-9780470662571)](/img/sobester-aircraft-design-figure-9-1-anhedral.jpg){width=800}
+![Anhedral. [Aircraft Aerodynamic Design: Geometry and Optimization. Andras Sobester, Alexander I J Forrester. Figure 9.1.](https://www.wiley.com/en-us/Aircraft+Aerodynamic+Design:+Geometry+and+Optimization-p-9780470662571)](/img/sobester-aircraft-design-figure-9-1-anhedral.jpg){width=800 border=true}
 
-![Polyhedral. [Aircraft Aerodynamic Design: Geometry and Optimization. Andras Sobester, Alexander I J Forrester. Figure 9.2.](https://www.wiley.com/en-us/Aircraft+Aerodynamic+Design:+Geometry+and+Optimization-p-9780470662571)](/img/sobester-aircraft-design-figure-9-2-polyhedral.jpg){width=640}
+![Polyhedral. [Aircraft Aerodynamic Design: Geometry and Optimization. Andras Sobester, Alexander I J Forrester. Figure 9.2.](https://www.wiley.com/en-us/Aircraft+Aerodynamic+Design:+Geometry+and+Optimization-p-9780470662571)](/img/sobester-aircraft-design-figure-9-2-polyhedral.jpg){width=640 border=true}
 
-![Effect of dihedral on lateral stability. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) Figure 3.17.](/img/cook-flight-dynamic-principles-figure-3-17-dihedral-lateral-stability.png){width=600}
+![Effect of dihedral on lateral stability. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) Figure 3.17.](/img/cook-flight-dynamic-principles-figure-3-17-dihedral-lateral-stability.png){width=600 border=true}
 
-![Sweep. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) Figure 13.7.](/img/cook-figure-13-7-sweep.png){width=400}
+![Sweep. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) Figure 13.7.](/img/cook-figure-13-7-sweep.png){width=400 border=true}
 
-![Keel area for lateral stability. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-31.](/img/phak/phak-figure-5-31-keel-area-lateral-stability.png){width=440}
+![Keel area for lateral stability. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-31.](/img/phak/phak-figure-5-31-keel-area-lateral-stability.png){width=440 border=true}
 
-![Rolling moment on vertical stabilizer. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) Figure 13.9.](/img/cook-figure-13-9-rolling-moment-on-vertical-stabilizer.png){width=540}
+![Rolling moment on vertical stabilizer. [Cook: Flight Dynamics Principles](https://books.google.com/books?vid=ISBN0080982425) Figure 13.9.](/img/cook-figure-13-9-rolling-moment-on-vertical-stabilizer.png){width=540 border=true}
 
-![Directional stability. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-32.](/img/phak/phak-figure-5-32-directional-stability.jpg){width=440}
+![Directional stability. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-32.](/img/phak/phak-figure-5-32-directional-stability.jpg){width=440 border=true}
 
-![Different planforms. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-33.](/img/phak/phak-figure-5-33-wing-planform-stall-characteristics.jpg){width=640}
+![Different planforms. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-33.](/img/phak/phak-figure-5-33-wing-planform-stall-characteristics.jpg){width=640 border=true}
 
 ### Center of Gravity Effect
 
@@ -564,9 +564,9 @@ Aircraft axes system is below where
     * A pitch down to raise the tailwheel is a couple $Q$ out the left side of the plane
     * Therefore $\dot{h}$ is also out of the left side of the plane, meaning the angular momentum is changing towards the left, indicating a left turning tendency
 
-![Gyroscopic precession [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-49](/img/phak/phak-figure-5-49-gyroscopic-precession.png){width=440}
+![Gyroscopic precession [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-49](/img/phak/phak-figure-5-49-gyroscopic-precession.png){width=440 border=true}
 
-![Gyroscopic precession [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-50](/img/phak/phak-figure-5-50-gyroscopic-precession-tailwheel.png){width=440}
+![Gyroscopic precession [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-50](/img/phak/phak-figure-5-50-gyroscopic-precession-tailwheel.png){width=440 border=true}
 
 ## Load Factors
 
@@ -628,7 +628,7 @@ n=\frac{1}{\cos(\phi)}
 So figure 5-53 in PHAK is just a plot of $\frac{1}{\cos(\phi)}$.
 Load factor varies with roll angle $\phi$ as $n=\frac{1}{\cos(\phi)}$.
 
-![Load factor as a function of bank angle. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-53.](/img/phak/phak-figure-5-53-load-factor-vs-bank-angle.png){width=340}
+![Load factor as a function of bank angle. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-53.](/img/phak/phak-figure-5-53-load-factor-vs-bank-angle.png){width=340 border=true}
 
 The maximum speed at which an airplane may be stalled safely is the design **maneuvering speed** $V_{\text{A}}$ is the speed below which you can move a single flight control, one time, to its full deflection, for one axis of airplane rotation only (pitch, roll or yaw), in smooth air, without risk of damage to the airplane.
 It basically ensures that a stall will occur before structural failure.
@@ -664,17 +664,17 @@ See [14 CFR &sect;27.25(a)(1)(ii)](https://www.ecfr.gov/current/title-14/part-27
   * ==Avoid following another aircraft on a similar flight path at an altitude within 1,000 feet==
   * ==Approach the runway above a preceding aircraft's path when landing behind another aircraft and touch down after the point at which the other aircraft wheels contacted the runway==
 
-![Wingtip vortices. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 4: Principles of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/06_phak_ch4.pdf) Figure 4-8.](/img/phak/phak-figure-4-8-tip-vortex.jpg){width=440}
+![Wingtip vortices. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 4: Principles of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/06_phak_ch4.pdf) Figure 4-8.](/img/phak/phak-figure-4-8-tip-vortex.jpg){width=440 border=true}
 
-![Wingtip vortices. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-12.](/img/phak/phak-figure-5-12-wingtip-vortices.png){width=440}
+![Wingtip vortices. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-12.](/img/phak/phak-figure-5-12-wingtip-vortices.png){width=440 border=true}
 
-![Avoid wake turbulence. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 14: Airport Operations](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/16_phak_ch14.pdf) Figure 14-45.](/img/phak/phak-figure-14-45-vortex-generation.jpg){width=540}
+![Avoid wake turbulence. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 14: Airport Operations](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/16_phak_ch14.pdf) Figure 14-45.](/img/phak/phak-figure-14-45-vortex-generation.jpg){width=540 border=true}
 
-![Avoid wingtip vortices. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-13.](/img/phak/phak-figure-5-13-avoid-wingtip-vortices.png){width=800}
+![Avoid wingtip vortices. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-13.](/img/phak/phak-figure-5-13-avoid-wingtip-vortices.png){width=800 border=true}
 
-![Avoid wake turbulence. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-14.](/img/phak/phak-figure-5-14-avoid-wake-turbulence.jpg){width=800}
+![Avoid wake turbulence. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-14.](/img/phak/phak-figure-5-14-avoid-wake-turbulence.jpg){width=800 border=true}
 
-![Vortices near the ground. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-15.](/img/phak/phak-figure-5-15-vortices-near-ground.jpg){width=800}
+![Vortices near the ground. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-15.](/img/phak/phak-figure-5-15-vortices-near-ground.jpg){width=800 border=true}
 
 ## References
 

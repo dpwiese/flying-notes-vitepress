@@ -55,6 +55,6 @@
 
 * May or may not have a glideslope
 
-![KTVL LDA RWY 18.](/img/iap/ktvl-lda-rwy-18.png){width=500}
+![KTVL LDA RWY 18.](/img/iap/ktvl-lda-rwy-18.png){width=600 border=true}
 
-![KSLC LDA RWY 35.](/img/iap/kslc-lda-rwy-35.png){width=500}
+![KSLC LDA RWY 35.](/img/iap/kslc-lda-rwy-35.png){width=600 border=true}

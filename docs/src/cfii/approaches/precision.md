@@ -6,7 +6,7 @@ This page covers *Task B. Precision Instrument Approach (PA)* from the [FAA-S-80
 
 ## Completion Standards
 
-![[FAA-S-ACS-8B Instrument Rating Airplane Airman Certification Standards Change 1](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/instrument_rating_acs_change_1.pdf)](/img/instrument-acs/instrument-acs-vi-b-precision-approach.png){width=540}
+![[FAA-S-ACS-8B Instrument Rating Airplane Airman Certification Standards Change 1](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/instrument_rating_acs_change_1.pdf)](/img/instrument-acs/instrument-acs-vi-b-precision-approach.png){width=600 border=true}
 
 Note from (the older) [FAA-S-ACS-8B](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/instrument_rating_acs_change_1.pdf) regarding the use of LPV approaches in lieu of an ILS:
 

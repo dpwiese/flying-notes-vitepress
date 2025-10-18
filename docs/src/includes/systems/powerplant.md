@@ -24,13 +24,13 @@
     * SAFETY: Overboost condition
 * Fuel-air ratios are by weight
 
-![Radial engine. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-1](/img/phak/phak-figure-7-1-radial-engine.jpg){width=340}
+![Radial engine. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-1](/img/phak/phak-figure-7-1-radial-engine.jpg){width=360 border=true}
 
-![Horizontally opposed engine. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-2](/img/phak/phak-figure-7-2-horizontally-opposed-engine.jpg){width=340}
+![Horizontally opposed engine. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-2](/img/phak/phak-figure-7-2-horizontally-opposed-engine.jpg){width=360 border=true}
 
-![Reciprocating engine. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-4](/img/phak/phak-figure-7-4-reciprocating-engine.jpg){width=340}
+![Reciprocating engine. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-4](/img/phak/phak-figure-7-4-reciprocating-engine.jpg){width=360 border=true}
 
-![Four stroke cycle. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-5](/img/phak/phak-figure-7-5-four-stroke-cycle.jpg){width=340}
+![Four stroke cycle. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-5](/img/phak/phak-figure-7-5-four-stroke-cycle.jpg){width=360 border=true}
 
 ![Lycoming 360 series engine. [Lycoming](https://www.lycoming.com/engines/8844)](/img/lycoming-io-360.png){width=400}
 
@@ -52,7 +52,7 @@
   * Detonation
 * Operating the engine at low temps is also bad
 
-![Air cooling. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-19.](/img/phak/phak-figure-7-19-air-cooling.jpg){width=400}
+![Air cooling. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-19.](/img/phak/phak-figure-7-19-air-cooling.jpg){width=360 border=true}
 
 ## Exhaust system
 

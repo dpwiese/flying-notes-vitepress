@@ -14,7 +14,7 @@ Control the surfaces to create the moments to rotate an aircraft about its three
       * V-tail
       * Stabilator
 
-![Primary flight controls. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-4.](/img/phak/phak-figure-6-4-primary-flight-controls.jpg){width=340}
+![Primary flight controls. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-4.](/img/phak/phak-figure-6-4-primary-flight-controls.jpg){width=340 border=true}
 
 ## Adverse Moments
 
@@ -27,4 +27,4 @@ Control the surfaces to create the moments to rotate an aircraft about its three
 * **Differential ailerons** are a design choice used to reduce this effect by reducing the downward aileron deflection relative to the upward deflection.
   * The Piper Archer uses differential ailerons
 
-![TCDS 2A13 XV - B.- Model PA-28-181 (Archer III), 4 PCLM (Normal Category), 2 PCLM (Utility Category), Approved August 30, 1994, for S/N 2890206 through 2890231, 2843001 and up, and 2881001 and up. Control surface movements.](/img/tcds-2a13/tcds-2a13-control-surface-movements.png){width=600}
+![TCDS 2A13 XV - B.- Model PA-28-181 (Archer III), 4 PCLM (Normal Category), 2 PCLM (Utility Category), Approved August 30, 1994, for S/N 2890206 through 2890231, 2843001 and up, and 2881001 and up. Control surface movements.](/img/tcds-2a13/tcds-2a13-control-surface-movements.png){width=600 border=true}

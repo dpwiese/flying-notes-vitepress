@@ -50,7 +50,7 @@ This page covers *Task I. Navigation and Cross-Country Flight Planning* from the
 * **Standard Sea Level Temperature**
   * 15 &#176;C
 
-![Magnetic variation and agonic line.](/img/phak/phak-figure-16-9-agonic-lines.png){width=340}
+![Magnetic variation and agonic line.](/img/phak/phak-figure-16-9-agonic-lines.png){width=360 border=true}
 
 <!--@include: ./docs/src/includes/altitudes.md | shift:2-->
 

@@ -25,7 +25,7 @@
   * Grounding the P-lead disables the magneto
   * If magnetos aren't grounded, they stay on or "hot" even when the key is out
 
-![Ignition system. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-16.](/img/phak/phak-figure-7-16-ignition-system.jpg){width=540}
+![Ignition system. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-16.](/img/phak/phak-figure-7-16-ignition-system.jpg){width=540 border=true}
 
 ## Impulse Coupling
 

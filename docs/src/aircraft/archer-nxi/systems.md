@@ -14,7 +14,7 @@
 
     > As a general rule, repair the control surface in such a manner that the weight distribution is not affected in any way, in order to preclude the occurrence of flutter of the control surface in flight. Under certain conditions, counterbalance weight is added forward of the hinge line to maintain balance. Add or remove balance weights only when necessary in accordance with the manufacturer’s instructions. Flight testing must be accomplished to ensure flutter is not a problem. Failure to check and retain control surface balance within the original or maximum allowable value could result in a serious flight hazard.
 
-![TCDS 2A13 XV - B.- Model PA-28-181 (Archer III), 4 PCLM (Normal Category), 2 PCLM (Utility Category), Approved August 30, 1994, for S/N 2890206 through 2890231, 2843001 and up, and 2881001 and up. Control surface movements.](/img/tcds-2a13/tcds-2a13-control-surface-movements.png){width=800}
+![TCDS 2A13 XV - B.- Model PA-28-181 (Archer III), 4 PCLM (Normal Category), 2 PCLM (Utility Category), Approved August 30, 1994, for S/N 2890206 through 2890231, 2843001 and up, and 2881001 and up. Control surface movements.](/img/tcds-2a13/tcds-2a13-control-surface-movements.png){width=800 border=true}
 
 ## Secondary Flight Controls
 
@@ -51,13 +51,15 @@ While the right flap can be used as a step while in the up position, it's genera
 * Takeoff power: 180 HP @ 2700 RPM
 * Fuel injected
 
+![Lycoming engine model code. Lycoming Overhaul Manual PN 60294-7](/img/lycoming-manual/figure-2-1-engine-model-code.png){width=500 border=true}
+
 ![Lycoming 360 series engine. [Lycoming](https://www.lycoming.com/engines/8844)](/img/lycoming-io-360.png){width=400}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 5 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-5-lycoming.png){width=800}
+![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 5 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-5-lycoming.png){width=800 border=true}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 6 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-6-lycoming.png){width=800}
+![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 6 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-6-lycoming.png){width=800 border=true}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 6-00-00 Page 4 Station Reference Lines. Note the buttock line for the spinner tip is 0.44 inches offset from the aircraft centerline, annotated as corresponding to 3&#176; angle of the thrustline relative to the aircraft centerline.](/img/archer-amm/archer-amm-6-00-00-page-4-buttock-lines.png){width=800}
+![Archer Airplane Maintenance Manual (PN 761-883) 6-00-00 Page 4 Station Reference Lines. Note the buttock line for the spinner tip is 0.44 inches offset from the aircraft centerline, annotated as corresponding to 3&#176; angle of the thrustline relative to the aircraft centerline.](/img/archer-amm/archer-amm-6-00-00-page-4-buttock-lines.png){width=800 border=true}
 
 ### Cooling System
 
@@ -67,7 +69,7 @@ While the right flap can be used as a step while in the up position, it's genera
 
 ### Exhaust System
 
-![Archer Airplane Maintenance Manual (PN 761-883) 78-00-00 Page 1 Figure 1 exhaust system. Annotations removed for clarity.](/img/archer-amm/archer-amm-78-00-00-page-1-figure-1-exhaust-system.png){width=800}
+![Archer Airplane Maintenance Manual (PN 761-883) 78-00-00 Page 1 Figure 1 exhaust system. Annotations removed for clarity.](/img/archer-amm/archer-amm-78-00-00-page-1-figure-1-exhaust-system.png){width=800 border=true}
 
 ### Ignition System
 
@@ -75,9 +77,9 @@ While the right flap can be used as a step while in the up position, it's genera
 
     > The ARCHER III is equipped with two Slick 4373 magnetos. These magnetos are engineered to give trouble free ignition, are completely self contained, and have an impulse coupling to aid in starting.
 
-![Archer Airplane Maintenance Manual (PN 761-883) 71-10-00 Page 1 ingition system.](/img/archer-amm/archer-amm-71-10-00-page-1-ignition.png){width=800}
+![Archer Airplane Maintenance Manual (PN 761-883) 71-10-00 Page 1 ingition system.](/img/archer-amm/archer-amm-71-10-00-page-1-ignition.png){width=800 border=true}
 
-![[L-1363J 4300/6300 Series Magneto Maintenance and Overhaul Manual](https://www.championaerospace.com/pdfs/techdocs/F1100/L-1363J_corrected%2020210420.pdf) magneto. Additional annotations added.](/img/l-1363j-magnetos/l-1363j-figure-7-16-a-magneto.png){width=400}
+![[L-1363J 4300/6300 Series Magneto Maintenance and Overhaul Manual](https://www.championaerospace.com/pdfs/techdocs/F1100/L-1363J_corrected%2020210420.pdf) magneto. Additional annotations added.](/img/l-1363j-magnetos/l-1363j-figure-7-16-a-magneto.png){width=400 border=true}
 
 ### Induction System
 
@@ -104,9 +106,9 @@ While the right flap can be used as a step while in the up position, it's genera
 
     > The fuel injection system is a conventional, Bendix-type RSA5 system, consisting of a fuel injection servo that meters fuel delivery based on engine intake airflow, a flow divider that evenly distributes fuel to the 4 cylinders and injection nozzles that direct vaporized fuel into the cylinder head intake ports. An alternate air control is provided in the event of blockage of the primary, filtered airflow path to the engine. The design of the system will also continue to provide the required, minimum heat rise to prevent or eliminate icing of the system by pulling airflow from around the exhaust tailpipe.
 
-![Archer Airplane Maintenance Manual (PN 761-883) 78-00-00 Page 3 fuel system.](/img/archer-amm/archer-amm-28-00-00-page-3-fuel-system.png){width=800}
+![Archer Airplane Maintenance Manual (PN 761-883) 78-00-00 Page 3 fuel system.](/img/archer-amm/archer-amm-28-00-00-page-3-fuel-system.png){width=800 border=true}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 73-10-00 Page 4 fuel distribution.](/img/archer-amm/archer-amm-73-10-00-page-4-figure-2-fuel-distribution.png){width=800}
+![Archer Airplane Maintenance Manual (PN 761-883) 73-10-00 Page 4 fuel distribution.](/img/archer-amm/archer-amm-73-10-00-page-4-figure-2-fuel-distribution.png){width=800 border=true}
 
 ## Oil System
 
@@ -138,18 +140,27 @@ While the right flap can be used as a step while in the up position, it's genera
 
 * Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 page 2:
 
-    > In addition to the previously mentioned components, each ARCHER III engine is furnished with a starter, 70 ampere alternator, 28 volt electrical system, shielded ignition, and fuel pump. The exhaust system is stainless steel with two mufflers. A shroud is provided to supply heat for the cabin.
+    > In addition to the previously mentioned components, each ARCHER III engine is furnished with a starter, 70 ampere alternator, 28 volt electrical system, shielded ignition, and fuel pump.
 
+* Voltage regulator see POH (VB-2749) page 7-49:
+
+    > A solid state voltage regulator is located just forward of the instrument panel on the left side of the aircraft. The voltage regulator is designed to regulate the electrical system bus voltage to 28 volts and to prevent damage to the electrical and avionics equipment by removing the alternator from the circuit if its output exceeds 32 volts. In this situation an ALTR FAIL warning CAS message will illuminate.
 
 ## Hydraulic System
+
+![Piper Archer III NXi brakes.](/img/archer/archer-brakes.jpeg){width=600}
 
 * Piper Archer has a separate master cylinder for the handbrake, see POH (VB-2749) page 7-7:
 
     > The toe and hand brakes have their own master brake cylinders, but they share a common reservoir.
 
-![Archer Airplane Maintenance Manual (PN 761-883) 27-20-00 Page 5 Rudder Controls and Steering Pedal Assembly.](/img/archer-amm/archer-amm-27-20-00-page-5-brakes.png){width=440}
+![Archer Airplane Maintenance Manual (PN 761-883) 27-20-00 Page 5 Rudder Controls and Steering Pedal Assembly.](/img/archer-amm/archer-amm-27-20-00-page-5-brakes.png){width=440 border=true}
 
 ## Landing Gear
+
+![Piper Archer III NXi main gear.](/img/archer/archer-main-gear.jpeg){width=400}
+
+![Piper Archer III NXi main gear service instruction.](/img/archer/archer-main-gear-service-instruction.jpeg){width=400}
 
 * Fixed tricycle gear
 * Oleo struts
@@ -172,21 +183,21 @@ While the right flap can be used as a step while in the up position, it's genera
   * **GMU 44 Magnetometer**
     * Located on the underside of the left wing
 
-![[G1000 NXi Pilot's Guide 190-02130-02 Rev. A](https://static.garmin.com/pumac/190-02130-02_A.pdf)](/img/archer-poh/g1000-pilots-guide-figure-1-1-lru-diagram.png){width=600}
+![[G1000 NXi Pilot's Guide 190-02130-02 Rev. A](https://static.garmin.com/pumac/190-02130-02_A.pdf)](/img/archer-poh/g1000-pilots-guide-figure-1-1-lru-diagram.png){width=600 border=true}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 1 Instrument Panel.](/img/archer-amm/archer-amm-34-25-03-page-1-instrument-panel.png){width=800}
+![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 1 Instrument Panel.](/img/archer-amm/archer-amm-34-25-03-page-1-instrument-panel.png){width=800 border=true}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 34 GDU 105x. Note the part number is GDU 1050 and GDU 1054 when the GFC 700 is installed.](/img/archer-amm/archer-amm-34-25-03-page-34-gdu-105x.png){width=340}
+![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 34 GDU 105x. Note the part number is GDU 1050 and GDU 1054 when the GFC 700 is installed.](/img/archer-amm/archer-amm-34-25-03-page-34-gdu-105x.png){width=340 border=true}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 35 Garmin GMA 1360 audio panel.](/img/archer-amm/archer-amm-34-25-03-page-35-gma-1360.png){width=260}
+![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 35 Garmin GMA 1360 audio panel.](/img/archer-amm/archer-amm-34-25-03-page-35-gma-1360.png){width=260 border=true}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 36 Garmin GIA 64 Integrated Avionics Unit.](/img/archer-amm/archer-amm-34-25-03-page-36-gia-64.png){width=340}
+![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 36 Garmin GIA 64 Integrated Avionics Unit.](/img/archer-amm/archer-amm-34-25-03-page-36-gia-64.png){width=340 border=true}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 38 Garmin GEA 71 Engine/Airframe Unit.](/img/archer-amm/archer-amm-34-25-03-page-38-gea-71.png){width=340}
+![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 38 Garmin GEA 71 Engine/Airframe Unit.](/img/archer-amm/archer-amm-34-25-03-page-38-gea-71.png){width=340 border=true}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 41 Garmin GDU 75 ADAHRS.](/img/archer-amm/archer-amm-34-25-03-page-41-gdu-75.png){width=340}
+![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 41 Garmin GDU 75 ADAHRS.](/img/archer-amm/archer-amm-34-25-03-page-41-gdu-75.png){width=340 border=true}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 44 Garmin GMU 44 Magnetometer.](/img/archer-amm/archer-amm-34-25-03-page-44-gmu-44.png){width=340}
+![Archer Airplane Maintenance Manual (PN 761-883) 34-25-03 Page 44 Garmin GMU 44 Magnetometer.](/img/archer-amm/archer-amm-34-25-03-page-44-gmu-44.png){width=340 border=true}
 
 ### Backup
 
@@ -209,7 +220,7 @@ While the right flap can be used as a step while in the up position, it's genera
 
     > The RSM is installed internally on an access cover on the underside of the aircraft right wing.
 
-![Archer Airplane Maintenance Manual (PN 761-883) 34-24-00 Page 11 RSM installation.](/img/archer-amm/archer-amm-34-24-00-page-11-rsm.png){width=600}
+![Archer Airplane Maintenance Manual (PN 761-883) 34-24-00 Page 11 RSM installation.](/img/archer-amm/archer-amm-34-24-00-page-11-rsm.png){width=600 border=true}
 
 ### Antennas
 
@@ -219,13 +230,13 @@ While the right flap can be used as a step while in the up position, it's genera
 
 ![Piper Archer III NXi antennas (bottom).](/img/archer/archer-antennas-lower.jpeg){width=600}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 23-00-00 Page 2 Antenna installations.](/img/archer-amm/archer-amm-23-00-00-page-2-figrure-1-antenna-installations.png){width=800}
+![Archer Airplane Maintenance Manual (PN 761-883) 23-00-00 Page 2 Antenna installations.](/img/archer-amm/archer-amm-23-00-00-page-2-figrure-1-antenna-installations.png){width=800 border=true}
 
 ## Pitot-static / Vacuum System
 
 * TBD
 
-![Archer Airplane Maintenance Manual (PN 761-883) 34-10-00 Page 5 pitot-static system.](/img/archer-amm/archer-amm-34-10-00-page-5-static-system.png){width=600}
+![Archer Airplane Maintenance Manual (PN 761-883) 34-10-00 Page 5 pitot-static system.](/img/archer-amm/archer-amm-34-10-00-page-5-static-system.png){width=600 border=true}
 
 ## Environmental
 

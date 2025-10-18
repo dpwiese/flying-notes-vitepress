@@ -19,11 +19,11 @@ Very High Frequency (VHF) Omni-directional Range (VOR) is a type of radio based 
   * So in the example above about being south of Casanova VOR, if we dialed the 180&#176; radial we would see a `FROM` indication, but if we dialed in the 360&#176; radial we would see `TO`.
   * Remember this information is irrespective of the aircraft's heading.
 
-![VOR ground station. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 9: Navigation Systems Figure 9-11.](/img/ifh/ifh-figure-9-11-vor-ground-station.png){width=500}
+![VOR ground station. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 9: Navigation Systems Figure 9-11.](/img/ifh/ifh-figure-9-11-vor-ground-station.png){width=360 border=true}
 
 ![DCA VOR/DME from Gravelly Point. [Gravelly Point Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/08/MountVernonTrail_GravellyPoint.jpg)](/img/gravelly-point-dca-vor.jpg){width=700}
 
-![VHF line of sight. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 16: Navigation](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/18_phak_ch16.pdf) Figure 16-28.](/img/phak/phak-figure-16-28-vhf-line-of-sight.jpg){width=400}
+![VHF line of sight. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 16: Navigation](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/18_phak_ch16.pdf) Figure 16-28.](/img/phak/phak-figure-16-28-vhf-line-of-sight.jpg){width=360 border=true}
 
 ## VOR Symbols on Charts
 
@@ -33,7 +33,7 @@ Very High Frequency (VHF) Omni-directional Range (VOR) is a type of radio based 
 * The screenshots below are from VFR sectionals, but the same symbols are used on IFR charts.
 * The most common type of VOR facility is the VORTAC, then the VOR/DME, with VOR being fairly uncommon.
 
-![VFR sectional legend: radio aids to navigation.](/img/section-legend-vors.jpg){width=500}
+![VFR sectional legend: radio aids to navigation.](/img/section-legend-vors.jpg){width=500 border=true}
 
 ![Casanova VORTAC on sectional chart.](/img/casanova-vor-sectional.jpg){width=700}
 
@@ -43,11 +43,11 @@ Very High Frequency (VHF) Omni-directional Range (VOR) is a type of radio based 
 
 ![Sulphur Springs DME on sectional chart.](/img/vfr-sectional/vfr-sectional-slr-dme.jpg){width=700}
 
-![A NAVAID located on an airport may not always be charted with its typical symbol. [Aeronautical Chart User Guide Complete](https://aeronav.faa.gov/user_guide/cug-complete_20250220.pdf).](/img/chart-users-guide-navaid-on-airport.png){width=800}
+![A NAVAID located on an airport may not always be charted with its typical symbol. [Aeronautical Chart User Guide Complete](https://aeronav.faa.gov/user_guide/cug-complete_20250220.pdf).](/img/chart-users-guide-navaid-on-airport.png){width=800 border=true}
 
 ## VOR Indicator
 
-![VOR Indicator. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 16: Navigation](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/18_phak_ch16.pdf) Figure 16-29.](/img/phak/phak-figure-16-29-vor-indicator.jpg){width=400}
+![VOR Indicator. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 16: Navigation](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/18_phak_ch16.pdf) Figure 16-29.](/img/phak/phak-figure-16-29-vor-indicator.jpg){width=360 border=true}
 
 * The VOR indicator also provides information with the Course Deviation Indicator (CDI)
   * This gives the pilot information as to how far off course they are when they have selected a radial by way of a needle that deflects left or right from center
@@ -65,9 +65,9 @@ Very High Frequency (VHF) Omni-directional Range (VOR) is a type of radio based 
 * VORW is a VOR *without voice*
 * VORW are denoted on charts by underlining the VOR frequency
 
-![VFR sectional legend: communication boxes.](/img/vfr-sectional-communication-boxes.jpg){width=600}
+![VFR sectional legend: communication boxes.](/img/vfr-sectional-communication-boxes.jpg){width=600 border=true}
 
-![Chart supplement for KDAL. Note the Cowboy VOR (CVE) is listed as a VORW.](/img/chart-supplement-kdal-vorw.png){width=700}
+![Chart supplement for KDAL. Note the Cowboy VOR (CVE) is listed as a VORW.](/img/chart-supplement-kdal-vorw.png){width=700 border=true}
 
 ## Legacy Service Volumes
 
@@ -88,19 +88,19 @@ Very High Frequency (VHF) Omni-directional Range (VOR) is a type of radio based 
     * Note the difference between AGL and MSL. I don't know at what altitude the IFR high charts top out at, but there are Maximum Authorized Altitudes (MAA) so conceivably a Low Class `(L)` VOR located at 10,000 ft. MSL, for example, would provide 40 nm radius of service up to 28,000 ft. MSL and be used on a high chart.
     * In any case, following what is on the IFR charts for VOR navigation ensures a pilot need not worry too much about the various service volumes.
 
-![Legacy VOR service volumes. [FAA-CT-8080-3F Airman Knowledge Testing Supplement for Instrument Rating](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/supplements/instrument_rating_akts.pdf)](/img/faa-ct-8080-3f-legend-37-vor-service-volumes.jpg){width=540}
+![Legacy VOR service volumes. [FAA-CT-8080-3F Airman Knowledge Testing Supplement for Instrument Rating](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/supplements/instrument_rating_akts.pdf)](/img/faa-ct-8080-3f-legend-37-vor-service-volumes.jpg){width=540 border=true}
 
-![KBED chart supplement page showing LWM low class VOR/DME and BOS high class VOR/DME.](/img/chart_supplement_vor_ssv.png){width=540}
+![KBED chart supplement page showing LWM low class VOR/DME and BOS high class VOR/DME.](/img/chart_supplement_vor_ssv.png){width=540 border=true}
 
-![[AIM Figure 1-1-1](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard high altitude service volume.](/img/vor_high_volume.jpg){width=340}
+![[AIM Figure 1-1-1](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard high altitude service volume.](/img/vor_high_volume.jpg){width=360 border=true}
 
-![[AIM Figure 1-1-2](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard low altitude service volume.](/img/vor_low_volume.jpg){width=340}
+![[AIM Figure 1-1-2](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard low altitude service volume.](/img/vor_low_volume.jpg){width=360 border=true}
 
-![[AIM Figure 1-1-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard terminal service volume.](/img/vor_terminal_volume.png){width=340}
+![[AIM Figure 1-1-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) standard terminal service volume.](/img/vor_terminal_volume.png){width=340 border=true}
 
-![ASA Instrument Test Prep Figure 4-1 VOR service volumes](/img/asa-2022-instrument-test-prep-figure-4-1-vor-ssv.png){width=800}
+![ASA Instrument Test Prep Figure 4-1 VOR service volumes](/img/asa-2022-instrument-test-prep-figure-4-1-vor-ssv.png){width=800 border=true}
 
-![Different edition [AIM Figure 1-1-1](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) all VOR service volumes.](/img/new-aim-figure-1-1-1-all-vor-service-volumes.jpg){width=600}
+![Different edition [AIM Figure 1-1-1](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html) all VOR service volumes.](/img/new-aim-figure-1-1-1-all-vor-service-volumes.jpg){width=600 border=true}
 
 ## New Service Volumes
 
@@ -143,4 +143,4 @@ Very High Frequency (VHF) Omni-directional Range (VOR) is a type of radio based 
 
     > MON Airports with the Airport designator at the top of the Airport Data Block. The MON designation is to alert pilots to those airports that have retained ILS and VOR instrument approach procedures for safe recovery in the event of a GPS outage. Refer to the Aeronautical Information Manual (AIM) for expanded MON Airport guidance.
 
-![Ardmore Municipal airport is designated a MON airport on the IFR low sectional.](/img/ifr-low-chart-adm-mon-airport.jpg){width=700}
+![Ardmore Municipal airport is designated a MON airport on the IFR low sectional.](/img/ifr-low-chart-adm-mon-airport.jpg){width=700 border=true}

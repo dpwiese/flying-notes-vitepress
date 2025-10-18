@@ -17,9 +17,9 @@
   * Electric (like rear window of car)
   * Icing fluid from prop in single engine also sprays back on windscreen
 
-![Deicing boots. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-48.](/img/phak/phak-figure-7-48-deicing-boots.jpg){width=380}
+![Deicing boots. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-48.](/img/phak/phak-figure-7-48-deicing-boots.jpg){width=380 border=true}
 
-![Weeping wing. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-49.](/img/phak/phak-figure-7-49-deicing-weeping-wing.jpg){width=380}
+![Weeping wing. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-49.](/img/phak/phak-figure-7-49-deicing-weeping-wing.jpg){width=380 border=true}
 
 ## Propellor or Rotor
 
@@ -28,7 +28,7 @@
   * Electric heating element
   * Boots
 
-![Prop deicing. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-50.](/img/phak/phak-figure-7-50-prop-deicing.jpg){width=380}
+![Prop deicing. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-50.](/img/phak/phak-figure-7-50-prop-deicing.jpg){width=380 border=true}
 
 ## Air Intake
 

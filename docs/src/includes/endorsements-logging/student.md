@@ -64,7 +64,7 @@
 * There are more endorsements that are applicable to student pilots described below
 * The above zero-to-solo endorsements are everything the student pilot needs to solo out of the airport where their training is conducted, e.g. KHEF. To fly solo from KHEF and practice landings at KHWY or KCJR, for example, that are within 25 NM, a cross-country endorsement isn't needed, but there is a separate endorsement described below.
 
-![Zero to first solo endorsements for student pilot. [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)](/img/faa-ac-61-65h-student-first-solo-endorsements.png){width=500}
+![Zero to first solo endorsements for student pilot. [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)](/img/faa-ac-61-65h-student-first-solo-endorsements.png){width=500 border=true}
 
 ## Cross Country
 
@@ -87,7 +87,7 @@
 * *Note: student pilots need to carry their logbook only on solo cross country flights*
   * [14 CFR &sect;61.51(i)(2)](https://www.ecfr.gov/on/2017-01-03/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.51#p-61.51(i)(2))
 
-![Cross country endorsements for student pilot. [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)](/img/faa-ac-61-65h-student-cross-country-solo-endorsements.png){width=500}
+![Cross country endorsements for student pilot. [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)](/img/faa-ac-61-65h-student-cross-country-solo-endorsements.png){width=500 border=true}
 
 ## The Rest
 
@@ -116,7 +116,7 @@
 * ==**Retaking practical test after failure (A.73)**==
   * Same endorsement as for knowledge test, saying additional training was given and the student is ready to re-take the practical test
 
-![Remaining endorsements to become private pilot. [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)](/img/faa-ac-61-65h-remaining-student-to-private-endorsements.jpg){width=500}
+![Remaining endorsements to become private pilot. [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)](/img/faa-ac-61-65h-remaining-student-to-private-endorsements.jpg){width=500 border=true}
 
 ## Less Common Ones
 

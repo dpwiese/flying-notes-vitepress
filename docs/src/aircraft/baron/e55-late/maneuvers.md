@@ -231,7 +231,7 @@ This document provides maneuvers guidelines developed for Baron N322ET.
     * Airspeed: +/- 5 kts
     * Heading: 20&#176; on recovery
 
-![E55 Baron VMC demo](/img/c55-baron-poh/c55-baron-poh-page-4-25-vmc-demo.png){width=340}
+![E55 Baron VMC demo](/img/c55-baron-poh/c55-baron-poh-page-4-25-vmc-demo.png){width=340 border=true}
 
 ## Drag demo
 
@@ -309,7 +309,7 @@ This document provides maneuvers guidelines developed for Baron N322ET.
   * The POH calls for flaps 15&#176;, but it doesn't increase the descent rate substantially so we don't do it
   * *==Don't forget to put the gear up==*
 
-![E55 Baron (N3622A) emergency descent](/img/c55-baron-poh/c55-baron-poh-page-3-7-emergency-descent.png){width=340}
+![E55 Baron (N3622A) emergency descent](/img/c55-baron-poh/c55-baron-poh-page-3-7-emergency-descent.png){width=340 border=true}
 
 ## OEI instrument approach
 
@@ -328,7 +328,7 @@ This document provides maneuvers guidelines developed for Baron N322ET.
 * 12" on inoperative engine to give zero thrust
   * The POH page 3-17 says to retard the prop to the feather detent, but we leave at 2500 RPM
 
-![E55 Baron (N3622A) simulated zero thrust](/img/c55-baron-poh/c55-baron-poh-page-3-17-simulated-zero-thrust-half-page.png){width=340}
+![E55 Baron (N3622A) simulated zero thrust](/img/c55-baron-poh/c55-baron-poh-page-3-17-simulated-zero-thrust-half-page.png){width=340 border=true}
 
 ## Normal landing
 

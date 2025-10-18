@@ -9,12 +9,12 @@
   * For our training scenarious out of KADS (95 &#176;F, 2,000' pressure altitude, full fuel with 420 lb of occupants and baggage, no headwind) a more reasonable accelerate-go distance is about 5,500 ft.
   * In this scenario, the OEI climb rate would be just under 500 fpm
 
-![E55 Baron (N3622A) OEI climb](/img/c55-baron-poh/c55-baron-poh-page-5-21-takeoff-weight-oei-climb.png){width=440}
+![E55 Baron (N3622A) OEI climb](/img/c55-baron-poh/c55-baron-poh-page-5-21-takeoff-weight-oei-climb.png){width=440 border=true}
 
-![E55 Baron (N3622A) takeoff distance](/img/c55-baron-poh/c55-baron-poh-page-5-24-takeoff-distance.png){width=800}
+![E55 Baron (N3622A) takeoff distance](/img/c55-baron-poh/c55-baron-poh-page-5-24-takeoff-distance.png){width=800 border=true}
 
-![E55 Baron (N3622A) OEI climb gradient](/img/c55-baron-poh/c55-baron-poh-page-5-28-oei-climb-gradient.png){width=800}
+![E55 Baron (N3622A) OEI climb gradient](/img/c55-baron-poh/c55-baron-poh-page-5-28-oei-climb-gradient.png){width=800 border=true}
 
-![E55 Baron (N3622A) accelerate-stop distance](/img/c55-baron-poh/c55-baron-poh-page-5-25-accelerate-stop-distance.png){width=800}
+![E55 Baron (N3622A) accelerate-stop distance](/img/c55-baron-poh/c55-baron-poh-page-5-25-accelerate-stop-distance.png){width=800 border=true}
 
-![E55 Baron (N3622A) accelerate-go distance](/img/c55-baron-poh/c55-baron-poh-page-5-26-accelerate-go-distance.png){width=800}
+![E55 Baron (N3622A) accelerate-go distance](/img/c55-baron-poh/c55-baron-poh-page-5-26-accelerate-go-distance.png){width=800 border=true}

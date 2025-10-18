@@ -109,11 +109,11 @@ The airport environment has unique hazards that must be managed, including:
   * This should include more than just a planned alternate in case an unplanned diversion is required
 * Know symbology associated with aiport diagrams, and where to find the legend in case there is a symbol or marking you don't recognize
 
-![KHEF airport diagram. Note HS1. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-khef-taxi-diagram.png){width=500}
+![KHEF airport diagram. Note HS1. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-khef-taxi-diagram.png){width=600 border=true}
 
-![Airport diagram legend. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-taxi-diagram-legend.png){width=500}
+![Airport diagram legend. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-taxi-diagram-legend.png){width=600 border=true}
 
-![KJFK airport diagram. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/) . Note double lettered taxiways and numbered letter taxiways.](/img/chart-supplement-kjfk-taxi-diagram.png){width=500}
+![KJFK airport diagram. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/) . Note double lettered taxiways and numbered letter taxiways.](/img/chart-supplement-kjfk-taxi-diagram.png){width=600 border=true}
 
 #### Satellite Imagery
 
@@ -153,9 +153,7 @@ The airport environment has unique hazards that must be managed, including:
 
 ![Airport markings. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Appendix C: Airport Signs and Markings](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/20_phak_appendices.pdf) Figure C-3.](/img/phak/phak-figure-c-3-airport-markings.png){width=800}
 
-### Airport Lighting
-
-<!--@include: ./docs/src/includes/airport-lighting.md-->
+<!--@include: ./docs/src/includes/airport-lighting.md | shift:2-->
 
 ### Hold Lines
 
@@ -352,7 +350,7 @@ Areas designed to alert pilots to potential conflicts, that have a history of or
 * Be sure to be familiar with airport hot spots and brief their location and precautionary action to be taken before taxiing.
 * See [Hot Spot Standardized Symbology](https://www.faa.gov/newsroom/hot-spot-standardized-symbology)
 
-![KHEF HS1 description. Note "flw" means "follow". [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-hot-spot-khef.png){width=600}
+![KHEF HS1 description. Note "flw" means "follow". [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-hot-spot-khef.png){width=600 border=true}
 
 ### Use of aircraft exterior lighting
 
@@ -380,7 +378,7 @@ Areas designed to alert pilots to potential conflicts, that have a history of or
   * See LVO/SMGCS (Low Visibility Operations / Surface Movement Guidance Control System)
 * [FAA-AC-120-57C](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_120-57C.pdf)
 
-![Jeppesen KSEA low visibility taxi chart.](/img/jeppesen-ksea-low-vis-taxi-chart.png){width=440}
+![Jeppesen KSEA low visibility taxi chart.](/img/jeppesen-ksea-low-vis-taxi-chart.png){width=600 border=true}
 
 ## Operations at Uncontrolled Airports
 

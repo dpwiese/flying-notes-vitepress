@@ -47,7 +47,7 @@ Uses a navigation system that provides lateral *and vertical* course guidance.
   * TDZE is defined as the highest elevation in the first 3,000 feet of the landing surface
   * Airport elevation is defined as the highest point of an airport's usable runways measured in feet from mean sea level.
 
-![Digital Terminal Procedures: KHEF ILS 16R IAP](/img/tpp/dtpp-khef-ils-16r-iap.jpg){width=540}
+![Digital Terminal Procedures: KHEF ILS 16R IAP](/img/tpp/dtpp-khef-ils-16r-iap.jpg){width=600 border=true}
 
 ## Beginning a Precision Approach
 
@@ -102,9 +102,9 @@ Uses a navigation system that provides lateral *and vertical* course guidance.
 
 ## Precision Approach Radar
 
-![Fort Worth Naval Air Station Joint Reserve Base radar approach minimums. The No-NOTAM MP: 1230-1530Z++ indicates planned maintanence during the time listed, where the conversion to local time is affected by daylight savings.](/img/tpp/dtpp-knfw-radar-mins.png){width=540}
+![Fort Worth Naval Air Station Joint Reserve Base radar approach minimums. The No-NOTAM MP: 1230-1530Z++ indicates planned maintanence during the time listed, where the conversion to local time is affected by daylight savings.](/img/tpp/dtpp-knfw-radar-mins.png){width=600 border=true}
 
-![Quantico PAR.](/img/tpp/dtpp-knyg-par.png){width=540}
+![Quantico PAR.](/img/tpp/dtpp-knyg-par.png){width=600  border=true}
 
 ## Common Errors
 

@@ -2,6 +2,7 @@
 
 * ==Use the **AVIATE** Acronym to remember required aircraft inspections.==
   * ==**A** - **Airworthiness Directives (AD)**==
+    * [14 CFR &sect;39](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-39)
     * Need to find all applicable ones and make sure they are complied with
     * Can look up [FAA Airworthiness Directives (ADs)](https://www.faa.gov/regulations_policies/airworthiness_directives/)
     * There are third-party services that can provide and help ensure ongoing compliance with ADs by inputting information about a plane

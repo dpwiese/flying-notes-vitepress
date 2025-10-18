@@ -31,7 +31,7 @@ This document describes the systems on Baron N3622A.
   * See POH page 7-7
     * *Note: on earlier serials, the flaps had a weird method of operation that allowed selection of flap angles between 15&#176; and 30&#176;, but N3622A does not; the flaps will move to the position selected on the flap handle.*
 
-![E55 Baron (N3622A) wing flaps](/img/c55-baron-poh/c55-baron-poh-page-7-7-wing-flaps-half-page.png){width=340}
+![E55 Baron (N3622A) wing flaps](/img/c55-baron-poh/c55-baron-poh-page-7-7-wing-flaps-half-page.png){width=340 border=true}
 
 ## Powerplant and Propellers
 
@@ -54,7 +54,7 @@ This document describes the systems on Baron N3622A.
   * N3622A induction system draws air through the ram inlets and draws it through a filter
   * Some Barons have an induction selector that allows for selection of filtered or unfiltered ram air
 
-![E55 Baron (N3622A) induction system. Note: this image is from page 7-18 of the POH for slightly later serial number Barons, but is the best reference that describes the actual induction system on N3622A.](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-18-induction-air.png){width=340}
+![E55 Baron (N3622A) induction system. Note: this image is from page 7-18 of the POH for slightly later serial number Barons, but is the best reference that describes the actual induction system on N3622A.](/img/e55-baron-poh-n322et/e55-baron-poh-page-7-18-induction-air.png){width=340 border=true}
 
 ![E55 Baron (N3622A) cowl flaps](/img/e55-baron-n3622a/e55-baron-n3622a-cowl-flaps.jpeg){width=340}
 
@@ -79,9 +79,9 @@ This document describes the systems on Baron N3622A.
   * Counterweights on prop to drive prop to feather
   * POH page 1-12, 7-26
 
-![E55 Baron (N3622A) propeller POH page 1-12.](/img/c55-baron-poh/c55-baron-poh-page-1-12-propeller-n3622a.png){width=340}
+![E55 Baron (N3622A) propeller POH page 1-12.](/img/c55-baron-poh/c55-baron-poh-page-1-12-propeller-n3622a.png){width=340 border=true}
 
-![E55 Baron (N3622A) air start with unfeathering accumulators](/img/c55-baron-poh/c55-baron-poh-page-3-6-unfeathering-accumulators-n3622a.png){width=340}
+![E55 Baron (N3622A) air start with unfeathering accumulators](/img/c55-baron-poh/c55-baron-poh-page-3-6-unfeathering-accumulators-n3622a.png){width=340 border=true}
 
 ## Landing Gear
 
@@ -109,7 +109,7 @@ This document describes the systems on Baron N3622A.
 * Fuel returns back to the tank that is selected
 * Float type fuel sensors
 
-![E55 Baron (N3622A) fuel system](/img/c55-baron-poh/c55-baron-poh-page-7-30-fuel-system-n3622a.png){width=800}
+![E55 Baron (N3622A) fuel system](/img/c55-baron-poh/c55-baron-poh-page-7-30-fuel-system-n3622a.png){width=800 border=true}
 
 ![E55 Baron (N3622A) front fuel sumps (3x)](/img/e55-baron-n3622a/e55-baron-n3622a-front-fuel-sumps.jpeg){width=800}
 
@@ -117,11 +117,11 @@ This document describes the systems on Baron N3622A.
 
 ![E55 Baron (N3622A) fuel selector](/img/e55-baron-n3622a/e55-baron-n3622a-fuel-selector.jpeg){width=460}
 
-![E55 Baron (N3622A) fuel capacity](/img/c55-baron-poh/c55-baron-poh-page-1-12-fuel-capacity-n3622a.png){width=340}
+![E55 Baron (N3622A) fuel capacity](/img/c55-baron-poh/c55-baron-poh-page-1-12-fuel-capacity-n3622a.png){width=340 border=true}
 
-![E55 Baron (N3622A) fuel selector placard](/img/c55-baron-poh/c55-baron-poh-page-2-14-fuel-selector-placard-n3622a.png){width=340}
+![E55 Baron (N3622A) fuel selector placard](/img/c55-baron-poh/c55-baron-poh-page-2-14-fuel-selector-placard-n3622a.png){width=340 border=true}
 
-![E55 Baron (N3622A) fuel pumps](/img/c55-baron-poh/c55-baron-poh-page-7-29-fuel-pumps-half-page.png){width=340}
+![E55 Baron (N3622A) fuel pumps](/img/c55-baron-poh/c55-baron-poh-page-7-29-fuel-pumps-half-page.png){width=340 border=true}
 
 ![E55 Baron (N3622A) fuel pump switches](/img/e55-baron-n3622a/e55-baron-n3622a-fuel-pump-switches.jpeg){width=300}
 
@@ -135,7 +135,7 @@ This document describes the systems on Baron N3622A.
 
 ![E55 Baron (N3622A) brake fluid reservoir. Note the fluid on the disc indicating proper fill level.](/img/e55-baron-n3622a/e55-baron-n3622a-brake-reservoir.jpeg){width=300}
 
-![E55 Baron (N3622A) brakes](/img/c55-baron-poh/c55-baron-poh-page-7-16-brakes.png){width=340}
+![E55 Baron (N3622A) brakes](/img/c55-baron-poh/c55-baron-poh-page-7-16-brakes.png){width=340 border=true}
 
 ## Electrical
 
@@ -198,7 +198,7 @@ This document describes the systems on Baron N3622A.
   * Blower only comes on when gear handle is down
   * There is an overheat switch
 
-![E55 Baron (N3622A) environmental schematic](/img/c55-baron-poh/c55-baron-poh-page-7-36-environmental-schematic-n3622a.png){width=460}
+![E55 Baron (N3622A) environmental schematic](/img/c55-baron-poh/c55-baron-poh-page-7-36-environmental-schematic-n3622a.png){width=460 border=true}
 
 ![E55 Baron (N3622A) anti-ice and environmental controls](/img/e55-baron-n3622a/e55-baron-n3622a-anti-ice-and-environmental-controls.jpeg){width=800}
 

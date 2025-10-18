@@ -4,7 +4,7 @@
 Those which are not considered primary and are used to change the aircraft's performance, or reduce the amount of control a pilot has to use.
 :::
 
-![Airplane control surfaces. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-71.](/img/phak/phak-figure-5-71-control-surfaces.jpg){width=540}
+![Airplane control surfaces. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf) Figure 5-71.](/img/phak/phak-figure-5-71-control-surfaces.jpg){width=540 border=true}
 
 * They may consist of wing flaps, leading edge devices, spoilers, and trim systems.
 * Flaps
@@ -40,11 +40,11 @@ At the most fundamental level, flaps change the shape of the wing with the prima
   * Produces greatest change in pitching moment
   * Greatest increase in lift with minimal changes in drag
 
-![Five common types of flaps. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-17.](/img/phak/phak-figure-6-17-common-flaps.png){width=800}
+![Five common types of flaps. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-17.](/img/phak/phak-figure-6-17-common-flaps.png){width=800 border=true}
 
 ### Flap Aerodynamics
 
-![Comparison of Effectiveness of Various Flaps. [Jan Roskam - Airplane Aerodynamics and Performance](https://search.worldcat.org/title/247558516) Figure 3.26.](/img/roskam-figure-3-26-flap-comparison.png){width=600}
+![Comparison of Effectiveness of Various Flaps. [Jan Roskam - Airplane Aerodynamics and Performance](https://search.worldcat.org/title/247558516) Figure 3.26.](/img/roskam-figure-3-26-flap-comparison.png){width=600 border=true}
 
 * For example, permit a higher $C_{L}$ for a given $C_{D}$ thus permitting slower flight for takeoff and landing.
 * Alternatively flaps my permit a larger $C_{D}$ for a given $C_{L}$, enabling the aircraft to better slow down.
@@ -61,16 +61,16 @@ At the most fundamental level, flaps change the shape of the wing with the prima
   * Other effects are change in airflow over horizontal stabilizer (e.g. more downwash contributing nose-up pitching moment), and increase in drag above the CG which may have different effects depending on the airplane.
   * Such secondary effects are typically not as obvious
 
-![Variations in lift curve with flaps. Fundamentals of Aerodynamics. John D Anderson. Figure 1.62.](/img/anderson-figure-1-62-cl-alpha-flaps.png){width=340}
+![Variations in lift curve with flaps. Fundamentals of Aerodynamics. John D Anderson. Figure 1.62.](/img/anderson-figure-1-62-cl-alpha-flaps.png){width=360 border=true}
 
 In the following picture, can see how the drag bucket changes for the given airfoil with different flap settings.
 For example, if takeoff $C_{L}$ is 1.2, then flaps achieve this $C_{L}$ at a lower $C_{D}$ than without flaps.
 
-![Drag polar with and without flaps. [Ideal Lift Distributions and Flap Angles for Adaptive Wings](https://doi.org/10.2514/1.38713)](/img/drag-polar-doi-org-10-2514-1-38713.png){width=440}
+![Drag polar with and without flaps. [Ideal Lift Distributions and Flap Angles for Adaptive Wings](https://doi.org/10.2514/1.38713)](/img/drag-polar-doi-org-10-2514-1-38713.png){width=440 border=true}
 
 In the following picture, can see how the drag bucket changes for the given airfoil with different flap settings.
 
-![Drag bucket with and without flaps. [Aviation StackExchange: Why and when to use flaps?](https://aviation.stackexchange.com/questions/5018/why-and-when-to-use-flaps/)](/img/drag_bucket_2.png){width=500}
+![Drag bucket with and without flaps. [Aviation StackExchange: Why and when to use flaps?](https://aviation.stackexchange.com/questions/5018/why-and-when-to-use-flaps/)](/img/drag_bucket_2.png){width=500 border=true}
 
 ### Flap Definitions
 
@@ -78,9 +78,9 @@ In the following picture, can see how the drag bucket changes for the given airf
 * Both the definitions by [Roskam](https://search.worldcat.org/title/247558516), *"Plain trailing edge flaps are formed by hinging the rear-most part of a wing section about a point within the contour"* and [Sadraey](https://search.worldcat.org/title/780415812), *"hinged at the wing trailing edge"* imply that the point about which a plain flap pivots must be within the cross section of the airfoil.
 * Flaps such as those found on the Piper Archer or Cirrus SR22 whose pivot point is well outside of and below the airfoil cross section are therefore slotted flaps.
 
-![Fowler flap diagram. [H. D. Fowler Variable Area Wing US Patent 1,392,005](https://patents.google.com/patent/US1392005A/en)](/img/fowler-flap-1921-patent.png){width=600}
+![Fowler flap diagram. [H. D. Fowler Variable Area Wing US Patent 1,392,005](https://patents.google.com/patent/US1392005A/en)](/img/fowler-flap-1921-patent.png){width=600 border=true}
 
-![Archer Airplane Maintenance Manual (PN 761-883) 57-50-00 Page 3 flap mechanism.](/img/archer-amm/archer-amm-57-50-00-page-3-flap-mechanism.png){width=300}
+![Archer Airplane Maintenance Manual (PN 761-883) 57-50-00 Page 3 flap mechanism.](/img/archer-amm/archer-amm-57-50-00-page-3-flap-mechanism.png){width=300 border=true}
 
 ![Archer slotted flaps. Note the hinge point offset below the flap surface creates the slot when the flaps are deflected.](/img/archer/archer-flaps.jpeg){width=600}
 
@@ -108,8 +108,8 @@ In the following picture, can see how the drag bucket changes for the given airf
 * Located on the leading edge
 * Delays airflow separation allowing higher angles of attack by redirecting airflow from under the wing to the top delaying separation
 
-![Leading edge high lift devices. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-18.](/img/phak/phak-figure-6-18-leading-edge-high-lift-devices.png){width=340}
+![Leading edge high lift devices. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-18.](/img/phak/phak-figure-6-18-leading-edge-high-lift-devices.png){width=360 border=true}
 
 ## Spoilers
 
-![Spoilers. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-19.](/img/phak/phak-figure-6-19-spoilers.jpg){width=340}
+![Spoilers. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-19.](/img/phak/phak-figure-6-19-spoilers.jpg){width=360 border=true}

@@ -12,4 +12,4 @@
 * Dry sump
   * Oil is stored in a separate tank
 
-![Wet sump oil system. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-17.](/img/phak/phak-figure-7-17-wet-sump-oil-system.jpg){width=540}
+![Wet sump oil system. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-17.](/img/phak/phak-figure-7-17-wet-sump-oil-system.jpg){width=540 border=true}

@@ -68,15 +68,15 @@ Know how to read an instrument approach chart, review charts before flight, and 
   * Minimums
   * Airport diagram
 
-![Instrument approach chart. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 1: The National Airspace System Figure 1-10.](/img/ifh/ifh-figure-1-10-approach-chart.jpg){width=540}
+![Instrument approach chart. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 1: The National Airspace System Figure 1-10.](/img/ifh/ifh-figure-1-10-approach-chart.jpg){width=600 border=true}
 
 * The [Digital Terminal Procedures Publication (d-TPP)/Airport Diagrams](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dtpp/) has the legend for instrument approach procedures.
 
-![Digital Terminal Procedures: IAP legend](/img/tpp/dtpp-iap-legend-1.png){width=600}
+![Digital Terminal Procedures: IAP legend](/img/tpp/dtpp-iap-legend-1.png){width=600 border=true}
 
-![Digital Terminal Procedures: IAP legend](/img/tpp/dtpp-iap-legend-2.png){width=600}
+![Digital Terminal Procedures: IAP legend](/img/tpp/dtpp-iap-legend-2.png){width=600 border=true}
 
-![Digital Terminal Procedures: IAP legend](/img/tpp/dtpp-iap-legend-3.jpg){width=600}
+![Digital Terminal Procedures: IAP legend](/img/tpp/dtpp-iap-legend-3.jpg){width=600 border=true}
 
 ### MSA and TAA
 
@@ -137,7 +137,7 @@ Know how to read an instrument approach chart, review charts before flight, and 
     14. Missed approach frequencies.
     15. "Any questions?" if flying with another pilot
 
-![Approach briefing guide. [How do you Brief an Approach Using FAA/NACO Charts](https://www.aviator.nyc/how-brief-an-instrument-approach/)](/img/ILS_12_SMX_FAA_Instrument_Plate_Brief.jpg){width=600}
+![Approach briefing guide. [How do you Brief an Approach Using FAA/NACO Charts](https://www.aviator.nyc/how-brief-an-instrument-approach/)](/img/ILS_12_SMX_FAA_Instrument_Plate_Brief.jpg){width=600 border=true}
 
 ### Example Approach Briefing
 
@@ -283,9 +283,9 @@ Know how to read an instrument approach chart, review charts before flight, and 
 * Plan of action
   * Ask ATC where people are going and getting in successfully
 
-![Digital Terminal Procedures: lighting legend](/img/tpp/dtpp-lighting-legend-1.png){width=540}
+![Digital Terminal Procedures: lighting legend](/img/tpp/dtpp-lighting-legend-1.png){width=600 border=true}
 
-![Digital Terminal Procedures: lighting legend](/img/tpp/dtpp-lighting-legend-2.png){width=540}
+![Digital Terminal Procedures: lighting legend](/img/tpp/dtpp-lighting-legend-2.png){width=600 border=true}
 
 ## Canceling IFR
 

@@ -21,7 +21,7 @@ A predetermined maneuver which keeps aircraft within a specified airspace while 
 
 # Structure of a Hold
 
-![Holding pattern descriptive terms. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-3.](/img/aim/aim-figure-5-3-3-holding-pattern-structure.png){width=600}
+![Holding pattern descriptive terms. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-3.](/img/aim/aim-figure-5-3-3-holding-pattern-structure.png){width=600 border=true}
 
 * The figure above shows the basic structure of a hold, defined by four things
   1. Holding fix
@@ -57,11 +57,11 @@ A predetermined maneuver which keeps aircraft within a specified airspace while 
 
 # Example of a Hold on an Instrument Approach Plate
 
-![Digital Terminal Procedures: KHEF ILS 16R IAP. Note the holding pattern at Casanova for the missed approach. Default 1 minute inbound leg.](/img/tpp/dtpp-khef-ils-16r-iap.jpg){width=600}
+![Digital Terminal Procedures: KHEF ILS 16R IAP. Note the holding pattern at Casanova for the missed approach. Default 1 minute inbound leg.](/img/tpp/dtpp-khef-ils-16r-iap.jpg){width=600 border=true}
 
 # Holding Entry
 
-![Holding pattern entry procedures. (a) Parallel, (b) Teardrop, (c) Direct. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) [Figure 5-3-4](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#S$C2d0ROBE).](/img/aim/aim-figure-5-3-4-holding-pattern-entry.jpg){width=400}
+![Holding pattern entry procedures. (a) Parallel, (b) Teardrop, (c) Direct. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) [Figure 5-3-4](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#S$C2d0ROBE).](/img/aim/aim-figure-5-3-4-holding-pattern-entry.jpg){width=400 border=true}
 
 * There are three standard holding entry procedures that are used depending on the relative direction from which you are approaching the holding fix
   * **Direct Entry**
@@ -79,7 +79,7 @@ A predetermined maneuver which keeps aircraft within a specified airspace while 
   * In flight this means don't get bogged down with single degree precision determinations of hold entries, or re-determining your entry if your bearing relative to the fix changes slightly
   * Rather, make a reasonable calculation of the hold entry and the necessary heading after crossing the fix, and execute this entry
 
-![Guidance on the angle to use for a teardrop hold entry for holds other than 1 minute is not obvious, but [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) gives some support to using a shallower angle for longer holds. This image relates to a teardrop course reversal, but same rationale applied to teardrop entries into holds.](/img/ifh/ifh-figure-7-44-teardrop.png){width=400}
+![Guidance on the angle to use for a teardrop hold entry for holds other than 1 minute is not obvious, but [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) gives some support to using a shallower angle for longer holds. This image relates to a teardrop course reversal, but same rationale applied to teardrop entries into holds.](/img/ifh/ifh-figure-7-44-teardrop.png){width=400 border=true}
 
 ::: tip
 Determine the hold entry as early as practicable when expecting to hold.
@@ -116,7 +116,7 @@ For example when briefing an approach you can determine and brief the expected e
 * In distance holds, only crosswind corrections need to be made
 * The most important thing is to *stay within the protected airspace for the hold*
 
-![Drift correction in holding pattern. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 10: IFR Flight Figure 10-5.](/img/ifh/ifh-figure-10-5-holding-wind.jpg){width=340}
+![Drift correction in holding pattern. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 10: IFR Flight Figure 10-5.](/img/ifh/ifh-figure-10-5-holding-wind.jpg){width=340 border=true}
 
 ::: tip
 When executing a hold, don't overthink the rules-of-thumb below.
@@ -195,11 +195,11 @@ In aircraft equipped with track information displayed on the HSI, the applicatio
 
 ![Distance holds. [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook) [Chapter 3: Arrivals](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_3.pdf)](/img/iph/iph-figure-3-18-distance-holds.jpg){width=800}
 
-![Distance hold with inbound leg toward the navaid. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-5.](/img/aim/aim-figure-5-3-5-distance-hold-toward-navaid.png){width=600}
+![Distance hold with inbound leg toward the navaid. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-5.](/img/aim/aim-figure-5-3-5-distance-hold-toward-navaid.png){width=600 border=true}
 
-![Distance hold with inbound leg away from the navaid. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-6.](/img/aim/aim-figure-5-3-6-distance-hold-away-navaid.png){width=600}
+![Distance hold with inbound leg away from the navaid. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-6.](/img/aim/aim-figure-5-3-6-distance-hold-away-navaid.png){width=600 border=true}
 
-![Examples of holding. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-2.](/img/aim/aim-figure-5-3-2-hold-examples.jpg){width=440}
+![Examples of holding. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-2.](/img/aim/aim-figure-5-3-2-hold-examples.jpg){width=440 border=true}
 
 # Flying a Hold
 
@@ -312,14 +312,14 @@ In aircraft equipped with track information displayed on the HSI, the applicatio
   * [AIM 5-3-8(g)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8)
     * See the example below
 
-![Consider the hold on the published missed approach at PADDR. The completion of the outbound turn cannot be determined using the VORs, so the outbound turn is considered complete when wings are level.](/img/vor-30-klgb.jpg){width=600}
+![Consider the hold on the published missed approach at PADDR. The completion of the outbound turn cannot be determined using the VORs, so the outbound turn is considered complete when wings are level.](/img/vor-30-klgb.jpg){width=600 border=true}
 
 # Holding Speed Limits
 
 * There are limits on the maximum holding airspeed that must be complied with
   * See table below
 
-![Holding airspeeds. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Table 5-3-20.](/img/aim/aim-figure-5-3-20-holding-airspeeds.png){width=340}
+![Holding airspeeds. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Table 5-3-20.](/img/aim/aim-figure-5-3-20-holding-airspeeds.png){width=340 border=true}
 
 # Operational Notes
 

@@ -14,10 +14,10 @@ Used to relieve the pilot of the need to maintain constant pressure on the fligh
     * Designed to affect control feel
   * Ground adjustable tab
 
-![Elevator trim tab. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-20.](/img/phak/phak-figure-6-20-trim.jpg){width=340}
+![Elevator trim tab. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-20.](/img/phak/phak-figure-6-20-trim.jpg){width=360 border=true}
 
-![Cessna 172 Information Manual: trim system.](/img/c172-poh-fig-7-1-trim.png){width=360}
+![Cessna 172 Information Manual: trim system.](/img/c172-poh-fig-7-1-trim.png){width=360 border=true}
 
-![Ground adjustable tab on the rudder of a Cessna. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-22.](/img/phak/phak-figure-6-22-ground-adjustable-tab.jpg){width=340}
+![Ground adjustable tab on the rudder of a Cessna. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 6: Flight Controls](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/08_phak_ch6.pdf) Figure 6-22.](/img/phak/phak-figure-6-22-ground-adjustable-tab.jpg){width=360 border=true}
 
 ![Baron rudder trim tab](/img/b55-baron/b55-baron-rudder.jpeg){width=360}

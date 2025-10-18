@@ -20,11 +20,11 @@
   * Constant speed
     * A type of variable pitch controlled by a governor so the pitch is automatically adjusted to maintain a specific RPM
 
-![Propeller. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-6.](/img/phak/phak-figure-7-6-propeller.png){width=400}
+![Propeller. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-6.](/img/phak/phak-figure-7-6-propeller.png){width=400 border=true}
 
 ![Constant speed propeller and governor](/img/constant-speed-prop.jpg){width=400}
 
-![[Beech 215 Propeller Service Instructions](https://www.vintagebonanza.com/docs/215-manual.pdf)](/img/beech-controllable-pitch-propeller.png){width=560}
+![[Beech 215 Propeller Service Instructions](https://www.vintagebonanza.com/docs/215-manual.pdf)](/img/beech-controllable-pitch-propeller.png){width=560 border=true}
 
 ## Multi-engine Airplane Propeller
 

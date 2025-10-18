@@ -30,4 +30,4 @@
 * Cabin altimeter-shows altitude inside the airplane. Differential pressure gauge and cabin altimeter could be combined into one instrument.
 * Cabin rate of climb/descent.
 
-![Pressurization system. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-40.](/img/phak/phak-figure-7-40-pressurization-system.jpg){width=340}
+![Pressurization system. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-40.](/img/phak/phak-figure-7-40-pressurization-system.jpg){width=360 border=true}

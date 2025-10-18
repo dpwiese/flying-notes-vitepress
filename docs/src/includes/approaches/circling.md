@@ -7,9 +7,9 @@
 
 # Examples
 
-![KCRS VOR/DME-A. This approach is designed a circling approach because the final approach course is nearly perpendicular to the two available runways, exceeding the maximum of 30&#176; to be associated with a particular runway. Note also that as a VOR/DME approach, both VOR and DME are required.](/img/iap/kcrs-vor-dme-a.png){width=600}
+![KCRS VOR/DME-A. This approach is designed a circling approach because the final approach course is nearly perpendicular to the two available runways, exceeding the maximum of 30&#176; to be associated with a particular runway. Note also that as a VOR/DME approach, both VOR and DME are required.](/img/iap/kcrs-vor-dme-a.png){width=600 border=true}
 
-![KASE RNAV (GPS)-F. This approach is designated a circling approach due to the steep descent between the final approach fix (FAF) and the threshold crossing height. More than 4500 feet need to be lost in the 6.5 nm between the FAF (ALLIX) and reaching the runway, a descent of about 700 ft/nm, corresponding to the vertical descent angle (VDA) of 6.49&#176;.](/img/iap/kase-rnav-gps-f.png){width=600}
+![KASE RNAV (GPS)-F. This approach is designated a circling approach due to the steep descent between the final approach fix (FAF) and the threshold crossing height. More than 4500 feet need to be lost in the 6.5 nm between the FAF (ALLIX) and reaching the runway, a descent of about 700 ft/nm, corresponding to the vertical descent angle (VDA) of 6.49&#176;.](/img/iap/kase-rnav-gps-f.png){width=600 border=true}
 
 # Overview
 
@@ -27,7 +27,7 @@
 
 ![Circling approach areas for each approach category. [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook) [Chapter 4: Approaches](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_4.pdf)](/img/iph/iph-figure-4-2-circling-approach-area.jpg){width=340}
 
-![Digital Terminal Procedures: expanded circling approach maneuvering airspace radius](/img/tpp/dtpp-circling-radius.jpg){width=540}
+![Digital Terminal Procedures: expanded circling approach maneuvering airspace radius](/img/tpp/dtpp-circling-radius.jpg){width=600 border=true}
 
 # Direction of Circling
 
@@ -71,10 +71,10 @@
 * The reason is probably described in [FAA Order 8260.3G](https://www.faa.gov/documentLibrary/media/Order/Order_8260.3G.pdf)
 * The majority of LDA approaches are designated circling approaches consistent with the definition above, these are just some notable exceptions to that rule.
 
-![Note the final approach course of 304&#176; is offset 43.9&#176; from the runway (260.5&#176;) but still has "straight-in" minimums.](/img/iap/phnl-lda-rwy-26l.png){width=600}
+![Note the final approach course of 304&#176; is offset 43.9&#176; from the runway (260.5&#176;) but still has "straight-in" minimums.](/img/iap/phnl-lda-rwy-26l.png){width=600 border=true}
 
-![Note the final approach course of 147&#176; is offset 39.3&#176; from the runway (186.3&#176;) but still has "straight-in" minimums.](/img/iap/kdca-lda-z-rwy-19.png){width=600}
+![Note the final approach course of 147&#176; is offset 39.3&#176; from the runway (186.3&#176;) but still has "straight-in" minimums.](/img/iap/kdca-lda-z-rwy-19.png){width=600 border=true}
 
 # GPS Circling Approach
 
-![KTRK RNAV (GPS)-A.](/img/iap/ktrk-rnav-gps-a.png){width=500}
+![KTRK RNAV (GPS)-A.](/img/iap/ktrk-rnav-gps-a.png){width=600 border=true}

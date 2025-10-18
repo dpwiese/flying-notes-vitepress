@@ -5,4 +5,4 @@
 * Updated every 56 days
 * Topographic features
 
-![Sectional legend.](/img/sectional-legend-2.jpg){width=400}
+![Sectional legend.](/img/sectional-legend-2.jpg){width=400 border=true}

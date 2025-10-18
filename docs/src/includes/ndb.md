@@ -19,8 +19,8 @@
   * Homing
   * Tracking
 
-![Fixed-card ADF. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 9: Navigation Systems Figure 9-3.](/img/ifh/ifh-figure-9-3-fixed-adf.png){width=300}
+![Fixed-card ADF. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 9: Navigation Systems Figure 9-3.](/img/ifh/ifh-figure-9-3-fixed-adf.png){width=360 border=true}
 
-![Moveable-card ADF. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 9: Navigation Systems Figure 9-4.](/img/ifh/ifh-figure-9-4-moveable-adf.png){width=300}
+![Moveable-card ADF. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 9: Navigation Systems Figure 9-4.](/img/ifh/ifh-figure-9-4-moveable-adf.png){width=360 border=true}
 
 ![NAILR NDB on sectional chart.](/img/sectional-nailr-ndb.jpg){width=600}

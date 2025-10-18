@@ -44,7 +44,7 @@ A method of navigation that permits aircraft operations on any desired flight pa
 
 ![Pilot’s Guide KNS 80 Bendix/King VOR/LOC/GS/DME/RNAV Integrated NAV System page 6.](/img/kns80-pilots-guide-page-6.jpg){width=500}
 
-![Narco NS-900 Pilots Guide. RNV Mode.](/img/narco-ns-800-page-23-rnv-mode.png){width=500}
+![Narco NS-900 Pilots Guide. RNV Mode.](/img/narco-ns-800-page-23-rnv-mode.png){width=500 border=true}
 
 ![KGGP VOR/DME RNAV RWY 27. RNAV based on VOR/DME in this case enables the instrument approach procedure to be flown with no GPS required.](/img/iap/kggp-vor-dme-rnav-rwy-27.png){width=500}
 
@@ -144,15 +144,15 @@ RNP Requires
   * RNAV 1 and RNAV 2
   * RNP-10 (oceanic and remote continental operations)
 
-![Archer III NXi Navigation system equipment approvals.](/img/archer-poh/archer-poh-page-1-7-nav-system-approvals.png){width=500}
+![Archer III NXi Navigation system equipment approvals.](/img/archer-poh/archer-poh-page-1-7-nav-system-approvals.png){width=500 border=true}
 
-![Archer III NXi Navigation system equipment approvals.](/img/archer-poh/archer-poh-page-1-8-nav-system-approvals.png){width=500}
+![Archer III NXi Navigation system equipment approvals.](/img/archer-poh/archer-poh-page-1-8-nav-system-approvals.png){width=500 border=true}
 
 * Determining what requirements a particular aircraft satisfies can be challenging.
 * The excerpt from Garmin Performance-Based Navigation Capabilities document indicates some RNP functions for various products
   * Some capabilities depend on software versions, so be sure to check carefully what RNP capabilities an aicraft has before flying
 
-![Garmin Performance-Based Navigation Capabilities. In the case of the G1000 NXi, the asterisk says to contact Garmin. For the Archer III with the G1000 NXi, the POH pages above indicate it is not approved for RF legs.](/img/garmin-pbn-capabilities.png){width=800}
+![Garmin Performance-Based Navigation Capabilities. In the case of the G1000 NXi, the asterisk says to contact Garmin. For the Archer III with the G1000 NXi, the POH pages above indicate it is not approved for RF legs.](/img/garmin-pbn-capabilities.png){width=800 border=true}
 
 * The Garmin GTN750, which can support RF legs, are indicated in the flight plan view as shown below
 
@@ -178,9 +178,9 @@ RNP Requires
   * WAAS was authorized for IFR use in 2003, so certainly before that LNAV/VNAV approaches would have _required_ a baro-aided altimeter
   * [FAA-AC-90-97](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/74461) (which was canceled by [FAA-AC-91-105A](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-105A_Ed_Update_2.pdf)) describes the use of barometric vertical guidance for VNAV
 
-![2012 AIM 1-1-20(b)(1)](/img/aim-2012-sect-1-1-20b1.png){width=300}
+![2012 AIM 1-1-20(b)(1)](/img/aim-2012-sect-1-1-20b1.png){width=360 border=true}
 
-![FAA-AC-90-97 on WAAS use for VNAV.](/img/faa-ac-90-97-waas-for-vnav.png){width=600}
+![FAA-AC-90-97 on WAAS use for VNAV.](/img/faa-ac-90-97-waas-for-vnav.png){width=600 border=true}
 
 # GPS Sensitivity Modes
 
@@ -196,11 +196,11 @@ RNP Requires
     * 0.3 nm full-scale deflection
     * This approximates the sensitivity of a VOR or Localizer approach if located on the field
 
-![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Automatic GPS CDI scaling.](/img/g1000nxi-pilots-guide/figure-2-24-cdi-scaling.png){width=800}
+![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Automatic GPS CDI scaling.](/img/g1000nxi-pilots-guide/figure-2-24-cdi-scaling.png){width=800 border=true}
 
-![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Automatic GPS CDI scaling.](/img/g1000nxi-pilots-guide/table-2-2-cdi-scaling.png){width=600}
+![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Automatic GPS CDI scaling.](/img/g1000nxi-pilots-guide/table-2-2-cdi-scaling.png){width=600 border=true}
 
-![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Automatic GPS CDI scaling.](/img/g1000nxi-pilots-guide/figure-2-25-26-cdi-scaling.png){width=800}
+![G1000 NXi Pilot's Guide for the PA-28-181 Archer. Automatic GPS CDI scaling.](/img/g1000nxi-pilots-guide/figure-2-25-26-cdi-scaling.png){width=800 border=true}
 
 # GPS Routes
 
@@ -236,9 +236,9 @@ RNP Requires
   * [FAA-AC-20-138D](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_20-138D_with_Change_1__2.pdf)
     * Describes certification of GPS
 
-![Garmin GNS430W is approved for use under TSO-C146a as stated in the approved AFM supplement that accompanies its installation.](/img/garmin-gns-430w-stc-approved.png){width=480}
+![Garmin GNS430W is approved for use under TSO-C146a as stated in the approved AFM supplement that accompanies its installation.](/img/garmin-gns-430w-stc-approved.png){width=500 border=true}
 
-![Archer III NXi G1000 system is certified under TSO-C145/TSO-C146.](/img/archer-poh/archer-poh-page-1-7-nav-system-approvals.png){width=500}
+![Archer III NXi G1000 system is certified under TSO-C145/TSO-C146.](/img/archer-poh/archer-poh-page-1-7-nav-system-approvals.png){width=500 border=true}
 
 # Non-WAAS GPS
 
@@ -373,9 +373,9 @@ Wide-Area Augmentation System (WAAS) is the US implementation of SBAS.
 
 * The signal strength bars are described on page 20, but a solid green bar means the satellite is being used
 
-![G1000 GPS Status Page. Garmin G1000 NXi Pilot's Guide for the PA-28-181 Archer.](/img/g1000-pilots-guide-figure-1-7.jpg){width=800}
+![G1000 GPS Status Page. Garmin G1000 NXi Pilot's Guide for the PA-28-181 Archer.](/img/g1000-pilots-guide-figure-1-7.jpg){width=800 border=true}
 
-![Cessna 172S WAAS Limitations.](/img/c172s-poh-waas-limitation.jpg){width=440}
+![Cessna 172S WAAS Limitations.](/img/c172s-poh-waas-limitation.jpg){width=440 border=true}
 
 * WAAS satellite PRN 138 was decommissioned in May 2022 and replaced by PRN 135
 

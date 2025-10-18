@@ -105,7 +105,7 @@ Instructor must sign the logbook of each person they have given flight or ground
   * Log unsatisfactory flight review as dual given
   * [FAA-AC-61-98E](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98E.pdf)
 
-![Flight review endorsement. [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)](/img/faa-ac-61-65h-flight-review-endorsement.png){width=500}
+![Flight review endorsement. [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)](/img/faa-ac-61-65h-flight-review-endorsement.png){width=500 border=true}
 
 ## Required Flight Instructor Records
 

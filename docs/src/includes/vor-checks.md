@@ -21,7 +21,7 @@
 
 * Has a sign in front of the arrow with the radial and frequency
 
-![VOR ground checkpoint location indicated in Chart Supplement. Note the location of the ground checkpoint in Richmond.](/img/chart-supplement-vor-ground-checkpoint-kric.jpg){width=600}
+![VOR ground checkpoint location indicated in Chart Supplement. Note the location of the ground checkpoint in Richmond.](/img/chart-supplement-vor-ground-checkpoint-kric.jpg){width=600 border=true}
 
 ![Aerial image of ground checkpoint at Richmond.](/img/kric-vor-ground-checkpoint.jpg){width=800}
 
@@ -32,4 +32,4 @@
 * This information can be found in the chart supplement
 * Dial a course of 180&#176; in using the OBS, should see the needle center (within +/- 4 degrees) with a `TO` indication.
 
-![VOR test facilities (VOT) and VOR receiver checkpoints in chart supplement (south central U.S.)](/img/chart-supplement-vot-vor-check.png){width=800}
+![VOR test facilities (VOT) and VOR receiver checkpoints in chart supplement (south central U.S.)](/img/chart-supplement-vot-vor-check.png){width=600 border=true}

@@ -12,8 +12,8 @@
   * Air/oil, spring steel
 * Brakes
 
-![Retractable landing gear. Reference Unknown.](/img/rectractable-gear.jpg){width=400}
+![Retractable landing gear. Reference Unknown.](/img/rectractable-gear.jpg){width=400 border=true}
 
-![Tailwheel landing gear. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-38.](/img/phak/phak-figure-7-38-tailwheel-landing-gear.jpg){width=400}
+![Tailwheel landing gear. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-38.](/img/phak/phak-figure-7-38-tailwheel-landing-gear.jpg){width=400 border=true}
 
-![Fixed and retractable landing gear. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-39.](/img/phak/phak-figure-7-39-fixed-and-retractable-landing-gear.jpg){width=800}
+![Fixed and retractable landing gear. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-39.](/img/phak/phak-figure-7-39-fixed-and-retractable-landing-gear.jpg){width=800 border=true}

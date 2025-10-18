@@ -33,7 +33,7 @@
       * If vapor locked on hot day when starting, point aircraft into wind and open oil access door
       * Problems associated with restarting an engine that quits because of fuel starvation
 
-![Piper Archer POH (VB-2749) page 4-14 vapor lock procedure.](/img/archer-poh/archer-poh-page-4-14-vapor-lock.png){width=340}
+![Piper Archer POH (VB-2749) page 4-14 vapor lock procedure.](/img/archer-poh/archer-poh-page-4-14-vapor-lock.png){width=340 border=true}
 
 * Mixture control
   * Total mass of air in a given volume decreases with altitude
@@ -63,16 +63,16 @@
   * Increases risk of engine fire
   * See emergency procedures for the aircraft what to do in event of engine fire during start
 
-![Float-type carburetor diagram. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-10.](/img/phak/phak-figure-7-10-float-carburetor.jpg){width=540}
+![Float-type carburetor diagram. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-10.](/img/phak/phak-figure-7-10-float-carburetor.jpg){width=540 border=true}
 
-![Carburetor icing. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-11.](/img/phak/phak-figure-7-11-carburetor-icing.jpg){width=360}
+![Carburetor icing. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-11.](/img/phak/phak-figure-7-11-carburetor-icing.jpg){width=360 border=true}
 
-![Carburetor icing potential. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-12.](/img/phak/phak-figure-7-12-carburetor-icing-chart.png){width=400}
+![Carburetor icing potential. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-12.](/img/phak/phak-figure-7-12-carburetor-icing-chart.png){width=400 border=true}
 
-![Fuel injection system. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-13.](/img/phak/phak-figure-7-13-fuel-injection-system.jpg){width=540}
+![Fuel injection system. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-13.](/img/phak/phak-figure-7-13-fuel-injection-system.jpg){width=540 border=true}
 
-![Fuel pump systems. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-30.](/img/phak/phak-figure-7-30-fuel-pump-systems.jpg){width=360}
+![Fuel pump systems. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-30.](/img/phak/phak-figure-7-30-fuel-pump-systems.jpg){width=360 border=true}
 
-![Fuel color coding. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-32.](/img/phak/phak-figure-7-32-fuel-color-coding.png){width=400}
+![Fuel color coding. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 7: Aircraft Systems](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf) Figure 7-32.](/img/phak/phak-figure-7-32-fuel-color-coding.png){width=400 border=true}
 
 ![Cessna fuel cap vent port. [FAA-AC-43-16A (Cancelled) General Aviation Maintenance Alerts](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22593) The fuel cap vent should allow air into the fuel tank under light suction.](/img/cessna-fuel-cap-vent-port.jpg){width=240}
