@@ -59,7 +59,17 @@ While the right flap can be used as a step while in the up position, it's genera
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 71-00-00 Page 6 Lycoming engine installation.](/img/archer-amm/archer-amm-71-00-00-page-6-lycoming.png){width=800 border=true}
 
+### Engine Orientation
+
+The image below is the only publically available document that I have been able to find that indicates the engine orientation in the Piper Archer.
+
 ![Archer Airplane Maintenance Manual (PN 761-883) 6-00-00 Page 4 Station Reference Lines. Note the buttock line for the spinner tip is 0.44 inches offset from the aircraft centerline, annotated as corresponding to 3&#176; angle of the thrustline relative to the aircraft centerline.](/img/archer-amm/archer-amm-6-00-00-page-4-buttock-lines.png){width=800 border=true}
+
+The following images are not publically available, but are screenshots provided by Piper from their General Arrangement Drawing better showing the orientation of the engine in the plane.
+
+![Archer General Arrangement Drawing (side).](/img/archer/archer-general-arrangement-drawing-side.png){width=360 border=true}
+
+![Archer General Arrangement Drawing (top).](/img/archer/archer-general-arrangement-drawing-top.png){width=800 border=true}
 
 ### Cooling System
 
