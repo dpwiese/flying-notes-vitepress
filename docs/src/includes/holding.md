@@ -193,13 +193,13 @@ In aircraft equipped with track information displayed on the HSI, the applicatio
     6. Time to expect-further-clearance (EFC) and any pertinent additional delay information
 * Note how DME holds are defined in the image below
 
-![Distance holds. [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook) [Chapter 3: Arrivals](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_3.pdf)](/img/iph/iph-figure-3-18-distance-holds.jpg){width=800}
+![Distance holds. [FAA-H-8083-16B Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook) [Chapter 3: Arrivals](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_3.pdf)](/img/iph/iph-figure-3-18-distance-holds.jpg){width=800 border=true}
 
 ![Distance hold with inbound leg toward the navaid. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-5.](/img/aim/aim-figure-5-3-5-distance-hold-toward-navaid.png){width=600 border=true}
 
 ![Distance hold with inbound leg away from the navaid. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-6.](/img/aim/aim-figure-5-3-6-distance-hold-away-navaid.png){width=600 border=true}
 
-![Examples of holding. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-2.](/img/aim/aim-figure-5-3-2-hold-examples.jpg){width=440 border=true}
+![Examples of holding. [AIM 5–3–8 Holding](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_3.html#$paragraph5-3-8) Figure 5-3-2.](/img/aim/aim-figure-5-3-2-hold-examples.jpg){width=600 border=true}
 
 # Flying a Hold
 
@@ -331,3 +331,10 @@ In aircraft equipped with track information displayed on the HSI, the applicatio
   * When substituting GPS for DME distance, slant-range distance is usually negligible
   * Know how your aircrafts RNAV/FMS will provide guidance / exectute the hold, as different systems may behave differently, and in some cases can cause a hold to extend outside the protected area
     * For example, distance specified in terms of inbound leg rather than outbound
+
+# References
+
+* [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf)
+  * Chapter 10: IFR Flight
+    * Page 10-10: Holding Procedures
+* [PilotsCafe Holding Procedures 101](https://www.pilotscafe.com/holding-patterns-101/)

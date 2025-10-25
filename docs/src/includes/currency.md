@@ -19,9 +19,15 @@
   * 3 takeoffs/landings within the preceding 90 days
     * Same category, class, and type
     * Full stop
-* See [Kortokrax 2006](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2006/Kortokrax_2006_Legal_Interpretation.pdf) which was later [rescinded](https://web.archive.org/web/20240930135119/https://www.faa.gov/media/84641) and the Federal Register [here](https://www.federalregister.gov/documents/2024/10/02/2024-22009/public-aircraft-logging-of-flight-time-training-in-certain-aircraft-holding-special-airworthiness).
+* See [Kortokrax 2006](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2006/Kortokrax_2006_Legal_Interpretation.pdf) which was later [rescinded](/public/84641.pdf) and the Federal Register [here](https://www.federalregister.gov/documents/2024/10/02/2024-22009/public-aircraft-logging-of-flight-time-training-in-certain-aircraft-holding-special-airworthiness).
 * Basically, with this change, a non-current pilot _can_ act as PIC with an instructor on board, only for the purposes of regaining currency.
+  * [14 CFR &sect;61.57(e)(5)](https://www.ecfr.gov/current/title-14/part-61/section-61.57#p-61.57(e)(5))
 * The update that brought the change from passengers to persons also brought a change to the definition of [passenger](https://www.ecfr.gov/current/title-14/part-61/section-61.1#p-61.1(b)(Passenger)) to clarify that persons providing or receiving flight training are not passengers.
+
+<!--
+Source for 84641.pdf:
+https://web.archive.org/web/20240930135119/https://www.faa.gov/media/84641
+-->
 
 ## Instrument Currency Requirements
 

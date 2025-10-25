@@ -41,7 +41,7 @@
     * Center/approach control (via phone, e.g. Oakland Center/Norcal Approach 1-310-725-3300)
     * Flight service (radio or telephone)
 
-![Phone numbers for center/approach control.](/img/cs_sw_kedu_approach_phone_numbers.png){width=540}
+![Phone numbers for center/approach control.](/img/cs_sw_kedu_approach_phone_numbers.png){width=600 border=true}
 
 ## Popup IFR Clearance
 

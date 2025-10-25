@@ -6,7 +6,7 @@ This page covers *Task E. Landing from a Straight-in Approach* from the [FAA-S-8
 
 ## Completion Standards
 
-![[FAA-S-ACS-8B Instrument Rating Airplane Airman Certification Standards Change 1](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/instrument_rating_acs_change_1.pdf)](/img/instrument-acs/instrument-acs-vi-e-landing-approach.png){width=600 border=true}
+![[FAA-S-ACS-8C Instrument Rating Airplane Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/instrument_rating_airplane_acs_8.pdf)](/img/faa-s-acs-8c/faa-s-acs-8c-vi-e-landing.png){width=800 border=true}
 
 ## References
 

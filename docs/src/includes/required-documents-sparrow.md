@@ -19,7 +19,7 @@
     * International only
     * Good for 10 years?
     * *Note: the pilot may also need a radiotelephone operator permit, but that is a requirement of the pilot, not the plane as the items in this list pertain to.*
-    * TODO@dwiese check this [14 CFR &sect;87.89](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-87/subpart-C/subject-group-ECFR7723e17ce169759/section-87.89), and [14 CFR &sect;87.18](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-87/subpart-B/section-87.18)
+    * TODO@dwiese check this [47 CFR &sect;87.89](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-87/subpart-C/subject-group-ECFR7723e17ce169759/section-87.89), and [47 CFR &sect;87.18](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-87/subpart-B/section-87.18)
   * ==**O** - **Operating limitations**==
     * Includes but not limited to: placards, gauge markings, POH/AFM
     * [14 CFR &sect;91.9(b)(1)](https://www.ecfr.gov/current/title-14/part-91/section-91.9#p-91.9(b)(1))
@@ -30,7 +30,7 @@
 
 ## Radio Station License / Radiotelephone Operator Permit
 
-* Regarding an additional "R" for radio station license see [FCC Commercial Radio Operator License Program](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/commercial-radio-operator-license-program), [Transport Canada: Flying to Canada: what you need to know - TP 15048](https://tc.canada.ca/en/aviation/general-operating-flight-rules/flying-canada-what-you-need-know-tp-15048), [14 CFR &sect;87.89](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-87/subpart-C/subject-group-ECFR7723e17ce169759/section-87.89), and [14 CFR &sect;87.18](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-87/subpart-B/section-87.18).
+* Regarding an additional "R" for radio station license see [FCC Commercial Radio Operator License Program](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/commercial-radio-operator-license-program), [Transport Canada: Flying to Canada: what you need to know - TP 15048](https://tc.canada.ca/en/aviation/general-operating-flight-rules/flying-canada-what-you-need-know-tp-15048), [47 CFR &sect;87.89](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-87/subpart-C/subject-group-ECFR7723e17ce169759/section-87.89), and [47 CFR &sect;87.18](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-87/subpart-B/section-87.18).
 * Basically, the *plane* needs a radio station license and the *pilot* needs a restricted radiotelephone operator permit.
 
     > A commercial operator license does not constitute or imply FCC authorization to transmit radio signals.

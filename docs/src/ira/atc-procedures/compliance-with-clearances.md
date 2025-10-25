@@ -18,3 +18,7 @@ To determine the applicant exhibits satisfactory knowledge, risk management, and
   * Can deviate from the rules to meet an emergency
 
 <!--@include: ./docs/src/includes/emergencies/ifr-comm-failure.md | shift:2-->
+
+## Completion Standards
+
+![[FAA-S-ACS-8C Instrument Rating Airplane Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/instrument_rating_airplane_acs_8.pdf)](/img/faa-s-acs-8c/faa-s-acs-8c-iii-a-clearance-compliance.png){width=800 border=true}

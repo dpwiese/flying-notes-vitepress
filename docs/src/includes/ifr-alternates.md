@@ -43,6 +43,6 @@
   * [Code 7700 Alternate IAP Requirements](https://code7700.com/alternate_iap_requirements.htm#gsc.tab=0)
 * Discuss ADM around alternate planning
 
-![Digital Terminal Procedures: approach with non-standard alternate minimums, as indicated by the `A` in the triangle within the first box of the middle briefing strip notes box.](/img/tpp/dtpp-vji-rnav-24.png){width=600}
+![Digital Terminal Procedures: approach with non-standard alternate minimums, as indicated by the `A` in the triangle within the first box of the middle briefing strip notes box.](/img/tpp/dtpp-vji-rnav-24.png){width=600 border=true}
 
-![Digital Terminal Procedures: alternate minimums. For example, the KMTN LOC Rwy 15 approach is not available when the tower is closed, and when it is open, the minimums (for category A and B) are 900-2 instead of the 800-2 standard minimums.](/img/tpp/dtpp-alternate-minimums.png){width=600}
+![Digital Terminal Procedures: alternate minimums. For example, the KMTN LOC Rwy 15 approach is not available when the tower is closed, and when it is open, the minimums (for category A and B) are 900-2 instead of the 800-2 standard minimums.](/img/tpp/dtpp-alternate-minimums.png){width=600 border=true}

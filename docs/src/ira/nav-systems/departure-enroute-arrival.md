@@ -5,3 +5,7 @@ This page covers *Task B. Departure, En Route, and Arrival Operations* from the 
 ## Objective
 
 To determine the applicant exhibits satisfactory knowledge, risk management, and skills associated with IFR departure, en route, and arrival operations solely by reference to instruments
+
+## Completion Standards
+
+![[FAA-S-ACS-8C Instrument Rating Airplane Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/instrument_rating_airplane_acs_8.pdf)](/img/faa-s-acs-8c/faa-s-acs-8c-v-b-departure-enroute-arrival.png){width=800 border=true}

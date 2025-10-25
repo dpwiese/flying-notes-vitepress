@@ -304,7 +304,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Intercepting, Tracking, and DME Arcs', link: '/cfii/nav-systems/intercepting-and-dme-arcs' },
-            { text: 'Holding Procedures', link: '/cfii/nav-systems/holds' }
+            { text: 'Holding Procedures', link: '/cfii/nav-systems/holding-procedures' }
           ]
         },
         {

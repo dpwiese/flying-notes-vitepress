@@ -46,9 +46,9 @@ A method of navigation that permits aircraft operations on any desired flight pa
 
 ![Narco NS-900 Pilots Guide. RNV Mode.](/img/narco-ns-800-page-23-rnv-mode.png){width=500 border=true}
 
-![KGGP VOR/DME RNAV RWY 27. RNAV based on VOR/DME in this case enables the instrument approach procedure to be flown with no GPS required.](/img/iap/kggp-vor-dme-rnav-rwy-27.png){width=500}
+![KGGP VOR/DME RNAV RWY 27. RNAV based on VOR/DME in this case enables the instrument approach procedure to be flown with no GPS required.](/img/iap/kggp-vor-dme-rnav-rwy-27.png){width=600 border=true}
 
-![KTTN COPTER LORAN RNAV RWY 16. This is an experimental COPTER approach based on LORAN.](/img/iap/kttn-copter-loran-c-rnav-rwy-16.png){width=500}
+![KTTN COPTER LORAN RNAV RWY 16. This is an experimental COPTER approach based on LORAN.](/img/iap/kttn-copter-loran-c-rnav-rwy-16.png){width=600 border=true}
 
 * With a little bit of background on legacy RNAV systems, we can now focus on GPS.
 
@@ -68,9 +68,9 @@ A method of navigation that permits aircraft operations on any desired flight pa
 
 * A typical GPS receiver has at least 12 channels
 
-![Garmin GNS430W GPS Specs.](/img/gns430w-gps-specs.png){width=300}
+![Garmin GNS430W GPS Specs.](/img/gns430w-gps-specs.png){width=360 border=true}
 
-![Garmin G1000 (GIA63) TSO-129 (non-WAAS) system GPS specifications. Garmin G1000 Pilot’s Guide for Cessna Nav III (190-00498-00 Rev. A)](/img/g1000-gia63-gps-specs.png){width=300}
+![Garmin G1000 (GIA63) TSO-129 (non-WAAS) system GPS specifications. Garmin G1000 Pilot’s Guide for Cessna Nav III (190-00498-00 Rev. A)](/img/g1000-gia63-gps-specs.png){width=360 border=true}
 
 # GPS Database
 
