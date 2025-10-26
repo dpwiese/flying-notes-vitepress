@@ -18,4 +18,4 @@
 * [14 CFR &sect;61.23 - Medical certificates: Requirement and duration](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.23)
 * Each of the classes of medical certificates "reverts" to the the lower class at expiration.
 
-![Medical [14 CFR &sect;61.23(d)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.23#p-61.23(d))](/img/medical-certificate-requirements-table.png){width=500}
+![Medical [14 CFR &sect;61.23(d)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.23#p-61.23(d))](/img/medical-certificate-requirements-table.png){width=600 border=true}

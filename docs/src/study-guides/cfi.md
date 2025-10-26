@@ -387,7 +387,7 @@
             * [14 CFR &sect;61.51(h) - Logging training time](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.51#p-61.51(h))
     * See also [14 CFR &sect;67.401 - Special issuance of medical certificates](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-67/subpart-E/section-67.401)
 
-![Example LOE after having completed both Operational Color Vision Test (OCVT) and Medical Flight Test (MFT). Statement of Demonstrated Ability (SODA) no longer required.](/img/loe.jpg){width=500}
+![Example LOE after having completed both Operational Color Vision Test (OCVT) and Medical Flight Test (MFT). Statement of Demonstrated Ability (SODA) no longer required.](/img/loe.jpg){width=600 border=true}
 
 ### II.B. Runway Incursion Avoidance
 

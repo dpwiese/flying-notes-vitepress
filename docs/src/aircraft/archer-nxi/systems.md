@@ -16,6 +16,14 @@
 
 ![TCDS 2A13 XV - B.- Model PA-28-181 (Archer III), 4 PCLM (Normal Category), 2 PCLM (Utility Category), Approved August 30, 1994, for S/N 2890206 through 2890231, 2843001 and up, and 2881001 and up. Control surface movements.](/img/tcds-2a13/tcds-2a13-control-surface-movements.png){width=800 border=true}
 
+![Archer Airplane Maintenance Manual (PN 761-883) 27-00-00 Page 10 aileron controls.](/img/archer-amm/archer-amm-27-10-00-page-10-figure-4-aileron-controls.png){width=600 border=true}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 27-00-00 Page 11 aileron bellcrank rigging.](/img/archer-amm/archer-amm-27-10-00-page-11-figure-5-aileron-rigging.png){width=600 border=true}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 27-20-00 Page 7 rudder controls.](/img/archer-amm/archer-amm-27-20-00-page-7-figure-3-rudder-controls.png){width=600 border=true}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 27-20-00 Page 4 stabilator controls.](/img/archer-amm/archer-amm-27-30-00-page-4-figure-1-stabilator-controls.png){width=600 border=true}
+
 ## Secondary Flight Controls
 
 ::: info NOTE
@@ -32,9 +40,16 @@ While the right flap can be used as a step while in the up position, it's genera
 * Trim
   * Stabilator
   * Rudder
+    * Rudder trim uses a screw and spring mechanism to apply rudder pressure.
 * Stabilator trim is an anti-servo tab, moving in the same direction as the stabilator to increase control pressure
 
 ![Archer slotted flaps. Note the hinge point offset below the flap surface creates the slot when the flaps are deflected.](/img/archer/archer-flaps.jpeg){width=600}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 27-50-00 Page 3 flap control system.](/img/archer-amm/archer-amm-27-50-00-page-3-figure-1-flap-control-system.png){width=600 border=true}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 27-20-00 Page 8 stabilator trim controls.](/img/archer-amm/archer-amm-27-30-00-page-8-figure-3-stabilator-trim-controls.png){width=600 border=true}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 27-20-00 Page 11 rudder trim control.](/img/archer-amm/archer-amm-27-20-00-page-11-figure-8-rudder-trim-control.png){width=600 border=true}
 
 ## Powerplant
 
@@ -93,6 +108,8 @@ The following images are not publically available, but are screenshots provided 
 
 ### Induction System
 
+![Archer induction airbox showing alternate air door. Note alternate air in the configuration shown is OFF - air would be directed from the air filter.](/img/archer/archer-alternate-air.jpeg){width=600}
+
 * Note as described in the [Fuel System](/aircraft/archer-nxi/systems#fuel-system) section below that fuel is injected into the cylinder head intake ports.
 
 ### Propeller
@@ -120,6 +137,12 @@ The following images are not publically available, but are screenshots provided 
 
 ![Archer Airplane Maintenance Manual (PN 761-883) 73-10-00 Page 4 fuel distribution.](/img/archer-amm/archer-amm-73-10-00-page-4-figure-2-fuel-distribution.png){width=800 border=true}
 
+![Archer electric fuel pump and gascolator.](/img/archer/archer-electric-fuel-pump-and-gascolator.jpeg){width=500}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 28-20-00 Page 2 gascolator.](/img/archer-amm/archer-amm-28-20-00-page-2-figure-1-gascolator.png){width=500 border=true}
+
+![Archer Airplane Maintenance Manual (PN 761-883) 28-20-00 Page 7 electric fuel pump installation.](/img/archer-amm/archer-amm-28-20-00-page-7-figure-4-electric-fuel-pump.png){width=600 border=true}
+
 ## Oil System
 
 * Wet sump
@@ -127,6 +150,8 @@ The following images are not publically available, but are screenshots provided 
 * Minimum safe quantity: 2 quarts
 
 ## Electrical
+
+![Archer alternator.](/img/archer/archer-alternator.jpeg){width=500}
 
 * 70 ampere alternator
 * 28 volt electrical system
@@ -244,13 +269,11 @@ The following images are not publically available, but are screenshots provided 
 
 ## Pitot-static / Vacuum System
 
-* TBD
-
 ![Archer Airplane Maintenance Manual (PN 761-883) 34-10-00 Page 5 pitot-static system.](/img/archer-amm/archer-amm-34-10-00-page-5-static-system.png){width=600 border=true}
 
 ## Environmental
 
-* TBD
+![Archer Airplane Maintenance Manual (PN 761-883) 21-40-00 Page 2 cabin heat, defrosters, and fresh air system.](/img/archer-amm/archer-amm-21-40-00-page-2-figure-1-environmental.png){width=600 border=true}
 
 ## Deicing and Anti-icing
 

@@ -21,4 +21,4 @@
   * No age limit to log dual received, so potentially could be paying for and receiving a lot of flight training before even being eligible to solo, only to later find out you can't get medical (or it has limitation)
     * [14 CFR &sect;61.51(h) - Logging training time](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.51#p-61.51(h))
 
-![Example LOE after having completed both Operational Color Vision Test (OCVT) and Medical Flight Test (MFT). Statement of Demonstrated Ability (SODA) no longer required.](/img/loe.jpg){width=500}
+![Example LOE after having completed both Operational Color Vision Test (OCVT) and Medical Flight Test (MFT). Statement of Demonstrated Ability (SODA) no longer required.](/img/loe.jpg){width=600 border=true}

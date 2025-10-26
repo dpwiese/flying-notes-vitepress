@@ -76,6 +76,7 @@ export default defineConfig({
   },
   themeConfig: {
     nav: [
+      { text: 'Private', link: '/par', activeMatch: '^/par/' },
       { text: 'Instrument', link: '/ira', activeMatch: '^/ira/' },
       { text: 'CFI', link: '/cfi', activeMatch: '^/cfi/' },
       { text: 'CFII', link: '/cfii', activeMatch: '^/cfii/' },
@@ -83,6 +84,16 @@ export default defineConfig({
       { text: 'Study Guides', link: '/study-guides', activeMatch: '^/study-guides/' }
     ],
     sidebar: {
+      '/par/': [
+        {
+          text: 'Preflight Preparation',
+          collapsed: false,
+          items: [
+            { text: 'Pilot Qualifications', link: '/par/preflight-prep/pilot-qualifications' },
+            { text: 'Airworthiness Requirements', link: '/par/preflight-prep/airworthiness' },
+          ]
+        }
+      ],
       '/ira/': [
         {
           text: 'Preflight Preparation',
