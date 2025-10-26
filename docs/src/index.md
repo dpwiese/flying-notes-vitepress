@@ -6,7 +6,7 @@ hero:
   text: Resources to help you become a pilot
   tagline: A compenium of flying notes from private pilot to MEI.
   image:
-    src: /img/hero.png
+    src: /hero.png
     alt: "Flying Notes Hero Image"
   actions:
     - theme: brand
