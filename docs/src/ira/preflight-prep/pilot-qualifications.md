@@ -8,14 +8,12 @@ To determine the applicant exhibits satisfactory knowledge, risk management, and
 
 <!--@include: ./docs/src/includes/privileges-limitations/ira.md | shift:1-->
 
-<!--@include: ./docs/src/includes/currency.md | shift:1-->
-<!--@include: ./docs/src/includes/logging-instrument.md | shift:1-->
-<!--@include: ./docs/src/includes/logging-approaches.md | shift:1-->
-<!--@include: ./docs/src/includes/logging-sim.md | shift:1-->
+<!--@include: ./docs/src/includes/currency/currency.md | shift:1-->
+
+## Logging Instrument Experience
+
+<!--@include: ./docs/src/includes/logging-instrument.md | shift:2-->
+<!--@include: ./docs/src/includes/logging-approaches.md | shift:2-->
+<!--@include: ./docs/src/includes/logging-sim.md | shift:2-->
 
 <!--@include: ./docs/src/includes/medicals/basicmed.md | shift:1-->
-
-## References
-
-* [FAA BasicMed](https://www.faa.gov/licenses_certificates/airmen_certification/basic_med)
-* [FAA Updates BasicMed Program](https://www.faa.gov/newsroom/faa-updates-basicmed-program)

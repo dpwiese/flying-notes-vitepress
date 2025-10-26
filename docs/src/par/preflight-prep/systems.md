@@ -1,6 +1,6 @@
 # Flight Controls and Systems
 
-This page covers *Task E. Aircraft Flight Controls and Operation of Systems* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
+This page covers *Task G. Operation of Systems* from the [FAA-S-ACS-6C Private Pilot Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/private_airplane_acs_6.pdf).
 
 <!--@include: ./docs/src/includes/systems/primary-flight-controls.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/secondary-flight-controls.md | shift:1-->

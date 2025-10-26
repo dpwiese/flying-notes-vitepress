@@ -1,6 +1,6 @@
 # Filing a Flight Plan
 
-![Flight plan form. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 10: IFR Flight Figure 10-1.](/img/ifh/ifh-figure-10-1-flight-plan-form.png){width=500}
+![Flight plan form. [FAA-H-8083-15B Instrument Flying Handbook](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf) Chapter 10: IFR Flight Figure 10-1.](/img/ifh/ifh-figure-10-1-flight-plan-form.png){width=600 border=true}
 
 * Flight Service Station (FSS)
   * Calling 1-800-WX-BRIEF

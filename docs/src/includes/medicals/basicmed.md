@@ -19,3 +19,4 @@
   * Comply with any medical requirements or restrictions associated with their U.S. driver's license
 * [FAA-AC-68-1A BasicMed](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1031168)
 * [FAA Updates BasicMed Program](https://www.faa.gov/newsroom/faa-updates-basicmed-program)
+* [FAA BasicMed](https://www.faa.gov/licenses_certificates/airmen_certification/basic_med)

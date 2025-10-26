@@ -5,7 +5,7 @@ This page covers *Task C. Regulations and Publications Related to IFR Operations
 <!--@include: ./docs/src/includes/publications/cfr.md | shift:1-->
 
 <!--@include: ./docs/src/includes/privileges-limitations/ira.md | shift:1-->
-<!--@include: ./docs/src/includes/currency.md | shift:1-->
+<!--@include: ./docs/src/includes/currency/currency.md | shift:1-->
 <!--@include: ./docs/src/includes/logging-instrument.md | shift:2-->
 <!--@include: ./docs/src/includes/logging-approaches.md | shift:2-->
 <!--@include: ./docs/src/includes/logging-sim.md | shift:2-->

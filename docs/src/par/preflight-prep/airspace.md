@@ -1,6 +1,6 @@
 # National Airspace System
 
-This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
+This page covers *Task E. National Airspace System* from the [FAA-S-ACS-6C Private Pilot Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/private_airplane_acs_6.pdf).
 
 <!--@include: ./docs/src/includes/airspace/overview.md | shift:1-->
 
@@ -53,11 +53,15 @@ This page covers *Task G. National Airspace System* from the [FAA-S-ACS-25 Fligh
 
 ## Chart Symbols
 
-* TBD
+<!--@include: ./docs/src/includes/charts/overview.md | shift:2-->
+<!--@include: ./docs/src/includes/charts/sectional.md | shift:2-->
+<!--@include: ./docs/src/includes/charts/tac.md | shift:2-->
+<!--@include: ./docs/src/includes/charts/flyway.md | shift:2-->
+<!--@include: ./docs/src/includes/charts/wac.md | shift:2-->
+<!--@include: ./docs/src/includes/charts/helicopter.md | shift:2-->
+<!--@include: ./docs/src/includes/charts/altitude-figures.md | shift:2-->
 
-## Currency of Publications
-
-* TBD
+<!--@include: ./docs/src/includes/charts/proper-and-current.md | shift:1-->
 
 <!--@include: ./docs/src/includes/special-vfr.md | shift:1-->
 

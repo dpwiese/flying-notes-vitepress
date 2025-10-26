@@ -1,6 +1,6 @@
 # Preflight Assessment
 
-This page covers *Task A. Preflight Assessment* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
+This page covers *Task A. Preflight Assessment* from the [FAA-S-ACS-6C Private Pilot Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/private_airplane_acs_6.pdf).
 
 <!--@include: ./docs/src/includes/preflight-assessment/self-assessment.md | shift:1-->
 <!--@include: ./docs/src/includes/preflight-assessment/determining-airworthiness.md | shift:1-->

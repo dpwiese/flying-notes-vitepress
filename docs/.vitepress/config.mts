@@ -91,6 +91,20 @@ export default defineConfig({
           items: [
             { text: 'Pilot Qualifications', link: '/par/preflight-prep/pilot-qualifications' },
             { text: 'Airworthiness Requirements', link: '/par/preflight-prep/airworthiness' },
+            { text: 'Meteorology', link: '/par/preflight-prep/meteorology' },
+            { text: 'Weather Products', link: '/par/preflight-prep/weather-products' },
+            { text: 'Cross-Country Planning', link: '/par/preflight-prep/xc-planning' },
+            { text: 'National Airspace System', link: '/par/preflight-prep/airspace' },
+            { text: 'Performance and Limitations', link: '/par/preflight-prep/performance-and-limitations' },
+            { text: 'Operation of Systems', link: '/par/preflight-prep/systems' },
+            { text: 'Human Factors', link: '/par/preflight-prep/human-factors' }
+          ]
+        },
+        {
+          text: 'Preflight Procedures',
+          collapsed: false,
+          items: [
+            { text: 'Preflight Assessment', link: '/par/preflight-procedures/preflight-assessment' },
           ]
         }
       ],

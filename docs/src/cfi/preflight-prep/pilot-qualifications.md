@@ -18,7 +18,7 @@ effective instruction.
 
 <!--@include: ./docs/src/includes/medicals/medicals.md | shift:1-->
 
-<!--@include: ./docs/src/includes/currency.md | shift:1-->
+<!--@include: ./docs/src/includes/currency/currency.md | shift:1-->
 
 <!--@include: ./docs/src/includes/required-documents-ppm.md | shift:1-->
 

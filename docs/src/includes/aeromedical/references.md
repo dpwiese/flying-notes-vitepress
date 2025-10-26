@@ -9,3 +9,4 @@
   * [Chapter 17: Aeromedical Factors](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/19_phak_ch17.pdf)
 * [Aeronautical Information Manual](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/)
   * [AIM Chapter 8: Medical Factors for Pilots](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap_8.html)
+* [14 CFR &sect;91.17 Alcohol or drugs](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.17)

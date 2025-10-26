@@ -22,6 +22,7 @@ This page covers *Task B. Flight Deck Management* from the [FAA-S-ACS-25 Flight 
       * **A** - Aim at the base of the fire
       * **S** - Squeeze
       * **S** - Sweep
+    * Designate who will use the fire extinguisher and who will fly the plane in the event of a fire.
   * ==**E** - Exits, Emergencies, Equipment (and Evacuations)==
     * Mostly how to use doors
     * Fire on ramp - where to evacuate and meet

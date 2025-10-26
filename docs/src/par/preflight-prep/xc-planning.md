@@ -1,6 +1,6 @@
 # Navigation and Cross-Country Planning
 
-This page covers *Task I. Navigation and Cross-Country Flight Planning* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
+This page covers *Task D. Cross-Country Flight Planning* from the [FAA-S-ACS-6C Private Pilot Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/private_airplane_acs_6.pdf).
 
 ## Terms
 
@@ -8,17 +8,6 @@ This page covers *Task I. Navigation and Cross-Country Flight Planning* from the
 
 <!--@include: ./docs/src/includes/altitudes.md | shift:2-->
 <!--@include: ./docs/src/includes/airspeeds.md | shift:2-->
-
-<!--@include: ./docs/src/includes/charts/overview.md | shift:1-->
-
-<!--@include: ./docs/src/includes/charts/sectional.md | shift:2-->
-<!--@include: ./docs/src/includes/charts/tac.md | shift:2-->
-<!--@include: ./docs/src/includes/charts/flyway.md | shift:2-->
-<!--@include: ./docs/src/includes/charts/wac.md | shift:2-->
-<!--@include: ./docs/src/includes/charts/helicopter.md | shift:2-->
-<!--@include: ./docs/src/includes/charts/altitude-figures.md | shift:2-->
-
-<!--@include: ./docs/src/includes/charts/proper-and-current.md | shift:1-->
 
 <!--@include: ./docs/src/includes/navigation/plotting-calcs-and-alts.md | shift:1-->
 <!--@include: ./docs/src/includes/navigation/pilotage-dead-reckoning.md | shift:1-->

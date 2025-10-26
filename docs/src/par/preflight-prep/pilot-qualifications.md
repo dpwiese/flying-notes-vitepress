@@ -12,11 +12,6 @@ To determine the applicant exhibits satisfactory knowledge, risk management, and
 
 <!--@include: ./docs/src/includes/medicals/medicals.md | shift:1-->
 
-<!--@include: ./docs/src/includes/currency.md | shift:1-->
+<!--@include: ./docs/src/includes/currency/basic-currency.md | shift:1-->
 
 <!--@include: ./docs/src/includes/required-documents-ppm.md | shift:1-->
-
-## References
-
-* [FAA BasicMed](https://www.faa.gov/licenses_certificates/airmen_certification/basic_med)
-* [FAA Updates BasicMed Program](https://www.faa.gov/newsroom/faa-updates-basicmed-program)
