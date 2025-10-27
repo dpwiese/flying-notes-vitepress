@@ -105,6 +105,10 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Preflight Assessment', link: '/par/preflight-procedures/preflight-assessment' },
+            { text: 'Flight Deck Management', link: '/par/preflight-procedures/flight-deck-management' },
+            { text: 'Engine Starting', link: '/par/preflight-procedures/engine-starting' },
+            { text: 'Taxiing', link: '/par/preflight-procedures/taxiing' },
+            { text: 'Before Takeoff Check', link: '/par/preflight-procedures/before-takeoff-check' }
           ]
         }
       ],
