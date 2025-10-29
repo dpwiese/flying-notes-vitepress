@@ -110,6 +110,35 @@ export default defineConfig({
             { text: 'Taxiing', link: '/par/preflight-procedures/taxiing' },
             { text: 'Before Takeoff Check', link: '/par/preflight-procedures/before-takeoff-check' }
           ]
+        },
+        {
+          text: 'Airport Operations',
+          collapsed: false,
+          items: [
+            { text: 'Communication, Lights, Runways', link: '/par/airport-operations/communication-lights-runways' },
+            { text: 'Traffic Patterns', link: '/par/airport-operations/traffic-patterns' }
+          ]
+        },
+        {
+          text: 'Takeoff and Landing',
+          collapsed: false,
+          items: [
+            { text: 'Normal Takeoff', link: '/par/takeoff-landing/normal-takeoff' },
+            { text: 'Normal Landing', link: '/par/takeoff-landing/normal-landing' },
+            { text: 'Soft-Field Takeoff', link: '/par/takeoff-landing/soft-field-takeoff' },
+            { text: 'Soft-Field Landing', link: '/par/takeoff-landing/soft-field-landing' },
+            { text: 'Short-Field Takeoff', link: '/par/takeoff-landing/short-field-takeoff' },
+            { text: 'Short-Field Landing', link: '/par/takeoff-landing/short-field-landing' },
+            { text: 'Slip to Landing', link: '/par/takeoff-landing/slip' },
+            { text: 'Go-Around', link: '/par/takeoff-landing/go-around' }
+          ]
+        },
+        {
+          text: 'Performance and Ground Reference',
+          collapsed: false,
+          items: [
+            { text: 'Steep Turns', link: '/par/performance-ground-reference/steep-turns' }
+          ]
         }
       ],
       '/ira/': [

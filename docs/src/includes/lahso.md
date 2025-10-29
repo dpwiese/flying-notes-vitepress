@@ -36,16 +36,16 @@ These operations include landing and holding short of an intersecting runway, an
   * But the above I think *technically* doesn't preclude student pilot from accepting LAHSO, but the practical answer is that they should *never* accept.
 * May encounter runway hold markings on a runway even when not conducting LAHSO operations, as sometimes will be given clearance to taxi on a runway (and hold short of intersecting runway)
 
-![[Digital Terminal Procedures Publication (d-TPP)/Airport Diagrams](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dtpp/) area of coverage / volumes index](/img/tpp/dtpp-volume-index.png){width=400}
+![[Digital Terminal Procedures Publication (d-TPP)/Airport Diagrams](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dtpp/) area of coverage / volumes index](/img/tpp/dtpp-volume-index.png){width=600 border=true}
 
-![[Digital Terminal Procedures Publication (d-TPP)/Airport Diagrams](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dtpp/) NE2 LAHSO Available Landing Distance (ALD)](/img/tpp/dtpp-ne2-lahso-ald.png){width=400}
+![[Digital Terminal Procedures Publication (d-TPP)/Airport Diagrams](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dtpp/) NE2 LAHSO Available Landing Distance (ALD)](/img/tpp/dtpp-ne2-lahso-ald.png){width=600 border=true}
 
-![KTEB taxi diagram. Note LAHSO marking. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-kteb-taxi-diagram.png){width=400}
+![KTEB taxi diagram. Note LAHSO marking. [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/)](/img/chart-supplement-kteb-taxi-diagram.png){width=600 border=true}
 
-![LAHSO holding position sign and marking. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 14: Airport Operations](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/16_phak_ch14.pdf) Figure 14-47.](/img/phak/phak-figure-14-17-lahso-hold-sign.jpg){width=340}
+![LAHSO holding position sign and marking. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 14: Airport Operations](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/16_phak_ch14.pdf) Figure 14-47.](/img/phak/phak-figure-14-17-lahso-hold-sign.jpg){width=360 border=true}
 
-![[AIM Fig 4−3−8 LAHSO](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html)](/img/aim/aim-figure-4-3-8-lahso.png){width=300}
+![[AIM Fig 4−3−8 LAHSO](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html)](/img/aim/aim-figure-4-3-8-lahso.png){width=360 border=true}
 
-![[AIM Fig 4−3−9 LAHSO](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html)](/img/aim/aim-figure-4-3-9-lahso.png){width=300}
+![[AIM Fig 4−3−9 LAHSO](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html)](/img/aim/aim-figure-4-3-9-lahso.png){width=360 border=true}
 
-![[AIM Fig 4−3−10 LAHSO](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html)](/img/aim/aim-figure-4-3-10-lahso.png){width=300}
+![[AIM Fig 4−3−10 LAHSO](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html)](/img/aim/aim-figure-4-3-10-lahso.png){width=360 border=true}
