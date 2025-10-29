@@ -137,7 +137,8 @@ export default defineConfig({
           text: 'Performance and Ground Reference',
           collapsed: false,
           items: [
-            { text: 'Steep Turns', link: '/par/performance-ground-reference/steep-turns' }
+            { text: 'Steep Turns', link: '/par/performance-ground-reference/steep-turns' },
+            { text: 'Ground Reference Maneuvers', link: '/par/performance-ground-reference/ground-reference' }
           ]
         }
       ],
