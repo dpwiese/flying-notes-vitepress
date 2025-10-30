@@ -31,14 +31,14 @@ More importantly than memorizing all of the products below, which are constantly
 
 ## Textual Products
 
-![Textual products. Reference unknown.](/img/textual_products_glance.png){width=460}
+![Textual products. Reference unknown. This reference was current as of probably the mid 2010s and should not be relied upon today.](/img/textual_products_glance.png){width=600 border=true}
 
 * *Note: only textual products used to have letter acronyms for them.*
   * This seems to have changed with the graphical area forecast (GFA)
 
 ## Graphical Products
 
-![Graphical products. Reference unknown.](/img/graphical_products_glance.png){width=460}
+![Graphical products. Reference unknown. This reference was current as of probably the mid 2010s and should not be relied upon today.](/img/graphical_products_glance.png){width=600 border=true}
 
 * *Note: most graphical products are observations.*
 * *Note: weather products are changing all the time, so the above overview may not be current, but should give a pretty good idea of what is available.*

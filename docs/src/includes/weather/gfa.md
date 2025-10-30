@@ -8,7 +8,7 @@
 * The *forecast* is valid for 12 hours with an additional 6 hours categorical *outlook*
 * The links below may have been changed or broken, and are left here as evidence of tools are easily deprecated and changed in favor of new ones
 
-![Graphical forecast for aviation. [https://www.aviationweather.gov/gfa](https://www.aviationweather.gov/gfa)](/img/gfa.jpg){width=560}
+![Graphical forecast for aviation. [https://www.aviationweather.gov/gfa](https://www.aviationweather.gov/gfa)](/img/gfa.jpg){width=540 border=true}
 
 * Can select
   * Region
@@ -18,11 +18,11 @@
   * See: [Weather Symbols](https://www.aviationweather.gov/metar/symbol) or figure below
 * Red wind barb means gusting
 
-![Graphical forecast for aviation symbols](/img/gfa-wx-symbols.jpg){width=560}
+![Graphical forecast for aviation symbols](/img/gfa-wx-symbols.jpg){width=800 border=true}
 
-![Graphical forecast for aviation [https://www.aviationweather.gov/gfa/plot](https://www.aviationweather.gov/gfa/plot)](/img/gfa_plot_sfc.jpg){width=560}
+![Graphical forecast for aviation [https://www.aviationweather.gov/gfa/plot](https://www.aviationweather.gov/gfa/plot)](/img/gfa_plot_sfc.jpg){width=540 border=true}
 
-![Graphical forecast for aviation [https://www.aviationweather.gov/gfa/plot](https://www.aviationweather.gov/gfa/plot)](/img/gfa_plot_clouds.jpg){width=560}
+![Graphical forecast for aviation [https://www.aviationweather.gov/gfa/plot](https://www.aviationweather.gov/gfa/plot)](/img/gfa_plot_clouds.jpg){width=540 border=true}
 
 ## New GFA
 

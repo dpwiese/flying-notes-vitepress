@@ -4,9 +4,9 @@
 * Earth's atmosphere is divided into several layers.
 * The troposphere, which extends up to 36,000 feet is where most flying occurs.
 
-![Temperature and pressure distribution in US Standard Atmosphere. From [U.S. Standard Atmosphere, 1976, Government Printing Office, Washington, DC, 1976](https://www.ngdc.noaa.gov/stp/space-weather/online-publications/miscellaneous/us-standard-atmosphere-1976/us-standard-atmosphere_st76-1562_noaa.pdf) and reprinted in [Frank M. White Fluid Mechanics 4th Edition](https://books.google.com/books?vid=ISBN0071168486)](/img/white-fluid-mechanics-5ed-atmosphere.png){width=600}
+![Temperature and pressure distribution in US Standard Atmosphere. From [U.S. Standard Atmosphere, 1976, Government Printing Office, Washington, DC, 1976](https://www.ngdc.noaa.gov/stp/space-weather/online-publications/miscellaneous/us-standard-atmosphere-1976/us-standard-atmosphere_st76-1562_noaa.pdf) and reprinted in [Frank M. White Fluid Mechanics 4th Edition](https://books.google.com/books?vid=ISBN0071168486)](/img/white-fluid-mechanics-5ed-atmosphere.png){width=600 border=true}
 
-![Structure of atmosphere (unknown reference)](/img/structure-of-atmosphere-1.jpg){width=340}
+![Structure of atmosphere (unknown reference)](/img/structure-of-atmosphere-1.jpg){width=360 border=true}
 
 ::: info NOTE
 Weather is the result of uneven heating and cooling across the Earth.
@@ -27,7 +27,7 @@ At sea level, standard atmospheric properties are: 59 &#176;F (15 &#176;C), pres
 
 * Due to the rotation and tilted axis of the Earth, the circulation pattern of the atmosphere is comprised of the Hadley, Ferrel, and Polar cells.
 
-![Earth circulation system. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 9-2.](/img/awh/awh-figure-9-2-earth-circulation-system.jpg){width=600}
+![Earth circulation system. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 9-2.](/img/awh/awh-figure-9-2-earth-circulation-system.jpg){width=600 border=true}
 
 ### Pressure Systems
 
@@ -60,7 +60,7 @@ Stability of the atmosphere determines the type and vertical extent of clouds.
 * **Virga** is precipitation trailing beneath clouds but evaporating before it reaches the ground
   * Sometimes near virga get strong downdrafts and microbursts
 
-![Coriolis force variations across the Earth. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 10-4.](/img/awh/awh-figure-10-4-coriolis-force-variations.jpg){width=600}
+![Coriolis force variations across the Earth. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 10-4.](/img/awh/awh-figure-10-4-coriolis-force-variations.jpg){width=600 border=true}
 
 ### Isobars
 
@@ -81,7 +81,7 @@ Stability of the atmosphere determines the type and vertical extent of clouds.
 The CAT is strongest on the cold air side of the jet, next to and just under the axis of the jet.
 * [NOAA: The Jet Stream](https://www.noaa.gov/jetstream/global/jet-stream)
 
-![Global jet streams. [NOAA: The Jet Stream](https://www.noaa.gov/jetstream/global/jet-stream).](/img/global-jetstreams.png){width=400}
+![Global jet streams. [NOAA: The Jet Stream](https://www.noaa.gov/jetstream/global/jet-stream).](/img/global-jetstreams.png){width=400 border=true}
 
 ![Jet stream visualized on 300 mb chart (altitude around 30,000 ft). [NOAA: Surface and Upper Air Maps](https://www.spc.noaa.gov/obswx/maps/).](/img/300mb-chart-jet-stream.gif){width=600}
 
@@ -112,7 +112,7 @@ A lapse rate is the rate at which an atmospheric quantity, usually temperature, 
 Using knowledge of the temperature and dewpoint (as reported on the surface) one can estimate the base of clouds by taking the difference (in &#176;F), dividing by 4.4, and multiplying by 1,000 ft.
 :::
 
-![Vertical structure of the atmosphere. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 4-1.](/img/awh/awh-figure-4-1-structure-of-atmosphere.jpg){width=500}
+![Vertical structure of the atmosphere. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 4-1.](/img/awh/awh-figure-4-1-structure-of-atmosphere.jpg){width=500 border=true}
 
 ## Air Masses
 
@@ -171,7 +171,7 @@ Temperature inversions create stability because an air parcel, as it rises and c
 
 * Differences in air density caused by changes in temperature result in a change in pressure.
 
-![Stability types. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 13-5.](/img/awh/awh-figure-13-5-stability-types.jpg){width=440}
+![Stability types. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf) Figure 13-5.](/img/awh/awh-figure-13-5-stability-types.jpg){width=500 border=true}
 
 * **Lifted index** is the difference found by subtracting the temperature of a parcel of air theoretically lifted from the surface to 500 millibars and the existing temperature at 500 millibars.
   * The lifted index is computed as if a parcel of air near the surface were lifted to 500 millibars.
@@ -201,7 +201,7 @@ Temperature inversions create stability because an air parcel, as it rises and c
 
 ### Movement of Air Masses
 
-![North American air mass source regions. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-23.](/img/phak/phak-figure-12-23-north-american-air-masses.jpg){width=640}
+![North American air mass source regions. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-23.](/img/phak/phak-figure-12-23-north-american-air-masses.jpg){width=600 border=true}
 
 * **Air masses** are large bodies of air that take on the characteristics of the surrounding area or source region
   * Polar / Tropical
@@ -232,7 +232,7 @@ When air descends, the opposite is true.
 * Frontal waves normally form on slow-moving cold fronts or stationary fronts
   * See [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851) for more on frontal waves
 
-![Front chart symbols. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-24.](/img/phak/phak-figure-12-24-front-chart-symbols.png){width=400}
+![Front chart symbols. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-24.](/img/phak/phak-figure-12-24-front-chart-symbols.png){width=400 border=true}
 
 ### Warm Front
 
@@ -326,7 +326,7 @@ Occurs when a fast-moving cold front catches up with a slow-moving warm front.
   * Violent turbulence
   * Tend to produce funnel clouds (tornados that have not yet touched the ground)
 
-![Basic cloud types. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-22.](/img/phak/phak-figure-12-22-basic-cloud-types.jpg){width=640}
+![Basic cloud types. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-22.](/img/phak/phak-figure-12-22-basic-cloud-types.jpg){width=600 border=true}
 
 ## Fog
 
@@ -468,7 +468,7 @@ From [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa
 3. **Dissipating stage**
     * Mainly downdrafts
 
-![Thunderstorm stages. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-28.](/img/phak/phak-figure-12-28-thunderstorm-stages.jpg){width=600}
+![Thunderstorm stages. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 12: Weather Theory](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/14_phak_ch12.pdf) Figure 12-28.](/img/phak/phak-figure-12-28-thunderstorm-stages.jpg){width=600 border=true}
 
 ### Microbusts
 

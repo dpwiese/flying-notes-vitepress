@@ -1,6 +1,6 @@
 # Navigation Systems and Radar Services
 
-This page covers *Task H. Navigation Systems and Radar Services* from the [FAA-S-ACS-25 Flight Instructor for Airplane Category Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/cfi_airplane_acs_25.pdf).
+This page covers *Task B. Navigation Systems and Radar Services* from the [FAA-S-ACS-6C Private Pilot Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/private_airplane_acs_6.pdf).
 
 ## Ground Based Navigation
 

@@ -10,9 +10,9 @@
 * When reading a PIREP, each piece of information is within the forward slashes
 * Required info for PIREP: location, time, altitude MSL, type of aircraft, weather encountered.
 
-![Front chart symbols. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf) Figure 13-7.](/img/phak/phak-figure-13-7-decoding-pireps.png){width=640}
+![Front chart symbols. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf) Figure 13-7.](/img/phak/phak-figure-13-7-decoding-pireps.png){width=600 border=true}
 
-![ASA Instrument Test Prep Figure 2-3: PIREP form](/img/asa-2022-instrument-test-prep-figure-2-3-pirep.png){width=660}
+![ASA Instrument Test Prep Figure 2-3: PIREP form](/img/asa-2022-instrument-test-prep-figure-2-3-pirep.png){width=600 border=true}
 
 ![Table 3-7 PIREP Weather Type and Symbols](/img/weather-information-systems-3-pirep-symbos.png){width=360}
 
@@ -57,8 +57,8 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 * **Chop**
   * Rhythmic bumpiness without appreciable changes in altitude or attitude
 
-![[AIM Table 7-1-8 Turbulence Reporting Criteria Table](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html)](/img/turbulence_intensities.png){width=460}
+![[AIM Table 7-1-8 Turbulence Reporting Criteria Table](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html)](/img/turbulence_intensities.png){width=540 border=true}
 
-![Icing intensities. [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1030235)](/img/icing_intensities_table.png){width=540}
+![Icing intensities. [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1030235)](/img/icing_intensities_table.png){width=540 border=true}
 
-![Turbulence intensities. [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1030235)](/img/turbulence_intensities_table.png){width=540}
+![Turbulence intensities. [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1030235)](/img/turbulence_intensities_table.png){width=540 border=true}

@@ -38,9 +38,9 @@
 * `LTGCG`
   * Lightning cloud to ground
 
-![METAR descriptors. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf)](/img/phak/phak-figure-13-5-metar-descriptors.png){width=800}
+![METAR descriptors. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf)](/img/phak/phak-figure-13-5-metar-descriptors.png){width=800 border=true}
 
-![Sky conditions. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf)](/img/phak/phak-figure-13-6-sky-conditions.png){width=360}
+![Sky conditions. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf)](/img/phak/phak-figure-13-6-sky-conditions.png){width=360 border=true}
 
 ![[AIM Fig 7-1-21 Kev to Aerodrome Forecast (TAF) and Aviation Routine Weather Report (METAR) (Front)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html)](/img/aim/aim-figure-7-1-21.png){width=560}
 

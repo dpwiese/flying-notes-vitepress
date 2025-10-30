@@ -21,7 +21,11 @@ This page covers *Task I. Navigation and Cross-Country Flight Planning* from the
 <!--@include: ./docs/src/includes/charts/proper-and-current.md | shift:1-->
 
 <!--@include: ./docs/src/includes/navigation/plotting-calcs-and-alts.md | shift:1-->
-<!--@include: ./docs/src/includes/navigation/pilotage-dead-reckoning.md | shift:1-->
+
+## Pilotage and Dead Reckoning
+
+<!--@include: ./docs/src/includes/navigation/pilotage-dead-reckoning.md | shift:2-->
+
 <!--@include: ./docs/src/includes/navigation/radio-nav-basics.md | shift:1-->
 <!--@include: ./docs/src/includes/navigation/diversion.md | shift:1-->
 <!--@include: ./docs/src/includes/navigation/lost-procedures.md | shift:1-->

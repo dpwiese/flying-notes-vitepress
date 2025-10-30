@@ -2,24 +2,32 @@
 
 This page covers the portion of *Task C. Cross-Country Flight Planning* from the [FAA-S-ACS-8C Instrument Rating Airplane Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/instrument_rating_airplane_acs_8.pdf).
 
-## Airspace Regulatory Requirements
+## Route Planning
 
-<!--@include: ./docs/src/includes/airspace-requirements/transponder.md | shift:1-->
-<!--@include: ./docs/src/includes/airspace-requirements/adsb.md | shift:1-->
-<!--@include: ./docs/src/includes/ifr-fuel-requirements.md | shift:1-->
-<!--@include: ./docs/src/includes/ifr-routing.md | shift:1-->
-<!--@include: ./docs/src/includes/ifr-alternates.md | shift:1-->
+<!--@include: ./docs/src/includes/ifr-fuel-requirements.md | shift:2-->
+<!--@include: ./docs/src/includes/ifr-routing.md | shift:2-->
+<!--@include: ./docs/src/includes/ifr-alternates.md | shift:2-->
 
-<!--@include: ./docs/src/includes/ifr-en-route.md | shift:1-->
-<!--@include: ./docs/src/includes/notams.md | shift:1-->
+<!--@include: ./docs/src/includes/ifr-en-route.md | shift:2-->
+<!--@include: ./docs/src/includes/notams.md | shift:2-->
 
-<!--@include: ./docs/src/includes/preflight-information.md | shift:1-->
+<!--@include: ./docs/src/includes/preflight-information.md | shift:2-->
 
-<!--@include: ./docs/src/includes/ifr-filing.md | shift:1-->
+<!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:2-->
+<!--@include: ./docs/src/includes/airframe-icing.md | shift:2-->
+<!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md | shift:2-->
 
-<!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:1-->
-<!--@include: ./docs/src/includes/airframe-icing.md | shift:1-->
-<!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md | shift:1-->
+## Altitude Selection
+
+* TBD
+
+## Calculations
+
+* TBD
+
+## Managing Flight Plan
+
+<!--@include: ./docs/src/includes/ifr-filing.md | shift:2-->
 
 ## References
 

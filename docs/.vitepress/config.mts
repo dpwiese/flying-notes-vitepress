@@ -140,6 +140,23 @@ export default defineConfig({
             { text: 'Steep Turns', link: '/par/performance-ground-reference/steep-turns' },
             { text: 'Ground Reference Maneuvers', link: '/par/performance-ground-reference/ground-reference' }
           ]
+        },
+        {
+          text: 'Navigation',
+          collapsed: false,
+          items: [
+            { text: 'Pilotage and Dead Reckoning', link: '/par/navigation/pilotage-dead-reckoning' },
+            { text: 'Navigation Systems and Radar Services', link: '/par/navigation/nav-systems-radar-services' },
+            { text: 'Diversion', link: '/par/navigation/diversion' },
+            { text: 'Lost Procedures', link: '/par/navigation/lost-procedures' }
+          ]
+        },
+        {
+          text: 'Slow Flight and Stalls',
+          collapsed: false,
+          items: [
+            { text: 'Slow Flight', link: '/par/slow-flight-stalls/slow-flight.md' }
+          ]
         }
       ],
       '/ira/': [
