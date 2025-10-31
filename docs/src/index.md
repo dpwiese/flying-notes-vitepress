@@ -28,11 +28,11 @@ features:
     details: Material covering FAA-S-ACS-8C instrument rating airplane ACS.
     link: /ira/
   - icon: 🧑🏻‍🏫
-    title: Certified Flight Instructor
+    title: Flight Instructor
     details: Material covering FAA-S-ACS-25 flight instructor airplane ACS.
     link: /cfi/
   - icon: 🧙🏻
-    title: Certified Flight Instructor Instrument
+    title: Flight Instructor Instrument
     details: Material covering FAA-S-8081-9E flight instructor instrument PTS.
     link: /cfii/
 ---
