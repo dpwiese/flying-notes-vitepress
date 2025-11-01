@@ -1,0 +1,3 @@
+* From PHAK 5-11 regarding how high off the ground to fly in ground effect
+
+  > In order for ground effect to be of significant magnitude, the wing must be quite close to the ground. One of the direct results of ground effect is the variation of induced drag with wing height above the ground at a constant CL. When the wing is at a height equal to its span, the reduction in induced drag is only 1.4 percent. However, when the wing is at a height equal to one-fourth its span, the reduction in induced drag is 23.5 percent and, when the wing is at a height equal to one-tenth its span, the reduction in induced drag is 47.6 percent. Thus, a large reduction in induced drag takes place only when the wing is very close to the ground.

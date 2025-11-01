@@ -330,7 +330,14 @@ export default defineConfig({
           text: 'Slow Flight, Stalls, and Spins',
           collapsed: false,
           items: [
-            { text: 'Slow Flight', link: '/cfi/slow-flight-stalls-spins/slow-flight' }
+            { text: 'Slow Flight', link: '/cfi/slow-flight-stalls-spins/slow-flight' },
+            { text: 'Demonstration of Flight Characteristics', link: '/cfi/slow-flight-stalls-spins/demonstration-of-flight-characteristics' },
+            { text: 'Power-Off Stalls', link: '/cfi/slow-flight-stalls-spins/power-off-stalls' },
+            { text: 'Power-On Stalls', link: '/cfi/slow-flight-stalls-spins/power-on-stalls' },
+            { text: 'Accelerated Stalls', link: '/cfi/slow-flight-stalls-spins/accelerated-stalls' },
+            { text: 'Cross-Controlled Stall', link: '/cfi/slow-flight-stalls-spins/cross-controlled-stall' },
+            { text: 'Elevator Trim Stall', link: '/cfi/slow-flight-stalls-spins/elevator-trim-stall' },
+            { text: 'Secondary Stall', link: '/cfi/slow-flight-stalls-spins/secondary-stall' }
           ]
         }
       ],
