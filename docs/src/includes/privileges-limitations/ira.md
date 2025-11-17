@@ -14,6 +14,7 @@
   * 250 nm cross country
     * Total distance along airways, not straight-line distance between points of landing
     * 3 different types of approaches
+    * [14 CFR &sect;61.65(d)(2)(ii)](https://www.ecfr.gov/current/title-14/part-61/section-61.65#p-61.65(d)(2)(ii))
 * [14 CFR Par 141 Appendix C Instrument Rating Course](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-H/part-141/appendix-Appendix%20C%20to%20Part%20141)
   * No minimum PIC cross country
   * 35 hours actual or simulated instrument time
@@ -25,6 +26,13 @@
     * Total distance along airways, not straight-line distance between points of landing
     * 3 different types of approaches
     * 100 nm straight line distance
+
+### Aside: Different Approaches
+
+In order to satisfy the requirements of the 250 nm cross country flight above, [14 CFR &sect;61.65(d)(2)(ii)(C)](https://www.ecfr.gov/current/title-14/part-61/section-61.65#p-61.65(d)(2)(ii)(C)) specifies the flight must involve three different types of approaches.
+[Order 8900.1A](https://www.faa.gov/documentLibrary/media/Order/Order_8900.1A.pdf), which provides additional guidance and is available in the Dynamic Regulatory System (DRS) [here](https://drs.faa.gov/browse/ORDER_8900.1/doctypeDetails) provides clarity as to what is meant by different in this context in 5-434 B.
+
+![Order 8900.1, Volume 5 (Airman Certification) Chapter 2 (Part 61 Certification) Section 9 (Conduct an Instrument Rating Certification Practical Test), paragraph 5-434 B. Clarification of Different Kinds of Approaches.](/img/8900-1/89001-vol-5-chapter-2-section-9-paragraph-5-434-b.jpg){width=600 border=true}
 
 ## Privileges and Limitations
 
