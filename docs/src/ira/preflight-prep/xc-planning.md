@@ -16,6 +16,7 @@ This page covers the portion of *Task C. Cross-Country Flight Planning* from the
 <!--@include: ./docs/src/includes/satellite-based-navigation.md | shift:2-->
 <!--@include: ./docs/src/includes/airframe-icing.md | shift:2-->
 <!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md | shift:2-->
+<!--@include: ./docs/src/includes/icing-regulations.md | shift:2-->
 
 ## Altitude Selection
 

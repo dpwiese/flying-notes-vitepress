@@ -125,11 +125,12 @@ Refers to an organized collection of ideas that forms a learner's understanding 
         * Pure memorization - can parrot things back
         * e.g. recalling stalling speed of an aircraft
     * ==**Understanding**==
+        * Ability to notice similarities and make associations between the facts and procedural steps learned
         * e.g. how does stalling speed vary with loading
     * ==**Application**==
         * Level where most instructors stop teaching
         * e.g. learner can apply the knowledge during slow flight
-    * ==**Corellation**==
+    * ==**Correlation**==
         * Associating previous learning with a new situation
 
 ![[FAA-H-8083-9B Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) [Chapter 3: The Learning Process](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/05_aih_chapter_3.pdf) Figure 3-10.](/img/aih/aih-figure-3-10-learning-levels.jpg){width=500}

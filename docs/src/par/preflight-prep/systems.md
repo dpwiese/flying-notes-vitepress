@@ -24,6 +24,7 @@ This page covers *Task G. Operation of Systems* from the [FAA-S-ACS-6C Private P
 
 <!--@include: ./docs/src/includes/systems/environmental-systems.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md | shift:1-->
+<!--@include: ./docs/src/includes/icing-regulations.md | shift:2-->
 <!--@include: ./docs/src/includes/systems/oxygen-system.md | shift:1-->
 
 <!--@include: ./docs/src/includes/systems/pressurization.md | shift:2-->

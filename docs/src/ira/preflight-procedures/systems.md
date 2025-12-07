@@ -7,6 +7,7 @@ This page covers *Task A. Aircraft Systems Related to Instrument Flight Rules (I
 To determine the applicant exhibits satisfactory knowledge, risk management, and skills associated with anti-icing or deicing systems, and other systems related to IFR flight.
 
 <!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md | shift:1-->
+<!--@include: ./docs/src/includes/icing-regulations.md | shift:2-->
 <!--@include: ./docs/src/includes/systems/primary-flight-controls.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/secondary-flight-controls.md | shift:1-->
 <!--@include: ./docs/src/includes/systems/trim-controls.md | shift:1-->

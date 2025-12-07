@@ -75,6 +75,7 @@ This page covers *Task B. Airworthiness Requirements* from the [FAA-S-ACS-25 Fli
     * Adding brake fluid. [(8)](https://www.ecfr.gov/current/title-14/appendix-Appendix%20A%20to%20Part%2043#p-Appendix-A-to-Part-43(c)(8))
       * As an example the Piper Archer POH says to replenish brake fluid as necessary (8.13 Brake Service).
 * [FAA-AC-43-12A](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_43-12A_CHG_1.pdf)
+* [Coleal 2009](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2009/Coleal-Bombardier%20Learjet_2009_Legal_Interpretation.pdf)
 
 ## Equipment Requirements
 

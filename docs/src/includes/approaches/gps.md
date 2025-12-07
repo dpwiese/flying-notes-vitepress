@@ -76,6 +76,14 @@
 * May be flown solely with GPS if it says `NDB or GPS`
 * Or if you have a working NDB onboard, although you need not monitor it
 
+## Magnetic Course Differences
+
+* [AIM 1-1-17.b.5(j)](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html#aim0101.html.22)
+
+  > Differences may exist between PBN systems and the charted magnetic courses on ground-based NAVAID instrument flight procedures (IFP), enroute charts, approach charts, and Standard Instrument Departure/Standard Terminal Arrival (SID/STAR) charts. These differences are due to the magnetic variance used to calculate the magnetic course.
+
+* This paragraph goes on to provide more information about these differences.
+
 ## Interesting Approaches
 
 ### Better LNAV/VNAV Minimums

@@ -11,6 +11,7 @@ This page covers the portion of *Task A. Aircraft Flight Instruments and Navigat
 <!--@include: ./docs/src/includes/autopilot.md | shift:1-->
 
 <!--@include: ./docs/src/includes/systems/deicing-and-anti-icing.md | shift:1-->
+<!--@include: ./docs/src/includes/icing-regulations.md | shift:2-->
 <!--@include: ./docs/src/includes/weather-radar.md | shift:1-->
 
 ### Other Inflight Weather Systems

@@ -70,7 +70,7 @@
 
       > Many preventive maintenance tasks are listed in 14 C.F.R. part 43, appendix A, paragraph (c).
       > The paragraph sets forth in 32 numbered subparagraphs items the FAA has determined to be preventive maintenance.
-      > Even though the introductory text of subparagraph (c) states that "[p]reventive maintenance is limited to the following work ...." (emphasis added), in view of the broader definition of preventive maintenance in section 1.1, we believe that such limitation 'is not controlling.
+      > Even though the introductory text of subparagraph (c) states that "[p]reventive maintenance is limited to the following work ...." (emphasis added), in view of the broader definition of preventive maintenance in section 1.1, we believe that such limitation is not controlling.
       > Similarly, for the same reason, we also believe that the following sentence in Advisory Circular 43-12A, Preventive Maintenance (which was referenced in Mr. Hernandez's letter), is overly restrictive
       > That sentence, found in Paragraph 3(b)(l), states: "If a task or maintenance function does not appear in the list, it is not preventive maintenance."
       > As with the other paragraphs of Appendix A (i.e., on major repairs and major alterations), the lists are better viewed as examples of the tasks in each category-they cannot be considered all-inclusive.
