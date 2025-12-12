@@ -417,7 +417,8 @@ export default defineConfig({
           text: 'Archer III NXi',
           collapsed: false,
           items: [
-            { text: 'Systems', link: 'aircraft/archer-nxi/systems' }
+            { text: 'Systems', link: 'aircraft/archer-nxi/systems' },
+            { text: 'V-Speeds', link: 'aircraft/archer-nxi/v-speeds' }
           ]
         },
         {
