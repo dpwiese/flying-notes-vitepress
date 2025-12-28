@@ -57,8 +57,4 @@ See: [AIM 7-1-21 PIREPs Relating to Turbulence](https://www.faa.gov/air_traffic/
 * **Chop**
   * Rhythmic bumpiness without appreciable changes in altitude or attitude
 
-![[AIM Table 7-1-8 Turbulence Reporting Criteria Table](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html)](/img/turbulence_intensities.png){width=540 border=true}
-
-![Icing intensities. [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1030235)](/img/icing_intensities_table.png){width=540 border=true}
-
-![Turbulence intensities. [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1030235)](/img/turbulence_intensities_table.png){width=540 border=true}
+![[AIM Table 7-1-11 Turbulence Reporting Criteria Table](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html#Tt93b6ROBE)](/img/aim/aim-table-7-1-1-turbulence-reporting.png){width=540 border=true}

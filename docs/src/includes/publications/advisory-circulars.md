@@ -3,7 +3,6 @@
 * An Advisory Circular (AC) is an informational document that the FAA wants to distribute to the aviation community.
 * This can be in the form of a text book used in a classroom or a one page document.
   * [FAA-AC-00-6B Aviation Weather](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1029851)
-  * [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1030235)
 * ACs provide a single, uniform, agency-wide system that the FAA uses to deliver advisory material to FAA customers, industry, the aviation community, and the public.
 * An AC may be needed to
   * Provide an acceptable, clearly understood method for complying with a regulation

@@ -16,10 +16,10 @@
   * **Sky cover** shown
   * **Temperature** and **dew point**
 
-![Surface analysis chart. [http://www.wpc.ncep.noaa.gov/html/sfc2.shtml](http://www.wpc.ncep.noaa.gov/html/sfc2.shtml)](/img/surface_analysis_4.gif){width=560}
+![Surface analysis chart. [http://www.wpc.ncep.noaa.gov/html/sfc2.shtml](http://www.wpc.ncep.noaa.gov/html/sfc2.shtml)](/img/surface_analysis_4.gif){width=560 border=true}
 
-![Surface analysis chart legend. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf) Figure 13-11](/img/phak/phak-figure-13-11-surface-analysis-chart-legend.png){width=560}
+![Surface analysis chart legend. [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) [Chapter 13: Aviation Weather Services](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/15_phak_ch13.pdf) Figure 13-11](/img/phak/phak-figure-13-11-surface-analysis-chart-legend.png){width=560 border=true}
 
-![Surface analysis chart legend. [FAA-AC-00-45H Aviation Weather Services](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1030235)](/img/ac-00-45h-figure-4-3-surface-analysis-chart-symbols.png){width=460}
+![Surface analysis chart legend. [FAA-H-8083-28A Aviation Weather Handbook](https://www.faa.gov/regulationspolicies/handbooksmanuals/aviation/faa-h-8083-28a-aviation-weather-handbook)](/img/awh/awh-figure-25-6-surface-analysis-chart-symbols.png){width=560 border=true}
 
 * *Note: frontolysis is the weakening or dissipation of a front and frontogenesis is the strengthening of the front*

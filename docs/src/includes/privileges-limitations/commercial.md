@@ -17,6 +17,8 @@
     * 50 hours in cross-country flight of which at least 10 hours must be in airplanes
   * 20 hours flight training (on Commercial Pilot areas of operation in [14 CFR &sect;61.127(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.127#p-61.127(b)))
     * 10 Hours of instrument training (5 hours must be in a single-engine airplane)
+      * [14 CFR &sect;61.195(c)(1)](https://www.ecfr.gov/current/title-14/part-61/section-61.195#p-61.195(c)(1)) says this training must be done by a CFII.
+      * See [Grayson 2010](https://www.faa.gov/media/14116)
     * 10 hours of training in a complex airplane or TAA
     * One 100 nm 2-hour day cross-country
     * One 100 nm 2-hour night cross-country
@@ -48,7 +50,7 @@
 * The 10 hours of solo flight can be performed with an instructor on board
   * In the case, instructor is acting in their capacity as an instructor, and so can log PIC
   * The pilot does not log dual received since they are not receiving instruction
-* See Kuhn 2014
+* See [Kuhn 2014](https://www.faa.gov/media/12386)
 
 ## Double Dipping
 
@@ -62,7 +64,7 @@ The safest way to credit instrument training received while working towards an i
   * [Theriault 2010](https://www.faa.gov/media/14351)
   * [Theriault 2011](https://www.faa.gov/media/13891)
 
-![Excerpt from [Hartzell 2010](https://www.faa.gov/media/14131).](/img/hartzell-2010-excerpt.jpg){width=800}
+![Excerpt from [Hartzell 2010](https://www.faa.gov/media/14131).](/img/hartzell-2010-excerpt.jpg){width=800 border=true}
 
 ## Flying for Hire
 
@@ -159,7 +161,7 @@ And really the takeaway here is that if, as a commercial pilot, you are faced wi
 * There are certain requirements when an aircraft is leased to someone else
   * [14 CFR &sect;91.23](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.23)
 
-![[Order 8900.1 CHG 840 Volume 3, Chapter 18, Section 2](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID120750431820230606234604.0001) flow chart.](/img/8900-1/8900-1-chg-840-figure-3-265.png){width=800}
+![[Order 8900.1 CHG 840 Volume 3, Chapter 18, Section 2](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID120750431820230606234604.0001) flow chart.](/img/8900-1/8900-1-chg-840-figure-3-265.png){width=800 border=true}
 
 ### Common Scenarios
 

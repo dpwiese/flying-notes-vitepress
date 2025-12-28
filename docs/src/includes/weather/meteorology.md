@@ -491,6 +491,8 @@ From [FAA-H-8083-25B Pilot's Handbook of Aeronautical Knowledge](https://www.faa
     * Rain falling from warmer air into air that is colder than freezing
     * Ice pellets indicates there is freezing rain above
 
+<!--@include: ./docs/src/includes/icing-regulations.md | shift:2-->
+
 ## Discussion
 
 Know what the weather is doing to avoid bad weather, take advantage of favorable winds, and when local air currents may disturb flight.
