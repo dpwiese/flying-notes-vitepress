@@ -24,6 +24,10 @@ A surveillance technology in which an aircraft determines its position via satel
 * [FAA Equip ADS-B](https://www.faa.gov/air_traffic/technology/equipadsb/)
 * 978 and 1090 MHz
 
+## FIS-B
+
+![FIS-B Over UAT Product Update and Transmission Intervals. [AIM Table 7-1-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html#aim0701.html.26)](/img/aim/aim-table-7-1-3-fis-b-updates.webp){width=600 border=true}
+
 ## Requirements
 
 * ADS-B is required in:
