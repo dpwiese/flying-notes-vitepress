@@ -45,13 +45,13 @@
     * **C** - Cognitive domain
     * **A** - Affective domain
     * **P** - Psychomotor domain
-* Factors That Affect an Individual's Ability to Perceive (**PTS GE**)
-    * **P** - Physical Organism
-    * **T** - Time and Opportunity
+* Factors That Affect an Individual's Ability to Perceive (**G-STEP**)
+    * **G** - Goals and Values
     * **S** - Self-concept
         * A learner's self-image (e.g. confidence or insecurity) has a strong effect on perception
-    * **G** - Goals and Values
+    * **T** - Time and Opportunity
     * **E** - Element of Threat
+    * **P** - Physical Organism
 * Three stages of skill acquisition (**CAA**)
     * **C** - Cognitive stage
     * **A** - Associative stage

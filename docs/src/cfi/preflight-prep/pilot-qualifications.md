@@ -15,6 +15,7 @@ effective instruction.
 <!--@include: ./docs/src/includes/privileges-limitations/commercial.md | shift:1-->
 <!--@include: ./docs/src/includes/privileges-limitations/atp.md | shift:1-->
 <!--@include: ./docs/src/includes/privileges-limitations/ira.md | shift:1-->
+<!--@include: ./docs/src/includes/privileges-limitations/cfi.md | shift:1-->
 
 <!--@include: ./docs/src/includes/medicals/medicals.md | shift:1-->
 

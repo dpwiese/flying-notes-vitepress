@@ -26,7 +26,12 @@ This page covers *Task C. Course Development, Lesson Plans, and Classroom Traini
 
 ### Essential Skills
 
-* TBD
+Four essential skills good teachers have include:
+
+1. People skills
+2. Subject matter expertise
+3. Assessment skills
+4. Management skills
 
 ## Course of Training
 
