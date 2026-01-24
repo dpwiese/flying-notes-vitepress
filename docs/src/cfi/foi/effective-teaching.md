@@ -27,7 +27,7 @@ This page covers *Task E. Elements of Effective Teaching in a Professional Envir
 
 ### Providing Adequate Instruction
 
-* To tailor his or her teaching technique to the learner, the flight instructor analyzes the learner’s personality, thinking, and ability.
+* To tailor his or her teaching technique to the learner, the flight instructor analyzes the learner's personality, thinking, and ability.
 * No two learners are alike, and a particular method of instruction may not be equally effective for all learners.
 
 ### Training to Established Standards of Performance

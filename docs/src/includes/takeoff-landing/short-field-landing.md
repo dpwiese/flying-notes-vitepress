@@ -44,7 +44,7 @@
 
 * The ACS states:
 
-  > Use manufacturer’s recommended procedures for airplane configuration and braking.
+  > Use manufacturer's recommended procedures for airplane configuration and braking.
 
 * In the case of the Piper Archer, as an example, the POH states:
 

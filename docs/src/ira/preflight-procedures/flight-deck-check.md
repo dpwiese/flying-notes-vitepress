@@ -4,7 +4,7 @@ This page covers *Task C. Instrument Flight Deck Check* from the [FAA-S-ACS-8C I
 
 ## Objective
 
-To determine the applicant exhibits satisfactory knowledge, risk management, and skills associated with conducting a preflight check on the aircraft’s instruments necessary for an IFR flight.
+To determine the applicant exhibits satisfactory knowledge, risk management, and skills associated with conducting a preflight check on the aircraft's instruments necessary for an IFR flight.
 
 <!--@include: ./docs/src/includes/preflight/overview.md | shift:1-->
 <!--@include: ./docs/src/includes/preflight/comm.md | shift:1-->

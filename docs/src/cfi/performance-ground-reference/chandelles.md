@@ -6,7 +6,7 @@ This page covers *Task C. Chandelles* from the [FAA-S-ACS-25 Flight Instructor f
 
 * From [FAA-H-8083-3C Airplane Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook) [Chapter 10: Performance Maneuvers](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/11_afh_ch10.pdf):
 
-  > Performance maneuvers serve to further develop piloting skills. Performance maneuvers enhance a pilot’s proficiency in flight control application, maneuver planning, situational awareness, and division of attention. To further that intent, performance maneuver design allows for the application of flight control pressures, attitudes, airspeeds, and orientations that constantly change throughout the maneuver.
+  > Performance maneuvers serve to further develop piloting skills. Performance maneuvers enhance a pilot's proficiency in flight control application, maneuver planning, situational awareness, and division of attention. To further that intent, performance maneuver design allows for the application of flight control pressures, attitudes, airspeeds, and orientations that constantly change throughout the maneuver.
 
 * A 180&#176; climbing turn that begins from straight-and-level flight and concludes with the airplane in a wings-level, nose-high attitude just above stall speed.
 * It is a *maximum performance maneuver*, that is, the airplane should gain the most altitude possible for a given degree of bank angle and power setting.

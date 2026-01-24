@@ -1,6 +1,6 @@
 # Purpose and Procedure
 
-The objective of maneuvering in slow flight is to develop the pilot’s ability to fly at low speeds and high AOAs.
+The objective of maneuvering in slow flight is to develop the pilot's ability to fly at low speeds and high AOAs.
 Below are a few notes from the [FAA-H-8083-3C Airplane Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook).
 
 > Maintaining controlled flight without activating the stall warning — 5 to 10 knots above the 1G stall

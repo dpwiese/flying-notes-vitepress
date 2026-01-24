@@ -42,7 +42,7 @@ A method of navigation that permits aircraft operations on any desired flight pa
 * They enabled flight between waypoints that were *defined by VORs*, but without having to fly *along the radials* of VORs
 * [FAA-AC-90-45A Approval of Area Navigation Systems for use in the US National Airspace System](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-45A.pdf) from 1975 describes guidelines for RNAV systems, well before the existence of GPS
 
-![Pilot’s Guide KNS 80 Bendix/King VOR/LOC/GS/DME/RNAV Integrated NAV System page 6.](/img/kns80-pilots-guide-page-6.jpg){width=500}
+![Pilot's Guide KNS 80 Bendix/King VOR/LOC/GS/DME/RNAV Integrated NAV System page 6.](/img/kns80-pilots-guide-page-6.jpg){width=500}
 
 ![Narco NS-900 Pilots Guide. RNV Mode.](/img/narco-ns-800-page-23-rnv-mode.png){width=500 border=true}
 
@@ -70,7 +70,7 @@ A method of navigation that permits aircraft operations on any desired flight pa
 
 ![Garmin GNS430W GPS Specs.](/img/gns430w-gps-specs.png){width=360 border=true}
 
-![Garmin G1000 (GIA63) TSO-129 (non-WAAS) system GPS specifications. Garmin G1000 Pilot’s Guide for Cessna Nav III (190-00498-00 Rev. A)](/img/g1000-gia63-gps-specs.png){width=360 border=true}
+![Garmin G1000 (GIA63) TSO-129 (non-WAAS) system GPS specifications. Garmin G1000 Pilot's Guide for Cessna Nav III (190-00498-00 Rev. A)](/img/g1000-gia63-gps-specs.png){width=360 border=true}
 
 # GPS Database
 

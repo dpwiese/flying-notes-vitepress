@@ -20,7 +20,7 @@ const theme: Theme = {
     if (inBrowser) {
       const route = useRoute();
 
-      // Helper: run MathJax only if and when it’s ready
+      // Helper: run MathJax only if and when it's ready
       const retypeset = () => {
         const MJ: any = window.MathJax;
         if (!MJ) return;
