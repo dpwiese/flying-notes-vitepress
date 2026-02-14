@@ -29,22 +29,21 @@ The change in behavior that results from experience and practice.
 
 ## Perceptions and Insight
 
-* Perception
-    * **Perception** is to give meaning to sensations and *are the basis of all learning*
+* **Perception**
+    * To give meaning to sensations and *is the basis of all learning*
     * Learning occurs most rapidly when using more than one sense
-    * Several factors affect a learners ability to perceive
-    * Factors That Affect an Individual's Ability to Perceive (**PTS GE**) - to perceive well need to
-        * **Physical Organism**
-            * Actually be able to hear/see etc.
-        * **Time and Opportunity**
-            * Be given time to adequately perceive
+    * Several factors affect a learners ability to perceive (**G-STEP**) - to perceive well need to
+        * **Goals and Values**
+            * Aligned with learner's goals
         * **Self-concept**
             * Be confident
             * A learner's self-image (e.g. confidence or insecurity) has a strong effect on perception
-        * **Goals and Values**
-            * Aligned with learner's goals
+        * **Time and Opportunity**
+            * Be given time to adequately perceive
         * **Element of Threat**
             * Not feel threatened
+        * **Physical Organism**
+            * Actually be able to hear/see etc.
 * **Insight**
     * Involves the grouping of affiliated perceptions into meaningful wholes
     * Creating insight is one of the instructor's major responsibilities
@@ -193,7 +192,12 @@ Refers to an organized collection of ideas that forms a learner's understanding 
 
 ## Scenario-Based Training
 
-* TBD
+* Provides more realistic decision-making opportunities because it presents tasks in an operational environment
+* Correlates new information with previous knowledge
+* Introduces new information in a realistic context
+* Uses a structured script of "real-world" scenarios
+* Has the learner formulate possible solutions, evaluate the possible solutions, decide on a solution, judge the appropriateness of that decision and finally, reflect on the mental process used in solving the problem
+* One of the primary methods to teach today's aviation learners how to make good aeronautical decisions
 
 ## Acquiring Skill Knowledge
 
@@ -214,11 +218,15 @@ Refers to an organized collection of ideas that forms a learner's understanding 
 
 ### Knowledge of Results
 
-* TBD
+* A learner may know that something is wrong, but not know how to correct it.
+* Make certain that the learners are aware of their progress and let them know when they are right.
+* They should be told as soon after the performance as possible, and should not be allowed to practice mistakes.
+* Better to learn correctly in the first place than to learn wrong and then have to fix.
+* One way to make learners aware of their progress is to repeat a demonstration or example and to show them the standards their performance should ultimately meet.
 
 ### How to Develop Skills
 
-* TBD
+* Power law of practice - progress depends on and gets better with repeated practice.
 
 ### Learning Plateaus
 
@@ -246,15 +254,32 @@ A temporarily decreased or stalled rate of learning.
 
 ## Evaluation versus Critique
 
-* TBD
+* Page 3-28
+* In the initial stages of skill acquisition, practical suggestions are more valuable to the learner than a grade.
+* An instructor ensures a skill is practiced correctly by monitoring the practice and providing feedback about
+the skill development.
 
-## Distractions and Interruptions
+## Distractions, Interruptions, Fixation, and Inattention
 
-* TBD
+* Page 3-30
+* A distraction is an unexpected event that causes the learner’s attention to be momentarily diverted.
+* An interruption is an unexpected event for which the learner voluntarily suspends performance of one task in order to complete a different one.
+* Fixation occurs when a learner becomes absorbed in performing one task to the exclusion of other tasks.
+* Inattention occurs when a learner fails to pay attention to a task that is important.
 
 ## Errors
 
-* TBD
+* Page 3-33
+* **Slip**
+  * A slip occurs when a person plans to do one thing, but then inadvertently does something else.
+  * Slips are errors of action.
+* **Mistake**
+  * A mistake occurs when a person plans to do the wrong thing and is successful.
+  * Mistakes are errors of thought.
+* Reducing errors
+  * The first line of defense against errors is _learning and practice_.
+  * Errors can often be reduced by _working deliberately at a comfortable pace_.
+  * Another way to help avoid errors is to look actively for evidence of them, and learners should learn to check their work.
 
 ## Memory
 
@@ -301,10 +326,14 @@ A temporarily decreased or stalled rate of learning.
 
 ### Usage
 
-* TBD
+* Page 3-37
+* The ability to retrieve knowledge or skills from memory is primarily related to:
+  * Frequency of use
+  * Recency of use
 
 ### Forgetting
 
+* Page 3-37
 * Forgetting (**RID**)
     * **Repression** (Suppression)
     * **Interference** (through overshadowing or displacement)
