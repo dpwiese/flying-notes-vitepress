@@ -156,6 +156,14 @@
 
 ![KMDT RNAV (GPS) RWY 13. The LNAV/VNAV visibility and DA are significantly higher than the LNAV visbility and MDA.](/img/iap/kmdt-rnav-gps-rwy-13.png){width=600 border=true}
 
+<!-- TODO@dwiese - this section should probably live somewhere else -->
+### Computer Navigation Fix
+
+A computer navigation fix (CNF) is not for use by pilots but is charted nonetheless.
+See the legend in the terminal procedures publication.
+
+![KCXO ILS OR LOC RWY 14. CFBQR is a computer navigation fix, or CNF.](/img/iap/kcxo-ils-rwy-14.png){width=600 border=true}
+
 ## RNP and PBN on Approaches
 
 * On PBN approach minima: [FAA Order 8260.58D](https://www.faa.gov/documentLibrary/media/Order/Order_8260.58D.pdf)
