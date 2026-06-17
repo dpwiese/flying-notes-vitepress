@@ -134,3 +134,35 @@ Instructor must sign the logbook of each person they have given flight or ground
   * [Chapter 1: Introduction to Flying](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/03_phak_ch1.pdf)
 * [FAA-AC-61-98E Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98E.pdf)
 * [FAA-AC-61-65H Certification: Pilots and Flight and Ground Instructors](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1034129)
+
+<!--
+PPL-G to PPL Airplane (PAR)
+
+https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-E/section-61.109
+
+40 hours total time
+So glider time counts towards hours needed for PAR
+
+See:
+* Bennett 2016
+* Beard 2015
+
+Need flight review to act as PIC in plane
+Would have to do flight review in glider since it needs to be something they are rated for
+
+For endorsements see the "Additional Endorsements" section of FAA-AC-61-65K
+
+A.76 - to solo airplane
+
+No pre-solo knowledge test required
+https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C/section-61.87
+the section for pre-solo knowledge test only applies to student pilot
+
+A.36 - take knowledge test
+A.78 - flight proficiency / practical test (for added category)
+
+XC endorsements like A.10 are for student pilot
+
+A.1 - prerequisites
+A.2 - review of deficiencies
+-->
