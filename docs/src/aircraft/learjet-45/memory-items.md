@@ -6,8 +6,8 @@
 
 #### Below V1
 
-1. Brakes -- apply
-2. Thrust levers -- idle
+1. Brakes -- Apply
+2. Thrust levers -- IDLE
 
 #### Above V1
 
@@ -26,6 +26,11 @@
 4. VREF + 5
 
 ![Learjet 45 pilot control wheel switches.](/img/learjet-45/pilot-control-wheel-switches.png){width=460}
+
+## Aborted Takeoff
+
+1. Brakes -- Apply
+2. Thrust Levers -- IDLE
 
 ## Engine Fire Voice Activates
 
@@ -47,6 +52,12 @@
 ![Learjet 45 Engine/Fuel/DEEC control panel.](/img/learjet-45/engine-fuel-deec-control-panel.png){width=460}
 
 ## Emergency descent
+
+<!--
+* Emergency descent memory items
+* Left hand -- right hand -- etc. etc. to help remember what to do
+* Memory items: correct step and correct order -- NOT verbatim
+-->
 
 * "Cabin altitude" voice activates
 * Cabin altitude (if applicable)
@@ -99,7 +110,8 @@
     1. The pilot will control the left elevator and the copilot will control the right
 3. Determine elevator without the jam and transfer control to that pilot
     1. Do not apply additional force to the jammed control
-    2. Do not use PIT TRIM BIAS
+    2. Do not use PIT TRIM BIAS switch
+        * Leave it centered
 
 ![Learjet 45 forward pedestal controls.](/img/learjet-45/forward-pedestal-controls.png){width=460}
 
@@ -117,7 +129,7 @@
 ### Rudder control jam
 
 1. Attitude control -- as required
-    1. User roll control and thrust as necessary
+    * Use roll control and thrust as necessary
 
 ## Uncommanded Motion
 
@@ -146,7 +158,7 @@
 ## Emergency braking
 
 1. EMERGENCY / PARKING BRAKE handle - pull smoothly
-    1. EMER / PARK BRK white CAS message
+    * EMER / PARK BRK white CAS message
 
 ## Emergency Evacuation
 
@@ -154,3 +166,76 @@
 2. Thrust levers -- CUTOFF
 3. EMER LIGHTS switch -- ON
 4. EMER BATT L and R BATT switches -- OFF
+
+## Nosewheel Steering Malfunction
+
+1. Control Wheel Master (MSW) -- Depress & Release
+2. Thrust Levers -- IDLE
+
+## Stall
+
+1. Lower the pitch attitude to reduce angle of attack.
+2. Thrust Levers T/O (Manual APR, if Required)
+3. Level the wings.
+4. Accelerate out of stall condition.
+
+## REV UNSAFE, UNL, or DEP
+
+* "LEFT" OR "RIGHT REVERSER UNSAFE" VOICE ACTIVATES
+* L REV UNSAFE R REV UNSAFE
+* UNL OR DEP DURING TAKEOFF
+
+### During takeoff
+
+#### Below V1 Speed
+
+1. Brakes -- Apply
+2. Thrust Levers -- IDLE
+
+#### Above V1 Speed
+
+1. Attitude Control -- As Required
+2. Accelerate to VR. Keep nose wheel on the ground.
+3. Rotate at VR; Climb at V2.
+4. Gear. -- UP
+5. Climb to 1500 feet AGL or Obstacle Clearance Altitude (as appropriate), accelerate to V2 +25, then retract flaps.
+
+### Terrain Aural Warning
+
+"PULL UP"
+"TERRAIN, TERRAIN, PULL UP"
+"OBSTACLE, OBSTACLE, PULL UP"
+
+1. Autopilot -- Disengage
+    * Press GA button to disengage AP
+2. Thrust Lever(s) -- Select T/O or APR, As Required
+3. Increase pitch attitude and climb as required to avoid terrain.
+    * Pitch up to 40&#176;
+4. SPOILER Lever -- RET
+5. Flaps -- Retract (8&#176; or UP), As Required
+6. Gear -- UP
+7. Flaps -- UP
+
+## Windshear
+
+### During Final Approach
+
+Siren (optional), "Windshear, Windshear, Windshear" aural warning and red WIND SHR warning on the PFD are illuminated:
+
+1. Immediately initiate AFM go-around procedure
+    * ****Except do not retract flaps or landing gear.***
+    * *Depressing GO-AROUND button in left thrust lever handle disengages autopilot and selects flight director go-around mode.*
+2. Thrust Lever(s) -- SELECT T/O OR APR, AS REQUIRED
+3. Rotate smoothly to the go-around/takeoff pitch attitude, allowing airspeed to decrease if necessary. Maintain wings level.
+4. If the aircraft continues to descend, increase pitch target attitude smoothly and in small increments, bleeding airspeed as necessary to stop the descent. Use stall warning onset (stick shaker) as the upper limit of pitch attitude.
+5. Maintain escape attitude and thrust and delay retracting flaps or landing gear until safe climbout is assured.
+
+### During Takeoff
+
+Siren (optional), "Windshear, Windshear, Windshear" aural warning and red WIND SHR warning on the PFD are illuminated:
+
+1. Thrust Lever(s) -- SELECT T/O OR APR, AS REQUIRED
+2. Maintain takeoff target pitch attitude and wings level, allowing airspeed to decrease if necessary.
+    * ****Do not retract flaps or gear.****
+3. If the aircraft continues to descend, increase pitch target attitude smoothly and in small increments, bleeding airspeed as necessary to stop the descent. Use stall warning onset (stick shaker) as the upper limit of pitch attitude.
+4. Maintain escape attitude and thrust and delay retracting flaps or landing gear until safe climbout is assured.

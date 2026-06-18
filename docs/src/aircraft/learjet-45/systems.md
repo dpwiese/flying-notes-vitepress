@@ -25,64 +25,72 @@
 ### Doors
 
 * Entry door messages
-  * Red ENTRY DOOR CAS / CWP
+  * Red `ENTRY DOOR` CAS / `ENTRY DOOR` CWP
     * Any latch pin is not fully engaged/extended
     * Keylock locked from the outside with power on airplane
     * Door CB popped
-  * White ENTRY DOOR PIN CAS
-    * Door open if all pins not retracted
-    * (Latch pin disagreement when door open on ground -- this is white ENTRY DOOR PIN CAS ??)
-* External doors - EXTERNAL DOORS CAS message
-  * 3 doors not closed trigger this?
-    * Baggage compartment door (either one of the two latches not being latched)
-    * Equipment bay door (also two latches)
+  * White `ENTRY DOOR PIN` CAS
+    * Door open and one or more pins not retracted
+* Amber `EXTERNAL DOORS` CAS
+  * Either baggage compartment door or equipment bay door not closed
 
 ### Seats
 
-* Up / Down = outboard
-* Forward / backwards = inboard
+* To raise or lower the seat your inboard hand needs to grab center handle so outboard lever is naturally the one to raise and lower seat
+  * Up / Down = outboard
+  * Forward / backwards = inboard
 * An eye reference locator is mounted on the windshield center post
 
 ## Primary Flight Controls
 
 ![Learjet 45 cockpit flight controls.](/img/learjet-45/systems/ch-9-flight-controls-figure-12-cockpit-flight-controls.png){width=600}
 
-The Learjet 40/45 is equipped with conventional primary flight controls operated by cables, bellcranks, and pushrods.
+* Primary flight controls operated by cables, bellcranks, and pushrods.
+* Aileron deflection is assisted by a mechanically operated balance tab on each aileron that progressively deflects as aileron deflection increases.
+  * The balance tabs deflect in the opposite direction of aileron movement.
+* In case of aileron jamming, the pilot control wheel can be disconnected from the ailerons.
+  * Subsequent roll control by the pilot control wheel is accomplished exclusively by the spoilerons.
+* RUDDER PEDAL Switch used to move rudders forward / aft.
+* Control wheel deflection more than 5 degrees will activate the spoilerons.
 
-In case of aileron jamming, the pilot control wheel can be disconnected from the ailerons.
-
-Subsequent roll control by the pilot control wheel is accomplished exclusively by the spoilerons.
-
-RUDDER PEDAL Switch used to move rudders forward / aft.
-
-Aileron deflection is assisted by a mechanically operated balance tab on each aileron that progressively deflects as aileron deflection increases.
-
-The balance tabs deflect in the opposite direction of aileron movement.
+* *Note: in sim pressing MSW does NOT blow down spoilers*
 
 ## Secondary Flight Controls
 
-Flap positions and VFE speeds
-* 8 - 250 KIAS
-* 20 - 200 KIAS
-* 40 - 150 KIAS
+* Flap positions and VFE speeds
+  * 8&#176; - 250 KIAS
+  * 20&#176; - 200 KIAS
+  * 40&#176; - 150 KIAS
+* Spoilers extend up to 60&#176;
 
-Spoilers extend up to 45 degrees?
+::: info NOTE
+During flight cannot extend the spoilers with flaps extended.
+:::
 
-The secondary flight controls consist of hydraulically actuated spoiler/spoileron panels and flaps.
+::: tip
+So, do not extend flaps until below 200 kts -- because after flaps 8 you can't use spoilers -- below 200 can't use spoilers but can use flaps 20 and gear to slow down.
+:::
 
-The spoiler/spoileron panels assist the ailerons in roll control and also function as drag devices.
+::: tip
+As soon as you go to flaps 8 is good time to arm spoilers (since can't use them anymore anyway).
+:::
 
-The flaps consist of a single panel on each wing.
-
-There are no movable wing leading-edge devices.
-
-Roll and yaw trim is controlled by conventional trim tabs while pitch trim is controlled by a variable-incidence horizontal stabilizer.
-
-In ARM position spoilers automatically deploy under these conditions:
-
-* Both squat switches are in the ground mode
-* Both thrust levers are retarded to idle or cutoff position
-* Wheel speed signal from each main gear is above 60 kt (from either wheel)
+* The secondary flight controls consist of hydraulically actuated spoiler/spoileron panels and flaps.
+* Flaps
+  * Single slot fowler flaps
+  * The flaps consist of a single panel on each wing.
+* The spoiler/spoileron panels assist the ailerons in roll control and also function as drag devices.
+* There are no movable wing leading-edge devices.
+* Roll and yaw trim is controlled by conventional trim tabs while pitch trim is controlled by a variable-incidence horizontal stabilizer.
+* In ARM position spoilers automatically deploy under these conditions:
+  * Both squat switches are in the ground mode
+  * Both thrust levers are retarded to idle or cutoff position
+  * Wheel speed signal from each main gear is above 60 kt (from either wheel)
+* Trim
+  * Primary / secondary trim -- just two separate motors but same jack screw
+  * Autopilot trims via secondary system
+  * Secondary system runs at a fixed slow rate
+  * So trim the plane before turning AP on
 
 ![Learjet 45 pedestal trim controls.](/img/learjet-45/pedestal-trim-controls.png){width=460}
 
@@ -97,80 +105,82 @@ In ARM position spoilers automatically deploy under these conditions:
 ![Learjet 45 fuel system schematic.](/img/learjet-45/systems/ch-11-fuel-system-figure-1-fuel-system-schematic.png){width=600}
 
 * The left standby pump transfer fuel FROM the left tank TO the right tank.
-
 * RMU only shows wing quantities
 * Engine page only place to see fuel used
-* Fuel used doesn't include APU fuel consumption
+  * Fuel used doesn't include APU fuel consumption
 * Reset on engine button panel
 * Wings are "wet" tanks open celled
 * Fuselage is a bladder tank
-
-* SPPR coupling pre-check valve
-* 20 psi min truck pressure
-* 20 seconds -- needs to stop
-* If you don't do that test and fuel up, can overfuel and shoot pressure out NACA vent onto ramp
-* If test fails need to gravity fuel
-
+* Single-Point Pressure Refueling (SPPR)
+  * SPPR coupling pre-check valve
+  * ==20 psi min truck pressure==
+  * ==20 seconds -- needs to stop==
+  * If you don't do that test and fuel up, can overfuel and shoot pressure out NACA vent onto ramp
+  * If test fails need to gravity fuel
 * Rough fuel guide planning burn
-* 2000 lb first hour
-* 1000 lb every hour after that
-
+  * 2000 lb first hour
+  * 1000 lb every hour after that
 * Approved fuels
   * Jet A
   * Jet A-1
   * JP-5
   * JP-8
 * Are allowed to mix fuels
-
 * Max imbalance is 200 lb all phases of flight
-* (SB affects this, but at CAE its always 200)
+* (SB affects this, but at CAE its always 200 lb)
 
 ## Hydraulic System
 
 ![Learjet 45 hydraulic system.](/img/learjet-45/systems/ch-12-figure-5-hyraulic-system.png){width=600}
 
-The Learjet 40/45 uses a 3000-psi hydraulic system, consisting of two independently operating systems (main and auxiliary), which share a common hydraulic reservoir and source of reservoir pressurization.
+* 3000-psi hydraulic system
+* Two independently operating systems (main and auxiliary), which share a common hydraulic reservoir and source of reservoir pressurization.
+  * Main hydraulic system uses two engine-driven pumps
+    * Either engine-driven pump is sufficient
+  * Auxiliary hydraulic system uses a DC motor-driven pump.
+* The reservoir is located forward of and above the tailcone baggage compartment and is pressurized by regulated engine bleed air.
+* Make a backwards "h" on throttle quadrant (up to gear) to identify hydraulic systems
+  * Brakes
+  * Spoilers
+  * Thrust reversers
+  * Flaps
+  * Gear (and main gear doors)
+* ***Anything above the wing can only be powered by engine driven pump***
+* Anything below can be powered by either engine driven OR AUX pump
+* Note: before putting the gear down, turn on the AUX pump first
+  * Checklist doesn't say this, but it's good practice
+* ***Memorize: MIL-H-5606 hydraulic fluid***
+* Alternate which engine you start first so you can get an indication of the hydraulic pressure from both left and right engines independently
+* If the main and auxiliary hydraulic systems malfunction, a hydraulically charged pneumatic brake accumulator provides emergency braking.
+* ***Main hydraulic system cannot charge brake accumulator.***
+  * Can provide hydraulic pressure to everything else.
+* Hydraulic failure scenario
+  * QRH start page A-50 Amber `MAIN HYD PRESS` CAS => A-103
+    * Main hydraulic pressure not in 1500 - 3800 psi limits
+  * Step 11. L & R IGN -- ON because potential no flap landing => higher pitch => potential compressor stall
 
-The main and auxiliary systems provide hydraulic power for operation of:
+::: tip
+Before putting the gear down, turn on the AUX pump first.
+Checklist doesn't say this, but it's good practice.
+:::
 
-* Landing gear (extension/retraction, nose uplock release)
-* Main landing gear inboard doors (extension/retraction, uplock)
-* Flaps
-* Spoilers/spoilerons
-* Wheel brakes
-* Thrust reversers
+* The main hydraulic system has two identical engine-driven pumps, one located on each engine accessory gearbox.
+* The pumps are a variable-volume, piston type that maintain a nominal system pressure of 3000 psi.
+* The auxiliary system provides three basic functions:
+  * Hydraulic pressure to charge the brake accumulator
+  * Backup power for the flaps, landing gear, and wheel brakes if the main system malfunctions
+  * Power to operate hydraulic services via the main filter manifold during ground servicing
+* The crossflow valve is used in conjunction with the auxiliary system to provide power to the flaps and landing gear.
+* A brake system shuttle valve automatically moves to allow the hydraulic system with the highest pressure (main or auxiliary) to power the brakes.
+* The accumulator provides at least six emergency brake applications or parking brake pressure for approximately 48 hours.
+* The auxiliary pump operates on 28 volts DC controlled from the L ESS BUS and powered from the left generator bus.
 
-The main hydraulic system uses two engine-driven pumps, and the auxiliary hydraulic system uses a DC motor-driven pump.
-
-If the main and auxiliary hydraulic systems malfunction, a hydraulically charged pneumatic brake accumulator provides emergency braking.
-
-The main hydraulic system has the capability of providing hydraulic power to all aircraft services requiring hydraulic power except the brake accumulator.
-
-The reservoir is located forward of and above the tailcone baggage compartment and is pressurized by regulated engine bleed air.
-
+<!--
 Two motor-driven hydraulic firewall shutoff valves are located in the supply line to each engine-driven hydraulic pump.
 These valves isolate the supply of hydraulic fluid from the reservoir to the engine-driven pumps during an engine fire.
 Each valve is electrically operated by the corresponding FIRE PUSH switch on the ENGINE/FUEL panel.
 The firewall shutoff valves are powered from the respective emergency hot bus.
 Loss of power causes the valves to remain in their last position.
-
-The main hydraulic system has two identical engine-driven pumps, one located on each engine accessory gearbox.
-The pumps are a variable-volume, piston type that maintain a nominal system pressure of 3000 psi.
-
-The auxiliary system provides three basic functions:
-
-* Hydraulic pressure to charge the brake accumulator
-* Backup power for the flaps, landing gear, and wheel brakes if the main system malfunctions
-* Power to operate hydraulic services via the main filter manifold during ground servicing
-
-The crossflow valve is used in conjunction with the auxiliary system to provide power to the flaps and landing gear.
-A brake system shuttle valve automatically moves to allow the hydraulic system with the highest pressure (main or auxiliary) to power the brakes.
-
-The accumulator provides at least six emergency brake applications or parking brake pressure for approximately 48 hours.
-
-The auxiliary pump operates on 28 volts DC controlled from the L ESS BUS and powered from the left generator bus.
-
----- what if left gen fails?
 
 When the auxiliary pump is activated with the aircraft on the ground prior to engine start, the system provides hydraulic pressure to the wheel brakes and charges the brake accumulator to the required pressure.
 
@@ -181,27 +191,7 @@ Selecting the landing gear lever to UP automatically de-energizes the auxiliary 
 
 If the main hydraulic system malfunctions, a mechanical release mechanism can lower the main gear inboard doors, main landing gear, and nose landing gear.
 If the brake accumulator is charged to 3000 psi from the auxiliary system prior to takeoff, it provides sufficient stored energy for emergency braking.
-
-* Make a backwards "h" on throttle quadrant (up to gear) to identify hydraulic systems
-  * Brakes
-  * Spoilers
-  * Thrust reversers
-  * Flaps
-  * Gear (and main gear doors)
-* ***Anything above the wing can only be powered by engine driven pump***
-* Anything below can be powered by either engine driven OR aux pump
-* Note: before putting the fear down, turn on the AUX pump first
-  * Checklist doesn't say this, but it's good practice
-* ***Memorize: MIL-H-5606 hydraulic fluid***
-* Alternate which engine you start first so you can get an indication of the hydraulic pressure from both left and right engines independently
-* Hydraulic failure scenario
-  * QRH start page A-50 "MAIN HYD PRESS" => A-103
-  * Step 11. L & R IGN -- ON because potential no flap landing => higher pitch => potential compressor stall
-
-::: tip
-Before putting the fear down, turn on the AUX pump first.
-Checklist doesn't say this, but it's good practice.
-:::
+-->
 
 ## Ice and Rain Protection
 
@@ -211,8 +201,8 @@ Checklist doesn't say this, but it's good practice.
 The anti-ice systems must be turned on before icing conditions are encountered.
 Icing conditions exist when:
 
-* Outside air temperature (OAT) on the ground and for takeoff is 10&#176;C (50&#176;F) or below, or the static air temperature (SAT) in flight is 10&#176; to –40&#176;C (50&#176; to –40&#176;F) and visible moisture in any form is present (such as clouds, fog with visibility of one mile or less, rain, snow, sleet, or ice crystals)
-* OAT on the ground and for takeoff is 10&#176;C (50&#176;F) or below when operating on ramps, taxiways, or runways where surface snow, ice, standing water, or slush may be ingested by the engines or freeze on engines, nacelles, or engine sensor probes.
+* Outside air temperature (OAT) on the ground and for takeoff is 10 &#176;C (50 &#176;F) or below, or the static air temperature (SAT) in flight is 10 &#176;C to –40 &#176;C (50 &#176;F to –40 &#176;F) and visible moisture in any form is present (such as clouds, fog with visibility of one mile or less, rain, snow, sleet, or ice crystals)
+* OAT on the ground and for takeoff is 10 &#176;C (50 &#176;F) or below when operating on ramps, taxiways, or runways where surface snow, ice, standing water, or slush may be ingested by the engines or freeze on engines, nacelles, or engine sensor probes.
 :::
 
 ## Landing Gear and Brakes
@@ -281,6 +271,9 @@ As the ground speed increases to 70 kt, the maximum wheel deflection is progress
     * Thrust reversers
 * Wait 15-20 seconds after firing one bottle before firing next so the ball valve can "reset"
 * 400 - 800 psi is normal pressure on fire bottles
+* Fire bottle discharge indicators
+  * Red -- thermal discharge (to prevent overpressure)
+  * Yellow -- fire bottle squib fired
 
 ## Electrical System
 
@@ -320,23 +313,56 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
 
 Each engine can independently supply bleed air for the systems that require it.
 
+* Two ways to get the emer press valves to open
+  * Manually -- press the button
+  * Automatically -- over 9,500 feet cabin altitude
+* Routes LP unconditioned air into cabin -- hot air
+* NAC valves fail open
+* HI FLOW just gives pack higher pressure air
+* HP valves open when descending to maintain cabin pressure
+* Anti-ice check is checking function of lots of valves
+* (APU bleed must be off when doing bleed check ... see expanded procedures ... also PACK on?)
+* Outflow valves max 13,700 or 9.7 delta p
+* EMER power available == can control pressurization
+  * Need to do it manually?
+* ***Memorize: Low altitude alerting setpoints (see photo)***
+  * See Pilot Training Guide page 7-15
+* Max takeoff altitude 14,000
+* Outflow valves in the FRONT of the aircraft
+* When cabin smoke memory items -- this brings all the smoke up front into the cockpit
+* HI-FLOW limitations (see AFM page 1-12) must be off when:
+  * TO power selected
+  * For landing
+  * Above 30k feet
+  * Anti-ice on
+* Need generator or APU for heat in baggage compartment
+* Keith AC on aircraft without APU
+
 ## Powerplant
-
-* Two AlliedSignal TFE731-20AR-1B turbofan engines, each rated at 3500 lb (15.6 kN) of thrust at 87&#176;F (30.5&#176;C) and up to 3650 lb (16.2 kN) of thrust with automatic performance reserve (APR) engaged at sea level.
-
-The TFE731 is a two-spool, geared front fan, medium bypass ratio turbofan engine.
-The fan is driven by a planetary gearbox from the low-pressure (N1) spool which consists of a four-stage axial compressor coupled through the center shaft to a three-stage, low-pressure (N1) axial turbine.
-The high-pressure spool consists of a single-stage centrifugal compressor (N2) driven by a single-stage (N2) axial turbine through the outer concentric shaft.
-
-* Bypass ratio 3.1:1
 
 ![Learjet 45 power plant.](/img/learjet-45/systems/ch-19-figure-11-power-plant.png){width=600}
 
 ![Learjet 45 power plant.](/img/learjet-45/systems/ch-19-figure-12-engine-airflow.png){width=600}
 
-![Learjet 45 EICAS - SUMRY page.](/img/learjet-45/systems/ch-20-figure-5-eicas-sumry-page.png){width=600}
+![Learjet 45 EICAS - SUMRY page.](/img/learjet-45/systems/ch-20-figure-5-eicas-sumry-page.png){width=460}
 
-![Learjet 45 EICAS - FLT page.](/img/learjet-45/systems/ch-20-figure-9-eicas-flt-page.png){width=600}
+![Learjet 45 EICAS - FLT page.](/img/learjet-45/systems/ch-20-figure-9-eicas-flt-page.png){width=460}
+
+![Learjet 45 Engine/Fuel/DEEC control panel.](/img/learjet-45/engine-fuel-deec-control-panel.png){width=600}
+
+<!--
+The TFE731 is a two-spool, geared front fan, medium bypass ratio turbofan engine.
+
+The fan is driven by a planetary gearbox from the low-pressure (N1) spool which consists of a four-stage axial compressor coupled through the center shaft to a three-stage, low-pressure (N1) axial turbine.
+
+The high-pressure spool consists of a single-stage centrifugal compressor (N2) driven by a single-stage (N2) axial turbine through the outer concentric shaft.
+
+* DEEC controls the FCU
+* Thrust levers mechanically connected to FCU
+* The FCU is mounted on the fuel pump attached to the AGB
+
+The FCU has a mechanical governor that protects the engine from overspeed (105% N2 rpm)
+-->
 
 * ***Memorize: engine model number TFE-731-20AR (early) TFE-731-20BR (late)***
 * Engine overview (page 19-1)
@@ -347,6 +373,7 @@ The high-pressure spool consists of a single-stage centrifugal compressor (N2) d
   * Late Learjet 45
     * TFE-731-20BR
     * Same as above except temp is up to 103 &#176;F
+* Bypass ratio 3.1:1
 * Engine Computer Toggle Switch (page 19-4)
   * OFF / MAN / ON
   * "ENG CMPTR" switch in the MAN position provides (page 19-23)
@@ -354,15 +381,16 @@ The high-pressure spool consists of a single-stage centrifugal compressor (N2) d
     * Fuel scheduling is controlled by the FCU
     * Limits are controlled by the pilot (over-temperature protection not automatically available)
     * Available for emergency use and maintenance troubleshooting
-* Info to sort
-  * 107 N1 and 109 N2 are hard limits, when those are exceeded engine will be shut down
-  * hydro-mech governor has its limit at 105%
-  * Before callout = see green T/O AND make sure N1 needle comes up to the bug
-  * Any time EICAS cannot be displayed info goes on RMU1
+* Overspeed protection
+  * FCU has mechanical governor with 105% N2 limit
+  * 107% N1 and 109% N2 are hard limits, when those are exceeded engine will be shut down
+  * Should the mechanical overspeed protection fail, the DEEC activates the ultimate overspeed solenoid valve to a closed position at 107% N1 or 109% N2 and cuts off fuel flow to the engine.
+    * This feature is not functional if the applicable ENG CMPTR switch is in the OFF position.
+* Engine sync
   * We normally sync N1
   * SYNC not approved for T/O or landing or single engine ops
 * The following components are driven by the accessory gearbox (AGB) (page 19-17)
-  * A Fat Horse Ate Donuts Outside
+  * *A Fat Horse Ate Donuts Outside*
     * A - AC alternator
     * F - Fuel pump and fuel control unit (FCU) components
     * H - Hydraulic pump
@@ -370,7 +398,7 @@ The high-pressure spool consists of a single-stage centrifugal compressor (N2) d
     * D - DC starter/generator
     * O - Oil pressure and scavenge pumps
 * Oil
-  * Memorize: Type II Oil is what we use
+  * ***Memorize: Type II Oil is what we use***
   * Check within 15 min (but hard limit 1 hour after shutdown)
   * Otherwise need to start back up and stabilize and then check
   * (these engines don't burn oil)
@@ -383,18 +411,25 @@ The high-pressure spool consists of a single-stage centrifugal compressor (N2) d
   * Main squat switches in ground mode (page 19-36)
   * Thrust IDLE
 * Sort me
-  * Powerplant 5 minutes TOTAL
-  * Starting 1 minute TOTAL
+  * Takeoff thrust is limited to 5 minutes (TOTAL?)
+  * Starting 1 minute TOTAL?
 * Don't need to memorize ITT, temps, pressures
-* Need to know 30 deg C -- minimum temp we need before using the engines
+* ***Memorize: 30 &#176;C -- minimum temp we need before using the engines***
   * Until then thrust leversmust stay at IDLE
   * Box goes away, now can start using thrust lever
+  * Pilot Training Guide 19-30
 * Wait time after start attempt see "Starter Cooling Periods" (page 19-32)
 * Should the starter remain engaged above 51% N2, the START annunciator turns amber. (page 19-32)
 * Airstart
   * Do not attempt an airstart following an engine failure which was accompanied by indications of internal engine damage or fire.
   * Do not attempt an airstart without an indication of N1 rotation. (AFM 4-21)
 
+
+<!--
+The DEEC provides electronic overspeed protection and activates the ultimate overspeed solenoid valve at 107% N1 or 109% N2 to cut off fuel flow to the engine.
+
+Ultimate overspeed protection (107% N1 or 109% N2) occurs even if the DEEC is in manual mode.
+-->
 
 ## Emergency Equipment
 
