@@ -1,5 +1,108 @@
 # Procedures
 
+## Before Starting Engines (AFM 2-9)
+
+* ***Step 5 a -> b WAIT 5-8 SECONDS!!!!!!!!!***
+  * Otherwise will deploy PAX oxygen masks (rubber jungle)
+* ***Step 5c - Turn FMS on at same time as turning avionics!!!!***
+  * Otherwise will have to wait a while
+  * Press "ON / OFF DIM" button
+* Step 10. Flight Controls
+  * Just box for freedom of movement
+* Step 12. DU and REVERSION panels -- NORM
+  * 2 DU knobs
+  * 4 reversion knobs
+* Step 13.
+  * Oil temp above -28 deg C
+    * This from Operations Reference Manual 1-47
+    * Pilot Training Guide 19-30 says above -40 C or -40 F
+* Step 18. Environmental Control
+  * 11 o'clock is good starting point
+* Step 20. -- NEED TO MEMORIZE ALL THESE
+  * All of these are in the Pilot Training Guide starting on 20-16
+* Step 21. Master caution press and hold on one side and look at the other side
+* Step 22. Trim system check
+  * Commit to memory because after transitioning from AFM to QRH the QRH doesn't say WHAT to test
+* Step 26. Cage standby attitude indicator
+  * Pull out and turn to the left left to uncage -- right to cage
+* Step 27. FMS -- Set
+  * Always start with Fuel page
+  * (pink I's in top = independent)
+  * 5 PAX, press 5 hit enter, enter to accept
+  * 100 lb of cargo
+  * FOB -- hit "BACK" (next to 0)
+  * Hit enter (this pulls from fuel computer how much fuel is on board)
+  * Flight Plan Page
+  * Menu
+    * Depart, 18C, Enter
+    * CHLDR FIVE departure ANSWA transition
+    * Select open line KMEM, Enter
+    * Brings up summary page
+    * Menu
+    * Arrive, 36C, BBQ3 arrival, igloo transition
+    * RNAV 36C approach, Nesbit transition
+    * "First to reverse, last to pass"
+* MFD press "MFD button" and go to "SPDS" page
+  * Note: press the VSPEED button on the far right until three magenta dashes before inputting speeds
+  * V1 = 110
+  * VR = 115
+  * V2 = 124
+* (Set speed bug 149 -> V2 + 25)
+* Now upside down "U" check
+  * Verify source
+    * e.g. GPS-based departure -- FMS source (starts bottom left of PFD)
+    * Puts us into white needles
+  * Check V-speeds are posted
+  * Airspeed shows zero
+  * Speed bug set
+    * Top left is speed reference
+    * Verify V2 + 25 -- flap retraction speed
+  * Arrow pointing towards whoever flying
+  * Hit go-around button
+  * Flight guidance controller -- heading or nav -- since departure fly NAV
+  * Set top altitude to 5000 feet (again in top AP panel ASEL)
+  * Altimeters set
+    * Indicated alt within 75 feet of field elevation
+  * VSI zero
+  * Set heading bug to runway heading (180 for 18C KMEM)
+
+## Starting Engines
+
+<!-- AFM 2-14 -->
+
+* Step 1. Cabin Door -- Closed and latched
+  * Two handles forward, no ENTRY DOOR CAS
+* Step 2. L & R AV MSTR -- OFF (If desired)
+  * Just leave them on
+* Step 7. Engine -- Start
+  * Co-pilot start timer when engine starts
+  * Pilot keep hand on thrust lever during start
+  * Hot start is rapidly increased ITT past the 6 o'clock position
+  * No checklist for hot or hung start -- CUTOFF, shutdown and call MX
+    * Note max ITT attained
+  * N2 nice continuous acceleration up to about 55 percent
+  * Engine takes about 25 seconds to start, more than that is probably hung start
+* Step 13. EX PWR Switch -- AVAIL and disconnect
+  * Set to available FIRST ... then once you SEE it's AVAIL then call for disconnect
+* Step 15. Anti-Ice system (2/4 expanded checks we have to memorize)
+  * Think of it as 8 button pushes
+* Step 18. Bleed Air System (3/4 expanded checks)
+
+## Before Taxi
+
+<!-- AFM 2-16 -->
+
+* Step 3 manual mode governor (4/4 expanded checks)
+  * Do these separately, keep hands there in case engine runs away, problem with manual mode governor
+* Step 5. Spoilers
+  * Bring up "FLT" system page on EICAS
+* Step 6. Flaps
+  * We always do flaps 8 takeoffs!
+* Step 7. Flight controls
+  * Checking spoilerons
+* Step 14. Emergency / Parking Brake -- Release
+  * Note: skip down to non-movement "taxi and before takeoff" checks step 4 and do those before removing parking brake and moving
+
 ## Rotary System Test Panel
 
 <!--
@@ -179,10 +282,126 @@ All of these are in the Pilot Training Guide starting on 20-16
 * d. L ENG CMPTR Switch — ON.
 * e. Repeat steps a thru d using R ENG CMPTR Switch and Right Thrust Lever.
 
+## Taxi and Before Takeoff
+
+<!-- AFM 2-17 -->
+
+First start with item 4 and below -- the non-movement items.
+Then release parking break and do steps 1, 2, and 3
+
+* Step 8. Trims
+  * Aileron rudder 0 trim, pitch set by weight and balance
+  * Recommend waiting until lineup checks to set pitch trim (or it moves back into your lap?)
+* Step 9. TO Brief
+  * Below 80 KIAS abort for anything
+  * Between 80 KIAS and V1 abort for 4 things
+    * Fire
+    * Engine failure
+    * Loss of dir control
+    * TR deployment
+  * Anything other than these 4 is in-flight emergency
+  * Brief MSA
+  * Don't need to spew off memory items
+* Step 11, Radar -- As required
+  * Set it to STBY
+
+After completing the latter part of this checklist, release parking brake and go back to the first 3 items of "Taxi and Before Takeoff" check.
+
+Turn on Taxi and Recog lights
+
+* Step 1. Brake and nose-wheel steering check
+  * Throttle up to about 35% N1
+* Step 2. Flight instruments -- checked
+  * TBD
+* Step 3.
+  * Deploy TRs, don't add thrust, just deploy
+  * Then push them back down
+  * Keep palm of hand on thrust lever and just use fingers for TRs
+
+## Runway Lineup
+
+<!--
+AFM 2-18
+-->
+
+* Now back to runway lineup checks
+* Done by PM
+* FLOW
+* Transponder TA/RA mode -- line select key (will get out of standby)
+* Step 6. -- APR is always desired to ARM if it is working
+* MAKE SURE TO SET PITCH TRIM HERE!!
+
+* Before takeoff (3-2-1)
+  * EICAS (3)
+    * REV
+    * APR armed
+    * REV
+  * Buttons illuminated on hydraulic panel (2)
+    * NOSE STEER ON
+    * AUX HYD ON
+  * CAS Messages (1)
+    * AUTOSPOILERS ARM
+* Then
+  * No boxes
+  * No colors
+  * No dashes
+* Also
+  * Flaps 8 handle set and indicating
+  * Runway number callout and identified
+
 ## Takeoff
 
 * Before callout = see green T/O AND make sure N1 needle comes up to the bug
 
+![Learjet 45 standard calls: takeoff.](/img/learjet-45/ropat/ropat-pg-4-9-standard-calls-takeoff.png){width=600}
+
+### Engine Out Takeoff
+
+* Positive rate
+* Gear up
+* Speed mode
+* Bug v2
+* HDG
+* Half bank
+  * Limits to 14&#176;
+
 ## Approach
 
-* TBD
+* Generally 180 KIAS is good airspeed to fly ... when approaching FAF?
+* When putting in approach speeds (instead of takeoff speeds)
+  * VR = VREF
+  * V2 = VAPP
+* Use acronym ABBBC when setting up for the approach
+  * ATIS (PM)
+  * Build - in FMS (PM)
+  * Bug - depends ILS/LOC/VOR or RNAV -- if RNAV just put mins in, for ... course, frequency, and mins (PM)
+  * Brief (PF)
+  * Checklist
+* Techniques for configuring
+  * Do not extend flaps until below 200 kts -- because after flaps 8 you can't use spoilers -- below 200 cant use spoilers but can use flaps 20 and gear to slow down
+  * As soon as you go to flaps 8 is good time to arm spoilers (since can't use them anymore anyway)
+  * Callout: AUX HYD ON -- GEAR DOWN
+  * Flaps 40 => call for before landing checklist
+* Techniques for landing
+  * Don't flare just round out
+  * 50 feet power idle
+  * 20 feet a little back pressure to get mains to touch first
+
+## After Landing / Clearing Runway
+
+* Done by PM
+* 2 unlocked, 2 deployed -- wrt to the TRs so can indicate to PF if only one deploys
+* Most airports want transponder in ALT mode until at ramp spot
+* Step 11. Thrust Lever -- CUTOFF
+  * Only if doing single engine taxi
+
+## Shutdown
+
+* Done by PF (read-and-do, PM reads, PF does)
+* ***Don't turn mains off BEFORE EMER or will deploy oxygen masks!!!!***
+  * Just follow ordering: step 14 is EMER BAT Switch -- OFF, step 15 is L and R BATT switches -- OFF
+* When shutting down the APU it's not powering anything
+  * But not bad idea to turn off APU GEN
+  * See page 35 ... ?
+* Wait 30 seconds before APU master off
+  * When R STBY fuel pump turns off that indicates 30 seconds

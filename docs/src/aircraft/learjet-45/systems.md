@@ -100,6 +100,12 @@ As soon as you go to flaps 8 is good time to arm spoilers (since can't use them 
 
 ![Learjet 45 EICAS/MFD flight controls system page.](/img/learjet-45/eicas-mfd-flight-controls-system-page.png){width=460}
 
+### Aerodynamic Features
+
+* Stall strips
+* Triangles
+* Vortilons
+
 ## Fuel System
 
 ![Learjet 45 fuel system schematic.](/img/learjet-45/systems/ch-11-fuel-system-figure-1-fuel-system-schematic.png){width=600}
@@ -240,6 +246,7 @@ As the ground speed increases to 70 kt, the maximum wheel deflection is progress
   * Also in transit lights extinguished = down and locked
   * taxi lights on = down and locked
   * No gear warning if gear not down and locked and below MCR ... flaps ... below 500'
+* Both main and nose gear limited to 165 kts
 
 ## APU
 

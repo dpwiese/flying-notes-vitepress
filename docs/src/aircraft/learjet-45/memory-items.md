@@ -200,7 +200,7 @@
 4. Gear. -- UP
 5. Climb to 1500 feet AGL or Obstacle Clearance Altitude (as appropriate), accelerate to V2 +25, then retract flaps.
 
-### Terrain Aural Warning
+## Terrain Aural Warning
 
 "PULL UP"
 "TERRAIN, TERRAIN, PULL UP"
@@ -223,7 +223,7 @@
 Siren (optional), "Windshear, Windshear, Windshear" aural warning and red WIND SHR warning on the PFD are illuminated:
 
 1. Immediately initiate AFM go-around procedure
-    * ****Except do not retract flaps or landing gear.***
+    * ***Except do not retract flaps or landing gear.***
     * *Depressing GO-AROUND button in left thrust lever handle disengages autopilot and selects flight director go-around mode.*
 2. Thrust Lever(s) -- SELECT T/O OR APR, AS REQUIRED
 3. Rotate smoothly to the go-around/takeoff pitch attitude, allowing airspeed to decrease if necessary. Maintain wings level.
