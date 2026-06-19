@@ -104,11 +104,12 @@
 
 ### Elevator control jam
 
-1. Attitude control -- as required
-    1. User pitch trim and thrust as necessary
-2. ELEV DISC handle -- pull and rotate (ELEVATOR DISC white CAS)
+1. **Attitude control -- as required**
+    1. Use pitch trim and thrust as necessary
+2. **ELEV DISC handle -- pull and rotate**
     1. The pilot will control the left elevator and the copilot will control the right
-3. Determine elevator without the jam and transfer control to that pilot
+    2. (ELEVATOR DISC white CAS will illuminate)
+3. **Transfer control to that pilot without jam**
     1. Do not apply additional force to the jammed control
     2. Do not use PIT TRIM BIAS switch
         * Leave it centered
@@ -117,18 +118,19 @@
 
 ### Aileron control jam
 
-1. Attitude control -- as required
+1. **Attitude control -- as required**
     1. User rudder and thrust as necessary
-2. ROLL DISC lever -- PULL (ROLL DISC white CAS)
+2. **ROLL DISC lever -- PULL**
     1. Pilot -- control aircraft with spoilerons
     2. Do not use copilot control
     3. Do not use AIL TRIM
+    4. (ROLL DISC white CAS will illuminate)
 
 ![Learjet 45 pilot control wheel switches.](/img/learjet-45/pilot-control-wheel-switches.png){width=460}
 
 ### Rudder control jam
 
-1. Attitude control -- as required
+1. **Attitude control -- as required**
     * Use roll control and thrust as necessary
 
 ## Uncommanded Motion
@@ -165,7 +167,8 @@
 1. EMERGENCY / PARKING BRAKE -- Set
 2. Thrust levers -- CUTOFF
 3. EMER LIGHTS switch -- ON
-4. EMER BATT L and R BATT switches -- OFF
+4. All battery switches -- OFF
+    * EMER BATT, L BATT, and R BATT
 
 ## Nosewheel Steering Malfunction
 

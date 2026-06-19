@@ -419,8 +419,6 @@ export default defineConfig({
           items: [
             { text: 'Systems', link: 'aircraft/learjet-45/systems' },
             { text: 'Memory Items', link: 'aircraft/learjet-45/memory-items' },
-            { text: 'Limitations', link: 'aircraft/learjet-45/limitations' },
-            { text: 'Procedures', link: 'aircraft/learjet-45/procedures' },
             { text: 'Maneuvers', link: 'aircraft/learjet-45/maneuvers' },
             { text: 'Study Guide', link: 'aircraft/learjet-45/study-guide' }
           ]
