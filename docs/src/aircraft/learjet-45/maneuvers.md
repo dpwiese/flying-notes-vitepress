@@ -20,7 +20,8 @@
     * Pilot Training Guide 19-30 says above -40 C or -40 F
 * Step 18. Environmental Control
   * 11 o'clock is good starting point
-* Step 20. -- NEED TO MEMORIZE ALL THESE
+* Step 20. -- SYSTEM TEST Panel
+  * Need to memorize the procedures for all these tests
   * All of these are in the Pilot Training Guide starting on 20-16
 * Step 21. Master caution press and hold on one side and look at the other side
 * Step 22. Trim system check
@@ -44,6 +45,7 @@
     * Arrive, 36C, BBQ3 arrival, igloo transition
     * RNAV 36C approach, Nesbit transition
     * "First to reverse, last to pass"
+      * Also the one with asterisk is the hold???
 * MFD press "MFD button" and go to "SPDS" page
   * Note: press the VSPEED button on the far right until three magenta dashes before inputting speeds
   * V1 = 110
@@ -119,7 +121,7 @@ All of these are in the Pilot Training Guide starting on 20-16
   * ***Put the RMU on "engine" page***
    * Press test to clear test results if needed
 * ***Hold the test for minimum 15 seconds***
-  * Just long enough to hear the horn?
+  * Just long enough to hear the APU fire horn sounding from the nose
 * ***If you hold for 30 seconds it will shut the APU down -- so don't hold more than 30 seconds***
 * ***Press and hold fire test button = 21 indications, go top to bottom***
   * Master warning switch indicators (2)
@@ -361,17 +363,21 @@ AFM 2-18
 ### Engine Out Takeoff
 
 * Positive rate
-* Gear up
-* Speed mode
-* Bug v2
-* HDG
+* "Gear up"
+* "Speed mode"
+* "Bug V2"
+* "HDG / NAV mode"
+  * Depending on if vectored or a published procedure
 * Half bank
   * Press `BNK` on flight guidance controller
   * Limits to 14&#176;
+* Don't need to accelerate to 200 KIAS -- can just go to 180 KIAS
 
 ## Steep Turns
 
 * Minimum 5,000' AGL
+* Select crosspointer flight director command bar
+  * Use `CUE` button on display controller
 * 250 KIAS
   * 75% N1
 * Bump power 2-4% N1
@@ -480,6 +486,19 @@ AFM 2-18
 * Lower spoilers
 * Back to straight-and-level at original altitude
 
+## Engine Failure In Flight
+
+* ***TODO@dwiese -- review drift-down***
+* Have copilot add rudder trim so you can keep flying
+* Be very specific about what rudder trim you want, e.g. 3 units of right trim
+* Make sure bus tie closed, and NON-ESS busses go off (step 6 of engine shutdown)
+* TA only mode broadcasts to other aircraft we can't do RA (since single engine)
+* When NOT to attempt engine restart
+  * Fire
+  * FOD
+  * Frozen
+* Need ~60% N2 to do restart
+
 ## Approaches
 
 * Generally 180 KIAS is good airspeed to fly ... when approaching FAF?
@@ -526,6 +545,32 @@ AFM 2-18
 
 * No flare on no-flap approaches
 * Centerline between mains and touching down in touchdown zone
+
+### Single Engine Approach
+
+* Technique when being vectored flaps 8 and 180 KIAS
+* Once you see GS starting to move -- flaps 20 and reduce power about 15%
+* Will slow us to 132 KIAS
+* GS half a dot high put gear down
+* For NPA 3 miles out flaps 8&#176; 180, 2 miles flaps 20&#176;, 1 mile gear down
+
+## Go-Around
+
+* ***Memorize: VAPP is single engine, flaps 8 go-around speed (in landing data?)***
+
+### Single Engine Go-Around
+
+* Procedurally single engine go-around is same as two-engine go around
+  * GA button
+  * TO thrust
+  * Flaps 8&#176;
+* Pitch to 9&#176; minimum - FD is single engine go-around at max gross weight
+* Positive rate, gear up, speed mode, bug VAPP, HDG/NAV mode
+* ***VAPP is single engine flaps 8 go-around speed***
+
+## Landing
+
+* ***Note: "Landing" checklist in title of checklist indicates it's the final and only checklist we need to run***
 
 ## After Landing / Clearing Runway
 
