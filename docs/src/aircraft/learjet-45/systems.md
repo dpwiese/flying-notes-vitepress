@@ -61,6 +61,8 @@
   * 20&#176; - 200 KIAS
   * 40&#176; - 150 KIAS
 * Spoilers extend up to 60&#176;
+  * Limitation
+    * Below 35,000 ft
 
 ::: info NOTE
 During flight cannot extend the spoilers with flaps extended.
@@ -129,9 +131,6 @@ As soon as you go to flaps 8 is good time to arm spoilers (since can't use them 
 * See AFM Addendum I - Fuel Servicing about additives
 * Max imbalance is 200 lb all phases of flight
 * (SB affects this, but at CAE its always 200 lb)
-* CAS messages
-  * `L/R/LR FUEL QTY LOW` - < 350 lb per side
-  * `L/R/LR FUEL BAY LOW` - low fuel in the collector bay
 * Single-Point Pressure Refueling (SPPR)
   * Maintenance panel doesn't need to be on -- just tells how much is onboard, doesn't control anything
   * On hot bus so don't need anything to be switched on
@@ -147,6 +146,13 @@ As soon as you go to flaps 8 is good time to arm spoilers (since can't use them 
   * SPPR stops a bit less than full, so gravity fuel if need to top off
 * To defuel, left STBY pump on
 * Defueling limited to -10 psi
+
+### CAS Messages
+
+* `L/R/L R FUEL QTY LOW` amber CAS
+  * Fuel < 350 lb per side
+* `L/R/L R FUEL BAY LOW`
+  * Low fuel in the collector bay
 
 ## Hydraulic System
 
@@ -203,12 +209,14 @@ Checklist doesn't say this, but it's good practice.
 * The crossflow valve is used in conjunction with the auxiliary system to provide power to the flaps and landing gear.
 * A brake system shuttle valve automatically moves to allow the hydraulic system with the highest pressure (main or auxiliary) to power the brakes.
 * The accumulator provides at least six emergency brake applications or parking brake pressure for approximately 48 hours.
-* The auxiliary pump operates on 28 volts DC controlled from the L ESS BUS and powered from the left generator bus.
-* `MAIN HYD QTY LOW` white CAS in flight -- probably we have a leak
-* `MAIN HYD PRESS`
+* The auxiliary pump operates on 28 volts DC controlled from the "L ESS BUS" and powered from the left generator bus.
+
+### CAS Messages
+
+* `MAIN HYD QTY LOW` white CAS
+  * In flight means we probably have a leak
+* `MAIN HYD PRESS` amber CAS
   * Too high or too low below 1500 or above 3800 psi
-* Spoiler limitation
-  * Below 35,000 ft
 
 ## Ice and Rain Protection
 
@@ -221,6 +229,11 @@ Icing conditions exist when:
 * Outside air temperature (OAT) on the ground and for takeoff is 10 &#176;C (50 &#176;F) or below, or the static air temperature (SAT) in flight is 10 &#176;C to –40 &#176;C (50 &#176;F to –40 &#176;F) and visible moisture in any form is present (such as clouds, fog with visibility of one mile or less, rain, snow, sleet, or ice crystals)
 * OAT on the ground and for takeoff is 10 &#176;C (50 &#176;F) or below when operating on ramps, taxiways, or runways where surface snow, ice, standing water, or slush may be ingested by the engines or freeze on engines, nacelles, or engine sensor probes.
 :::
+
+* Windshield heaters are AC _powered_
+  * Left alternator powers left side, right alternator powers right side
+* Windshield heaters DC _controlled_ temp between 70 and 125 &#176;F
+* ALD is "perfect" calculation => OLD is more realistic
 
 ## Landing Gear and Brakes
 
@@ -273,16 +286,16 @@ Icing conditions exist when:
 ## APU
 
 * (Learjet 40 does not have APU)
-* Wait 30 seconds MINIMUM after turning off APU to turn (other switch) off
+* Wait 30 seconds _minimum_ after turning off APU to turn (other switch) off
   * Basically wait until the right standby fuel pump (that was feeding fuel to the APU) automatically goes off
-* APU fail CAS usually due to shutoff valve
+* `APU FAIL` amber CAS usually due to shutoff valve
 * So can't takeoff because don't want fuel going to APU in flight
 * In mid-90s &#176;F ambient temps APU will fail due to overheat, might be on for like 20 minutes before it overheats and shuts off
 * APU burns 150 pph
 * APU has its own dedicated fire bottle
 * Gen amps pilot-side light knob turn up to see gen amps displayed
   * ***TODO@dwiese -- which light knob?***
-* "APU FAIL / FAULT" light on the APU Maintenance Control Panel -- can fly, just no `APU FAIL` CAS
+* "APU FAIL / FAULT" light on the APU Maintenance Control Panel -- can fly, just no `APU FAIL` amber CAS
   * It's probably just a fault
 * We can't service APU oil, so if low or add light is on, just call maintanence
 * Limitations
@@ -338,7 +351,7 @@ Icing conditions exist when:
   * DU2 will power up, always powered off main batteries
   * Wait minimum 5-8 seconds (basically wait until DU2 powers up and everything stops flashing)
   * Don't want to interrupt the ... self test because if you do we will deploy PAX oxygen masks
-* `EXTERNAL POWER` CAS indicates that _something_ is plugged in
+* `EXTERNAL POWER` white CAS indicates that _something_ is plugged in
   * But not necessarily that it is correct
 * "AVAIL" on the "EXT PWR" electrical button means its within acceptable parameters
 * Essential busses won't come online unless you have some kind of generator
@@ -361,15 +374,25 @@ Icing conditions exist when:
   * Make sure PF is ready to fly on standbys before killing their PFD
   * Turn off windshield heat because they are DC controlled
   * 16 - stanby pitot heat -- right probe switch off
-* Amber annunciators
+
+### Lighting
+
+* Overhead lights are on hot bus
+* When shutting down turn off until click
+
+### CAS Messages
+
+* Amber CAS messages
   * `L R BATT OVHT`
-    * > 60 &#176;C
+    * Hotter than 60 &#176;C
   * `EMER BATT LOW`
     * Taking charge > 10 AMPS ?
   * `EMER BUS VOLTS`
     * less 22 or more than 29.6 V
   * `L R ESS BUS VOLTS`
     * less 22 or more than 29.6 V
+* White CAS messages
+  * `EXTERNAL POWER` white CAS indicates that _something_ is plugged in
 
 ## Pneumatic System
 
@@ -383,33 +406,37 @@ Engine bleed air is used for airframe anti-icing, environmental control, pneumat
 The pneumatic system provides engine bleed air at the required pressure and temperature to these systems.
 
 Low-pressure bleed air, supplemented automatically as required by high-pressure bleed air, is supplied to the environmental control unit to meet environmental control system and pressurization requirements.
+
+* (APU bleed must be off when doing bleed check ... see expanded procedures ... also PACK on?)
 -->
 
 ![Learjet 45 bleed air.](/img/learjet-45/systems/ch-18-figure-2-bleed-air.png){width=600}
 
 * Each engine can independently supply bleed air for the systems that require it.
-* Two ways to get the emer press valves to open
+* Two ways to get the "EMER PRESS" valves to open
   * Manually -- press the button
-  * Automatically -- over 9,500 feet cabin altitude
+  * Automatically
+    * Over 9,500 feet cabin altitude (if in low-altitude setpoint)
+    * Over 14,500 feet cabin altitude (if in high-altitude setpoint)
 * Routes LP unconditioned air into cabin -- hot air
 * NAC valves fail open
 * "HI FLOW" just gives pack higher pressure air
+  * Limitations (see AFM page 1-12) must be off when:
+    * TO power selected
+    * Landing
+    * Anti-ice operations
+    * Above 30,000 feet
 * HP valves open when descending to maintain cabin pressure
 * Anti-ice check is checking function of lots of valves
-* (APU bleed must be off when doing bleed check ... see expanded procedures ... also PACK on?)
-* Outflow valves max 13,700 or 9.7 delta p
+* Outflow valves max 13,700 or 9.7 delta P
 * EMER power available == can control pressurization
   * Need to do it manually?
+  * TODO@dwiese -- why?
 * ***Memorize: Low altitude alerting setpoints (see photo)***
   * See Pilot Training Guide page 7-15
 * Max takeoff altitude 14,000
 * Outflow valves in the FRONT of the aircraft
 * When cabin smoke memory items -- this brings all the smoke up front into the cockpit
-* HI-FLOW limitations (see AFM page 1-12) must be off when:
-  * TO power selected
-  * For landing
-  * Above 30k feet
-  * Anti-ice on
 * Need generator or APU for heat in baggage compartment
 * Keith AC on aircraft without APU
 
@@ -432,6 +459,24 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
   * 13,700 feet cabin altitude (outflow valves automatically close to attempt to retain pressure)
   * 14,500 feet cabin altitude
     * PAX oxygen masks deploy
+    * Emergency lights come on
+* TODO@dwiese -- make sure nothing here is missing from photo of slide
+
+### Sort Me
+
+* Pneumatic
+  * NAC valves fail open
+  * HP kicks on e.g. when descending and low thrust setting
+  * "EMER PRESS"
+    * Check -- turn on -- check amber `L R EMER PRESS ON` CAS message -- back off
+* Pressurization
+  * Normal cabin altitude is 9.4 delta P and 8,000 feet cabin altitude at 51,000 feet altitude
+  * Squat switches on ground == outflow valves open
+  * Red `CABIN ALTITUDE` CAS message is SB-based
+  * 14,500 - masks drop AND emer lights come on
+  * DAU 1A FAIL can be losing information FROM pressurization controller, not the pressurization controller itself
+  * Emergency descent -- step 5 what is minimum altitude -- ask ATC e.g. for MVA -- also need altimeter setting
+    * Highly recommend turning AP back on once descending -- in case we pass out
 
 ## Powerplant
 
@@ -505,7 +550,7 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
   * Check within 15 min (but hard limit 1 hour after shutdown)
   * Otherwise need to start back up and stabilize and then check
   * Note: these engines don't burn oil
-* APR ARMED -- set this mode before takeoff
+* "APR ARMED" -- set this mode before takeoff
   * In case of engine failure then DEEC will activate it automatically (e.g. when difference in N2, page 19-25)
 * Ignitors
   * Green IGN == both ignitors working
@@ -576,18 +621,22 @@ Also wasn't there one about not having pulled a CB?
 
 ## Emergency Equipment
 
-* 3 fire extinguishers
-  * Under pilot seat
-  * Under copilot seat
-  * Lavatory
-* Life jackets
-  * Behind crew seats
-  * Under passenger seats
-  * Lavatory
-* Crash ax
-* First aid kit
-* Flashlights
-* Smoke goggles
+* Emergency equipment
+  * 3 fire extinguishers
+    * Under pilot seat
+    * Under copilot seat
+    * Lavatory
+  * Life jackets
+    * Behind crew seats
+    * Under passenger seats
+    * Lavatory
+  * Crash ax
+  * First aid kit
+  * Flashlights
+  * Smoke goggles
+  * Oxygen mask
+    * Smoke and mask -- same brand
+* ELT -- make sure not to kick ON accidentally when getting out (switch on pedestal)
 
 ## Oxygen System
 
@@ -614,6 +663,17 @@ Also wasn't there one about not having pulled a CB?
   * Max water depth 0.75 in
   * Max demonstrated crosswind -- 22 kts (not limiting)
   * Max tailwind 10 kts (is limiting)
+
+## Navigation and Communication
+
+* TX buttons on outboard side
+* SELCAL -- selective calling
+* Left side should use NAV1 right side NAV2 -- otherwise needles will be yellow
+  * Press "NAV" button to cycle between NAV1 and NAV2 (Pilot Training Guide page 10-10)
+  * Same with FMS1 and FMS2
+* CDH - its not its own radio, just another way of tuning com1 and nav1
+* RMU is only RMU that receives power if both generators (and main batts?) fail?
+  * So it needs to be operative per MEL / Dispatch Deviation Guide
 
 ## Flight Instruments
 
@@ -691,6 +751,10 @@ Also wasn't there one about not having pulled a CB?
   * 1b and 2a are secondary
 * ***Important: WHEN RMU BACKUP NAV NEED TO RE SET THE COURSE ON THERE IT JUST DEFAULTS TO CURRENT HEADING***
 * RVSM - 29,000 and 41,000 inclusive
+
+### Crew Warning System
+
+* CWP backup / parallel to red CAS messages
 
 ## Autopilot
 
@@ -791,3 +855,24 @@ Also wasn't there one about not having pulled a CB?
 * After landing the FMS shows a landing page with info
   * Take a picture of it
   * Once you navigate off the screen cannot get info back
+
+## Weather Radar
+
+* Primus 660 Radar
+* Use RCT on always -- shadow where radar can't see
+* Use TGT always also
+* Default leave Radar in "SBY" mode
+* Tilt 2-3 degrees is good starting point
+* Large yellow band in the back is us looking at the ground
+* 120 deg 4 seconds vs 60 deg per 3 seconds with "SECT" button on Primus 660 radar panel
+* Leave GAIN pushed in for auto gain
+
+## TCAS
+
+* Normal / Above / Below modes
+* On RMU TCAS make sure set to AUTO
+* On RMU set REL altitude for targets
+* Pitch in the green, stay out of the red
+* ALWAYS COMPLY WITH RA
+  * Systems are talking to each other between two planes
+  * When in TA only mode it tells the other plane we can't respond to RAs

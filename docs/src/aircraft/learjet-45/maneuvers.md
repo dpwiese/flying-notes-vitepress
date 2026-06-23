@@ -2,6 +2,14 @@
 
 * Generally 180 KIAS is good airspeed to fly that is above minimum maneuvering speeds
 
+## Preflight Inspection
+
+* Open checklist in QRH to preflight
+* AUX pump on to charge brake accumulator and THEN pull parking brake
+  * Pressure will drop but make sure it stays above 1200 psi
+* Hydraulic servive panel
+  * Only "FULL" light
+
 ## Before Starting Engines (AFM 2-9)
 
 * ***Step 5 a -> b WAIT 5-8 SECONDS!!!!!!!!!***
@@ -91,6 +99,8 @@
 * Step 15. Anti-Ice system (2/4 expanded checks we have to memorize)
   * Think of it as 8 button pushes
 * Step 18. Bleed Air System (3/4 expanded checks)
+* Step 20. EMER PRESS -- check
+  * Check -- turn on -- check amber `L R EMER PRESS ON` CAS message -- back off
 
 ## Before Taxi
 
