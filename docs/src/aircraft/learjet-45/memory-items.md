@@ -16,13 +16,14 @@
 3. Positive rate -- gear up
 4. 1500' AGL / obstacle clear
 5. Accelerate V2 + 25 -- flaps up
+    * (and 400 AGL?)
 5. Accelerate 200 KIAS
 
 ### Engine failure during approach
 
 1. CWS master switch -- press and release
 2. Operative engine thrust as required
-3. Flaps 20
+3. Flaps 20&#176;
 4. VREF + 5
 
 ![Learjet 45 pilot control wheel switches.](/img/learjet-45/pilot-control-wheel-switches.png){width=460}

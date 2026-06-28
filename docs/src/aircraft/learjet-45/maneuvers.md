@@ -7,43 +7,81 @@
 * Open checklist in QRH to preflight
 * AUX pump on to charge brake accumulator and THEN pull parking brake
   * Pressure will drop but make sure it stays above 1200 psi
-* Hydraulic servive panel
+* Hydraulic service panel
   * Only "FULL" light
 
 ## Before Starting Engines (AFM 2-9)
 
-* ***Step 5 a -> b WAIT 5-8 SECONDS!!!!!!!!!***
+* **Step 5b. EMER BATT -- EMER**
+  * ***WAIT 5-8 SECONDS after turning on main batteries to turn on EMER BATT!!!!!!!!!***
   * Otherwise will deploy PAX oxygen masks (rubber jungle)
-* ***Step 5c - Turn FMS on at same time as turning avionics!!!!***
+* **Step 5c. L & R AV MSTR -- On**
+  * ***Turn FMS on at same time as turning avionics!!!!***
   * Otherwise will have to wait a while
   * Press "ON / OFF DIM" button
-* Step 10. Flight Controls
+* **Step 10. Flight Controls**
   * Just box for freedom of movement
-* Step 12. DU and REVERSION panels -- NORM
+* **Step 12. DU and REVERSION panels -- NORM**
   * 2 DU knobs
   * 4 reversion knobs
-* Step 13.
+* **Step 13. EICAS**
   * Oil temp above -28 deg C
     * This from Operations Reference Manual 1-47
     * Pilot Training Guide 19-30 says above -40 C or -40 F
-* Step 18. Environmental Control
+* **Step 18. Environmental Control**
   * 11 o'clock is good starting point
-* Step 20. -- SYSTEM TEST Panel
+* **Step 20. SYSTEM TEST Panel -- Test**
   * Need to memorize the procedures for all these tests
   * All of these are in the Pilot Training Guide starting on 20-16
-* Step 21. Master caution press and hold on one side and look at the other side
-* Step 22. Trim system check
+* **Step 21. Master CAUT -- Inhibit**
+  * Press and hold on one side and look at the other side
+* **Step 22. Trim system -- Check**
   * Commit to memory because after transitioning from AFM to QRH the QRH doesn't say WHAT to test
-* Step 26. Cage standby attitude indicator
-  * Pull out and turn to the left left to uncage -- right to cage
-* Step 27. FMS -- Set
+* **Step 26. Standby Instruments -- Uncaged & Checked**
+  * Cage standby attitude indicator
+  * Pull out and turn
+    * Left to uncage
+    * Right to cage
+* **Step 27. FMS -- Set**
   * Always start with Fuel page
   * (pink I's in top = independent)
-  * 5 PAX, press 5 hit enter, enter to accept
-  * 100 lb of cargo
   * FOB -- hit "BACK" (next to 0)
   * Hit enter (this pulls from fuel computer how much fuel is on board)
   * Flight Plan Page
+  * Menu
+  * Notes:
+    * "First to reverse, last to pass"
+    * Also the one with asterisk is the hold???
+* **Step 28. Takeoff Data -- Computed & Speeds Set**
+  * MFD press "MFD button" and go to "SPDS" page
+    * Note: press the VSPEED button on the far right until three magenta dashes before inputting speeds
+    * V1 = 110
+    * VR = 115
+    * V2 = 124
+  * (Set speed bug 149 -> V2 + 25)
+  * Now upside down "U" check
+    * Verify source
+      * e.g. GPS-based departure -- FMS source (starts bottom left of PFD)
+      * Puts us into white needles
+    * Check V-speeds are posted
+    * Airspeed shows zero
+    * Speed bug set
+      * Top left is speed reference
+      * Verify V2 + 25 -- flap retraction speed
+    * 1. Arrow pointing towards whoever flying (XFR button on flight guidance controller)
+    * 2. Hit go-around button
+    * 3. Mode (and Source?)
+    * Flight guidance controller -- heading or nav Mode -- since departure fly NAV
+    * Set top altitude to 5000 feet (again in top AP panel ASEL)
+    * Altimeters set
+      * Indicated alt within 75 feet of field elevation
+    * VSI zero
+    * Set heading bug to runway heading
+
+<!--
+* Step 27.
+  * 5 PAX, press 5 hit enter, enter to accept
+  * 100 lb of cargo
   * Menu
     * Depart, 18C, Enter
     * CHLDR FIVE departure ANSWA transition
@@ -52,70 +90,25 @@
     * Menu
     * Arrive, 36C, BBQ3 arrival, igloo transition
     * RNAV 36C approach, Nesbit transition
-    * "First to reverse, last to pass"
-      * Also the one with asterisk is the hold???
-* MFD press "MFD button" and go to "SPDS" page
-  * Note: press the VSPEED button on the far right until three magenta dashes before inputting speeds
-  * V1 = 110
-  * VR = 115
-  * V2 = 124
-* (Set speed bug 149 -> V2 + 25)
-* Now upside down "U" check
-  * Verify source
-    * e.g. GPS-based departure -- FMS source (starts bottom left of PFD)
-    * Puts us into white needles
-  * Check V-speeds are posted
-  * Airspeed shows zero
-  * Speed bug set
-    * Top left is speed reference
-    * Verify V2 + 25 -- flap retraction speed
-  * Arrow pointing towards whoever flying
-  * Hit go-around button
-  * Flight guidance controller -- heading or nav -- since departure fly NAV
-  * Set top altitude to 5000 feet (again in top AP panel ASEL)
-  * Altimeters set
-    * Indicated alt within 75 feet of field elevation
-  * VSI zero
-  * Set heading bug to runway heading (180 for 18C KMEM)
+-->
 
-## Starting Engines
+### Trim System Check (Step 22)
 
-<!-- AFM 2-14 -->
+<!-- Before Starting Engines: Step 22. Trim System -- Check (1/4) -->
 
-* Step 1. Cabin Door -- Closed and latched
-  * Two handles forward, no ENTRY DOOR CAS
-* Step 2. L & R AV MSTR -- OFF (If desired)
-  * Just leave them on
-* Step 7. Engine -- Start
-  * Co-pilot start timer when engine starts
-  * Pilot keep hand on thrust lever during start
-  * Hot start is rapidly increased ITT past the 6 o'clock position
-  * No checklist for hot or hung start -- CUTOFF, shutdown and call MX
-    * Note max ITT attained
-  * N2 nice continuous acceleration up to about 55 percent
-  * Engine takes about 25 seconds to start, more than that is probably hung start
-* Step 13. EX PWR Switch -- AVAIL and disconnect
-  * Set to available FIRST ... then once you SEE it's AVAIL then call for disconnect
-* Step 15. Anti-Ice system (2/4 expanded checks we have to memorize)
-  * Think of it as 8 button pushes
-* Step 18. Bleed Air System (3/4 expanded checks)
-* Step 20. EMER PRESS -- check
-  * Check -- turn on -- check amber `L R EMER PRESS ON` CAS message -- back off
-
-## Before Taxi
-
-<!-- AFM 2-16 -->
-
-* Step 3 manual mode governor (4/4 expanded checks)
-  * Do these separately, keep hands there in case engine runs away, problem with manual mode governor
-* Step 5. Spoilers
-  * Bring up "FLT" system page on EICAS
-* Step 6. Flaps
-  * We always do flaps 8 takeoffs!
-* Step 7. Flight controls
-  * Checking spoilerons
-* Step 14. Emergency / Parking Brake -- Release
-  * Note: skip down to non-movement "taxi and before takeoff" checks step 4 and do those before removing parking brake and moving
+* a. PITCH TRIM Switch -- Select SEC.
+* b. SEC Switch -- Trim NDN or NUP.
+* c. Copilot’s Control Wheel Master Switch (MSW) -- Check cutout of SEC trim.
+* d. PITCH TRIM Switch -- Select OFF.
+* e. Pilot’s or Copilot’s Control Wheel Trim Switch -- Trim NDN or NUP. No trim should occur.
+* f. PITCH TRIM Switch -- Select PRI.
+* g. Copilot’s Control Wheel Trim Switch -- Trim NDN or NUP.
+* h. Pilot’s Control Wheel Trim Switch -- Trim NDN or NUP.
+* i. Pilot’s Control Wheel Master Switch (MSW) -- Check cut-out of PRI trim.
+* j. Pilot’s Control Wheel Trim Switch -- Trim LWD or RWD.
+  * *Note: go two units and see box around trim value, than back to 0 (only need to check either left or right)*
+* k. RUDDER TRIM Switch -- Reset to zero (0).
+  * *Note: go two units and see box around trim value, than back to 0 (only need to check either left or right)*
 
 ## Rotary System Test Panel
 
@@ -152,6 +145,7 @@ All of these are in the Pilot Training Guide starting on 20-16
       * ARMED (EXTINGUISHER #1)
       * ARMED (EXTINGUISHER #2)
     * APU FIRE
+  * Listen for APU fire horn coming from nose
 * After completing test
   * APU Master OFF
   * RMU page -> Radio
@@ -170,8 +164,8 @@ All of these are in the Pilot Training Guide starting on 20-16
 
 * 2 master CAUT
 * 2 CAS
-  * FLAPS FAIL
-  * FLAPS FAULT
+  * `FLAPS FAIL`
+  * `FLAPS FAULT`
 * 1 Amber box around flap setting on EICAS
 * 1 aural tone
 * (no CWP)
@@ -179,7 +173,7 @@ All of these are in the Pilot Training Guide starting on 20-16
 ### ADC
 
 * "Overspeed" aural alert
-* Red ADC TEST on both primary flight displays (PFDs)
+* Red `ADC TEST` on both primary flight displays (PFDs)
 * Airspeed = 330 kt (red)
 * Mach = 0.81 (red)
 * Altitude = 1000 ft
@@ -202,23 +196,23 @@ All of these are in the Pilot Training Guide starting on 20-16
 
 ### Anti-Ice
 
-* WG/STAB HT OK white CAS
-* WING OVHT and STAB OVHT red CWP
+* `WG/STAB HT OK` white CAS
+* `WING OVHT` and `STAB OVHT` red CWP
 * Master WARN tone and light
 
 ### EGPWS
 
 <!-- Operations Reference Manual 1-11 -->
 
-* As soon as you see "TERR TEST" pop up in MFD let go of the button (less than 2 seconds press)
-* White GPWS SYS FAIL CAS message is displayed momentarily
-* White GND PROX FAIL and WINDSHEAR FAIL CAS messages may also appear momentarily
-* GPWS FAIL annunciators on the upper, outboard corner of the pilot and copilot instrument panels are also displayed momentarily
+* As soon as you see `TERR TEST` pop up in MFD let go of the button (less than 2 seconds press)
+* White `GPWS SYS FAIL` CAS message is displayed momentarily
+* White `GND PROX FAIL` and `WINDSHEAR FAIL` CAS messages may also appear momentarily
+* `GPWS FAIL` annunciators on the upper, outboard corner of the pilot and copilot instrument panels are also displayed momentarily
 * Either
   * This
     * "Glideslope" aural alert will be enunciated
-    * Amber GND PROX is momentarily displayed in the ADI sphere on both PFDs
-    * White GPWS G/S INHB CAS message is momentarily posted
+    * Amber `GND PROX` is momentarily displayed in the ADI sphere on both PFDs
+    * White `GPWS G/S INHB` CAS message is momentarily posted
   * Or this
     * "Glideslope Inop" aural alert will be enunciated
 
@@ -237,27 +231,30 @@ All of these are in the Pilot Training Guide starting on 20-16
 
 * Once done all tests, move the rotary switch to "OFF"
 
-## Expanded Procedures to Memorize
+## Starting Engines
 
-<!-- 4 of these total to memorize -->
+<!-- AFM 2-14 -->
 
-### Trim System Check
-
-<!-- Before Starting Engines: Step 22. Trim System -- Check (1/4) -->
-
-* a. PITCH TRIM Switch -- Select SEC.
-* b. SEC Switch -- Trim NDN or NUP.
-* c. Copilot’s Control Wheel Master Switch (MSW) -- Check cutout of SEC trim.
-* d. PITCH TRIM Switch -- Select OFF.
-* e. Pilot’s or Copilot’s Control Wheel Trim Switch -- Trim NDN or NUP. No trim should occur.
-* f. PITCH TRIM Switch -- Select PRI.
-* g. Copilot’s Control Wheel Trim Switch -- Trim NDN or NUP.
-* h. Pilot’s Control Wheel Trim Switch -- Trim NDN or NUP.
-* i. Pilot’s Control Wheel Master Switch (MSW) -- Check cut-out of PRI trim.
-* j. Pilot’s Control Wheel Trim Switch -- Trim LWD or RWD.
-  * *Note: go two units and see box around trim value, than back to 0 (only need to check either left or right)*
-* k. RUDDER TRIM Switch -- Reset to zero (0).
-  * *Note: go two units and see box around trim value, than back to 0 (only need to check either left or right)*
+* Step 1. Cabin Door -- Closed and latched
+  * Two handles forward, no ENTRY DOOR CAS
+* Step 2. L & R AV MSTR -- OFF (If desired)
+  * Just leave them on
+* Step 7. Engine -- Start
+  * ***Co-pilot start timer when engine starts***
+  * Pilot keep hand on thrust lever during start
+  * Hot start is rapidly increased ITT past the 6 o'clock position
+  * No checklist for hot or hung start -- CUTOFF, shutdown and call MX
+    * Note max ITT attained
+  * N2 nice continuous acceleration up to about 55 percent
+  * Engine takes about 25 seconds to start, more than that is probably hung start
+* Step 13. EX PWR Switch -- AVAIL and disconnect
+  * Set to available FIRST ... then once you SEE it's AVAIL then call for disconnect
+* Step 15. Anti-Ice system
+  * See below
+* Step 18. Bleed Air System
+  * See below
+* Step 20. EMER PRESS -- check
+  * Check -- turn on -- check amber `L R EMER PRESS ON` CAS message -- back off
 
 ### Anti-Ice System Check
 
@@ -278,7 +275,7 @@ All of these are in the Pilot Training Guide starting on 20-16
 
 <!-- Starting Engines: Step 18. Bleed Air System (3/4) -->
 
-* a. WING/STAB Switch -- OFF
+* a. ***WING/STAB Switch -- OFF***
 * b. L BLEED Switch -- OFF. Verify normal cockpit airflow.
 * c. L BLEED Switch -- On
 * d. R BLEED Switch -- OFF. Verify normal cockpit airflow.
@@ -286,9 +283,27 @@ All of these are in the Pilot Training Guide starting on 20-16
 * f. WING/STAB Switch -- As required.
   * *On if below 10 &#176;C and visible moisture*
 
+## Before Taxi
+
+<!-- AFM 2-16 -->
+
+* Step 3. Manual Mode Governor -- Checked
+  * See below
+* Step 5. Spoilers
+  * Bring up "FLT" system page on EICAS
+* Step 6. Flaps
+  * We always do flaps 8 takeoffs!
+  * ***Don't set flaps until lineup if in snowy conditions!***
+* Step 7. Flight controls
+  * Checking spoilerons
+* Step 14. Emergency / Parking Brake -- Release
+  * Note: skip down to non-movement "taxi and before takeoff" checks step 4 and do those before removing parking brake and moving
+
 ### Manual Mode Governor Check
 
 <!-- Before Taxi: Step 3. Manual Mode Governor -- Check (4/4) -->
+
+Test each engine separately, keep hands there in case engine runs away, problem with manual mode governor
 
 * a. L ENG CMPTR Switch — MAN. (MAN white EI)
 * b. Gradually advance left thrust lever until an increase in N1 is observed.
@@ -361,12 +376,19 @@ AFM 2-18
   * No colors
   * No dashes
 * Also
-  * Flaps 8 handle set and indicating
+  * Flaps handle set to 8&#176; and indicating 8&#176;
   * Runway number callout and identified
 
 ## Takeoff
 
 * Before callout = see green T/O AND make sure N1 needle comes up to the bug
+  * "Thrust set"
+* "Airpseed alive" / "80 knots" -- "cross check" / "V1" / "Rotate" / "Positive Rate" / "Gear up"
+* ***When putting the gear up, also turn landing and taxi lights off and spoiler lever RET***
+* At 400' AND V2 + 25 "V2 + 25 flaps up" -- "flaps up ... indicating up"
+* At 500' AGL -- Autopilot available
+* FMS Source, Autopilot Mode
+  * e.g. "white needles, Nav mode, speed mode"
 
 ![Learjet 45 standard calls: takeoff.](/img/learjet-45/ropat/ropat-pg-4-9-standard-calls-takeoff.png){width=600}
 
@@ -411,6 +433,7 @@ AFM 2-18
 * Stall recovery -- lower nose = nose on horizon
 * At higher altitude might have to go a few degrees below the horizon
 * Only graded on recovery from stall
+* ***Three chimes is autopilot disconnect? Silence with control wheel MSW?***
 
 ### Clean Stall
 
@@ -511,16 +534,27 @@ AFM 2-18
 
 ## Approaches
 
+*When calling for the checklists, call for descent and approach checklists.*
+
 * Generally 180 KIAS is good airspeed to fly ... when approaching FAF?
 * When putting in approach speeds (instead of takeoff speeds)
   * VR = VREF
   * V2 = VAPP
-* Use acronym ABBBC when setting up for the approach
-  * ATIS (PM)
-  * Build - in FMS (PM)
-  * Bug - depends ILS/LOC/VOR or RNAV -- if RNAV just put mins in, for ... course, frequency, and mins (PM)
-  * Brief (PF)
-  * Checklist
+* Use acronym **ABBBC** when setting up for the approach
+  * **A** -- ATIS (PM)
+  * **B** -- Build - in FMS (PM)
+    * Make sure for green-needle approaches "bug" is
+      * Localizer frequency
+      * Set course
+      * BARO mins
+  * **B** -- Bug - depends ILS/LOC/VOR or RNAV -- if RNAV just put mins in, for ... course, frequency, and mins (PM)
+  * **B** -- Brief (PF)
+  * **C** -- Checklist
+* When cleared for the approach
+  * ***Arm the approach***
+    * Unless white needles and not yet in approach level of service then need to wait
+  * Taxi lights on
+  * Arm spoilers?
 * Techniques for configuring
   * Do not extend flaps until below 200 kts -- because after flaps 8 you can't use spoilers -- below 200 cant use spoilers but can use flaps 20 and gear to slow down
   * As soon as you go to flaps 8 is good time to arm spoilers (since can't use them anymore anyway)
@@ -534,22 +568,20 @@ AFM 2-18
 
 ### Circling
 
+<!--
+At KMEM stay over or just inside the road
+Treat all landings as max braking landing?
+-->
+
 * We circle fully configured (flaps 40&#176;, gear down)
 * When on LOC and captured, set heading bug in anticipated direction of turn 45&#176;
 * Cleared to circle == heading mode
 * Once wings level start timer for about 25 seconds
 * At 25 seconds turn base
-
-(At KMEM stay over or just inside the road)
-
 * When to descend below MDA on circling approach
   * Once abeam 18L -- take right side of chevron and put it on horizon
   * Kick off autopilot with nose down trim
   * Min speed until final is VREF + 10 (while maneuvering, MINIMUM)
-
-(Treat all landings as max braking landing)
-
-* POSITIVE RATE -- GEAR UP -- "HDG/NAV MODE" (whichever you want) <- include that in your callout
 
 ### No-flap Approach
 
@@ -568,6 +600,10 @@ AFM 2-18
 
 * ***Memorize: VAPP is single engine, flaps 8 go-around speed (in landing data?)***
 
+<!--
+* POSITIVE RATE -- GEAR UP -- "HDG/NAV MODE" (whichever you want) <- include that in your callout
+-->
+
 ### Single Engine Go-Around
 
 * Procedurally single engine go-around is same as two-engine go around
@@ -576,6 +612,7 @@ AFM 2-18
   * Flaps 8&#176;
 * Pitch to 9&#176; minimum - FD is single engine go-around at max gross weight
 * Positive rate, gear up, speed mode, bug VAPP, HDG/NAV mode
+  * Need to call for FMS source first?
 * ***VAPP is single engine flaps 8 go-around speed***
 
 ## Landing
@@ -600,3 +637,25 @@ AFM 2-18
   * See page 35 ... ?
 * Wait 30 seconds before APU master off
   * When R STBY fuel pump turns off that indicates 30 seconds
+
+## Emergency Procedures
+
+### LR GEN FAIL
+
+* Checklist
+  * 5. FLOOD Light -- the knob is on pilot side crew light panel
+  * 16. Standby Pitot Heat -- it is controlled from the "R PROBES" button
+
+### Engine Failure
+
+No specific red CAS message for engine failure, see e.g. `L OIL PRESS LOW` red CAS
+
+* During takeoff -- memory items then checklist
+* During flight -- checklist
+
+## Abnormal Procedures
+
+### Hydraulic Failure
+
+* Checklist
+
