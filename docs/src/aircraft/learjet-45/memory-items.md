@@ -14,9 +14,10 @@
 1. VR -- rotate to target pitch attitude
 2. Climb V2
 3. Positive rate -- gear up
+    * At 500' AGL -- autopilot is available
+    * FMS/Nav source, heading/nav mode, speed mode, bug V2
 4. 1500' AGL / obstacle clear
 5. Accelerate V2 + 25 -- flaps up
-    * (and 400 AGL?)
 5. Accelerate 200 KIAS
 
 ### Engine failure during approach

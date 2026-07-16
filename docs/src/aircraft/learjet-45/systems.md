@@ -12,13 +12,14 @@
 ![Learjet 45 aircraft dimensions.](/img/learjet-45/systems/aircraft-dimentions.png){width=460}
 
 * ***Max Zero Fuel Weight is service-bulletin-based: we use 16,500 lb at CAE!***
+* CAE Learjet 45 are Code E (SB 45-11-4)
 
 ### Overview
 
 * Read through Quick Reference Handbook (QRH) -- all caps is CAS message
 * White CAS = advisory status
 * Master EICAS index = go/no-go
-* Normal dark concept == normal flight is not illuminated
+* Normal dark concept = normal flight is not illuminated
 * MEL = list of stuff that can be broken
 * Not in the MEL = required
 
@@ -39,7 +40,7 @@
 * To raise or lower the seat your inboard hand needs to grab center handle so outboard lever is naturally the one to raise and lower seat
   * Up / Down = outboard
   * Forward / backwards = inboard
-* An eye reference locator is mounted on the windshield center post
+* An **eye reference locator** is mounted on the windshield center post
 
 ## Primary Flight Controls
 
@@ -61,15 +62,18 @@
   * 20&#176; - 200 KIAS
   * 40&#176; - 150 KIAS
 * Spoilers extend up to 60&#176;
-  * Limitation
+  * Limitations
     * Below 35,000 ft
+    * Cannot have spoilers and flaps both extended
 
+<!--
 ::: info NOTE
 During flight cannot extend the spoilers with flaps extended.
 :::
+-->
 
 ::: tip
-So, do not extend flaps until below 200 kts -- because after flaps 8 you can't use spoilers -- below 200 can't use spoilers but can use flaps 20 and gear to slow down.
+Do not extend flaps until below 200 kts -- because after flaps 8 you can't use spoilers -- below 200 can't use spoilers but can use flaps 20 and gear to slow down.
 :::
 
 ::: tip
@@ -130,7 +134,7 @@ As soon as you go to flaps 8 is good time to arm spoilers (since can't use them 
 * Are allowed to mix fuels
 * See AFM Addendum I - Fuel Servicing about additives
 * Max imbalance is 200 lb all phases of flight
-* (SB affects this, but at CAE its always 200 lb)
+  * SB affects this, but at CAE its always 200 lb
 * Single-Point Pressure Refueling (SPPR)
   * Maintenance panel doesn't need to be on -- just tells how much is onboard, doesn't control anything
   * On hot bus so don't need anything to be switched on
@@ -142,7 +146,7 @@ As soon as you go to flaps 8 is good time to arm spoilers (since can't use them 
     * Mini collector bay
     * If test fails need to gravity fuel
     * Pilot should watch line guys do this test
-    * If you don't do that test and fuel up, can overfuel and shoot pressure out NACA vent onto ramp
+    * If you don't do that test and fuel up, can overfuel and shoot fuel out NACA vent onto ramp
   * SPPR stops a bit less than full, so gravity fuel if need to top off
 * To defuel, left STBY pump on
 * Defueling limited to -10 psi
@@ -151,7 +155,7 @@ As soon as you go to flaps 8 is good time to arm spoilers (since can't use them 
 
 * `L/R/L R FUEL QTY LOW` amber CAS
   * Fuel < 350 lb per side
-* `L/R/L R FUEL BAY LOW`
+* `L/R/L R FUEL BAY LOW` white CAS
   * Low fuel in the collector bay
 
 ## Hydraulic System
@@ -191,7 +195,7 @@ Loss of power causes the valves to remain in their last position.
 * ***Main hydraulic system cannot charge brake accumulator.***
   * Can provide hydraulic pressure to everything else.
 * Hydraulic failure scenario
-  * QRH start page A-50 Amber `MAIN HYD PRESS` CAS => A-103
+  * QRH start page A-50 Amber `MAIN HYD PRESS` amber CAS => A-103
     * Main hydraulic pressure not in 1500 - 3800 psi limits
   * Step 11. L & R IGN switches -- ON because potential no flap landing => higher pitch => potential compressor stall
 
@@ -243,6 +247,8 @@ Icing conditions exist when:
 
 ![Learjet 45 landing gear.](/img/learjet-45/systems/ch-14-figure-5-landing-gear.png){width=600}
 
+* VLO = 200 KIAS
+* VLE = 260 KIAS
 * TODO@dwiese - check this:
 * The gear caution indications are activated when one of the following two situations exist:
   * All of the following occur:
@@ -286,7 +292,7 @@ Icing conditions exist when:
 ## APU
 
 * (Learjet 40 does not have APU)
-* Wait 30 seconds _minimum_ after turning off APU to turn (other switch) off
+* Wait 30 seconds _minimum_ after turning off APU to turn APU master off
   * Basically wait until the right standby fuel pump (that was feeding fuel to the APU) automatically goes off
 * `APU FAIL` amber CAS usually due to shutoff valve
 * So can't takeoff because don't want fuel going to APU in flight
@@ -349,7 +355,8 @@ Icing conditions exist when:
 * Circuit breakers -- Red ring = emergency battery bus (powered by emergency battery)
 * First thing when getting in plane = turn both batteries on at same time
   * DU2 will power up, always powered off main batteries
-  * Wait minimum 5-8 seconds (basically wait until DU2 powers up and everything stops flashing)
+  * Wait minimum 5-8 seconds after turning on main batteries to turn on EMER BATT
+    * When DU2 powers up and everything stops flashing then can turn on EMER BATT
   * Don't want to interrupt the ... self test because if you do we will deploy PAX oxygen masks
 * `EXTERNAL POWER` white CAS indicates that _something_ is plugged in
   * But not necessarily that it is correct
@@ -388,9 +395,9 @@ Icing conditions exist when:
   * `EMER BATT LOW`
     * Taking charge > 10 AMPS ?
   * `EMER BUS VOLTS`
-    * less 22 or more than 29.6 V
+    * Less than 22 V or more than 29.6 V
   * `L R ESS BUS VOLTS`
-    * less 22 or more than 29.6 V
+    * Less than 22 V or more than 29.6 V
 * White CAS messages
   * `EXTERNAL POWER` white CAS indicates that _something_ is plugged in
 
@@ -418,7 +425,7 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
   * Automatically
     * Over 9,500 feet cabin altitude (if in low-altitude setpoint)
     * Over 14,500 feet cabin altitude (if in high-altitude setpoint)
-* Routes LP unconditioned air into cabin -- hot air
+* "EMER PRESS" routes LP unconditioned air into cabin -- hot air
 * NAC valves fail open
 * "HI FLOW" just gives pack higher pressure air
   * Limitations (see AFM page 1-12) must be off when:
@@ -429,11 +436,9 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
 * HP valves open when descending to maintain cabin pressure
 * Anti-ice check is checking function of lots of valves
 * Outflow valves max 13,700 or 9.7 delta P
-* EMER power available == can control pressurization
+* EMER power available = can control pressurization
   * Need to do it manually?
   * TODO@dwiese -- why?
-* ***Memorize: Low altitude alerting setpoints (see photo)***
-  * See Pilot Training Guide page 7-15
 * Max takeoff altitude 14,000
 * Outflow valves in the FRONT of the aircraft
 * When cabin smoke memory items -- this brings all the smoke up front into the cockpit
@@ -442,6 +447,8 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
 
 ### Pressurization Controller
 
+* ***Memorize: Low altitude alerting setpoints***
+  * See Pilot Training Guide page 7-15
 * High altitude activation setpoints when both are true:
   * Takeoff or landing elevation is set above 8000 ft
   * The aircraft is below 24,500 ft.
@@ -456,11 +463,15 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
     * Amber `LR EMER PRESS ON` CAS message
   * 10,000 feet cabin altitude (more severe warning of low cabin pressure)
     * Red `CABIN ALTITUDE CAS` message
-  * 13,700 feet cabin altitude (outflow valves automatically close to attempt to retain pressure)
+  * 13,700 feet cabin altitude
+    * Outflow valves automatically close to attempt to retain pressure
   * 14,500 feet cabin altitude
     * PAX oxygen masks deploy
     * Emergency lights come on
+
+<!--
 * TODO@dwiese -- make sure nothing here is missing from photo of slide
+-->
 
 ### Sort Me
 
@@ -471,7 +482,7 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
     * Check -- turn on -- check amber `L R EMER PRESS ON` CAS message -- back off
 * Pressurization
   * Normal cabin altitude is 9.4 delta P and 8,000 feet cabin altitude at 51,000 feet altitude
-  * Squat switches on ground == outflow valves open
+  * Squat switches on ground = outflow valves open
   * Red `CABIN ALTITUDE` CAS message is SB-based
   * 14,500 - masks drop AND emer lights come on
   * DAU 1A FAIL can be losing information FROM pressurization controller, not the pressurization controller itself
@@ -814,7 +825,7 @@ Also wasn't there one about not having pulled a CB?
 
 ## FMS
 
-* UNS-1E(W?) -- what we have in the sim (the dual FMS)
+* Universal UNS-1E(W?) -- what we have in the sim (the dual FMS)
 * Need approach level of service to arm the approach
   * If don't see it can't continue down past FAF
 * Don't use joystick
