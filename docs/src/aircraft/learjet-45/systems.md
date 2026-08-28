@@ -479,7 +479,7 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
   * NAC valves fail open
   * HP kicks on e.g. when descending and low thrust setting
   * "EMER PRESS"
-    * Check -- turn on -- check amber `L R EMER PRESS ON` CAS message -- back off
+    * Check -- turn on -- check `L R EMER PRESS ON` amber CAS message -- back off
 * Pressurization
   * Normal cabin altitude is 9.4 delta P and 8,000 feet cabin altitude at 51,000 feet altitude
   * Squat switches on ground = outflow valves open

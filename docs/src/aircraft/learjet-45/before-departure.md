@@ -152,22 +152,24 @@ All of these are in the Pilot Training Guide starting on 20-16
 
 ### Gear
 
-* 2 master WARN
-* 1 GEAR CAS
-* 1 GEAR CWP
-* 3 green down lights
-* 3 in transit lights
-* 1 aural alert: "Gear"
+* 10 indications, go top to bottom
+  * 2 master WARN
+  * 1 GEAR CAS
+  * 1 GEAR CWP
+  * 3 green down lights
+  * 3 in transit lights
+  * 1 aural alert: "Gear"
 
 ### Flaps
 
-* 2 master CAUT
-* 2 CAS
-  * `FLAPS FAIL`
-  * `FLAPS FAULT`
-* 1 Amber box around flap setting on EICAS
-* 1 aural tone
-* (no CWP)
+* 6 indications
+  * 2 master CAUT
+  * 2 CAS
+    * `FLAPS FAIL` Amber CAS
+    * `FLAPS FAULT` Amber CAS
+  * 1 Amber box around flap setting on EICAS
+  * 1 aural tone
+  * (no CWP)
 
 ### ADC
 
@@ -205,14 +207,14 @@ All of these are in the Pilot Training Guide starting on 20-16
 
 * ***As soon as you see `TERR TEST` pop up in MFD let go of the button***
   * Less than 2 seconds press
-* White `GPWS SYS FAIL` CAS message is displayed momentarily
-* White `GND PROX FAIL` and `WINDSHEAR FAIL` CAS messages may also appear momentarily
+* `GPWS SYS FAIL` white CAS message is displayed momentarily
+* `GND PROX FAIL` white CAS and `WINDSHEAR FAIL` white CAS messages may also appear momentarily
 * `GPWS FAIL` annunciators on the upper, outboard corner of the pilot and copilot instrument panels are also displayed momentarily
 * Either
   * This
     * "Glideslope" aural alert will be enunciated
     * Amber `GND PROX` is momentarily displayed in the ADI sphere on both PFDs
-    * White `GPWS G/S INHB` CAS message is momentarily posted
+    * `GPWS G/S INHB` white CAS message is momentarily posted
   * Or this
     * "Glideslope Inop" aural alert will be enunciated
 
@@ -254,7 +256,7 @@ All of these are in the Pilot Training Guide starting on 20-16
 * Step 18. Bleed Air System
   * See below
 * Step 20. EMER PRESS -- check
-  * Check -- turn on -- check amber `L R EMER PRESS ON` CAS message -- back off
+  * Check -- turn on -- check `L R EMER PRESS ON` amber CAS message -- back off
 
 ### Anti-Ice System Check
 
@@ -372,7 +374,7 @@ AFM 2-18
     * NOSE STEER ON
     * AUX HYD ON
   * CAS Messages (1)
-    * AUTOSPOILERS ARM
+    * `AUTOSPLR ARMED` white CAS
 * Then
   * No boxes
   * No colors

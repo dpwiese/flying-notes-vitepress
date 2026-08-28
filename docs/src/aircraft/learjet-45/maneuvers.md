@@ -2,18 +2,52 @@
 
 * Generally 180 KIAS is good airspeed to fly that is above minimum maneuvering speeds
 
+## Speeds Notes
+
+* Following speeds are what we _bug_
+* Takeoff v-speeds
+  * V1 = takeoff decision speed
+  * VR = rotation speed
+  * V2 = Takeoff safety speed / second segment climb speed
+    * Speed at which plane safely climbs with one engine inoperative
+* Landing v-speeds
+  * VR = Landing reference speed
+    * VREF for flaps 40 or VLNDX for flaps < 40
+    * Use VLND20 for single engine landing
+  * V2 = Approach Climb speed (VAPP)
+    * This is single engine, flaps 8 go-around speed
+    * This we get from the VLND8 chart?
+
+<!--
+Why in some procedures we use V2 + 25 and others V2 + 20?
+Because V2 is set as either V2 or VAPP
+On takeoffs it is V2, around 124
+On approach to landing it is VAPP around 132
+Given those numbers are different as they mean different things, we need to add different "buffer" to them
+So remember, add 25 on TAKEOFF v-speeds and 20 on LANDING v-speeds?
+Is this actually true??????
+
+These speeds with "buffer" are "flap safety speed" or "flap retraction speed"?????
+
+* Q: what exactly is the difference between V2 and VAPP?
+  * They are both single engine and for flaps 8??
+-->
+
 ## Takeoff
 
+### Normal Takeoff
+
 * Before callout = see green T/O AND make sure N1 needle comes up to the bug
-  * "Thrust set"
+  * "Takeoff Thrust set"
 * "Airpseed alive" / "80 knots" -- "cross check" / "V1" / "Rotate"
 * Pitch 12-15&#176;
 * PM calls "Positive Rate"
   * Call "Gear up"
 * ***When putting the gear up, also turn landing and taxi lights off and spoiler lever RET***
-* At 400' and V2 + 25 PM should call "flap safety speed" or "V2 + 25"
+* At 400' and V2 + 25 PM should call "flap safety speed" or "flap retraction speed" or "V2 + 25"
   * Call "flaps up"
   * PM should confirm "flaps set up ... indicating up"
+  * This speed, VFS, should be set in the speed bug prior to takeoff, so all PM has to do is check when airspeed exceeds the bug and over 400' AGL
 * At 500' AGL PM should call "autopilot available"
 * Source should already be set, so call the MODE to put in the autopilot
   * e.g. "nav mode, AP on"
@@ -27,7 +61,7 @@
 
 ![Learjet 45 standard calls: takeoff.](/img/learjet-45/ropat/ropat-pg-4-9-standard-calls-takeoff.png){width=600}
 
-### Engine Out Takeoff Above V1
+### Engine Out Above V1
 
 * Directional control with rudder
 * Rotate at 3&#176;/sec to target pitch attitude
@@ -42,9 +76,10 @@
     * Depending on if assigned runway heading or a published procedure
 * Call for "AP on"
 * When obstacle clearance assured (1500' AGL), accelerate to V2 + 25
-  * Passing V2 + 25 call for "flaps up"
+  * Passing V2 + 25 PM calls "flap retraction speed"
+  * Call for "flaps up"
   * Note radar altimeter to get 1500' AGL
-* Call for engine failure above V1 checklist
+* ***Call for engine failure above V1 checklist***
 * Reduce thrust to get level flight at 180 KIAS
 * Consider half bank?
   * Press `BNK` on flight guidance controller
@@ -82,12 +117,11 @@
 
 ## Stalls
 
-### General Recovery Procedure
-
-* Stall recovery -- lower nose = nose on horizon
-* At higher altitude might have to go a few degrees below the horizon
-* Only graded on recovery from stall
-* ***Three chimes is autopilot disconnect -- silence with control wheel MSW when the autopilot disconnects and you start the stall recovery procedure.***
+* General Recovery Procedure
+  * Stall recovery -- lower nose = nose on horizon
+  * At higher altitude might have to go a few degrees below the horizon
+  * Only graded on recovery from stall
+  * ***Three chimes is autopilot disconnect -- silence with control wheel MSW when the autopilot disconnects and you start the stall recovery procedure.***
 
 1. Lower the pitch attitude to reduce angle of attack.
 2. Thrust Levers T/O (manual APR, if required)
@@ -102,12 +136,13 @@
 * Recover at first indication
 * **Recovery**
   * Lower the nose
+    * To the horizon
   * T/O thrust
   * Level wings
   * Accelerate
 * Press MSW for 2 seconds to silence audible alert
-* At 130 KIAS start pitching up to return to starting altitude
-* Make sure to bring power out and pitch down to ***return to starting altitude and 180 KIAS***
+* ***At 130 KIAS start pitching up to return to starting altitude***
+* ***Make sure to bring power out and pitch down to return to starting altitude and 180 KIAS***
 
 ![Learjet 45 approach to stall (clean).](/img/learjet-45/ropat/ropat-fig-13-approach-to-stall-clean.png){width=800}
 
@@ -115,20 +150,34 @@
 
 * Configure
   * Flaps 20&#176;
-  * Landing gear extended
   * Bug VREF and VAPP
+* Entry
+  * On departure will
+    * Set pitch mode and heading mode in AP
+    * Command a 90 degree heading change with AP as we are climbing
+    * Bring thrust levers to idle
+* Recover at first indication
+  * ***Tip of chevron right to horizon***
+  * Do not change configuration when airspeed is below VREF
+  * As the airplane accelerates above VREF
+    * PM should call out "VREF"
+    * Call "flaps 8&#176;"
+  * When a positive rate of climb and increase in airspeed is indicated
+    * PM calls "positive rate"
+    * Call "gear up"
+  * When airspeed increases above VAPP + 20 KIAS
+    * PM calls "flap safety speed"
+    * Call "flaps up"
+    * VAPP is called Approach Climb Speed
+
+<!--
+* Landing gear NOT extended??
 * Bank 15&#176; to 30&#176;
 * Thrust set at 55% N1?
 * Start a climb?
 * Thrust levers to IDLE?
 * Increase the pitch to maintain altitude and allow the airspeed to decrease
-* Recover at first indication
-  * ***Tip of chevron right to horizon***
-  * Do not change configuration when airspeed is below VREF
-  * As the airplane accelerates above VREF, call for flaps 8&#176;
-    * PM should call out "VREF"
-  * When a positive rate of climb or increase in airspeed is indicated, call for gear up
-  * When airspeed increases above VAPP + 20 KIAS, call for flaps up
+-->
 
 ![Learjet 45 approach to stall (takeoff or approach configuration).](/img/learjet-45/ropat/ropat-fig-14-approach-to-stall-takeoff.png){width=800}
 
@@ -145,36 +194,40 @@
     * ***Tip of chevron on horizon***
   * T/O thrust
   * Wings level and accelerate
-  * Upon accelerating through VREF (as called by PM) the procedure becomes a normal two-engine go-around
+* _Upon accelerating through VREF (as called by PM) the procedure becomes a normal two-engine go-around_
+  * TOGA, power, pitch
     * Press GA button
     * (T/O thrust is already set)
     * Pitch to 12-15&#176; nose up
-    * Call for flaps 8&#176;
-    * Wait for PM to call positive rate
-      * Call for gear up
-    * Call for HDG/NAV mode?
-      * Need to call for FMS source first?
-    * Call for speed mode
-      * "speed mode, bug VAPP + 20"
-    * PM should call flap safety speed (i.e. VAPP + 20)
-      * Call for flaps up
-    * Call for autopilot on
-    * Reduce thrust as needed to level off according to missed approach procedure / instructions
-  * Make sure to bring power out and pitch down to return to level flight at entry altitude and 180 KIAS
+  * Call for flaps 8&#176;
+  * Wait for PM to call positive rate
+    * Call "gear up"
+  * PM should call flap safety speed (i.e. VAPP + 20)
+    * Call "flaps up"
+  * Call for HDG/NAV mode?
+    * Need to call for FMS source first?
+  * Call for speed mode
+    * "speed mode, bug VAPP + 20"
+  * Call for autopilot on
+  * Reduce thrust as needed to level off according to missed approach procedure / instructions
+* Make sure to bring power out and pitch down to return to level flight at entry altitude and 180 KIAS
 
 ![Learjet 45 approach to stall (landing configuration).](/img/learjet-45/ropat/ropat-fig-15-approach-to-stall-landing.png){width=800}
 
 ## Unusual attitudes
 
 * Minimum 5,000' AGL
+* Look at all 3: both PFD and standby attitude indicator
+* The pilot with the reliable attitude information assumes control and flies the recovery.
+
+<!--
 * Center controls
 * Disengage autopilot
   * Press CWS
-* Look at all 3: both PFD and standby attitude indicator
-* The pilot with the reliable attitude information assumes control and flies the recovery.
 * Check airspeed:
   * Airspeed decreasing PF announces "Nose High Recovery"
   * Airspeed increasing PF announces "Nose Low Recovery"
+-->
 
 ### Nose High Recovery
 
@@ -198,6 +251,19 @@
 * Put power back in
 * Lower spoilers
 * Back to straight-and-level at original altitude
+
+## EGPWS Escape Maneuver
+
+The following procedure should be employed for EGPWS recoveries:
+
+1. Disengage autopilot.
+2. Advance thrust levers to T/O or greater, verify spoilers retracted.
+3. Roll wings level.
+4. Smoothly apply back pressure on the yoke to raise the nose.
+5. Maintain an airspeed at least 10 kt above the low speed awareness cue.
+6. Configure flaps and gear for minimum drag.
+7. Once clear of obstacles or terrain establish level flight.
+8. Check airspeed and adjust thrust as required.
 
 ## Engine Failure In Flight
 
@@ -304,41 +370,47 @@ Treat all landings as max braking landing?
 
 ### Two Engine Go-Around
 
-* Press GA button
-* T/O thrust
-* Pitch to 12-15&#176; nose up
-* Call for flaps 8&#176;
+* ==TOGA, power, pitch==
+  * Press GA button
+  * T/O thrust
+  * Pitch to 12-15&#176; nose up
+* ==Call "go around"==
+* ==Call "flaps 8&#176;"==
 * Wait for PM to call positive rate
-  * Call for gear up
+  * ==Call "gear up"==
+* ==Call for speed mode==
+  * "speed mode, bug V2 + 20"
+  * Recall, V2 bug indicates VAPP (approach climb speed)
 * Call for HDG/NAV mode?
   * Need to call for FMS source first?
-* Call for speed mode
-  * "speed mode, bug VAPP + 20"
 * PM should call flap safety speed (i.e. VAPP + 20)
-  * Call for flaps up
+  * ==Call "flaps up"==
 * Call for autopilot on
 * Reduce thrust as needed to level off according to missed approach procedure / instructions
-* ***Call for go-around checklist***
+* ==***Call for go-around checklist***==
 
 ![Learjet 45 two engine go-around.](/img/learjet-45/ropat/ropat-fig-10-two-engine-go-around.png){width=800}
 
 ### Single Engine Go-Around
 
-* ***Memorize: VAPP is single engine, flaps 8 go-around speed (in landing data?)***
+* ***Memorize: VAPP (Approach Climb Speed) is single engine, flaps 8 go-around speed that we set in V2 bug.***
 * Procedurally single engine go-around is same as two-engine go around
-  * GA button
-  * T/O thrust
-  * Call for flaps 8&#176;
-* Pitch to 9&#176; _minimum_
-  * FD is single engine go-around at max gross weight
-* Wait for PM to call positive rate
-  * Call for gear up
-* Call for speed mode
-  * "speed mode, bug V2"
-  * Which is set to contain VAPP
-  * Need to call for FMS source first?
-* HDG/NAV mode
-* ***Call for go-around checklist***
+* ==TOGA, power, pitch==
+  * ==GA button==
+  * ==T/O thrust==
+  * ==Pitch to 9&#176; _minimum_==
+    * FD is single engine go-around at max gross weight
+* ==Call "go around"==
+* ==Call "flaps 8&#176;"==
+* Wait for PM to call "positive rate"
+  * ==Call "gear up"==
+* ==Call "speed mode, bug V2"==
+  * Which is set to contain VAPP (approach climb speed)
+* ==Call "HDG/NAV mode"==
+  * Whichever is appropriate
+* ==Obstacle clearance altitude, accelerate to V2 + 20==
+  * ==Call "flaps up"==
+* ==***Call for go-around checklist***==
 
 ![Learjet 45 single engine go-around.](/img/learjet-45/ropat/ropat-fig-19-single-engine-go-around.png){width=800}
 
