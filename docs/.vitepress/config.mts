@@ -480,6 +480,11 @@ export default defineConfig({
           items: [
             { text: 'Private', link: '/study-guides/ppl' },
             { text: 'Commercial', link: '/study-guides/commercial' },
+            { text: 'Commercial Midcourse', link: '/study-guides/commercial-midcourse' },
+            { text: 'PPL Block I', link: '/study-guides/ppl-block-i' },
+            { text: 'PPL Block II', link: '/study-guides/ppl-block-ii' },
+            { text: 'IFR Block II', link: '/study-guides/ifr-block-ii' },
+            { text: 'IFR EOC', link: '/study-guides/ifr-eoc' },
             { text: 'CFI', link: '/study-guides/cfi' },
             { text: 'CFII', link: '/study-guides/cfii' },
             { text: 'IPC', link: '/study-guides/ipc' },
