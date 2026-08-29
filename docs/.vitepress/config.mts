@@ -414,6 +414,17 @@ export default defineConfig({
       ],
       '/aircraft/': [
         {
+          text: 'Learjet 45',
+          collapsed: false,
+          items: [
+            { text: 'Systems', link: 'aircraft/learjet-45/systems' },
+            { text: 'Memory Items', link: 'aircraft/learjet-45/memory-items' },
+            { text: 'Before Departure', link: 'aircraft/learjet-45/before-departure' },
+            { text: 'Maneuvers', link: 'aircraft/learjet-45/maneuvers' },
+            { text: 'Study Guide', link: 'aircraft/learjet-45/study-guide' }
+          ]
+        },
+        {
           text: 'Archer III NXi',
           collapsed: false,
           items: [
