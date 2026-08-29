@@ -59,7 +59,7 @@ These speeds with "buffer" are "flap safety speed" or "flap retraction speed"???
   * e.g. "FMS source, nav mode, speed mode"
 -->
 
-![Learjet 45 standard calls: takeoff.](/img/learjet-45/ropat/ropat-pg-4-9-standard-calls-takeoff.png){width=600}
+![Learjet 45 standard calls: takeoff.](/img/learjet-45/ropat/ropat-pg-4-9-standard-calls-takeoff.webp){width=600}
 
 ### Engine Out Above V1
 
@@ -85,7 +85,7 @@ These speeds with "buffer" are "flap safety speed" or "flap retraction speed"???
   * Press `BNK` on flight guidance controller
   * Limits to 14&#176;
 
-![Learjet 45 engine out above V1.](/img/learjet-45/ropat/ropat-fig-16-engine-out-above-v1.png){width=800}
+![Learjet 45 engine out above V1.](/img/learjet-45/ropat/ropat-fig-16-engine-out-above-v1.webp){width=800}
 
 ## Steep Turns
 
@@ -105,7 +105,7 @@ These speeds with "buffer" are "flap safety speed" or "flap retraction speed"???
 * Lead roll-in/out by about 5&#176; to 10&#176; of heading
   * Heading bug is 8&#176; either side
 
-![Learjet 45 steep banked turns.](/img/learjet-45/ropat/ropat-old-steep-banked-turns.png){width=800}
+![Learjet 45 steep banked turns.](/img/learjet-45/ropat/ropat-old-steep-banked-turns.webp){width=800}
 
 <!--
 ## Slow Flying
@@ -144,7 +144,7 @@ These speeds with "buffer" are "flap safety speed" or "flap retraction speed"???
 * ***At 130 KIAS start pitching up to return to starting altitude***
 * ***Make sure to bring power out and pitch down to return to starting altitude and 180 KIAS***
 
-![Learjet 45 approach to stall (clean).](/img/learjet-45/ropat/ropat-fig-13-approach-to-stall-clean.png){width=800}
+![Learjet 45 approach to stall (clean).](/img/learjet-45/ropat/ropat-fig-13-approach-to-stall-clean.webp){width=800}
 
 ### Takeoff / Approach Stall
 
@@ -179,7 +179,7 @@ These speeds with "buffer" are "flap safety speed" or "flap retraction speed"???
 * Increase the pitch to maintain altitude and allow the airspeed to decrease
 -->
 
-![Learjet 45 approach to stall (takeoff or approach configuration).](/img/learjet-45/ropat/ropat-fig-14-approach-to-stall-takeoff.png){width=800}
+![Learjet 45 approach to stall (takeoff or approach configuration).](/img/learjet-45/ropat/ropat-fig-14-approach-to-stall-takeoff.webp){width=800}
 
 ### Landing Stall
 
@@ -212,7 +212,7 @@ These speeds with "buffer" are "flap safety speed" or "flap retraction speed"???
   * Reduce thrust as needed to level off according to missed approach procedure / instructions
 * Make sure to bring power out and pitch down to return to level flight at entry altitude and 180 KIAS
 
-![Learjet 45 approach to stall (landing configuration).](/img/learjet-45/ropat/ropat-fig-15-approach-to-stall-landing.png){width=800}
+![Learjet 45 approach to stall (landing configuration).](/img/learjet-45/ropat/ropat-fig-15-approach-to-stall-landing.webp){width=800}
 
 ## Unusual attitudes
 
@@ -389,7 +389,7 @@ Treat all landings as max braking landing?
 * Reduce thrust as needed to level off according to missed approach procedure / instructions
 * ==***Call for go-around checklist***==
 
-![Learjet 45 two engine go-around.](/img/learjet-45/ropat/ropat-fig-10-two-engine-go-around.png){width=800}
+![Learjet 45 two engine go-around.](/img/learjet-45/ropat/ropat-fig-10-two-engine-go-around.webp){width=800}
 
 ### Single Engine Go-Around
 
@@ -412,7 +412,7 @@ Treat all landings as max braking landing?
   * ==Call "flaps up"==
 * ==***Call for go-around checklist***==
 
-![Learjet 45 single engine go-around.](/img/learjet-45/ropat/ropat-fig-19-single-engine-go-around.png){width=800}
+![Learjet 45 single engine go-around.](/img/learjet-45/ropat/ropat-fig-19-single-engine-go-around.webp){width=800}
 
 ## Landing
 

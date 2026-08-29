@@ -27,7 +27,7 @@
 3. Flaps 20&#176;
 4. VREF + 5
 
-![Learjet 45 pilot control wheel switches.](/img/learjet-45/pilot-control-wheel-switches.png){width=460}
+![Learjet 45 pilot control wheel switches.](/img/learjet-45/pilot-control-wheel-switches.webp){width=460}
 
 ## Aborted Takeoff
 
@@ -44,14 +44,14 @@
     2. Fire Switch (lift guard) -- FIRE PUSH
     3. Extinguisher #1 (lift guard) -- ARMED
 
-![Learjet 45 Engine/Fuel/DEEC control panel.](/img/learjet-45/engine-fuel-deec-control-panel.png){width=460}
+![Learjet 45 Engine/Fuel/DEEC control panel.](/img/learjet-45/engine-fuel-deec-control-panel.webp){width=460}
 
 ## Immediate engine airstart
 
 1. Thrust -- IDLE
 2. FUEL STBY switch -- ON
 
-![Learjet 45 Engine/Fuel/DEEC control panel.](/img/learjet-45/engine-fuel-deec-control-panel.png){width=460}
+![Learjet 45 Engine/Fuel/DEEC control panel.](/img/learjet-45/engine-fuel-deec-control-panel.webp){width=460}
 
 ## Emergency descent
 
@@ -75,9 +75,9 @@
 7. MIC/MASK switch -- MASK
 8. INPH switch -- INPH
 
-![Learjet 45 pressurization panel.](/img/learjet-45/pressurization-panel.png){width=460}
+![Learjet 45 pressurization panel.](/img/learjet-45/pressurization-panel.webp){width=460}
 
-![Learjet 45 audio control panel.](/img/learjet-45/audio-control-panel.png){width=460}
+![Learjet 45 audio control panel.](/img/learjet-45/audio-control-panel.webp){width=460}
 
 ## Cabin / cockpit smoke, fire, or fumes
 
@@ -87,9 +87,9 @@
 4. MIC/MASK switch -- MASK
 5. INPH switch -- INPH
 
-![Learjet 45 pressurization panel.](/img/learjet-45/pressurization-panel.png){width=460}
+![Learjet 45 pressurization panel.](/img/learjet-45/pressurization-panel.webp){width=460}
 
-![Learjet 45 audio control panel.](/img/learjet-45/audio-control-panel.png){width=460}
+![Learjet 45 audio control panel.](/img/learjet-45/audio-control-panel.webp){width=460}
 
 ## "Overspeed" voice activates
 
@@ -116,7 +116,7 @@
     2. Do not use PIT TRIM BIAS switch
         * Leave it centered
 
-![Learjet 45 forward pedestal controls.](/img/learjet-45/forward-pedestal-controls.png){width=460}
+![Learjet 45 forward pedestal controls.](/img/learjet-45/forward-pedestal-controls.webp){width=460}
 
 ### Aileron control jam
 
@@ -128,7 +128,7 @@
     3. Do not use AIL TRIM
     4. (ROLL DISC white CAS will illuminate)
 
-![Learjet 45 pilot control wheel switches.](/img/learjet-45/pilot-control-wheel-switches.png){width=460}
+![Learjet 45 pilot control wheel switches.](/img/learjet-45/pilot-control-wheel-switches.webp){width=460}
 
 ### Rudder control jam
 
@@ -143,14 +143,14 @@
 2. Attitude control -- as required
 3. Thrust levers -- as required
 
-![Learjet 45 pilot control wheel switches.](/img/learjet-45/pilot-control-wheel-switches.png){width=460}
+![Learjet 45 pilot control wheel switches.](/img/learjet-45/pilot-control-wheel-switches.webp){width=460}
 
 ### Roll or yaw axis uncommanded motion
 
 1. Control wheel master switch (MSW) -- depress and hold
 2. Attitude control -- as required
 
-![Learjet 45 pilot control wheel switches.](/img/learjet-45/pilot-control-wheel-switches.png){width=460}
+![Learjet 45 pilot control wheel switches.](/img/learjet-45/pilot-control-wheel-switches.webp){width=460}
 
 ## Loss of both generators and both main batteries
 

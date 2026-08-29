@@ -9,7 +9,7 @@
 
 ## General
 
-![Learjet 45 aircraft dimensions.](/img/learjet-45/systems/aircraft-dimentions.png){width=460}
+![Learjet 45 aircraft dimensions.](/img/learjet-45/systems/aircraft-dimentions.webp){width=460}
 
 * ***Max Zero Fuel Weight is service-bulletin-based: we use 16,500 lb at CAE!***
 * CAE Learjet 45 are Code E (SB 45-11-4)
@@ -44,7 +44,7 @@
 
 ## Primary Flight Controls
 
-![Learjet 45 cockpit flight controls.](/img/learjet-45/systems/ch-9-flight-controls-figure-12-cockpit-flight-controls.png){width=600}
+![Learjet 45 cockpit flight controls.](/img/learjet-45/systems/ch-9-flight-controls-figure-12-cockpit-flight-controls.webp){width=600}
 
 * Primary flight controls operated by cables, bellcranks, and pushrods.
 * Aileron deflection is assisted by a mechanically operated balance tab on each aileron that progressively deflects as aileron deflection increases.
@@ -98,13 +98,13 @@ As soon as you go to flaps 8 is good time to arm spoilers (since can't use them 
   * So trim the plane before turning AP on
   * Autopilot doesn't control rudder or aileron trim
 
-![Learjet 45 pedestal trim controls.](/img/learjet-45/pedestal-trim-controls.png){width=460}
+![Learjet 45 pedestal trim controls.](/img/learjet-45/pedestal-trim-controls.webp){width=460}
 
-![Learjet 45 forward pedestal controls.](/img/learjet-45/forward-pedestal-controls.png){width=460}
+![Learjet 45 forward pedestal controls.](/img/learjet-45/forward-pedestal-controls.webp){width=460}
 
-![Learjet 45 spoiler and flap handles.](/img/learjet-45/spoiler-flap-handles.png){width=460}
+![Learjet 45 spoiler and flap handles.](/img/learjet-45/spoiler-flap-handles.webp){width=460}
 
-![Learjet 45 EICAS/MFD flight controls system page.](/img/learjet-45/eicas-mfd-flight-controls-system-page.png){width=460}
+![Learjet 45 EICAS/MFD flight controls system page.](/img/learjet-45/eicas-mfd-flight-controls-system-page.webp){width=460}
 
 ### Aerodynamic Features
 
@@ -114,7 +114,7 @@ As soon as you go to flaps 8 is good time to arm spoilers (since can't use them 
 
 ## Fuel System
 
-![Learjet 45 fuel system schematic.](/img/learjet-45/systems/ch-11-fuel-system-figure-1-fuel-system-schematic.png){width=600}
+![Learjet 45 fuel system schematic.](/img/learjet-45/systems/ch-11-fuel-system-figure-1-fuel-system-schematic.webp){width=600}
 
 * The left standby pump transfer fuel _from_ the left tank _to_ the right tank
 * RMU only shows wing quantities
@@ -160,7 +160,7 @@ As soon as you go to flaps 8 is good time to arm spoilers (since can't use them 
 
 ## Hydraulic System
 
-![Learjet 45 hydraulic system.](/img/learjet-45/systems/ch-12-figure-5-hyraulic-system.png){width=600}
+![Learjet 45 hydraulic system.](/img/learjet-45/systems/ch-12-figure-5-hyraulic-system.webp){width=600}
 
 <!--
 Two motor-driven hydraulic firewall shutoff valves are located in the supply line to each engine-driven hydraulic pump.
@@ -224,7 +224,7 @@ Checklist doesn't say this, but it's good practice.
 
 ## Ice and Rain Protection
 
-![Learjet 45 anti ice.](/img/learjet-45/systems/ch-13-figure-10-anti-ice.png){width=600}
+![Learjet 45 anti ice.](/img/learjet-45/systems/ch-13-figure-10-anti-ice.webp){width=600}
 
 ::: info NOTE
 The anti-ice systems must be turned on before icing conditions are encountered.
@@ -245,7 +245,7 @@ Icing conditions exist when:
 * Hydraulic to the gear is provided by the main hydraulic system
   * The crossflow valve is used to use auxiliary hydraulic system for the landing gear (and flaps)
 
-![Learjet 45 landing gear.](/img/learjet-45/systems/ch-14-figure-5-landing-gear.png){width=600}
+![Learjet 45 landing gear.](/img/learjet-45/systems/ch-14-figure-5-landing-gear.webp){width=600}
 
 * VLO = 200 KIAS
 * VLE = 260 KIAS
@@ -417,7 +417,7 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
 * (APU bleed must be off when doing bleed check ... see expanded procedures ... also PACK on?)
 -->
 
-![Learjet 45 bleed air.](/img/learjet-45/systems/ch-18-figure-2-bleed-air.png){width=600}
+![Learjet 45 bleed air.](/img/learjet-45/systems/ch-18-figure-2-bleed-air.webp){width=600}
 
 * Each engine can independently supply bleed air for the systems that require it.
 * Two ways to get the "EMER PRESS" valves to open
@@ -491,15 +491,15 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
 
 ## Powerplant
 
-![Learjet 45 power plant.](/img/learjet-45/systems/ch-19-figure-11-power-plant.png){width=600}
+![Learjet 45 power plant.](/img/learjet-45/systems/ch-19-figure-11-power-plant.webp){width=600}
 
-![Learjet 45 power plant.](/img/learjet-45/systems/ch-19-figure-12-engine-airflow.png){width=600}
+![Learjet 45 power plant.](/img/learjet-45/systems/ch-19-figure-12-engine-airflow.webp){width=600}
 
-![Learjet 45 EICAS - SUMRY page.](/img/learjet-45/systems/ch-20-figure-5-eicas-sumry-page.png){width=460}
+![Learjet 45 EICAS - SUMRY page.](/img/learjet-45/systems/ch-20-figure-5-eicas-sumry-page.webp){width=460}
 
-![Learjet 45 EICAS - FLT page.](/img/learjet-45/systems/ch-20-figure-9-eicas-flt-page.png){width=460}
+![Learjet 45 EICAS - FLT page.](/img/learjet-45/systems/ch-20-figure-9-eicas-flt-page.webp){width=460}
 
-![Learjet 45 Engine/Fuel/DEEC control panel.](/img/learjet-45/engine-fuel-deec-control-panel.png){width=600}
+![Learjet 45 Engine/Fuel/DEEC control panel.](/img/learjet-45/engine-fuel-deec-control-panel.webp){width=600}
 
 <!--
 * The TFE731 is a
