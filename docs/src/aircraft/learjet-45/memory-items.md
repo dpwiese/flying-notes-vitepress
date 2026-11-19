@@ -36,7 +36,7 @@
 
 ## Engine Fire Voice Activates
 
-### On the affected engine
+On the affected engine:
 
 1. Thrust -- IDLE
 2. If fire continue more than 15 seconds or there are other indications

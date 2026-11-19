@@ -15,7 +15,7 @@
     * When DU2 powers up and everything stops flashing then can turn on EMER BATT
     * Otherwise will deploy PAX oxygen masks (rubber jungle)
 * **Step 5c. L & R AV MSTR -- ON**
-  * ***Turn FMS on at same time as turning avionics***
+  * ==***Turn FMS on at same time as turning avionics***==
     * Otherwise will have to wait a while
     * Press "ON / OFF DIM" button
 * **Step 10. Flight Controls**
@@ -35,7 +35,8 @@
 * **Step 21. Master CAUT -- Inhibit**
   * Press and hold on one side and look at the other side
 * **Step 22. Trim system -- Check**
-  * Commit to memory because after transitioning from AFM to QRH the QRH doesn't say WHAT to test
+  * Commit to memory because after transitioning from AFM to QRH the QRH doesn't say _what_ to test.
+  * See [Rotary System Test Panel](#rotary-system-test-panel) below
 * **Step 26. Standby Instruments -- Uncaged & Checked**
   * Cage standby attitude indicator
   * Pull out and turn
@@ -49,8 +50,8 @@
   * Flight Plan Page
   * Menu
   * Notes:
-    * "First to reverse, last to pass"
-    * Also the one with asterisk is the hold???
+    * "First to reverse, last to pass, don't fiddle with the middle"
+    * An asterisk (`*`) designates a fly-over waypoint.
 * **Step 28. Takeoff Data -- Computed & Speeds Set**
   * MFD press "MFD button" and go to "SPDS" page
     * Note: press the VSPEED button on the far right until three magenta dashes before inputting speeds
@@ -59,6 +60,9 @@
     * V2 = 124
   * (Set speed bug 149 -> V2 + 25)
   * Now upside down "U" check
+    * 1. Arrow pointing towards whoever flying (XFR button on flight guidance controller)
+    * 2. Hit go-around button
+    * 3. Flight guidance controller mode (and navigation source, either NAV meaning green needles or FMS meaning white needles)
     * Verify source
       * e.g. GPS-based departure -- FMS source (starts bottom left of PFD)
       * Puts us into white needles
@@ -67,15 +71,18 @@
     * Speed bug set
       * Top left is speed reference
       * Verify V2 + 25 -- flap retraction speed
-    * 1. Arrow pointing towards whoever flying (XFR button on flight guidance controller)
-    * 2. Hit go-around button
-    * 3. Mode (and Source?)
     * Flight guidance controller -- heading or nav Mode -- since departure fly NAV
     * Set top altitude using ASEL knob on flight guidance controller
     * Altimeters set
       * Indicated alt within 75 feet of field elevation
     * VSI zero
     * Set heading bug to runway heading
+
+### FMS Setup
+
+* On FUEL page press MENU to be able to set the average passenger weight
+
+![UNS-1 fuel menu page from [YouTube: Universal UNS 1 tutorial](https://www.youtube.com/watch?v=g4KGa-WiQrk).](/img/learjet-45/uns1-fuel-options-page.webp){width=500}
 
 <!--
 * Step 27.
@@ -106,7 +113,7 @@
 * i. Pilot’s Control Wheel Master Switch (MSW) -- Check cut-out of PRI trim.
 * j. Pilot’s Control Wheel Trim Switch -- Trim LWD or RWD.
   * *Note: go two units and see box around trim value, than back to 0 (only need to check either left or right)*
-* k. RUDDER TRIM Switch -- Reset to zero (0).
+* k. RUDDER TRIM Switch -- trim NOSE LEFT or NOSE RIGHT.
   * *Note: go two units and see box around trim value, than back to 0 (only need to check either left or right)*
 
 ## Rotary System Test Panel
@@ -119,9 +126,10 @@ All of these are in the Pilot Training Guide starting on 20-16
 ### Fire Detection
 
 * ***Before starting the test***
-  * ***Select APU master ON***
-  * ***Put the RMU on "engine" page***
-   * Press test to clear test results if needed
+  * ==***Select APU master ON***==
+  * ==***Put the RMU on "engine" page***==
+    * Press the `PGE` button
+    * Press test to clear test results if needed
 * ***Hold the test for minimum 15 seconds***
   * Just long enough to hear the APU fire horn sounding from the nose
 * ***If you hold for 30 seconds it will shut the APU down -- so don't hold more than 30 seconds***
@@ -150,12 +158,16 @@ All of these are in the Pilot Training Guide starting on 20-16
   * RMU page -> Radio
 * Pilot Training Guide page 8-7
 
+### Lights
+
+* Just check all lights illuminate.
+
 ### Gear
 
 * 10 indications, go top to bottom
   * 2 master WARN
-  * 1 GEAR CAS
-  * 1 GEAR CWP
+  * 1 `GEAR` CAS
+  * 1 `GEAR` CWP
   * 3 green down lights
   * 3 in transit lights
   * 1 aural alert: "Gear"
@@ -198,7 +210,8 @@ All of these are in the Pilot Training Guide starting on 20-16
 ### Anti-Ice
 
 * `WG/STAB HT OK` white CAS
-* `WING OVHT` red CAS and `STAB OVHT` red CWP
+* `WING OVHT` red CAS
+* `STAB OVHT` red CWP
 * Master WARN tone and light
 
 ### EGPWS
@@ -226,7 +239,7 @@ All of these are in the Pilot Training Guide starting on 20-16
 * Select any 4 lines in TCAS DSPY window on RMU, press buttons
   * If do this, don't need to select TCAS on MFD
 * Press and hold test button on RMU
-* Aural "TCAS test" => "TCAS test pass"
+* Aural "TCAS test" -> "TCAS test pass"
 * Want to see four indications in TCAS windows and ... ?
 
 ### Off
@@ -320,7 +333,7 @@ Test each engine separately, keep hands there in case engine runs away, problem 
 <!-- AFM 2-17 -->
 
 First start with item 4 and below -- the non-movement items.
-Then release parking break and do steps 1, 2, and 3
+Then release parking brake and do steps 1, 2, and 3.
 
 * Step 8. Trims
   * Aileron rudder 0 trim, pitch set by weight and balance
@@ -341,8 +354,8 @@ Then release parking break and do steps 1, 2, and 3
 
 After completing the latter part of this checklist, release parking brake and go back to the first 3 items of "Taxi and Before Takeoff" check.
 
-Turn on Taxi and Recog lights
-
+* Turn on Taxi and Recog lights
+  * Since the plane is now going to move
 * Step 1. Brake and nose-wheel steering check
   * Throttle up to about 35% N1
 * Step 2. Flight instruments -- checked
@@ -363,8 +376,8 @@ AFM 2-18
 * FLOW
 * Transponder TA/RA mode -- line select key (will get out of standby)
 * Step 6. -- APR is always desired to ARM if it is working
-* MAKE SURE TO SET PITCH TRIM HERE!!
-
+* Make sure to trim here if not already done
+  * Else will get box around out of trim value
 * Before takeoff (3-2-1)
   * EICAS (3)
     * REV

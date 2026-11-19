@@ -73,7 +73,7 @@ During flight cannot extend the spoilers with flaps extended.
 -->
 
 ::: tip
-Do not extend flaps until below 200 kts -- because after flaps 8 you can't use spoilers -- below 200 can't use spoilers but can use flaps 20 and gear to slow down.
+Do not extend flaps until below 200 kts -- because after flaps 8 you can't use spoilers -- so once below 200 can use flaps 20 and gear to slow down.
 :::
 
 ::: tip
@@ -194,10 +194,13 @@ Loss of power causes the valves to remain in their last position.
 * If the main and auxiliary hydraulic systems malfunction, a hydraulically charged pneumatic brake accumulator provides emergency braking.
 * ***Main hydraulic system cannot charge brake accumulator.***
   * Can provide hydraulic pressure to everything else.
+
+<!--
 * Hydraulic failure scenario
   * QRH start page A-50 Amber `MAIN HYD PRESS` amber CAS => A-103
     * Main hydraulic pressure not in 1500 - 3800 psi limits
   * Step 11. L & R IGN switches -- ON because potential no flap landing => higher pitch => potential compressor stall
+-->
 
 ::: tip
 Before putting the gear down, turn on the AUX pump first.
@@ -275,7 +278,7 @@ Icing conditions exist when:
   * No "GEAR" aural warning with flaps lowered beyond 25&#176;
     * ... and below MCR ... below 500' ?
   * Taxi lights on
-  * `NOSE STEER ON` light indicates the nosewheel is down and locked
+  * The light on the NOSE STEER button on the GEAR/HYD panel is ON indicates the nosewheel is down and locked
 * Both main and nose gear limited to 165 kts
 * Squat switches on mains
   * Signals go to squat switch relay box to determine mode is in-flight or on-ground
@@ -299,7 +302,7 @@ Icing conditions exist when:
 * In mid-90s &#176;F ambient temps APU will fail due to overheat, might be on for like 20 minutes before it overheats and shuts off
 * APU burns 150 pph
 * APU has its own dedicated fire bottle
-* Gen amps pilot-side light knob turn up to see gen amps displayed
+* Gen amps pilot-side light knob turn up to see gen amps displayed on the APU control panel
   * ***TODO@dwiese -- which light knob?***
 * "APU FAIL / FAULT" light on the APU Maintenance Control Panel -- can fly, just no `APU FAIL` amber CAS
   * It's probably just a fault
@@ -457,12 +460,12 @@ Low-pressure bleed air, supplemented automatically as required by high-pressure 
   * 14,500 feet cabin altitude - PAX oxygen masks deploy
 * Low altitude setpoints
   * 8,750 feet cabin altitude (initial notification)
-    * Amber `CABIN ALTITUDE` CAS message
+    * `CABIN ALTITUDE` amber CAS message
   * 9,500 feet cabin altitude (EMER PRESS to attempt to maintain pressure)
     * EMER PRESS goes on
-    * Amber `LR EMER PRESS ON` CAS message
+    * `LR EMER PRESS ON` amber CAS message
   * 10,000 feet cabin altitude (more severe warning of low cabin pressure)
-    * Red `CABIN ALTITUDE CAS` message
+    * `CABIN ALTITUDE` red CAS message
   * 13,700 feet cabin altitude
     * Outflow valves automatically close to attempt to retain pressure
   * 14,500 feet cabin altitude
