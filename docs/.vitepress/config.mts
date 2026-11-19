@@ -425,6 +425,13 @@ export default defineConfig({
           ]
         },
         {
+          text: 'Learjet 75',
+          collapsed: false,
+          items: [
+            { text: 'Systems', link: 'aircraft/learjet-75/systems' }
+          ]
+        },
+        {
           text: 'Archer III NXi',
           collapsed: false,
           items: [
