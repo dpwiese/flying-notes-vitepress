@@ -2,22 +2,24 @@
 
 ## Notes
 
-* Flight doors page
-* One of 6 synoptic pages
+![Learjet 75 Garmin GTC intercom page.](/img/learjet-75/gtc-intercom-page.webp){width=300}
+
+* 6 synoptic pages
   * Summary page up almost all the time
+  * FLIGHT/DOORS synoptic page
 * Evidence of door failure
   * Summary page on center G5000
   * Noise
   * Pressurization panel
 * Utilities
-  * Minimums
-* Better to set minimums from flight plan page?
+* Minimums
+  * Better to set minimums from flight plan page
 * HOMEUSA
   * GTC
   * Home
   * Utilities
   * Settings
-  * Avionics Settings / Status
+  * Avionics Settings / Avionics Status
 * Dispatch Deviation Guide (DDG) contains MEL references
 * Three forms of communication
   * CAS
@@ -38,10 +40,6 @@
 ## Lesson 2: G5000
 
 * Garmin Touch Controller (GTC)
-* Garmin system test
-  * It will just say "done"
-* How to know if pass? AFM
-  * See below
 * ESIS Electronic Standbu Instrument System
 * GTC 1 and 2 are always going to watch
 * Recommend flying with 60/40 split so if DU2 fails shows up on PFD
@@ -101,6 +99,11 @@
 
 ## GTC System Test
 
+* Garmin system test
+  * It will just say "done"
+* How to know if pass? AFM
+  * See below
+
 ### Lights
 
 * All lights come on
@@ -142,30 +145,26 @@
 * WG/STAB HT OK white CAS
 * WING/STAB AI ON white CAS
 
+### More Tests
+
+* Other tests can do manually
+  * TCAS
+  * TAWS
+
 ## Day 3
 
 * Communication / Navigation and Surveillance System (CNS)
 * REMEMBER TO TURN ON GREEN INTERCOM ARROW WHEN FIRST GETTING IN THE PLANE!!!!
-
 * 3 - 1 - 2 - 1
 * REV REV APR
 * 1 CAS
 * Noste steer and aux hyd
 * APR button on
   * Redundant
-
-* Other tests can do manually
-  * TCAS
-  * TAWS
-
 * For transponder, use top right on GTC
-
 * IDENT button on inboard of each yoke
-
 * Two transponders on aircraft
-
 * For RA its cue in the box not the flight path marker
-
 * Electronic Standby Instrument System (ESIS)
 
 ## Powerplant
@@ -175,7 +174,6 @@
   * R is APR equiped
 * 3850 lb thrust
   * This is max when APR is activated
-
 * Starter should cut out at 50% N2?
 
 ## Walkaround
